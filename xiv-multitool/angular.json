@@ -1,0 +1,374 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "xiv-multitool": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/xiv-multitool",
+            "index": "src/index.html",
+            "main": "src/main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.scss"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "xiv-multitool:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "xiv-multitool:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "xiv-multitool:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "src/test.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.spec.json",
+            "karmaConfig": "karma.conf.js",
+            "assets": [
+              "src/favicon.ico",
+              "src/assets"
+            ],
+            "styles": [
+              "src/styles.scss"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "tsconfig.app.json",
+              "tsconfig.spec.json",
+              "e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "e2e/protractor.conf.js",
+            "devServerTarget": "xiv-multitool:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "xiv-multitool:serve:production"
+            }
+          }
+        }
+      }
+    },
+    "xiv-checklist": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
+      "root": "projects/xiv-checklist",
+      "sourceRoot": "projects/xiv-checklist/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/xiv-checklist",
+            "index": "projects/xiv-checklist/src/index.html",
+            "main": "projects/xiv-checklist/src/main.ts",
+            "polyfills": "projects/xiv-checklist/src/polyfills.ts",
+            "tsConfig": "projects/xiv-checklist/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/xiv-checklist/src/favicon.ico",
+              "projects/xiv-checklist/src/assets"
+            ],
+            "styles": [
+              "projects/xiv-checklist/src/styles.scss"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/xiv-checklist/src/environments/environment.ts",
+                  "with": "projects/xiv-checklist/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "xiv-checklist:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "xiv-checklist:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "xiv-checklist:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/xiv-checklist/src/test.ts",
+            "polyfills": "projects/xiv-checklist/src/polyfills.ts",
+            "tsConfig": "projects/xiv-checklist/tsconfig.spec.json",
+            "karmaConfig": "projects/xiv-checklist/karma.conf.js",
+            "assets": [
+              "projects/xiv-checklist/src/favicon.ico",
+              "projects/xiv-checklist/src/assets"
+            ],
+            "styles": [
+              "projects/xiv-checklist/src/styles.scss"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/xiv-checklist/tsconfig.app.json",
+              "projects/xiv-checklist/tsconfig.spec.json",
+              "projects/xiv-checklist/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/xiv-checklist/e2e/protractor.conf.js",
+            "devServerTarget": "xiv-checklist:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "xiv-checklist:serve:production"
+            }
+          }
+        }
+      }
+    },
+    "xiv-ledger": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
+      "root": "projects/xiv-ledger",
+      "sourceRoot": "projects/xiv-ledger/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/xiv-ledger",
+            "index": "projects/xiv-ledger/src/index.html",
+            "main": "projects/xiv-ledger/src/main.ts",
+            "polyfills": "projects/xiv-ledger/src/polyfills.ts",
+            "tsConfig": "projects/xiv-ledger/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/xiv-ledger/src/favicon.ico",
+              "projects/xiv-ledger/src/assets"
+            ],
+            "styles": [
+              "projects/xiv-ledger/src/styles.scss"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/xiv-ledger/src/environments/environment.ts",
+                  "with": "projects/xiv-ledger/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "xiv-ledger:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "xiv-ledger:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "xiv-ledger:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/xiv-ledger/src/test.ts",
+            "polyfills": "projects/xiv-ledger/src/polyfills.ts",
+            "tsConfig": "projects/xiv-ledger/tsconfig.spec.json",
+            "karmaConfig": "projects/xiv-ledger/karma.conf.js",
+            "assets": [
+              "projects/xiv-ledger/src/favicon.ico",
+              "projects/xiv-ledger/src/assets"
+            ],
+            "styles": [
+              "projects/xiv-ledger/src/styles.scss"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/xiv-ledger/tsconfig.app.json",
+              "projects/xiv-ledger/tsconfig.spec.json",
+              "projects/xiv-ledger/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/xiv-ledger/e2e/protractor.conf.js",
+            "devServerTarget": "xiv-ledger:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "xiv-ledger:serve:production"
+            }
+          }
+        }
+      }
+    }
+  },
+  "defaultProject": "xiv-multitool",
+  "cli": {
+    "analytics": false
+  }
+}
