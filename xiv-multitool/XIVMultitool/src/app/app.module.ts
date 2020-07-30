@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { XIVChecklistModule } from 'projects/xiv-checklist/src/app/app.module';
 import { XIVLedgerModule } from 'projects/xiv-ledger/src/app/app.module';
 import { NavComponent } from './nav/nav.component';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
   declarations: [

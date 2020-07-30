@@ -26,7 +26,7 @@ namespace XIVChecklist.Data.Seed
 
     public abstract class Seed<T> : IDisposable where T : ITask
     {
-        const string NAMESPACE = "XIVChecklist.Data.SeedFiles.";
+        const string NAMESPACE = "XIVMultitool.Data.SeedFiles.";
         const string RESOURCE = "{0} - {1}.csv";
 
         public Stream _stream { get; set; }

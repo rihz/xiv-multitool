@@ -20,7 +20,7 @@ import { HttpClientModule } from '@angular/common/http';
     HomeModule,
     BrowserAnimationsModule,
     MatCheckboxModule,
-    HttpClientModule
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

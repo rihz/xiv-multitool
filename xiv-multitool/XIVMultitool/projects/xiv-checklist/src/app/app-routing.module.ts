@@ -4,7 +4,7 @@ import { HomeComponent } from './home/home.component';
 
 
 const routes: Routes = [
-  { path: '', component: HomeComponent }
+  { path: 'xiv-checklist', component: HomeComponent }
 ];
 
 @NgModule({
