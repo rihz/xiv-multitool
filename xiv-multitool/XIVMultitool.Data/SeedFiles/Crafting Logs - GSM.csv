@@ -1,0 +1,1244 @@
+Level,Name
+1,Copper Ingot
+2,Bone Hora
+3,Bone Brand
+4,Copper Rings
+5,Bone Staff
+5,Copper Gorget
+5,Copper Wristlets
+6,Ragstone Whetstone
+6,Copper Earrings
+7,Copper Ring
+7,Bone Ring
+8,Copper Needle
+8,Bone Necklace
+9,Ramhorn Staff
+9,Copper Choker
+10,Ramhorn Claws
+10,Copper Scepter
+10,Bone Armillae
+11,Copper Ear Cuffs
+12,Bronze Scepter
+12,Amateur's Needle
+13,Sunstone
+13,Danburite
+13,Fluorite
+13,Decorated Bone Staff
+14,Sphene
+14,Malachite
+14,Lapis Lazuli
+14,Brass Ingot
+14,Brass Cudgel
+14,Brass Spectacles
+15,Brass Rings
+15,Fang Earrings
+15,Brass Gorget
+15,Brass Wristlets
+16,Bat Fang Needle
+16,Brass Wristlets of Crafting
+17,Toothed Ramhorn Staff
+17,Brass Earrings
+17,Fang Necklace
+18,Brass Circlet (Sunstone)
+18,Brass Circlet (Danburite)
+18,Brass Circlet (Fluorite)
+19,Staghorn Staff
+19,Brass Circlet (Sphene)
+19,Brass Circlet (Malachite)
+19,Brass Circlet (Lapis Lazuli)
+19,Coral Armillae
+20,Mudstone Whetstone
+20,Decorated Copper Scepter
+20,Brass Ring
+20,Brass Ring of Crafting
+20,Crow Fly
+21,Brass Ear Cuffs
+21,Brass Choker
+21,Coral Ring
+22,Eye of Ice
+22,Eye of Water
+22,Eye of Lightning
+22,Brass Needle
+22,Floating Minnow
+23,Eye of Earth
+23,Eye of Wind
+23,Eye of Fire
+23,Silver Ingot
+23,Wind Brand
+23,Sanguine Horn Staff
+23,Oval Spectacles
+23,Contemporary Pince-nez
+23,Brass Spoon Lure
+24,Silver Rings
+24,Initiate's Needle
+24,Silver Spectacles
+24,Horn Earrings
+25,Ice Brand
+25,Toothed Staghorn Staff
+25,Silver Magnifiers
+25,Silver Gorget
+25,Silver Wristlets
+25,Silver Wristlets of Crafting
+25,Flawless Band
+26,Silver Scepter
+26,Silver Needle
+26,Silver Earrings
+26,Horn Necklace
+26,Silver Ring
+26,Silver Ring of Crafting
+27,Sunstone Earrings
+27,Danburite Earrings
+27,Sunstone Choker
+27,Danburite Choker
+27,Sunstone Bracelet
+27,Danburite Bracelet
+27,Sunstone Ring
+27,Danburite Ring
+27,Chocobo Fly
+28,Fluorite Earrings
+28,Lapis Lazuli Earrings
+28,Fluorite Choker
+28,Lapis Lazuli Choker
+28,Fluorite Bracelet
+28,Lapis Lazuli Bracelet
+28,Fluorite Ring
+28,Lapis Lazuli Ring
+29,Sphene Earrings
+29,Sphene Choker
+29,Sphene Bracelet
+29,Sphene Ring
+30,Cut Stone
+30,Siltstone Whetstone
+30,Malachite Earrings
+30,Malachite Choker
+30,Malachite Bracelet
+30,Malachite Ring
+31,Goathorn Staff
+31,Silver Ear Cuffs
+31,Silver Choker
+31,Horn Armillae
+31,Horn Ring
+32,Aquamarine
+32,Amethyst
+32,Garnet
+32,Goshenite
+32,Heliodor
+32,Peridot
+32,Worm Fang Needle
+32,Silver Monocle
+32,Steel Jig
+32,Silver Spoon Lure
+33,Silver Circlet (Aquamarine)
+33,Silver Circlet (Amethyst)
+33,Silver Circlet (Garnet)
+33,Silver Circlet (Goshenite)
+33,Silver Circlet (Heliodor)
+33,Silver Circlet (Peridot)
+34,Mythril Ingot
+34,Crabshell Hora
+34,Earth Brand
+34,Decorated Silver Scepter
+34,Silver Star Globe
+34,Steel Goggles
+34,Mythril Magnifiers
+34,Mythril Spectacles
+34,Sinking Minnow
+35,Mythril Rings
+35,Fire Brand
+35,Toothed Goathorn Staff
+35,Wolf Earrings
+35,Mythril Earrings
+35,Mythril Gorget
+35,Mythril Wristlets
+35,Mythril Wristlets of Crafting
+35,Vintage Cudgel
+36,Pearl
+36,Mythril Needle
+36,Wolf Necklace
+36,Mythril Ring
+36,Mythril Ring of Crafting
+36,Wildfowl Fly
+37,Aquamarine Choker
+37,Amethyst Choker
+37,Garnet Choker
+37,Goshenite Choker
+37,Heliodor Choker
+37,Peridot Choker
+37,Pearl Choker
+38,Mythril Star Globe
+38,Aquamarine Bracelet
+38,Amethyst Bracelet
+38,Garnet Bracelet
+38,Goshenite Bracelet
+38,Heliodor Bracelet
+38,Peridot Bracelet
+38,Pearl Bracelet
+39,Aquamarine Earrings
+39,Amethyst Earrings
+39,Garnet Earrings
+39,Goshenite Earrings
+39,Aquamarine Ring
+39,Amethyst Ring
+39,Garnet Ring
+39,Goshenite Ring
+39,Spinner
+40,Jadeite
+40,Basilisk Whetstone
+40,Altered Mythril Magnifiers
+40,Classic Spectacles
+40,Oval Reading Glasses
+40,Heliodor Earrings
+40,Peridot Earrings
+40,Red Coral Armillae
+40,Heliodor Ring
+40,Peridot Ring
+40,Heavy Steel Jig
+41,Amber
+41,Zircon
+41,Spinel
+41,Turquoise
+41,Tourmaline
+41,Rubellite
+41,Horn Staff
+41,Mythril Planisphere
+41,Pearl Earrings
+41,Mythril Ear Cuffs
+41,Mythril Choker
+41,Pearl Ring
+41,Mythril Spoon Lure
+42,Electrum Ingot
+42,Tortoiseshell Hora
+42,Lightning Brand
+42,Wolf Fang Needle
+42,Mythril Circlet (Amber)
+42,Mythril Circlet (Zircon)
+42,Mythril Circlet (Spinel)
+42,Mythril Circlet (Turquoise)
+42,Mythril Circlet (Tourmaline)
+42,Mythril Circlet (Rubellite)
+43,Electrum Rings
+43,Electrum Scepter
+43,Water Brand
+43,Thousand Needle
+43,Red Coral Earrings
+43,Electrum Gorget
+43,Electrum Wristlets
+43,Red Coral Ring
+43,Snurble Fly
+44,Black Horn Staff
+44,Cobalt Preserves
+44,Electrum Earrings
+44,Electrum Wristlets of Crafting
+44,Electrum Ring
+44,Topwater Frog
+45,Black Pearl
+45,Electrum Star Globe
+45,Electrum Monocle
+45,Electrum Circlet (Amber)
+45,Electrum Circlet (Zircon)
+45,Electrum Circlet (Spinel)
+45,Electrum Circlet (Turquoise)
+45,Electrum Circlet (Tourmaline)
+45,Electrum Circlet (Rubellite)
+45,Red Coral Necklace
+45,Amber Choker
+45,Electrum Ring of Crafting
+45,Vintage Hora
+46,Rainbow Spoon Lure
+47,Electrum Needle
+47,Zircon Choker
+47,Spinel Choker
+47,Turquoise Choker
+47,Amber Bracelet
+47,Zircon Bracelet
+47,Spinel Bracelet
+47,Turquoise Bracelet
+47,Amber Ring
+47,Spinnerbait
+48,Cobalt Planisphere
+48,Tourmaline Choker
+48,Black Pearl Choker
+48,Rubellite Choker
+48,Tourmaline Bracelet
+48,Black Pearl Bracelet
+48,Rubellite Bracelet
+48,Yumizuno
+48,Streamer
+49,Jade Scepter
+49,Electrum Ear Cuffs
+49,Electrum Choker
+49,Tortoiseshell Armillae
+49,Zircon Ring
+49,Spinel Ring
+49,Turquoise Ring
+49,Tourmaline Ring
+49,Black Pearl Ring
+49,Rubellite Ring
+50,Ivory Staff
+50,Amber Earrings
+50,Zircon Earrings
+50,Spinel Earrings
+50,Turquoise Earrings
+50,Tourmaline Earrings
+50,Black Pearl Earrings
+50,Rubellite Earrings
+50,Model Vanguard
+50,Gravel Golem
+50★,Astral Eye
+50★,Rose Gold Nugget
+50★,Shaded Spectacles
+50★,Minstrel's Spectacles
+50★,Militia Earrings
+50★,Imperial Operative Choker
+50★,Imperial Operative Wristlets
+50★,Militia Bracelets
+50★,Militia Wristlets
+50★,Sanguine Scepter
+50★,Alchemist's Monocle
+50★,Goldsmith's Turban
+50★,Blacksmith's Goggles
+50★,Aetheryte Ring
+50★★,Radiant Astral Eye
+50★★,Rose Gold Ingot
+50★★,Astrolabe Clinometer
+50★★,Rose Gold Clasps
+50★★,Astrolabe
+50★★,The Evening Star
+50★★,Rose Gold Circlet
+50★★,Rimless Glasses
+50★★,Coeurl Eyeglasses
+50★★,Elegant Rimless Glasses
+50★★,Reading Glasses
+50★★,Rose Gold Ear Cuffs
+50★★,Rose Gold Earrings
+50★★,Rose Gold Ear Screws
+50★★,Astral Choker
+50★★,Rose Gold Gorget
+50★★,Astral Bracelet
+50★★,Rose Gold Bracelets
+50★★,Astral Ring
+50★★,Rose Gold Ring
+51,Agate
+51,Mythrite Nugget
+51,Mythrite Rapier
+51,Agate Ring of Fending
+51,Agate Ring of Slaying
+51,Agate Ring of Aiming
+51,Agate Ring of Casting
+51,Agate Ring of Healing
+51,Tiger's Eye
+51,Yeti Staff
+51,Mythrite Star Globe
+51,Mythrite Circlet of Striking
+51,Mythrite Goggles of Crafting
+51,Mythrite Goggles of Gathering
+51,Mythrite Earrings of Fending
+51,Mythrite Earrings of Slaying
+51,Mythrite Earrings of Aiming
+51,Mythrite Earrings of Casting
+51,Mythrite Earrings of Healing
+51,Mythrite Bangle of Fending
+51,Mythrite Bangle of Slaying
+51,Mythrite Bangle of Aiming
+51,Mythrite Bangle of Casting
+51,Mythrite Bangle of Healing
+52,Mythrite Ingot
+52,Mythrite Foil
+52,Mythrite Needle
+52,Mythrite Earblades of Fending
+52,Mythrite Earblades of Slaying
+52,Mythrite Earblades of Aiming
+52,Mythrite Earblades of Casting
+52,Mythrite Earblades of Healing
+52,Yeti Fang Earrings
+52,Mythrite Earrings of Gathering
+52,Mythrite Bracelet of Fending
+52,Mythrite Bracelet of Slaying
+52,Mythrite Bracelet of Aiming
+52,Mythrite Bracelet of Casting
+52,Mythrite Bracelet of Healing
+53,Larimar
+53,Obsidian Longpole
+53,Mythrite Planisphere
+53,Mythrite Necklace of Fending
+53,Mythrite Necklace of Slaying
+53,Mythrite Necklace of Aiming
+53,Mythrite Necklace of Casting
+53,Mythrite Necklace of Healing
+53,Yeti Fang Ring of Fending
+53,Yeti Fang Ring of Slaying
+53,Yeti Fang Ring of Aiming
+53,Yeti Fang Ring of Casting
+53,Yeti Fang Ring of Healing
+54,Mormorion
+54,Hardsilver Nugget
+54,Hardsilver Staff
+54,Hardsilver Rapier
+54,Hardsilver Needle
+54,Hardsilver Magnifiers of Casting
+54,Hardsilver Monocle of Healing
+54,Mormorion Ring of Fending
+54,Mormorion Ring of Slaying
+54,Mormorion Ring of Aiming
+54,Mormorion Ring of Casting
+54,Mormorion Ring of Healing
+55,Star Ruby
+55,Star Sapphire
+55,Hardsilver Star Globe
+55,Hardsilver Earrings of Fending
+55,Hardsilver Earrings of Slaying
+55,Hardsilver Earrings of Aiming
+55,Hardsilver Earrings of Casting
+55,Hardsilver Earrings of Healing
+55,Hardsilver Bangle of Fending
+55,Hardsilver Bangle of Slaying
+55,Hardsilver Bangle of Aiming
+55,Hardsilver Bangle of Casting
+55,Hardsilver Bangle of Healing
+56,Opal
+56,Cloud Mica Whetstone
+56,Hardsilver Ingot
+56,Hardsilver Foil
+56,Dragon Fang Needle
+56,Dragon Fang Earrings
+56,Opal Bracelet of Fending
+56,Opal Bracelet of Slaying
+56,Opal Bracelet of Aiming
+56,Opal Bracelet of Casting
+56,Opal Bracelet of Healing
+56,Opal Ring of Fending
+56,Opal Ring of Slaying
+56,Opal Ring of Aiming
+56,Opal Ring of Casting
+56,Opal Ring of Healing
+57,Carnelian
+57,Hardsilver Pole
+57,Hardsilver Planisphere
+57,Opal Earrings of Fending
+57,Opal Earrings of Slaying
+57,Opal Earrings of Aiming
+57,Opal Earrings of Casting
+57,Opal Earrings of Healing
+57,Hardsilver Earrings of Gathering
+57,Opal Choker of Fending
+57,Opal Choker of Slaying
+57,Opal Choker of Aiming
+57,Opal Choker of Casting
+57,Opal Choker of Healing
+58,Aurum Regis Nugget
+58,Aurum Regis Rapier
+58,Aurum Regis Earrings of Fending
+58,Aurum Regis Earrings of Slaying
+58,Aurum Regis Earrings of Aiming
+58,Aurum Regis Earrings of Casting
+58,Aurum Regis Earrings of Healing
+58,Aurum Regis Bracelet of Fending
+58,Aurum Regis Bracelet of Slaying
+58,Aurum Regis Bracelet of Aiming
+58,Aurum Regis Bracelet of Casting
+58,Aurum Regis Bracelet of Healing
+58,Goblin Jig
+59,Citrine
+59,Aurum Regis Cylinder
+59,Aurum Regis Longpole
+59,Aurum Regis Orrery
+59,Aurum Regis Necklace of Fending
+59,Aurum Regis Necklace of Slaying
+59,Aurum Regis Necklace of Aiming
+59,Aurum Regis Necklace of Casting
+59,Aurum Regis Necklace of Healing
+59,Griffin Talon Ring of Fending
+59,Griffin Talon Ring of Slaying
+59,Griffin Talon Ring of Aiming
+59,Griffin Talon Ring of Casting
+59,Griffin Talon Ring of Healing
+60,Chrysolite
+60,Bladed Steel Jig
+61,Triphane
+61,Koppranickel Nugget
+61,Koppranickel Armlets of Casting
+61,Koppranickel Armlets of Healing
+61,Triphane Bracelet of Fending
+61,Triphane Bracelet of Slaying
+61,Triphane Bracelet of Aiming
+61,Triphane Bracelet of Casting
+61,Triphane Bracelet of Healing
+61,Triphane Ring of Fending
+61,Triphane Ring of Slaying
+61,Triphane Ring of Aiming
+61,Triphane Ring of Casting
+61,Triphane Ring of Healing
+61,Slate Whetstone
+61,Koppranickel Staff
+61,Koppranickel Foil
+61,Koppranickel Planisphere
+61,Bombfish Needle
+61,Koppranickel Turban of Striking
+61,Koppranickel Turban of Scouting
+61,Triphane Earrings of Fending
+61,Triphane Earrings of Slaying
+61,Triphane Earrings of Aiming
+61,Triphane Earrings of Casting
+61,Triphane Earrings of Healing
+61,Triphane Choker of Fending
+61,Triphane Choker of Slaying
+61,Triphane Choker of Aiming
+61,Triphane Choker of Casting
+61,Triphane Choker of Healing
+62,Kyanite
+62,Koppranickel Ingot
+62,Koppranickel Bracelet of Fending
+62,Koppranickel Bracelet of Slaying
+62,Koppranickel Bracelet of Aiming
+62,Koppranickel Bracelet of Casting
+62,Koppranickel Bracelet of Healing
+62,Muudhorn Ring of Fending
+62,Muudhorn Ring of Slaying
+62,Muudhorn Ring of Aiming
+62,Muudhorn Ring of Casting
+62,Muudhorn Ring of Healing
+63,Koppranickel Pole
+63,Koppranickel Rapier
+63,Dual-plated Koppranickel Planisphere
+63,Koppranickel Temple Chain
+63,Koppranickel Earrings of Fending
+63,Koppranickel Earrings of Slaying
+63,Koppranickel Earrings of Aiming
+63,Koppranickel Earrings of Casting
+63,Koppranickel Earrings of Healing
+63,Koppranickel Necklace of Fending
+63,Koppranickel Necklace of Slaying
+63,Koppranickel Necklace of Aiming
+63,Koppranickel Necklace of Casting
+63,Koppranickel Necklace of Healing
+64,Star Spinel
+64,Durium Nugget
+64,Star Spinel Bracelet of Fending
+64,Star Spinel Bracelet of Slaying
+64,Star Spinel Bracelet of Aiming
+64,Star Spinel Bracelet of Casting
+64,Star Spinel Bracelet of Healing
+64,Star Spinel Ring of Fending
+64,Star Spinel Ring of Slaying
+64,Star Spinel Ring of Aiming
+64,Star Spinel Ring of Healing
+64,Star Spinel Ring of Casting
+65,Durium Staff
+65,Durium Smallsword
+65,Durium Astrometer
+65,Dzo Horn Needle
+65,Durium Hairpin of Fending
+65,Durium Hairpin of Maiming
+65,Durium Chaplets
+65,Star Spinel Earrings of Fending
+65,Star Spinel Earrings of Slaying
+65,Star Spinel Earrings of Aiming
+65,Star Spinel Earrings of Casting
+65,Star Spinel Earrings of Healing
+65,Star Spinel Choker of Fending
+65,Star Spinel Choker of Slaying
+65,Star Spinel Choker of Aiming
+65,Star Spinel Choker of Casting
+65,Star Spinel Choker of Healing
+66,Azurite
+66,Durium Ingot
+66,Gazelle Horn Needle
+66,Azurite Bracelet of Fending
+66,Azurite Bracelet of Slaying
+66,Azurite Bracelet of Aiming
+66,Azurite Bracelet of Casting
+66,Azurite Bracelet of Healing
+66,Azurite Ring of Fending
+66,Azurite Ring of Slaying
+66,Azurite Ring of Aiming
+66,Azurite Ring of Casting
+66,Azurite Ring of Healing
+67,Durium Rod
+67,Durium Foil
+67,Dual-plated Durium Planisphere
+67,Azurite Earrings of Fending
+67,Azurite Earrings of Slaying
+67,Azurite Earrings of Aiming
+67,Azurite Earrings of Casting
+67,Azurite Earrings of Healing
+67,Azurite Choker of Fending
+67,Azurite Choker of Slaying
+67,Azurite Choker of Aiming
+67,Azurite Choker of Casting
+67,Azurite Choker of Healing
+68,Imperial Jade
+68,Palladium Nugget
+68,Molybdenum Earring of Fending
+68,Molybdenum Earring of Slaying
+68,Molybdenum Earring of Aiming
+68,Molybdenum Earring of Casting
+68,Molybdenum Earring of Healing
+68,Palladium Choker of Fending
+68,Palladium Choker of Slaying
+68,Palladium Choker of Aiming
+68,Palladium Choker of Casting
+68,Palladium Choker of Healing
+68,Palladium Bracelet of Fending
+68,Palladium Bracelet of Slaying
+68,Palladium Bracelet of Aiming
+68,Palladium Bracelet of Casting
+68,Palladium Bracelet of Healing
+68,Palladium Ring of Fending
+68,Palladium Ring of Slaying
+68,Palladium Ring of Aiming
+68,Palladium Ring of Casting
+68,Palladium Ring of Healing
+69,Palladium Rod
+69,Palladium Tuck
+69,Palladium Planisphere
+69,Palladium Needle
+69,Imperial Jade Armillae of Fending
+69,Imperial Jade Armillae of Slaying
+69,Imperial Jade Armillae of Aiming
+69,Imperial Jade Armillae of Casting
+69,Imperial Jade Armillae of Healing
+69,Imperial Jade Ring of Fending
+69,Imperial Jade Ring of Slaying
+69,Imperial Jade Ring of Aiming
+69,Imperial Jade Ring of Casting
+69,Imperial Jade Ring of Healing
+70,Rhodonite
+70,Imperial Jade Earrings of Fending
+70,Imperial Jade Earrings of Slaying
+70,Imperial Jade Earrings of Aiming
+70,Imperial Jade Earrings of Casting
+70,Imperial Jade Earrings of Healing
+70,Imperial Jade Necklace of Fending
+70,Imperial Jade Necklace of Slaying
+70,Imperial Jade Necklace of Aiming
+70,Imperial Jade Necklace of Casting
+70,Imperial Jade Necklace of Healing
+71,Hematite
+71,Hard Mudstone Whetstone
+71,Stonegold Nugget
+71,Stonegold Degen
+71,Stonegold Astrometer
+71,Stonegold Needle
+71,Stonegold Circlet of Maiming
+71,Hematite Earrings of Fending
+71,Hematite Earrings of Slaying
+71,Hematite Earrings of Aiming
+71,Hematite Earrings of Casting
+71,Hematite Earrings of Healing
+71,Hematite Choker of Fending
+71,Hematite Choker of Slaying
+71,Hematite Choker of Aiming
+71,Hematite Choker of Casting
+71,Hematite Choker of Healing
+71,Islewolf Bracelet of Fending
+71,Islewolf Bracelet of Slaying
+71,Islewolf Bracelet of Aiming
+71,Islewolf Bracelet of Casting
+71,Islewolf Bracelet of Healing
+71,Islewolf Ring of Fending
+71,Islewolf Ring of Slaying
+71,Islewolf Ring of Aiming
+71,Islewolf Ring of Casting
+71,Islewolf Ring of Healing
+72,Diaspore
+72,Stonegold Ingot
+72,Diaspore Earrings of Fending
+72,Diaspore Earrings of Slaying
+72,Diaspore Earrings of Aiming
+72,Diaspore Earrings of Casting
+72,Diaspore Earrings of Healing
+72,Diaspore Ring of Fending
+72,Diaspore Ring of Slaying
+72,Diaspore Ring of Aiming
+72,Diaspore Ring of Casting
+72,Diaspore Ring of Healing
+73,Stonegold Rapier
+73,Stonegold Orrery
+73,Diaspore Choker of Fending
+73,Diaspore Choker of Slaying
+73,Diaspore Choker of Aiming
+73,Diaspore Choker of Casting
+73,Diaspore Choker of Healing
+73,Diaspore Bracelet of Fending
+73,Diaspore Bracelet of Slaying
+73,Diaspore Bracelet of Aiming
+73,Diaspore Bracelet of Casting
+73,Diaspore Bracelet of Healing
+74,Lazurite
+74,Manasilver Nugget
+74,Bluespirit Baghnakhs
+74,Bluespirit Uchigatana
+74,Bluespirit Daggers
+74,Bluespirit Longbow
+74,Bluespirit Glaives
+74,Bluespirit Rod
+74,Bluespirit Rapier
+74,Bluespirit Star Globe
+75,Manasilver Needle
+75,Manasilver Ear Cuffs
+75,Manasilver Choker
+75,Manasilver Bracelets
+75,Lazurite Ring of Fending
+75,Lazurite Ring of Slaying
+75,Lazurite Ring of Aiming
+75,Lazurite Ring of Casting
+75,Lazurite Ring of Healing
+75,Manasilver Ring
+76,Triplite
+76,Tuff Whetstone
+76,Titanbronze Nugget
+76,Titanbronze Rapier
+76,Titanbronze Star Globe
+76,Triplite Earrings of Fending
+76,Triplite Earrings of Slaying
+76,Triplite Earrings of Aiming
+76,Triplite Earrings of Casting
+76,Triplite Earrings of Healing
+76,Triplite Ring of Fending
+76,Triplite Ring of Slaying
+76,Triplite Ring of Aiming
+76,Triplite Ring of Casting
+76,Triplite Ring of Healing
+77,Titanbronze Needle
+77,Titanbronze Headgear of Fending
+77,Titanbronze Headgear of Maiming
+77,Triplite Choker of Fending
+77,Triplite Choker of Slaying
+77,Triplite Choker of Aiming
+77,Triplite Choker of Casting
+77,Triplite Choker of Healing
+77,Triplite Bracelet of Fending
+77,Triplite Bracelet of Slaying
+77,Triplite Bracelet of Aiming
+77,Triplite Bracelet of Casting
+77,Triplite Bracelet of Healing
+78,Petalite
+78,Dwarven Mythril Nugget
+78,Dwarven Mythril Rapier
+78,Petalite Earrings of Fending
+78,Petalite Earrings of Slaying
+78,Petalite Earrings of Aiming
+78,Petalite Earrings of Casting
+78,Petalite Earrings of Healing
+78,Petalite Ring of Fending
+78,Petalite Ring of Slaying
+78,Petalite Ring of Aiming
+78,Petalite Ring of Casting
+78,Petalite Ring of Healing
+79,Petalite Choker of Fending
+79,Petalite Choker of Slaying
+79,Petalite Choker of Aiming
+79,Petalite Choker of Casting
+79,Petalite Choker of Healing
+79,Petalite Bracelet of Fending
+79,Petalite Bracelet of Slaying
+79,Petalite Bracelet of Aiming
+79,Petalite Bracelet of Casting
+79,Petalite Bracelet of Healing
+80,Onyx
+80,Dwarven Mythril Needle
+80,Dwarven Mythril Ear Cuffs
+80,Dwarven Mythril Choker
+80,Dwarven Mythril Bracelets
+80,Dwarven Mythril Ring
+50★★,Rose Gold Cog
+50★★★,Fluorite Lens
+50★★★,Calibrated Rose Gold Cog
+50★★★,Ruby
+50★★★,Diamond
+50★★★,Emerald
+50★★★,Topaz
+50★★★,Iolite
+50★★★,Sapphire
+50★★★,Gold Ingot
+50★★★,Platinum Nugget
+50★★★,Furnace Ring
+50★★★,Gold Spectacles
+50★★★,Large Garden Pond
+54,Celestine
+50★★★★,Platinum Ingot
+50★★★★,High Adjudicator's Staff
+50★★★★,Mighty Thunderstone
+50★★★★,Platinum Planisphere
+50★★★★,Mighty Thunderdome
+50★★★★,Platinum Circlet of Casting
+50★★★★,Platinum Circlet of Healing
+50★★★★,Platinum Earrings of Fending
+50★★★★,Platinum Earrings of Slaying
+50★★★★,Platinum Earrings of Aiming
+50★★★★,Platinum Earrings of Casting
+50★★★★,Platinum Earrings of Healing
+50★★★★,Platinum Scarf of Fending
+50★★★★,Platinum Scarf of Slaying
+50★★★★,Platinum Scarf of Aiming
+50★★★★,Platinum Scarf of Casting
+50★★★★,Platinum Scarf of Healing
+50★★★★,Platinum Bangles of Fending
+50★★★★,Platinum Bangles of Slaying
+50★★★★,Platinum Bangles of Aiming
+50★★★★,Platinum Bangles of Casting
+50★★★★,Platinum Bangles of Healing
+50★★★★,Platinum Ring of Fending
+50★★★★,Platinum Ring of Slaying
+50★★★★,Platinum Ring of Aiming
+50★★★★,Platinum Ring of Casting
+50★★★★,Platinum Ring of Healing
+59,Citrine Choker of Fending
+59,Citrine Choker of Slaying
+59,Citrine Choker of Aiming
+59,Citrine Choker of Casting
+59,Citrine Choker of Healing
+60,Aurum Regis Staff
+60,Aurum Regis Planisphere
+60,Griffin Talon Needle
+60,Aurum Regis Circlet of Healing
+60,Chrysolite Earrings of Fending
+60,Chrysolite Earrings of Slaying
+60,Chrysolite Earrings of Aiming
+60,Chrysolite Earrings of Casting
+60,Chrysolite Earrings of Healing
+60,Chrysolite Bracelet of Fending
+60,Chrysolite Bracelet of Slaying
+60,Chrysolite Bracelet of Aiming
+60,Chrysolite Bracelet of Casting
+60,Chrysolite Bracelet of Healing
+60,Chrysolite Ring of Fending
+60,Chrysolite Ring of Slaying
+60,Chrysolite Ring of Aiming
+60,Chrysolite Ring of Casting
+60,Chrysolite Ring of Healing
+60,Expanse Fountain
+60,Star Sapphire Music Box
+60,Star Ruby Music Box
+60★,Moogle Miniature
+60★,Boundless Expanse Fountain
+60★★,Aurum Regis Ingot
+60★★,Boltmaster's Needle
+60★★,Forgemaster's Goggles
+60★★,Gemmaster's Coronal
+60★★,Cauldronmaster's Spectacles
+60★★,Sky Pirate's Mask of Striking
+60★★,Sky Pirate's Mask of Scouting
+60★★,Aurum Regis Circlet of Casting
+60★★,Sky Pirate's Cap of Casting
+60★★,Aurum Regis Crown of Healing
+60★★,Sky Pirate's Cap of Healing
+60★★,Gemmaster's Chaplets
+60★★,Aurum Regis Earrings of Crafting
+60★★,Aurum Regis Earrings of Gathering
+60★★,Tribunal Flooring
+60★★,Faerie Chandelier
+60★★,House Fortemps Chandelier
+60★★,Sewing Needle
+60★★,Endless Expanse Longpole
+60★★,Dead Hive Longpole
+60★★,Endless Expanse Rapier
+60★★,Dead Hive Rapier
+60★★,Endless Expanse Astrometer
+60★★,Dead Hive Planisphere
+60★★,Replica Allagan Circlet of Casting
+60★★,Replica Allagan Circlet of Healing
+60★★,Replica High Allagan Circlet of Fending
+60★★,Replica High Allagan Circlet of Healing
+60★★,Replica Dreadwyrm Coronet of Fending
+60★★,Replica Dreadwyrm Circlet of Striking
+60★★,Replica Dreadwyrm Circlet of Scouting
+60★★,Dinosaur Skull
+60★★,Dinosaur Skeleton
+60★★,Dinosaur Tailbone
+60★★,Living Arch
+60★★,Table Orchestrion
+60★★★,Eikon Iron Ingot
+60★★★,Seeing Horde Handgonne
+60★★★,Replica Allagan Scepter
+60★★★,Staff of the Round
+60★★★,Staff of the Fiend
+60★★★,Seeing Horde Rod
+60★★★,Pole of the Goddess
+60★★★,Replica High Allagan Staff
+60★★★,Replica Allagan Rod
+60★★★,Rapier of the Round
+60★★★,Rapier of the Fiend
+60★★★,Seeing Horde Rapier
+60★★★,Rapier of the Goddess
+60★★★,Seeing Horde Cane
+60★★★,Cane of the Goddess
+60★★★,Replica Allagan Cane
+60★★★,Replica High Allagan Crook
+60★★★,Astrometer of the Round
+60★★★,Star of the Fiend
+60★★★,Seeing Horde Star Globe
+60★★★,Star of the Goddess
+60★★★,Replica Allagan Star Globe
+60★★★,Replica High Allagan Star Globe
+60★★★,Eikon Iron Earring of Fending
+60★★★,Eikon Iron Earring of Slaying
+60★★★,Eikon Iron Earring of Aiming
+60★★★,Eikon Iron Earring of Casting
+60★★★,Eikon Iron Earring of Healing
+60★★★,Eikon Iron Ring of Fending
+60★★★,Eikon Iron Ring of Slaying
+60★★★,Eikon Iron Ring of Aiming
+60★★★,Eikon Iron Ring of Casting
+60★★★,Eikon Iron Ring of Healing
+60★★★,Crystal Chandelier
+60★★★,Diabolos Miniature
+60★★★,Scathach Miniature
+60★★★,Cloud Mythril Ingot
+60★★★,Eikon Iron Needle
+60★★★,Ironworks Earring of Crafting
+60★★★,Ironworks Earring of Gathering
+60★★★,Ironworks Ring of Crafting
+60★★★,Ironworks Ring of Gathering
+60★★★,Nidhogg Miniature
+60★★★★,Scintillant Ingot
+60★★★★,Scintillant Staff
+60★★★★,Scintillant Planisphere
+60★★★★,Sky Rat Mask of Fending
+60★★★★,Sky Rat Mask of Maiming
+60★★★★,Scintillant Circlet of Striking
+60★★★★,Scintillant Circlet of Scouting
+60★★★★,Scintillant Circlet of Aiming
+60★★★★,Sky Rat Mask of Aiming
+60★★★★,Sky Rat Mask of Casting
+60★★★★,Sky Rat Mask of Healing
+60★★★★,Scintillant Earring of Fending
+60★★★★,Scintillant Earring of Slaying
+60★★★★,Scintillant Earring of Aiming
+60★★★★,Scintillant Earring of Casting
+60★★★★,Scintillant Earring of Healing
+60★★★★,Scintillant Ring of Fending
+60★★★★,Scintillant Ring of Slaying
+60★★★★,Scintillant Ring of Aiming
+60★★★★,Scintillant Ring of Casting
+60★★★★,Scintillant Ring of Healing
+60★★★★,Sophic Barding
+60★★★★,Sophia Miniature
+70★,Blissful Barding
+70★,Lakshmi Miniature
+70★,Imitation Stained Crystal Ornament
+70★★,Palladium Ingot
+70★★,Palladium Staff
+70★★,Palladium Rapier
+70★★,Palladium Orrery
+70★★,Ala Mhigan Needle
+70★★,Palladium Circlet of Maiming
+70★★,Palladium Circlet of Striking
+70★★,Palladium Circlet of Scouting
+70★★,Palladium Earring of Fending
+70★★,Palladium Earring of Slaying
+70★★,Palladium Earring of Aiming
+70★★,Palladium Earring of Casting
+70★★,Palladium Earring of Healing
+70★★,Palladium Band of Fending
+70★★,Palladium Band of Slaying
+70★★,Palladium Band of Aiming
+70★★,Palladium Band of Casting
+70★★,Palladium Band of Healing
+70★★,Imitation Stained Crystal Pane
+70★★,Classic Chandelier
+70★★,Odder Otter Andon Lamp
+70★★,Carbuncle Chandelier
+70★★,Odder Otter Andon Lamp
+70★★,Carbuncle Bathtub
+70★★,Washbasin
+70★★,Eorzean Lantern
+70★★,Odder Otter Lantern
+70★★,Mellow Mog Lamp
+70★★,Crimson Coral Object
+70★★,Hannya Mask
+70★★,Odder Otter Wall Lantern
+70★★,Moogle Wall Chronometer
+70★★★,Silvergrace Ingot
+70★★★,Silvergrace Rod
+70★★★,Silvergrace Rapier
+70★★★,Silvergrace Planisphere
+70★★★,Silvergrace Needle
+70★★★,Silvergrace Halfmask of Striking
+70★★★,Silvergrace Earring of Fending
+70★★★,Silvergrace Earring of Slaying
+70★★★,Silvergrace Earring of Aiming
+70★★★,Silvergrace Earring of Casting
+70★★★,Silvergrace Earring of Healing
+70★★★,Silvergrace Earring of Crafting
+70★★★,Silvergrace Earring of Gathering
+70★★★,Silvergrace Ring of Fending
+70★★★,Silvergrace Ring of Slaying
+70★★★,Silvergrace Ring of Aiming
+70★★★,Silvergrace Ring of Casting
+70★★★,Silvergrace Ring of Healing
+70★★★,Byakko Barding
+70★★★★,Evergleam Ingot
+70★★★★,Rakshasa Rod
+70★★★★,Rakshasa Rapier
+70★★★★,Rakshasa Ephemeris
+70★★★★,Rakshasa Gantai of Striking
+70★★★★,Rakshasa Gantai of Scouting
+70★★★★,Rakshasa Gantai of Aiming
+70★★★★,Rakshasa Kanmuri of Casting
+70★★★★,Rakshasa Kanmuri of Healing
+70★★★★,Rakshasa Earings of Fending
+70★★★★,Rakshasa Earings of Slaying
+70★★★★,Rakshasa Earings of Aiming
+70★★★★,Rakshasa Earings of Casting
+70★★★★,Rakshasa Earings of Healing
+70★★★★,Rakshasa Ring of Fending
+70★★★★,Rakshasa Ring of Slaying
+70★★★★,Rakshasa Ring of Aiming
+70★★★★,Rakshasa Ring of Casting
+70★★★★,Rakshasa Ring of Healing
+70★★★★,Seiryu Statuette
+80★,Titania Shadow Box
+80★★,Prismatic Ingot
+80★★,Alumina Whetsone
+80★★,Marveilleuse
+80★★,Pollux
+80★★,Facet Needle
+80★★,Facet Circlet of Fending
+80★★,Facet Circlet of Striking
+80★★,Facet Earrings of Fending
+80★★,Facet Earrings of Slaying
+80★★,Facet Earrings of Aiming
+80★★,Facet Earrings of Casting
+80★★,Facet Earrings of Healing
+80★★,Facet Choker of Fending
+80★★,Facet Choker of Slaying
+80★★,Facet Choker of Aiming
+80★★,Facet Choker of Casting
+80★★,Facet Choker of Healing
+80★★,Facet Bracelet of Fending
+80★★,Facet Bracelet of Slaying
+80★★,Facet Bracelet of Aiming
+80★★,Facet Bracelet of Casting
+80★★,Facet Bracelet of Healing
+80★★,Facet Ring of Fending
+80★★,Facet Ring of Slaying
+80★★,Facet Ring of Aiming
+80★★,Facet Ring of Casting
+80★★,Facet Ring of Healing
+80★★,Hades Trophy
+15,Glamour Prism
+50★,Mosshorn Earrings
+50★,Rose Gold Earrings of Gathering
+50★,Rose Gold Choker
+50★★,Thick-rimmed Glasses
+50★★★,Plumes of the Vortex
+50★★★,Inferno Cudgel
+50★★★,Inferno Rod
+50★★★,Van of the Vortex
+50★★★,Inferno Rapier
+50★★★,Honor of the Vortex
+50★★★,Manipulative Moggle Mogfoil
+50★★★,Wile of the Vortex
+50★★★,Heart of the Vortex
+50★★★,Inferno Star Globe
+50★★★,Lift of the Vortex
+50★★★,Moonlit Moggle Moglobe
+50★★★,Ruby Earrings
+50★★★,Diamond Earrings
+50★★★,Emerald Earrings
+50★★★,Topaz Earrings
+50★★★,Iolite Earrings
+50★★★,Sapphire Earrings
+50★★★,Ruby Choker
+50★★★,Diamond Choker
+50★★★,Emerald Choker
+50★★★,Topaz Choker
+50★★★,Iolite Choker
+50★★★,Sapphire Choker
+50★★★,Ruby Bracelet
+50★★★,Diamond Bracelet
+50★★★,Emerald Bracelet
+50★★★,Topaz Bracelet
+50★★★,Iolite Bracelet
+50★★★,Sapphire Bracelet
+50★★★,Ruby Ring
+50★★★,Diamond Ring
+50★★★,Emerald Ring
+50★★★,Topaz Ring
+50★★★,Iolite Ring
+50★★★,Sapphire Ring
+20,Oasis Cottage Roof (Stone)
+20,Riviera Cottage Wall (Composite)
+20,Oasis Cottage Wall (Stone)
+21,Oasis Cottage Roof (Composite)
+21,Glade Cottage Wall (Stone)
+21,Oasis Cottage Wall (Composite)
+22,Riviera Cottage Wall (Stone)
+24,Oasis Placard
+25,Ceramic Tile Flooring
+29,Riviera Studded Door
+30,Oasis Classical Door
+30,Oasis Stone Chimney
+31,Glade Classical Door
+31,Masonwork Interior Wall
+31,Masonwork Flooring
+31,Riviera Roofed Wall
+32,Glade Cobblestone Wall
+33,Straight Stepping Stones
+33,Curved Stepping Stones
+34,Mosaic Interior Wall
+35,Oasis House Roof (Stone)
+36,Riviera Wall Chimney
+36,Oasis Wall Chimney
+36,Riviera House Wall (Composite)
+36,Oasis House Wall (Stone)
+37,Riviera Stone Chimney
+38,Oasis House Roof (Composite)
+38,Glade House Wall (Stone)
+38,Oasis House Wall (Composite)
+39,Riviera House Wall (Stone)
+40,Oasis Cobble Flooring
+41,Oasis Rounded Chimney
+43,Oasis Stone Wall
+45,Riviera Picket Wall
+46,Oasis Hanging Placard
+47,Cactuar Weathervane
+50,Tiled Interior Wall
+50,Tiled Flooring
+50,Checkered Flooring
+50,Amdapori Beacon
+50,Riviera Stone Wall
+50,Oasis Ornate Fence
+50★,Star Chandelier
+50★,Personal Astroscope
+50★,Cragsoul Lamp
+50★,Oasis Mansion Roof (Composite)
+50★,Oasis Mansion Roof (Stone)
+50★,Riviera Mansion Wall (Composite)
+50★,Riviera Mansion Wall (Stone)
+50★,Glade Mansion Wall (Stone)
+50★,Oasis Mansion Wall (Composite)
+50★,Oasis Mansion Wall (Stone)
+50★,Oasis Fence
+50★★,Marble Flooring
+50★★,Monochrome Flooring
+50★★,Sharlayan Flooring
+50★★,Illumination Module
+50★★,Pendant Lamp Planter
+50★★,Titanic Cragsoul Lamp
+50★★,Savage Arc of Triumph
+50★★★,Ice Chandelier
+50★★★,Garden Pond
+50★★★,Regal Letter Box
+50★★★★,Diamond Chandelier
+53,Stained Crystal Interior Wall
+56,Alpine Inner Wall
+56,Alpine Flooring
+61,Hingan Awning (Nanpu)
+61,Hingan Hanging Bonbori Lamp
+61,Hingan Cottage Roof (Nanpu)
+63,Hingan Watchtower (Nanpu)
+64,Hingan House Roof (Nanpu)
+66,Hingan Chimbey (Kura-zukuri)
+68,Hingan Awning (Mokuzo)
+68,Hingan Mansion Roof (Nanpu)
+76,Crystarium Chandelier
+78,Eulmoran Marble Flooring
+78,Eulmoran Chandelier
+78,Jeweler's Stall
+15,Brass Pricket
+20,Oasis Partition
+24,Oasis Lantern
+27,Manor Candelabra
+27,Weighing Scale
+29,Mounted Flower Vase
+30,White Rectangular Partition
+32,Masonwork Stove
+34,Lily Floor Lamp
+34,Lily Wall Lamp
+35,Ahriman Flower Vase
+35,Ahriman Chronometer
+37,Riviera Pillar
+39,Ahriman Vase
+39,Oasis Pillar
+40,Misplaced Eyeglasses
+42,Sylphic Chair
+42,Sylphic Table
+42,Gemscope
+42,Sylphic Screen
+43,Sylphic Cupboard
+43,Sylphic Bookshelf
+43,Sylphic Wall Lantern
+44,Sylphic Dining Table
+44,Sylphic Counter
+46,Riviera Table Chronometer
+46,Table Chronometer
+48,Llymlaen's Embrace
+48,Glade Wall Chronometer
+48,Wall Chronometer
+49,Astroscope
+50,Mandragora Floor Lamp
+50,Riviera Bathtub
+50,Oasis Bathtub
+50,Amdapori Wall Lantern
+50★,Ivy Pillar
+50★,Vodoriga Sculpture
+50★,Vortex Couch
+50★,Inferno Wall Lamp
+50★★,Amigo Cactus Floor Lamp
+50★★,Gargoyle Sculpture
+50★★,Raging Vortex Couch
+50★★,Megalodon Jaws
+50★★,Demon Wall Sculpture
+50★★,Blazing Inferno Wall Lamp
+50★★★,Carbuncle Lantern
+50★★★,Armorcraft Forge
+50★★★,Emperor's Throne
+50★★★,Carbuncle Chronometer
+50★★★★,Syrcus Tower
+55,Marimo Lamp
+57,Fat Cat Bank
+78,Necklace Display Stand
+78,Vanity Mirror
+80,Crystarium Mechanical Till
+50★,Wolf Staff
+50★,Wolf Planisphere
+50★,Wolf Rubellite Earrings
+50★,Wolf Zircon Earrings
+50★,Wolf Tourmaline Earrings
+50★,Wolf Amber Earrings
+50★,Wolf Spinel Earrings
+50★,Wolf Turquoise Earrings
+50★,Wolf Rubellite Choker
+50★,Wolf Zircon Choker
+50★,Wolf Tourmaline Choker
+50★,Wolf Amber Choker
+50★,Wolf Spinel Choker
+50★,Wolf Turquoise Choker
+50★,Wolf Rubellite Bracelet
+50★,Wolf Zircon Bracelet
+50★,Wolf Tourmaline Bracelet
+50★,Wolf Amber Bracelet
+50★,Wolf Spinel Bracelet
+50★,Wolf Turquoise Bracelet
+50★,Wolf Rubellite Ring
+50★,Wolf Zircon Ring
+50★,Wolf Tourmaline Ring
+50★,Wolf Amber Ring
+50★,Wolf Spinel Ring
+50★,Wolf Turquoise Ring
+63,Sample Silver Ring
+65,Precision Spectacles
+68,Sample Chronometer
+70,Tribute Orchestrion
+70,Metal Gauntlets
+73,Metal Worm Jar
+75,Metal Trident
+75,Intricate Censer
+78,Nullifying Neckpiece
+80,Enchanting Ring
+20,Skybuilders' Ingot
+40,Skybuilders' Rings
+60,Skybuilders' Candelabra
+70,Skybuilders' Stone
+80,Skybuilders' Brazier
+61,Replica Sky Pirate's Mask of Striking
+61,Replica Sky Pirate's Mask of Scouting
+61,Replica Sky Pirate's Cap of Healing
+61,Replica Sky Pirate's Cap of Casting
+61,Replica Sky Rat Mask of Fending
+61,Replica Sky Rat Mask of Maiming
+61,Replica Sky Rat Mask of Aiming
+61,Replica Sky Rat Mask of Healing
+61,Replica Sky Rat Mask of Casting

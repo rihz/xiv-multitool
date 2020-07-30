@@ -1,0 +1,77 @@
+Group,Name,Points,Description,Reward
+Triple Triad Unique Opponents,Triple Team I,5,Defeat an NPC at Triple Triad.
+Triple Triad Unique Opponents,Triple Team II,10,Defeat 30 NPCs at Triple Triad.,TT: Squall Leonhart Card
+Triple Triad Unique Opponents,Triple Team III,10,Defeat 41 NPCs at Triple Triad.,TT: Haurchefant Card
+Triple Triad Unique Opponents,Triple Team IV,10,Defeat 50 NPCs at Triple Triad.
+Triple Triad Unique Opponents,Triple Team V,10,Defeat 60 NPCs at Triple Triad.,TT: Heavensward Y'shtola Card
+Triple Triad Unique Opponents,Triple Team VI,10,Defeat 70 NPCs at Triple Triad.,TT: Lyse Card
+Triple Triad Unique Opponents,Triple Team VII,10,Defeat 92 NPCs at Triple Triad.,TT: Ardbert Card
+Completionist,How I Learned to Stop Worrying and Love the Saucer,20,"Earn the following seven achievements: Winningest Jockey, Always Bet on Me, Bracket Breaker, Enemy at the GATE III, WTFungah III, Work Smarter, Not Harder, and Mountains out of Gil-hills.",Title: High Roller
+GATEs,WTFungah I,5,"Successfully complete the GATE ""Any Way the Wind Blows."""
+GATEs,WTFungah II,5,"Successfully complete the GATE ""Any Way the Wind Blows"" 5 times."
+GATEs,WTFungah III,10,"Successfully complete the GATE ""Any Way the Wind Blows"" 10 times.",Title: The Fungah
+GATEs,Enemy at the GATE I,5,Successfully complete a GATE.
+GATEs,Enemy at the GATE II,5,Successfully complete 30 GATEs.
+GATEs,Enemy at the GATE III,10,Successfully complete 100 GATEs.,Title: Keymaster/Gatekeeper
+Earn MGP,What Happens in the Saucer I,5,"Earn 1,000 MGP at Gold Saucer attractions.",Title: Gambler
+Earn MGP,What Happens in the Saucer II,5,"Earn 10,000 MGP at Gold Saucer attractions."
+Earn MGP,What Happens in the Saucer III,5,"Earn 100,000 MGP at Gold Saucer attractions."
+Earn MGP,What Happens in the Saucer IV,10,"Earn 1,000,000 MGP at Gold Saucer attractions."
+Earn MGP,What Happens in the Saucer V,10,"Earn 10,000,000 MGP at Gold Saucer attractions."
+Cactpot,Dream Small I,5,Win MGP from the Mini Cactpot.
+Cactpot,Dream Small II,5,"Win a cumulative total of 10,000 MGP from the Mini Cactpot."
+Cactpot,Dream Small III,5,"Win a cumulative total of 500,000 MGP from the Mini Cactpot."
+Cactpot,Mountains out of Gil-hills,10,"Win a cumulative total of 1,000,000 MGP from the Mini Cactpot.",Title: Raiser of Mountains
+Cactpot,You Could Already Be a Winner I,5,Win MGP from the Jumbo Cactpot.
+Cactpot,You Could Already Be a Winner II,5,"Win a cumulative total of 10,000 MGP from the Jumbo Cactpot."
+Cactpot,You Could Already Be a Winner III,5,"Win a cumulative total of 500,000 MGP from the Jumbo Cactpot."
+Cactpot,"Work Smarter, Not Harder",10,"Win a cumulative total of 1,000,000 MGP from the Jumbo Cactpot.",Title: Moneybags
+Chocobo Racing,Off to the Races I,5,Participate in a sanctioned chocobo race.,Title: Bug Boy/Girl
+Chocobo Racing,Off to the Races II,5,Participate in 100 sanctioned chocobo race.
+Chocobo Racing,Off to the Races III,5,Participate in 300 sanctioned chocobo race.,Title: Senior Jockey
+Chocobo Racing,Off to the Races IV,10,"Participate in 3,000 sanctioned chocobo race.",Title: Veteran Jockey
+Chocobo Racing,Go Forth and Multiply,5,Obtain a new chocobo through covering.,Title: Chocobo Breeder
+Chocobo Racing,Pedigree Champ,5,Obtain a new chocobo with a pedigree level of 9 or higher.,Item: Racing Chocobo Mask
+Chocobo Racing,Breaking the Maiden,5,Place first in a sanctioned chocobo race.
+Chocobo Racing,Winning Jockey I,5,Place first in 10 sanctioned chocobo race.
+Chocobo Racing,Winning Jockey II,5,Place first in 50 sanctioned chocobo race.
+Chocobo Racing,Winningest Jockey,10,Place first in 500 sanctioned chocobo race.,Title: The First Across
+Chocobo Racing,Ride to the Challenge I,10,Complete the first 15 Chocobo Challenge races.,Barding: Race Barding
+Chocobo Racing,Training Day,5,Train your chocobo to a rating of 285.,Title: Chocobo Trainer
+Triple Triad Cards,Triple-decker I,5,Obtain a Triple Triad card.
+Triple Triad Cards,Triple-decker II,5,Obtain 30 unique Triple Triad cards.,Title: Deck Holder
+Triple Triad Cards,Triple-decker III,10,Obtain 60 unique Triple Triad cards.,Title: Deck Hoarder
+Triple Triad Cards,Triple-decker IV,10,Obtain 90 unique Triple Triad cards.,TT: Midardsormr Card
+Triple Triad Cards,Triple-decker V,10,Obtain 120 unique Triple Triad cards.,TT: Vidofnir Card
+Triple Triad Cards,Triple-decker VI,10,Obtain 150 unique Triple Triad cards.,TT: Heavensward Thancred Card
+Triple Triad Cards,Triple-decker VII,10,Obtain 190 unique Triple Triad cards.,TT: Krile Card
+Triple Triad Cards,Triple-decker VIII,10,Obtain 220 unique Triple Triad cards.,TT: Gosetsu Card
+Triple Triad Cards,Triple-decker IX,10,Obtain 270 unique Triple Triad cards.,TT: Shadowbringers Urianger Card
+Triple Triad Roulette,Wheel of Fortune I,5,Win a Triple Triad roulette match.
+Triple Triad Roulette,Wheel of Fortune II,5,Win 10 Triple Triad roulette matches.
+Triple Triad Roulette,Wheel of Fortune III,5,Win 30 Triple Triad roulette matches.
+Triple Triad Roulette,Wheel of Fortune IV,5,Win 100 Triple Triad roulette matches.
+Triple Triad Roulette,Wheel of Fortune V,5,Win 300 Triple Triad roulette matches.,TT: Vaan Card
+Triple Triad Roulette,Always Bet on Me,10,"Win 1,000 Triple Triad roulette matches.",Title: The Trinity
+Triple Triad Tournament,Kumite,5,Win a Triple Triad tournament match.
+Triple Triad Tournament,Kumite Kumite,5,Win 10 Triple Triad tournament matches.
+Triple Triad Tournament,Kumite Kumite Kumite,5,Win 30 Triple Triad tournament matches.,TT: Shantotto Card
+Triple Triad Tournament,Bracket Breaker,10,Win 100 Triple Triad tournament matches.,Title: Duelist
+Lord of Verminion,A Load of Verminion I,5,Win a Lord of Verminion player battle (RP) match.
+Lord of Verminion,A Load of Verminion II,5,Win 50 Lord of Verminion player battle (RP) matches.,Minion: Shalloweye
+Lord of Verminion,A Load of Verminion III,5,Win 100 Lord of Verminion player battle (RP) matches.,Title: Prince/Princess of Verminion
+Lord of Verminion,A Load of Verminion IV,10,Win 300 Lord of Verminion player battle (RP) matches.,Title: Lord/Lady of Verminion
+Lord of Verminion,The Road of Verminion I,10,Complete 4 different Lord of Verminion tournaments with double digit victories.,Minion: Penguin Prince
+Lord of Verminion,Challenge Accepted,10,Complete the first 24 Verminion Challenges.,Minion: Clockwork Twintania
+Mahjong,Tile and Error I,5,Achieve a mahjong rating of more than 1600.,Orchestrion: Doman Distractions Orchestrion Roll
+Mahjong,Tile and Error II,5,Achieve a mahjong rating of more than 1800.,Title: Mahjong Enthusiast 
+Mahjong,Tile and Error III,10,Achieve a mahjong rating of more than 2000.,Title: Mahjong Master
+GATEs,Air Force Won I,5,"Record a perfect score in the GATE ""Air Force One."""
+GATEs,Air Force Won II,5,"Record a perfect score in the GATE ""Air Force One"" 10 times"
+GATEs,Air Force Won III,10,"Record a perfect score in the GATE ""Air Force One"" 20 times"
+GATEs,One Small Leap,5,"Obtain a gilded cactuar in the GATE ""Leap of Faith."""
+GATEs,Ten Small Leaps,5,"Obtain a total of 10 gilded cactuars from the GATE ""Leap of Faith."""
+GATEs,Twenty Small Leaps,10,"Obtain a total of 20 gilded cactuars from the GATE ""Leap of Faith."""
+GATEs,Right on the Money I,5,"Successfully complete the GATE ""The Slice Is Right."""
+GATEs,Right on the Money II,5,"Successfully complete the GATE ""The Slice Is Right"" 5 times."
+GATEs,Right on the Money III,10,"Successfully complete the GATE ""The Slice Is Right"" 10 times.",Title: Kindred Sword

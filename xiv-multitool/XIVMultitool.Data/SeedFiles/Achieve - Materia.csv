@@ -1,0 +1,20 @@
+Group,Name,Points,Description,Reward
+Affix Materia,Getting Too Attached I,5,Successfully affix 10 materia.
+Affix Materia,Getting Too Attached II,5,Successfully affix 50 materia.
+Affix Materia,Getting Too Attached III,5,Successfully affix 100 materia.
+Affix Materia,Getting Too Attached IV,5,Successfully affix 500 materia.
+Affix Materia,Materia Hysteria,10,"Successfully affix 1,000 materia.",Title: Carrier of the Cauldron
+Affix Materia,Getting Too Attached V,10,"Successfully affix 2,500 materia."
+Affix Materia,Getting Too Attached VI,10,"Successfully affix 5,000 materia."
+Affix Materia,Getting Too Attached VII,10,"Successfully affix 10,000 materia."
+Overmelding,Beginner's Luck,10,Successfully affix two materia to the same piece of gear.
+Overmelding,I Make My Own Luck,20,Successfully affix three materia to the same piece of gear.
+Overmelding,Luck's Got Nothing to Do with It,30,Successfully affix four materia to the same piece of gear.
+Overmelding,I Got This!,40,Successfully affix five materia to the same piece of gear.,Item: Gambler's Crown
+Converting,Prepare to Be Assimilated I,5,Successfully convert 10 spiritbound items into materia.
+Converting,Prepare to Be Assimilated II,5,Successfully convert 50 spiritbound items into materia.
+Converting,Prepare to Be Assimilated III,5,Successfully convert 100 spiritbound items into materia.
+Converting,Prepare to Be Assimilated IV,5,Successfully convert 500 spiritbound items into materia.
+Converting,Living in a Materia World,10,"Successfully convert 1,000 spiritbound items into materia.",Title: The Assimilator
+Converting,Prepare to Be Assimilated V,10,"Successfully convert 5,000 spiritbound items into materia."
+Transmutation,I Got a Good Materia,10,Obtain materia of a higher grade through transmutation.

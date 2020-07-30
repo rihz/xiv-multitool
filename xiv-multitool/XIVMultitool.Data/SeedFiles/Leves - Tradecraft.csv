@@ -1,0 +1,961 @@
+Name,Level,Zone,Location,Type,NPC
+One for the Books,1,Ul'dah,Ul'dah,Alchemy,Eustace
+Mercury Rising,1,Ul'dah,Ul'dah,Alchemy,Eustace
+Root Rush,1,Ul'dah,Ul'dah,Alchemy,Eustace
+The Bleat Is On,1,Western Thanalan,Scorpion Crossing,Alchemy,Graceful Song
+Met a Sticky End,1,Western Thanalan,Scorpion Crossing,Alchemy,Graceful Song
+Days of Chunder,1,Western Thanalan,Scorpion Crossing,Alchemy,Graceful Song
+On the Drip,5,Ul'dah,Ul'dah,Alchemy,Eustace
+"Distill, My Heart",5,Ul'dah,Ul'dah,Alchemy,Eustace
+A Jawbreaking Weapon of Staggering Weight,5,Ul'dah,Ul'dah,Alchemy,Eustace
+The Hexster Runoff,5,Western Thanalan,Scorpion Crossing,Alchemy,Graceful Song
+Gotta Bounce,5,Western Thanalan,Scorpion Crossing,Alchemy,Graceful Song
+Don't Be So Tallow,5,Western Thanalan,Scorpion Crossing,Alchemy,Graceful Song
+Wand-full Tonight,10,Ul'dah,Ul'dah,Alchemy,Eustace
+Morning Glass of Ether,10,Ul'dah,Ul'dah,Alchemy,Eustace
+Using Your Arcane Powers for Fun and Profit,10,Ul'dah,Ul'dah,Alchemy,Eustace
+Unbreak My Heart,10,Western Thanalan,Horizon,Alchemy,Totonowa
+"You Grow, Girl",10,Western Thanalan,Horizon,Alchemy,Totonowa
+One for the Road,10,Western Thanalan,Horizon,Alchemy,Totonowa
+Shut Up and Take My Gil,15,Ul'dah,Ul'dah,Alchemy,Eustace
+Book and a Hard Place,15,Ul'dah,Ul'dah,Alchemy,Eustace
+Kiss of Life,15,Ul'dah,Ul'dah,Alchemy,Eustace
+Devil Take the Foremost,15,Eastern Thanalan,Camp Drybone,Alchemy,Poponagu
+Sanity Points,15,Eastern Thanalan,Camp Drybone,Alchemy,Poponagu
+There's Something about Bury,15,Eastern Thanalan,Camp Drybone,Alchemy,Poponagu
+Everything Is Impossible,20,Ul'dah,Ul'dah,Alchemy,Eustace
+Don't Forget to Take Your Meds,20,Ul'dah,Ul'dah,Alchemy,Eustace
+The Writing Is Not on the Wall,20,Ul'dah,Ul'dah,Alchemy,Eustace
+Dripping with Venom,20,South Shroud,Quarrymill,Alchemy,Nyell
+Hush Little Wailer,20,South Shroud,Quarrymill,Alchemy,Nyell
+Blind Man's Bluff,20,South Shroud,Quarrymill,Alchemy,Nyell
+Automata for the People,25,Ul'dah,Ul'dah,Alchemy,Eustace
+Sophomore Slump,25,Ul'dah,Ul'dah,Alchemy,Eustace
+Glazed and Confused,25,Ul'dah,Ul'dah,Alchemy,Eustace
+You Put Your Left Hand In,25,South Shroud,Quarrymill,Alchemy,Nyell
+Conspicuous Conjuration,25,South Shroud,Quarrymill,Alchemy,Nyell
+The Wailers' First Law of Potion,25,South Shroud,Quarrymill,Alchemy,Nyell
+Riches' Brew,30,Ul'dah,Ul'dah,Alchemy,Eustace
+Stuck in the Moment,30,Ul'dah,Ul'dah,Alchemy,Eustace
+Just Give Him a Serum,30,Ul'dah,Ul'dah,Alchemy,Eustace
+Eye of the Beholder,30,Eastern La Noscea,Costa del Sol,Alchemy,Nahctahr
+The Write Stuff,30,Eastern La Noscea,Costa del Sol,Alchemy,Nahctahr
+Growing Is Knowing,30,Eastern La Noscea,Costa del Sol,Alchemy,Nahctahr
+The House Always Wins,35,Ul'dah,Ul'dah,Alchemy,Eustace
+Always have an Exit Plan,35,Ul'dah,Ul'dah,Alchemy,Eustace
+Alive and Unwell,35,Ul'dah,Ul'dah,Alchemy,Eustace
+Open Your Grimoire to Page 42,35,Coerthas Central Highlands,Observatorium,Alchemy,Cimeaurant
+The Sting of Conscience,35,Coerthas Central Highlands,Observatorium,Alchemy,Cimeaurant
+Going Nowhere Fast,35,Coerthas Central Highlands,Observatorium,Alchemy,Cimeaurant
+A Bile Business,40,Ul'dah,Ul'dah,Alchemy,Eustace
+Your Courtesy Wake-up Call,40,Ul'dah,Ul'dah,Alchemy,Eustace
+A Patch-up Place,40,Ul'dah,Ul'dah,Alchemy,Eustace
+No Accounting for Waste,40,Coerthas Central Highlands,Whitebrim Front,Alchemy,Voilinaut
+Arcane Arts for Dummies,40,Coerthas Central Highlands,Whitebrim Front,Alchemy,Voilinaut
+A Real Smooth Move,40,Coerthas Central Highlands,Whitebrim Front,Alchemy,Voilinaut
+Quit Your Jib-jab,45,Ul'dah,Ul'dah,Alchemy,Eustace
+A Matter of Vital Importance,45,Ul'dah,Ul'dah,Alchemy,Eustace
+Sleepless in Silvertear,45,Ul'dah,Ul'dah,Alchemy,Eustace
+Shut Up Already,45,Mor Dhona,Saint Coinach's Find,Alchemy,K'leytai
+Make Up Your Mind or Else,45,Mor Dhona,Saint Coinach's Find,Alchemy,K'leytai
+Not Taking No for an Answer,45,Mor Dhona,Saint Coinach's Find,Alchemy,K'leytai
+The Mustache Suits Him,50,Ishgard,Foundation,Alchemy,Eloin
+Summoning for Dummies,50,Ishgard,Foundation,Alchemy,Eloin
+Forged from the Void,50,Ishgard,Foundation,Alchemy,Eloin
+Forgery of Convenience,50,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Summoning the Courage to be Different,50,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Dodging the Draft,50,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+"Can't Sleep, Inquisitors Will eat Me",52,Ishgard,Foundation,Alchemy,Eloin
+"Steeling the Knife, Steeling the Mind",52,Ishgard,Foundation,Alchemy,Eloin
+Consecrating Congregation,52,Ishgard,Foundation,Alchemy,Eloin
+Allow No Fallacies,52,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Surgical Substitution,52,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Curbing the Contagion,52,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Tomes Roam on the Range,54,Ishgard,Foundation,Alchemy,Eloin
+Adhesive of Antipathy,54,Ishgard,Foundation,Alchemy,Eloin
+Warding Off Temptation,54,Ishgard,Foundation,Alchemy,Eloin
+Field Trip to the Unknown,54,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+It's Gonna Grow Back,54,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+The Garden of Arcane Delights,54,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Volunteering with Staff,56,Ishgard,Foundation,Alchemy,Eloin
+Cleansing the Wicked Humors,56,Ishgard,Foundation,Alchemy,Eloin
+Rolling on Initiative,56,Ishgard,Foundation,Alchemy,Eloin
+Scripture Is the Best Medicine,56,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Washing Away the Sins,56,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Darkly Dreaming Dexterity,56,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+There Was a Late Fee,58,Ishgard,Foundation,Alchemy,Eloin
+Filling in the Blanks,58,Ishgard,Foundation,Alchemy,Eloin
+The Grave of Hemlock Groves,58,Ishgard,Foundation,Alchemy,Eloin
+A Gate Arcane Is Dragon's Bane,58,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Ink into Antiquity,58,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Dappling the Highlands,58,Ishgard,Foundation,Alchemy (Large-scale),Eloin
+Magic Beans,60,Kugane,Kugane,Alchemy,Keltraeng
+Spellbound,60,Kugane,Kugane,Alchemy,Keltraeng
+Whinier Than The Sword,60,Kugane,Kugane,Alchemy,Keltraeng
+Materia Worth,62,Kugane,Kugane,Alchemy,Keltraeng
+Official Strategy Guide,62,Kugane,Kugane,Alchemy,Keltraeng
+Scroll Down,62,Kugane,Kugane,Alchemy,Keltraeng
+Rumor Has It,64,Kugane,Kugane,Alchemy,Keltraeng
+Asking For A Friend,64,Kugane,Kugane,Alchemy,Keltraeng
+The Dotted Line,64,Kugane,Kugane,Alchemy,Keltraeng
+Let Loose The Juice,66,Kugane,Kugane,Alchemy,Keltraeng
+Spell-Rebound,66,Kugane,Kugane,Alchemy,Keltraeng
+Edge Of The Arcane,66,Kugane,Kugane,Alchemy,Keltraeng
+Ultimate Official Strategy Guide,68,Kugane,Kugane,Alchemy,Keltraeng
+Making Your Mark,68,Kugane,Kugane,Alchemy,Keltraeng
+Pep-Stepper,68,Kugane,Kugane,Alchemy,Keltraeng
+A Time for Peace,70,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Another Man's Ink,70,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Keeping Magic Alive,70,The Crystarium,The Baldaquin,Alchemy,Eirikur
+An Eye for Healing,72,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Making Ends Meet,72,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Make it Bigger,72,The Crystarium,The Baldaquin,Alchemy,Eirikur
+5-bell Energy,74,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Amaro Kart,74,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Conserving Combat,74,The Crystarium,The Baldaquin,Alchemy,Eirikur
+A Greater Grimoire,76,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Crafty Concoctions,76,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Growing Up,76,The Crystarium,The Baldaquin,Alchemy,Eirikur
+A Labor of Love,78,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Mindful Medicine,78,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Supreme Official Strategy Guide,78,The Crystarium,The Baldaquin,Alchemy,Eirikur
+Skillet Labor,1,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Ain't Got No Ingots,1,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Eyes BIgger than the Plate,1,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Distill It Yourself,1,Lower La Noscea,Red Rooster Stead,Armorcrafting,Wyrkholsk
+The Alloyed Truth,1,Lower La Noscea,Red Rooster Stead,Armorcrafting,Wyrkholsk
+Don't Hit Me One More Time,1,Lower La Noscea,Red Rooster Stead,Armorcrafting,Wyrkholsk
+Headbangers' Thrall,5,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+You've Got Mail,5,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Bronzed and Burnt,5,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Get into Their Heads,5,Lower La Noscea,Red Rooster Stead,Armorcrafting,Wyrkholsk
+Rodents of Unusual Size,5,Lower La Noscea,Red Rooster Stead,Armorcrafting,Wyrkholsk
+Strait Ain't the Gate,5,Lower La Noscea,Red Rooster Stead,Armorcrafting,Wyrkholsk
+"Waist Not, Want Not",10,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+All Ovo That,10,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Greavous Losses,10,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Stadium Envy,10,Western La Noscea,Swiftperch,Armorcrafting,Swygskyf
+Cook Intentions,10,Western La Noscea,Swiftperch,Armorcrafting,Swygskyf
+Still the Best,10,Western La Noscea,Swiftperch,Armorcrafting,Swygskyf
+Cover Girl,15,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Fashion Weak,15,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Kiss the Pan (Good-bye),15,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Still Crazy After All These Years,15,Western La Noscea,Aleport,Armorcrafting,Orwen
+A Well-rounded Crew,15,Western La Noscea,Aleport,Armorcrafting,Orwen
+A Firm Hand,15,Western La Noscea,Aleport,Armorcrafting,Orwen
+Night Squawker,20,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Get Me the Hard Stuff,20,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+246 Kinds of Cheese,20,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+I Was A Teenage Wailer,20,South Shroud,Quarrymill,Armorcrafting,Nyell
+No Hand-me-downs,20,South Shroud,Quarrymill,Armorcrafting,Nyell
+Not Enough Headroom,20,South Shroud,Quarrymill,Armorcrafting,Nyell
+Ingot We Trust,25,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Tisket Tasset,25,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+A Leg to Stand On,25,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Hot for Teacher,25,South Shroud,Quarrymill,Armorcrafting,Nyell
+Need for Mead,25,South Shroud,Quarrymill,Armorcrafting,Nyell
+Get Shirty,25,South Shroud,Quarrymill,Armorcrafting,Nyell
+Aurochs Star,30,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Romper Stomper,30,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Eyes on a Hard Body,30,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Skillet Scandal,30,Eastern La Noscea,Costa del Sol,Armorcrafting,Nahctahr
+Kitty Get Your Helm,30,Eastern La Noscea,Costa del Sol,Armorcrafting,Nahctahr
+They've Got Legs,30,Eastern La Noscea,Costa del Sol,Armorcrafting,Nahctahr
+Hollow Hallmarks,35,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Get Me the Usual,35,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Very Slow Array,35,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Skillet to the Stars,35,Coerthas Central Highlands,Observatorium,Armorcrafting,Cimeaurant
+War Is a Pain in the Back,35,Coerthas Central Highlands,Observatorium,Armorcrafting,Cimeaurant
+I've Got You Under my Skin,35,Coerthas Central Highlands,Observatorium,Armorcrafting,Cimeaurant
+Everybody Cut Footloose,40,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Distill and Know that I'm Right,40,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Liquid Persuasion,40,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Family Secrets,40,Coerthas Central Highlands,Whitebrim Front,Armorcrafting,Voilinaut
+Metal Fatigue,40,Coerthas Central Highlands,Whitebrim Front,Armorcrafting,Voilinaut
+Employee Retention,40,Coerthas Central Highlands,Whitebrim Front,Armorcrafting,Voilinaut
+Cobalt Aforethought,45,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Some Dragoons Have All the Luck,45,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Feasting the Night Away,45,Limsa Lominsa,Limsa Lominsa,Armorcrafting,T'mokkri
+Booty Call,45,Mor Dhona,Saint Coinach's Find,Armorcrafting,K'leytai
+Parasitic Win,45,Mor Dhona,Saint Coinach's Find,Armorcrafting,K'leytai
+Dealing with the Tough Stuff,45,Mor Dhona,Saint Coinach's Find,Armorcrafting,K'leytai
+Your Tasset's Hanging Out,50,Ishgard,Foundation,Armorcrafting,Eloin
+Rivets Runs Through It,50,Ishgard,Foundation,Armorcrafting,Eloin
+Don't Scuttle with Scutums,50,Ishgard,Foundation,Armorcrafting,Eloin
+Tassets Approval,50,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+A Riveting Revival,50,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+Shielded by Bureaucracy,50,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+The Cut Alembical Cord,52,Ishgard,Foundation,Armorcrafting,Eloin
+Let Faith Light the Way,52,Ishgard,Foundation,Armorcrafting,Eloin
+Pan That Laid the Golden Egg,52,Ishgard,Foundation,Armorcrafting,Eloin
+Sheer Distill Power,52,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+Fifty Shields of Blades,52,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+Skillet With Fire,52,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+As the Bolt Flies,54,Ishgard,Foundation,Armorcrafting,Eloin
+Someone Put Dung in My Helmet,54,Ishgard,Foundation,Armorcrafting,Eloin
+Sometimes the South Wins,54,Ishgard,Foundation,Armorcrafting,Eloin
+Heavy Metal Banned,54,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+Rage against the Scream,54,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+The Thriller of Autumn,54,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+A Squire to Inspire,56,Ishgard,Foundation,Armorcrafting,Eloin
+A Halonic Masquerade,56,Ishgard,Foundation,Armorcrafting,Eloin
+Belle of the Brawl,56,Ishgard,Foundation,Armorcrafting,Eloin
+All's Fair in Highborn Assassination,56,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+Why I Wear a Mask,56,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+Shouldering the Shut-ins,56,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+"Sir, Dost Thou Even Heft",58,Ishgard,Foundation,Armorcrafting,Eloin
+Look Before You Leap,58,Ishgard,Foundation,Armorcrafting,Eloin
+The Mast Chance,58,Ishgard,Foundation,Armorcrafting,Eloin
+Men in Adamantite,58,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+"Patience, Young Grasshopper",58,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+The Rose and the Riveter,58,Ishgard,Foundation,Armorcrafting (Large-scale),Eloin
+Setting The Stage,60,Kugane,Kugane,Armorcrafting,Keltraeng
+Alembic Medals,60,Kugane,Kugane,Armorcrafting,Keltraeng
+Mail It In,60,Kugane,Kugane,Armorcrafting,Keltraeng
+The Gauntlet is Cast,62,Kugane,Kugane,Armorcrafting,Keltraeng
+Ore for Me,62,Kugane,Kugane,Armorcrafting,Keltraeng
+Shielded Life,62,Kugane,Kugane,Armorcrafting,Keltraeng
+Greaving,64,Kugane,Kugane,Armorcrafting,Keltraeng
+Home Cooking,64,Kugane,Kugane,Armorcrafting,Keltraeng
+En Garde and On Guard,64,Kugane,Kugane,Armorcrafting,Keltraeng
+Art Imitates Life,66,Kugane,Kugane,Armorcrafting,Keltraeng
+Smells of Rich Tamahagane,66,Kugane,Kugane,Armorcrafting,Keltraeng
+Sweeping the Legs,66,Kugane,Kugane,Armorcrafting,Keltraeng
+Spoony is the Bard,68,Kugane,Kugane,Armorcrafting,Keltraeng
+Heads Will Roll,68,Kugane,Kugane,Armorcrafting,Keltraeng
+See Shields by the Sea Shore,68,Kugane,Kugane,Armorcrafting,Keltraeng
+A Head of Demand,70,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Shielding the Realm,70,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Time to Fry,70,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Hedging Bets,72,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Scheduled Maintenance,72,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Wrapped Knuckles,72,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+A New Regular,74,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Catching an Earful,74,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+The Proper Precautions,74,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+A Budding Business,76,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+No Scope,76,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+"Signed, Shield, Delivered",76,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Joined at the Waist,78,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+One Foot Forward,78,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Trial and Error,78,The Crystarium,The Baldaquin,Armorcrafting,Eirikur
+Proly Hatchet,1,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Hells Bells,1,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Mending Fences,1,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Thank You for Your Business,1,Lower La Noscea,Red Rooster Stead,Blacksmithing,Wyrkholsk
+Axe Me Anything,1,Lower La Noscea,Red Rooster Stead,Blacksmithing,Wyrkholsk
+The Unkindest Cut,1,Lower La Noscea,Red Rooster Stead,Blacksmithing,Wyrkholsk
+"I, Gladius",5,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Stainless Chef,5,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Bring Me the Head Knife of Al'bedo Derssia,5,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+"As Above, Below",5,Lower La Noscea,Red Rooster Stead,Blacksmithing,Wyrkholsk
+Down on the Pharm,5,Lower La Noscea,Red Rooster Stead,Blacksmithing,Wyrkholsk
+A Hit Job,5,Lower La Noscea,Red Rooster Stead,Blacksmithing,Wyrkholsk
+Farriers of Fortune,10,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Anutha Spatha,10,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Port of Call: Ul'dah,10,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Twice as Slice,10,Western La Noscea,Swiftperch,Blacksmithing,Swygskyf
+I'm into Leather,10,Western La Noscea,Swiftperch,Blacksmithing,Swygskyf
+Peddle to the Metal,10,Western La Noscea,Swiftperch,Blacksmithing,Swygskyf
+Awl or Nothing,15,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Smelt and Dealt,15,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Riveting Runs,15,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Tools of the Trade,15,Western La Noscea,Aleport,Blacksmithing,Orwen
+Get a Little Bit Closer,15,Western La Noscea,Aleport,Blacksmithing,Orwen
+Honest Ballast,15,Western La Noscea,Aleport,Blacksmithing,Orwen
+Unseamly Conditions,20,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Claw Daddy,20,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Hearth Maul,20,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+When Rhalgr Met Nophica,20,South Shroud,Quarrymill,Blacksmithing,Nyell
+Powderpost Derby,20,South Shroud,Quarrymill,Blacksmithing,Nyell
+The Devil's Workshop,20,South Shroud,Quarrymill,Blacksmithing,Nyell
+Time to Upgrade,25,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Cleaving the Glim,25,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Mors Dagger,25,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Lancers' Creed,25,South Shroud,Quarrymill,Blacksmithing,Nyell
+I Saw What You Did There,25,South Shroud,Quarrymill,Blacksmithing,Nyell
+That's Some Fine Grinding,25,South Shroud,Quarrymill,Blacksmithing,Nyell
+Out on a Limb,30,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Can You Spare a Dolabra,30,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+The Naked Blade,30,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Hard Knock Life,30,Eastern La Noscea,Costa del Sol,Blacksmithing,Nahctahr
+A Spy in the House of Love,30,Eastern La Noscea,Costa del Sol,Blacksmithing,Nahctahr
+Don't Fear the Reaper,30,Eastern La Noscea,Costa del Sol,Blacksmithing,Nahctahr
+Awl about Who You Know,35,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Spice Cadet,35,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+You Spin Me Round,35,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Lending a Hand,35,Coerthas Central Highlands,Observatorium,Blacksmithing,Cimeaurant
+Colder than Steel,35,Coerthas Central Highlands,Observatorium,Blacksmithing,Cimeaurant
+Seemed Like the Thing to Get,35,Coerthas Central Highlands,Observatorium,Blacksmithing,Cimeaurant
+A Mixed Message,40,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+File That under Whatever,40,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+A Weighty Question,40,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Get Me to the War on Time,40,Coerthas Central Highlands,Whitebrim Front,Blacksmithing,Voilinaut
+Kitchen Casualties,40,Coerthas Central Highlands,Whitebrim Front,Blacksmithing,Voilinaut
+Streamlining Operations,40,Coerthas Central Highlands,Whitebrim Front,Blacksmithing,Voilinaut
+"No Refunds, Only Exchanges",45,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+You Stay on That Side,45,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+I'd Rather Be Digging,45,Limsa Lominsa,Limsa Lominsa,Blacksmithing,T'mokkri
+Talon Terrors,45,Mor Dhona,Saint Coinach's Find,Blacksmithing,K'leytai
+Pop That Top,45,Mor Dhona,Saint Coinach's Find,Blacksmithing,K'leytai
+I Maul Right,45,Mor Dhona,Saint Coinach's Find,Blacksmithing,K'leytai
+Punching Your Way to Success,50,Ishgard,Foundation,Blacksmithing,Eloin
+Barring the Gates to Foundation,50,Ishgard,Foundation,Blacksmithing,Eloin
+With Bearings Straight,50,Ishgard,Foundation,Blacksmithing,Eloin
+Foreign Exchange,50,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Starting Young,50,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Bearing the Brunt,50,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Freight and Barrel,52,Ishgard,Foundation,Blacksmithing,Eloin
+It's All about Execution,52,Ishgard,Foundation,Blacksmithing,Eloin
+Cautionary Cutlery,52,Ishgard,Foundation,Blacksmithing,Eloin
+Stepping on My Heart with Stilettos,52,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Too Big to Miss,52,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+"Saw, Shank, and Redemption",52,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+I Saw the Pine,54,Ishgard,Foundation,Blacksmithing,Eloin
+I Could Feel That from Here,54,Ishgard,Foundation,Blacksmithing,Eloin
+Keep Up with the Mechanics,54,Ishgard,Foundation,Blacksmithing,Eloin
+"I Came, I Sawed, I Conquered",54,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Tensions in Creasing,54,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Unconventional Weaponry,54,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Unbreaker,56,Ishgard,Foundation,Blacksmithing,Eloin
+Diamond Sawdust,56,Ishgard,Foundation,Blacksmithing,Eloin
+Spirituality Inspector,56,Ishgard,Foundation,Blacksmithing,Eloin
+Attack on Titanium,56,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+I'm a Lumberjack and I'm Okay,56,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+The Clamor for Hammers,56,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Winter Weather Conditions,58,Ishgard,Foundation,Blacksmithing,Eloin
+Through Thick and Thin,58,Ishgard,Foundation,Blacksmithing,Eloin
+Swords for Plowshares,58,Ishgard,Foundation,Blacksmithing,Eloin
+The Nightsoil Is Dark and Full of Terrors,58,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+Piercing Eyes Deserve Piercing Shafts,58,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+"Negative, They Are Meat Popsicles",58,Ishgard,Foundation,Blacksmithing (Large-scale),Eloin
+High Steal,60,Kugane,Kugane,Blacksmithing,Keltraeng
+A Knack for Nicking,60,Kugane,Kugane,Blacksmithing,Keltraeng
+"Have Blade, Will Travel",60,Kugane,Kugane,Blacksmithing,Keltraeng
+Crisscrossing,62,Kugane,Kugane,Blacksmithing,Keltraeng
+Hammer Time,62,Kugane,Kugane,Blacksmithing,Keltraeng
+File Under Dull,62,Kugane,Kugane,Blacksmithing,Keltraeng
+And My Axe,64,Kugane,Kugane,Blacksmithing,Keltraeng
+Killer Cutlery,64,Kugane,Kugane,Blacksmithing,Keltraeng
+Meddle in Metal,64,Kugane,Kugane,Blacksmithing,Keltraeng
+The Bigger the Blade,66,Kugane,Kugane,Blacksmithing,Keltraeng
+Sea-saw,66,Kugane,Kugane,Blacksmithing,Keltraeng
+Renting Mortality,66,Kugane,Kugane,Blacksmithing,Keltraeng
+Fire for Hire,68,Kugane,Kugane,Blacksmithing,Keltraeng
+Ingot to Wing It,68,Kugane,Kugane,Blacksmithing,Keltraeng
+Knock on Wood,68,Kugane,Kugane,Blacksmithing,Keltraeng
+Fire Sale,70,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Here Comes the Hammer,70,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+The Gold Experience,70,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Enlistment Highs,72,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Heavy Hitter,72,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Selective Logging,72,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Halfhearted Effort,74,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Instruments of Distraction,74,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Nip it in the Bud,74,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Cooking for the Future,76,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+"Dodge Once, Cut Twice",76,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Idol Hands,76,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Bae Blade,78,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Keeping Loyalty,78,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+Under the Fool Moon,78,The Crystarium,The Baldaquin,Blacksmithing,Eirikur
+In with the New,1,Gridania,Gridania,Carpentry,Gontrant
+Touch and Heal,1,Gridania,Gridania,Carpentry,Gontrant
+A Clogful of Camaraderie,1,Gridania,Gridania,Carpentry,Gontrant
+Gridania's Got Talent,1,Central Shroud,The Bannock,Carpentry,Muriaule
+Got Your Back,1,Central Shroud,The Bannock,Carpentry,Muriaule
+Bowing Out,1,Central Shroud,The Bannock,Carpentry,Muriaule
+Bows for the Boys,5,Gridania,Gridania,Carpentry,Gontrant
+Shields for the Serpents,5,Gridania,Gridania,Carpentry,Gontrant
+Spears and Sorcery,5,Gridania,Gridania,Carpentry,Gontrant
+Compulsory Conjury,5,Central Shroud,The Bannock,Carpentry,Muriaule
+Leaving without Leave,5,Central Shroud,The Bannock,Carpentry,Muriaule
+A Sword in Hand,5,Central Shroud,The Bannock,Carpentry,Muriaule
+On the Move,10,Gridania,Gridania,Carpentry,Gontrant
+Citizens' Canes,10,Gridania,Gridania,Carpentry,Gontrant
+Raise the Roof,10,Gridania,Gridania,Carpentry,Gontrant
+Shielding Sales,10,Central Shroud,Bentbranch Meadows,Carpentry,Tierney
+Say It with Spears,10,Central Shroud,Bentbranch Meadows,Carpentry,Tierney
+Life's a Stitch,10,Central Shroud,Bentbranch Meadows,Carpentry,Tierney
+Re-crating the Scene,15,Gridania,Gridania,Carpentry,Gontrant
+Nightmare on My Street,15,Gridania,Gridania,Carpentry,Gontrant
+Driving up the Wall,15,Gridania,Gridania,Carpentry,Gontrant
+Bowing to Necessity,15,East Shroud,The Hawthorne Hut,Carpentry,Qina Lyehga
+Nothing to Hide,15,East Shroud,The Hawthorne Hut,Carpentry,Qina Lyehga
+What You Need,15,East Shroud,The Hawthorne Hut,Carpentry,Qina Lyehga
+As the Worm Turns,20,Gridania,Gridania,Carpentry,Gontrant
+Behind the Mask,20,Gridania,Gridania,Carpentry,Gontrant
+Militia on My Mind,20,Gridania,Gridania,Carpentry,Gontrant
+Grinding It Out,20,South Shroud,Quarrymill,Carpentry,Nyell
+Wall Not Found,20,South Shroud,Quarrymill,Carpentry,Nyell
+Polearms Aplenty,20,South Shroud,Quarrymill,Carpentry,Nyell
+Daddy's Little Girl,25,Gridania,Gridania,Carpentry,Gontrant
+Armoires of the Rich and Famous,25,Gridania,Gridania,Carpentry,Gontrant
+Tools for the Tools,25,Gridania,Gridania,Carpentry,Gontrant
+Storm of Swords,25,South Shroud,Quarrymill,Carpentry,Nyell
+Toys of Summer,25,South Shroud,Quarrymill,Carpentry,Nyell
+Heal Away,25,South Shroud,Quarrymill,Carpentry,Nyell
+An Expected Tourney,30,Gridania,Gridania,Carpentry,Gontrant
+Ceremonial Spears,30,Gridania,Gridania,Carpentry,Gontrant
+Knock on Wood,30,Gridania,Gridania,Carpentry,Gontrant
+Live Freelance or Die,30,Eastern La Noscea,Costa del Sol,Carpentry,Nahctahr
+The Lone Bowman,30,Eastern La Noscea,Costa del Sol,Carpentry,Nahctahr
+The Long Lance of the Law,30,Eastern La Noscea,Costa del Sol,Carpentry,Nahctahr
+A Tree Grew in Gridania,35,Gridania,Gridania,Carpentry,Gontrant
+Flintstone Fight,35,Gridania,Gridania,Carpentry,Gontrant
+Stay on Target,35,Gridania,Gridania,Carpentry,Gontrant
+Grippy When Wet,35,Coerthas Central Highlands,Observatorium,Carpentry,Cimeaurant
+"The Cold, Cold Ground",35,Coerthas Central Highlands,Observatorium,Carpentry,Cimeaurant
+Bend It Like Durendaire,35,Coerthas Central Highlands,Observatorium,Carpentry,Cimeaurant
+Greenstone for Greenhorns,40,Gridania,Gridania,Carpentry,Gontrant
+Spin It Like You Mean It,40,Gridania,Gridania,Carpentry,Gontrant
+The Arsenal of Theocracy,40,Gridania,Gridania,Carpentry,Gontrant
+The Turning Point,40,Coerthas Central Highlands,Whitebrim Front,Carpentry,Voilinaut
+A Winning Combo,40,Coerthas Central Highlands,Whitebrim Front,Carpentry,Voilinaut
+Ready for a Rematch,40,Coerthas Central Highlands,Whitebrim Front,Carpentry,Voilinaut
+Clogs of War,45,Gridania,Gridania,Carpentry,Gontrant
+You Do the Heavy Lifting,45,Gridania,Gridania,Carpentry,Gontrant
+Trident and Error,45,Gridania,Gridania,Carpentry,Gontrant
+Bowing to Greater Power,45,Mor Dhona,Saint Coinach's Find,Carpentry,K'leytai
+Bow Down to Magic,45,Mor Dhona,Saint Coinach's Find,Carpentry,K'leytai
+"Incant Now, Think Later",45,Mor Dhona,Saint Coinach's Find,Carpentry,K'leytai
+So You Think You Can Lance,50,Ishgard,Foundation,Carpentry,Eloin
+Splinter in the Sewers,50,Ishgard,Foundation,Carpentry,Eloin
+Almost as Fun as Slingshotting Birds,50,Ishgard,Foundation,Carpentry,Eloin
+Sticks and Stones,50,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+The Lumber of Their Discontent,50,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Living Bow to Mouth,50,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Landing the Big One,52,Ishgard,Foundation,Carpentry,Eloin
+Do You Even String Bow?,52,Ishgard,Foundation,Carpentry,Eloin
+A Reward Fitting of the Faithful,52,Ishgard,Foundation,Carpentry,Eloin
+Fishing for Profits,52,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+"Win One Bow, Get Three Free",52,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Just Rewards for Just Devotion,52,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+License to Heal,54,Ishgard,Foundation,Carpentry,Eloin
+The Darkest Hearth,54,Ishgard,Foundation,Carpentry,Eloin
+Purified Polyrhythm,54,Ishgard,Foundation,Carpentry,Eloin
+,54,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Fruit of the Loom,54,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Like Lemon on a Lumbercut,54,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Don't Ask Wyvern,56,Ishgard,Foundation,Carpentry,Eloin
+The Long Armillae of the Law,56,Ishgard,Foundation,Carpentry,Eloin
+Aim to Please,56,Ishgard,Foundation,Carpentry,Eloin
+A Sky Pirate's Life for Me,56,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Wooden Ambitions,56,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+"To Protect My City, I Must Wear a Mask",56,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+"Birch, Please",58,Ishgard,Foundation,Carpentry,Eloin
+Anatomy of a Drill Bit,58,Ishgard,Foundation,Carpentry,Eloin
+Hold on Adamantite,58,Ishgard,Foundation,Carpentry,Eloin
+Built This City on Blocks and Soul,58,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Pulling Them to the Grind,58,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+Spears for Stone Vigilantes,58,Ishgard,Foundation,Carpentry (Large-scale),Eloin
+"Beech, Please",60,Kugane,Kugane,Carpentry,Keltraeng
+Reeling for Rods,60,Kugane,Kugane,Carpentry,Keltraeng
+Walk the Walk,60,Kugane,Kugane,Carpentry,Keltraeng
+Standing on Ceremony,62,Kugane,Kugane,Carpentry,Keltraeng
+Composition,62,Kugane,Kugane,Carpentry,Keltraeng
+Wood That You Could,62,Kugane,Kugane,Carpentry,Keltraeng
+Run Before They Walk,64,Kugane,Kugane,Carpentry,Keltraeng
+Pinewheel,64,Kugane,Kugane,Carpentry,Keltraeng
+O Pine,64,Kugane,Kugane,Carpentry,Keltraeng
+Everybody's Heard About the 'Berd,66,Kugane,Kugane,Carpentry,Keltraeng
+The Ear is the Way to the Heart,66,Kugane,Kugane,Carpentry,Keltraeng
+Spare a Rod and Spoil the Fishers,66,Kugane,Kugane,Carpentry,Keltraeng
+With a Bow on Top,68,Kugane,Kugane,Carpentry,Keltraeng
+"Zelkova, My Love",68,Kugane,Kugane,Carpentry,Keltraeng
+Putting Your Line on the Neck,68,Kugane,Kugane,Carpentry,Keltraeng
+Built to Last,70,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Just Starting Out,70,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Playing the Market,70,The Crystarium,The Baldaquin,Carpentry,Eirikur
+A Stronger Offense,72,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Taking Aim,72,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Understaffed,72,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Ground to a Halt,74,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Horde of the Rings,74,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Patient Patients,74,The Crystarium,The Baldaquin,Carpentry,Eirikur
+A Miss and a Hit,76,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Sleep On It,76,The Crystarium,The Baldaquin,Carpentry,Eirikur
+The Right Tool for the Job,76,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Kindling the Flame,78,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Off to a Good Staff,78,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Safety First,78,The Crystarium,The Baldaquin,Carpentry,Eirikur
+Pork Is a Salty Food,1,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Trout Fishing in Limsa,1,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+In Hot Water,1,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+It's Always Sunny in Vylbrand,1,Lower La Noscea,Red Rooster Stead,Culinary,Wyrkholsk
+Meat-lover's Special,1,Lower La Noscea,Red Rooster Stead,Culinary,Wyrkholsk
+What a Sap,1,Lower La Noscea,Red Rooster Stead,Culinary,Wyrkholsk
+Jack of All Plates,5,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Whip It,5,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+A Real Fungi,5,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Fishy Revelations,5,Lower La Noscea,Red Rooster Stead,Culinary,Wyrkholsk
+Putting the Squeeze On,5,Lower La Noscea,Red Rooster Stead,Culinary,Wyrkholsk
+Butter Me Up,5,Lower La Noscea,Red Rooster Stead,Culinary,Wyrkholsk
+Keep Your Powder Dry,10,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Pretty Enough to Eat,10,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Go Ahead and Dig In,10,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+The Bango Zango Diet,10,Western La Noscea,Swiftperch,Culinary,Swygskyf
+Fisher of Men,10,Western La Noscea,Swiftperch,Culinary,Swygskyf
+Chew the Fat,10,Western La Noscea,Swiftperch,Culinary,Swygskyf
+Omelette's Be Friends,15,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Shy Is the Oyster,15,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+A Total Nut Job,15,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Flakes for Friends,15,Western La Noscea,Aleport,Culinary,Orwen
+Sweet Smell of Success,15,Western La Noscea,Aleport,Culinary,Orwen
+Rustic Repast,15,Western La Noscea,Aleport,Culinary,Orwen
+A Grape Idea,20,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Brain Food,20,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Feast of All Soles,20,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Food Fight,20,South Shroud,Quarrymill,Culinary,Nyell
+For Crumbs' Sake,20,South Shroud,Quarrymill,Culinary,Nyell
+Picnic Panic,20,South Shroud,Quarrymill,Culinary,Nyell
+Convalescence Precedes Essence,25,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Fever Pitch,25,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Cooking with Gas,25,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Whirled Peas,25,South Shroud,Quarrymill,Culinary,Nyell
+Love's Crumpets Lost,25,South Shroud,Quarrymill,Culinary,Nyell
+I Love Lamprey,25,South Shroud,Quarrymill,Culinary,Nyell
+"Bloody Good Tart, This",30,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+True Grits,30,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Pretty as a Picture,30,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Gegeruju Gets Down,30,Eastern La Noscea,Costa del Sol,Culinary,Nahctahr
+Point Them with the Sticky End,30,Eastern La Noscea,Costa del Sol,Culinary,Nahctahr
+Sole Survivor,30,Eastern La Noscea,Costa del Sol,Culinary,Nahctahr
+Don't Turn Up Your Nose,35,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Feeding Frenzy,35,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+No More Dumpster Diving,35,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Rise and Dine,35,Coerthas Central Highlands,Observatorium,Culinary,Cimeaurant
+Winter of Our Discontent,35,Coerthas Central Highlands,Observatorium,Culinary,Cimeaurant
+Leek Soup for the Soul,35,Coerthas Central Highlands,Observatorium,Culinary,Cimeaurant
+The Perks of Life at Sea,40,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Made by Apple in Coerthas,40,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Moving Up in the World,40,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Rolanberry Fields Forever,40,Coerthas Central Highlands,Whitebrim Front,Culinary,Voilinaut
+Good Eats in Ishgard,40,Coerthas Central Highlands,Whitebrim Front,Culinary,Voilinaut
+Pagan Pastries,40,Coerthas Central Highlands,Whitebrim Front,Culinary,Voilinaut
+The Egg Files,45,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Bread in the Clouds,45,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Culture Club,45,Limsa Lominsa,Limsa Lominsa,Culinary,T'mokkri
+Comfort Me with Mushrooms,45,Mor Dhona,Saint Coinach's Find,Culinary,K'leytai
+Drinking to Your Health,45,Mor Dhona,Saint Coinach's Find,Culinary,K'leytai
+Red Letter Day,45,Mor Dhona,Saint Coinach's Find,Culinary,K'leytai
+The Next to Last Supper,50,Ishgard,Foundation,Culinary,Eloin
+Little Orphan Candy,50,Ishgard,Foundation,Culinary,Eloin
+The Aroma of Faith,50,Ishgard,Foundation,Culinary,Eloin
+Nostalgia through the Stomach,50,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Confections of Confession,50,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Soup's On,50,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Such a Butter Face,52,Ishgard,Foundation,Culinary,Eloin
+Loving That Muffin Top,52,Ishgard,Foundation,Culinary,Eloin
+Persona non Gratin,52,Ishgard,Foundation,Culinary,Eloin
+No Margarine of Error,52,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Muffin of the Morn,52,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Recipe for Disaster,52,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Breakfast of Champions,54,Ishgard,Foundation,Culinary,Eloin
+The Nutcracker's Sweets,54,Ishgard,Foundation,Culinary,Eloin
+"Old Victories, New Tastes",54,Ishgard,Foundation,Culinary,Eloin
+Emerald Soup for the Soul,54,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Time for a Midnight Snack,54,Ishgard,Foundation,Culinary (Large-scale),Eloin
+The Eats of Authenticity,54,Ishgard,Foundation,Culinary (Large-scale),Eloin
+It Goes Down Smoothly,56,Ishgard,Foundation,Culinary,Eloin
+Saucy for a Suitor,56,Ishgard,Foundation,Culinary,Eloin
+Persuasion of a Higher Power,56,Ishgard,Foundation,Culinary,Eloin
+Quenching the Flame,56,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Saved by the Sauce,56,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Loaves the Fishes,56,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Let's Not Get Sappy,58,Ishgard,Foundation,Culinary,Eloin
+Soup That Eats Like a Knight,58,Ishgard,Foundation,Culinary,Eloin
+Don't Let It Fall Apart,58,Ishgard,Foundation,Culinary,Eloin
+Lap of Luxury,58,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Like Ma Used to Make,58,Ishgard,Foundation,Culinary (Large-scale),Eloin
+Better Come Back with a Sandwich,58,Ishgard,Foundation,Culinary (Large-scale),Eloin
+All You Can Stomach,60,Kugane,Kugane,Culinary,Keltraeng
+Loquacious,60,Kugane,Kugane,Culinary,Keltraeng
+Oh No Udon,60,Kugane,Kugane,Culinary,Keltraeng
+The Frier Never Lies,62,Kugane,Kugane,Culinary,Keltraeng
+Soup for the Soul,62,Kugane,Kugane,Culinary,Keltraeng
+Hunger is No Game,62,Kugane,Kugane,Culinary,Keltraeng
+Sweet Kiss of Death,64,Kugane,Kugane,Culinary,Keltraeng
+A Shorlonging for the Familiar,64,Kugane,Kugane,Culinary,Keltraeng
+Souper,64,Kugane,Kugane,Culinary,Keltraeng
+No Othard Choice,66,Kugane,Kugane,Culinary,Keltraeng
+West Meats East,66,Kugane,Kugane,Culinary,Keltraeng
+Persimmony Snicket,66,Kugane,Kugane,Culinary,Keltraeng
+Herky Jerky,68,Kugane,Kugane,Culinary,Keltraeng
+Fits to a Tea,68,Kugane,Kugane,Culinary,Keltraeng
+Fish Box,68,Kugane,Kugane,Culinary,Keltraeng
+Cure for What Ails,70,The Crystarium,The Baldaquin,Culinary,Eirikur
+Meet for Meat,70,The Crystarium,The Baldaquin,Culinary,Eirikur
+Slippery Service,70,The Crystarium,The Baldaquin,Culinary,Eirikur
+His Dark Utensils,72,The Crystarium,The Baldaquin,Culinary,Eirikur
+Soup for the Soldier,72,The Crystarium,The Baldaquin,Culinary,Eirikur
+Sweet Tooth,72,The Crystarium,The Baldaquin,Culinary,Eirikur
+Can't Eat Just One,74,The Crystarium,The Baldaquin,Culinary,Eirikur
+Mixology,74,The Crystarium,The Baldaquin,Culinary,Eirikur
+One Last Meal,74,The Crystarium,The Baldaquin,Culinary,Eirikur
+A Good Omen,76,The Crystarium,The Baldaquin,Culinary,Eirikur
+On a Full Stomach,76,The Crystarium,The Baldaquin,Culinary,Eirikur
+Teetotally,76,The Crystarium,The Baldaquin,Culinary,Eirikur
+A Cookie for Your Troubles,78,The Crystarium,The Baldaquin,Culinary,Eirikur
+A Happy End,78,The Crystarium,The Baldaquin,Culinary,Eirikur
+Super Dark Times,78,The Crystarium,The Baldaquin,Culinary,Eirikur
+Copper and Robbers,1,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Needful Rings,1,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Arms for the Poor,1,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Water of Life,1,Western Thanalan,Scorpion Crossing,Goldsmithing,Graceful Song
+Hora at Me,1,Western Thanalan,Scorpion Crossing,Goldsmithing,Graceful Song
+Bad Bromance,1,Western Thanalan,Scorpion Crossing,Goldsmithing,Graceful Song
+Gods of Small Things,5,Ul'dah,Ul'dah,Goldsmithing,Eustace
+I Ram What I Ram,5,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Let's Talk about Hex,5,Ul'dah,Ul'dah,Goldsmithing,Eustace
+A Needle Is a Small Sword,5,Western Thanalan,Scorpion Crossing,Goldsmithing,Graceful Song
+Horn of Plenty,5,Western Thanalan,Scorpion Crossing,Goldsmithing,Graceful Song
+A Ringing Success,5,Western Thanalan,Scorpion Crossing,Goldsmithing,Graceful Song
+The Tusk at Hand,10,Ul'dah,Ul'dah,Goldsmithing,Eustace
+All That Glitters,10,Ul'dah,Ul'dah,Goldsmithing,Eustace
+An Offer We Can't Refuse,10,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Better Four Eyes than None,10,Western Thanalan,Horizon,Goldsmithing,Totonowa
+Point of Honor,10,Western Thanalan,Horizon,Goldsmithing,Totonowa
+Gorgeous Gorget,10,Western Thanalan,Horizon,Goldsmithing,Totonowa
+Forever 21K,15,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Brothers in Arms,15,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Bad to the Bone,15,Ul'dah,Ul'dah,Goldsmithing,Eustace
+I Am a Rock,15,Eastern Thanalan,Camp Drybone,Goldsmithing,Poponagu
+Bad Guys Eat Brass,15,Eastern Thanalan,Camp Drybone,Goldsmithing,Poponagu
+Sharp Words,15,Eastern Thanalan,Camp Drybone,Goldsmithing,Poponagu
+Perk of Fiction,20,Ul'dah,Ul'dah,Goldsmithing,Eustace
+King for a Day,20,Ul'dah,Ul'dah,Goldsmithing,Eustace
+"You Burnt It, You Bought It",20,Ul'dah,Ul'dah,Goldsmithing,Eustace
+One and Only,20,South Shroud,Quarrymill,Goldsmithing,Nyell
+Music to Their Ears,20,South Shroud,Quarrymill,Goldsmithing,Nyell
+Dog Tags Are for Dogs,20,South Shroud,Quarrymill,Goldsmithing,Nyell
+Love in the Time of Umbra,25,Ul'dah,Ul'dah,Goldsmithing,Eustace
+All Booked Up,25,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Thaumaturge Is Magic,25,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Necklet of Champions,25,South Shroud,Quarrymill,Goldsmithing,Nyell
+Keep the Change,25,South Shroud,Quarrymill,Goldsmithing,Nyell
+Dancing with the Stars,25,South Shroud,Quarrymill,Goldsmithing,Nyell
+One Man's Trash,30,Ul'dah,Ul'dah,Goldsmithing,Eustace
+A Little Bird Told Me,30,Ul'dah,Ul'dah,Goldsmithing,Eustace
+He Has His Quartz,30,Ul'dah,Ul'dah,Goldsmithing,Eustace
+It's Only Love,30,Eastern La Noscea,Costa del Sol,Goldsmithing,Nahctahr
+Renascence Man,30,Eastern La Noscea,Costa del Sol,Goldsmithing,Nahctahr
+Get the Green Stuff,30,Eastern La Noscea,Costa del Sol,Goldsmithing,Nahctahr
+Lode It Up,35,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Burning the Midnight Oil,35,Ul'dah,Ul'dah,Goldsmithing,Eustace
+"Actually, It's Loyalty",35,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Dead Can't Defang,35,Coerthas Central Highlands,Observatorium,Goldsmithing,Cimeaurant
+Wear Your Patriotic Pin,35,Coerthas Central Highlands,Observatorium,Goldsmithing,Cimeaurant
+Faith and Fashion,35,Coerthas Central Highlands,Observatorium,Goldsmithing,Cimeaurant
+When We Were Blings,40,Ul'dah,Ul'dah,Goldsmithing,Eustace
+It's My Business to Know Things,40,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Coral on My Mind,40,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Tough Job Market,40,Coerthas Central Highlands,Whitebrim Front,Goldsmithing,Voilinaut
+North Ore South,40,Coerthas Central Highlands,Whitebrim Front,Goldsmithing,Voilinaut
+"If You've Got It, Flaunt It",40,Coerthas Central Highlands,Whitebrim Front,Goldsmithing,Voilinaut
+Gold Is So Last Year,45,Ul'dah,Ul'dah,Goldsmithing,Eustace
+The Big Red,45,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Green and Bear It,45,Ul'dah,Ul'dah,Goldsmithing,Eustace
+Sew Not Doing This,45,Mor Dhona,Saint Coinach's Find,Goldsmithing,K'leytai
+Sweet Charity,45,Mor Dhona,Saint Coinach's Find,Goldsmithing,K'leytai
+Light in the Darkness,45,Mor Dhona,Saint Coinach's Find,Goldsmithing,K'leytai
+Not on My Table,50,Ishgard,Foundation,Goldsmithing,Eloin
+"The Goggles, They Do Naught",50,Ishgard,Foundation,Goldsmithing,Eloin
+Halonic Hermeneutrics,50,Ishgard,Foundation,Goldsmithing,Eloin
+Heinz's Dilemma,50,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Peril Never Wore Safety Goggles,50,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Transposing Theology,50,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+"High Above Me, She Sews Lovely",52,Ishgard,Foundation,Goldsmithing,Eloin
+Sense of Entitlement,52,Ishgard,Foundation,Goldsmithing,Eloin
+Sky Is the Limit,52,Ishgard,Foundation,Goldsmithing,Eloin
+Old-school Spooling,52,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Charting the Trends,52,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Hulls of Broken Dreams,52,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Citizen's Arrest,54,Ishgard,Foundation,Goldsmithing,Eloin
+The Unfortunate Retirony,54,Ishgard,Foundation,Goldsmithing,Eloin
+The Monuments Mages,54,Ishgard,Foundation,Goldsmithing,Eloin
+Watchers within the Walls,54,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Life Ends at Retirement,54,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Deal with It,54,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+The Grander Temple,56,Ishgard,Foundation,Goldsmithing,Eloin
+Needs More Prayerbell,56,Ishgard,Foundation,Goldsmithing,Eloin
+Appeasing the Astromancer,56,Ishgard,Foundation,Goldsmithing,Eloin
+Man with a Dragon Earring,56,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+With a Noise That Reaches Heaven,56,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Silver Bar of Upcycling,56,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Embroiling Embroidery,58,Ishgard,Foundation,Goldsmithing,Eloin
+Keeping Claw and Order,58,Ishgard,Foundation,Goldsmithing,Eloin
+A Halo for Her Head,58,Ishgard,Foundation,Goldsmithing,Eloin
+The Lovely Hands of Haillenarte,58,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Ring of Reciprocity,58,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+It's the Circlet of Life,58,Ishgard,Foundation,Goldsmithing (Large-scale),Eloin
+Wants and Needles,60,Kugane,Kugane,Goldsmithing,Keltraeng
+One Ring Circus,60,Kugane,Kugane,Goldsmithing,Keltraeng
+Play It By Ear,60,Kugane,Kugane,Goldsmithing,Keltraeng
+Chain of Command,62,Kugane,Kugane,Goldsmithing,Keltraeng
+Bracelet for Impact,62,Kugane,Kugane,Goldsmithing,Keltraeng
+If I'd a Koppranickel for Every Time…,62,Kugane,Kugane,Goldsmithing,Keltraeng
+Cutting Deals,64,Kugane,Kugane,Goldsmithing,Keltraeng
+Needle in a Hingan Stack,64,Kugane,Kugane,Goldsmithing,Keltraeng
+Hair-raising Action,64,Kugane,Kugane,Goldsmithing,Keltraeng
+Ring in the New,66,Kugane,Kugane,Goldsmithing,Keltraeng
+Put the Metal to the Peddle,66,Kugane,Kugane,Goldsmithing,Keltraeng
+Best-laid Planispheres,66,Kugane,Kugane,Goldsmithing,Keltraeng
+Choker in the Clutch,68,Kugane,Kugane,Goldsmithing,Keltraeng
+Untucked,68,Kugane,Kugane,Goldsmithing,Keltraeng
+Speak Softly and Carry a Metal Rod,68,Kugane,Kugane,Goldsmithing,Keltraeng
+Satisfactory Sewing,70,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Whetstones for the Workers,70,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+You're My Wonderhall,70,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Gentleman Donor,72,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Neck on the Line,72,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Slimming Down,72,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Copious Crystal Cannons,74,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Hot Rod,74,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Unsung Generosity,74,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+A Magnanimous Refrain,76,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Birth Ring,76,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Prophet of Profit,76,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+A Beneficient Elegy,78,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Bulking Up,78,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Wrap Those Wrists,78,The Crystarium,The Baldaquin,Goldsmithing,Eirikur
+Red in the Head,1,Gridania,Gridania,Leatherworking,Gontrant
+Underneath It All,1,Gridania,Gridania,Leatherworking,Gontrant
+Sole Traders,1,Gridania,Gridania,Leatherworking,Gontrant
+Tan Before the Ban,1,Central Shroud,The Bannock,Leatherworking,Muriaule
+Sticking Their Necks Out,1,Central Shroud,The Bannock,Leatherworking,Muriaule
+Packmen,1,Central Shroud,The Bannock,Leatherworking,Muriaule
+From the Sands to the Stage,5,Gridania,Gridania,Leatherworking,Gontrant
+Mind over Muzzle,5,Gridania,Gridania,Leatherworking,Gontrant
+In Their Shoes,5,Gridania,Gridania,Leatherworking,Gontrant
+Throwing Down the Gauntlet,5,Central Shroud,The Bannock,Leatherworking,Muriaule
+A Place to Call Helm,5,Central Shroud,The Bannock,Leatherworking,Muriaule
+A Thorn in One's Hide,5,Central Shroud,The Bannock,Leatherworking,Muriaule
+The Bards' Guards,10,Gridania,Gridania,Leatherworking,Gontrant
+Quelling Bloody Rumors,10,Gridania,Gridania,Leatherworking,Gontrant
+Saddle Sore,10,Gridania,Gridania,Leatherworking,Gontrant
+Belt Up,10,Central Shroud,Bentbranch Meadows,Leatherworking,Tierney
+Simply the Best,10,Central Shroud,Bentbranch Meadows,Leatherworking,Tierney
+Only the Best,10,Central Shroud,Bentbranch Meadows,Leatherworking,Tierney
+Heads Up,15,Gridania,Gridania,Leatherworking,Gontrant
+Choke Hold,15,Gridania,Gridania,Leatherworking,Gontrant
+Skin off Their Backs,15,Gridania,Gridania,Leatherworking,Gontrant
+A Rush on Ringbands,15,East Shroud,The Hawthorne Hut,Leatherworking,Qina Lyehga
+On Their Feet Again,15,East Shroud,The Hawthorne Hut,Leatherworking,Qina Lyehga
+Back in the Band,15,East Shroud,The Hawthorne Hut,Leatherworking,Qina Lyehga
+Playing the Part,20,Gridania,Gridania,Leatherworking,Gontrant
+Fire and Hide,20,Gridania,Gridania,Leatherworking,Gontrant
+My Sole to Take,20,Gridania,Gridania,Leatherworking,Gontrant
+Open to Attack,20,South Shroud,Quarrymill,Leatherworking,Nyell
+Hands On,20,South Shroud,Quarrymill,Leatherworking,Nyell
+Packing a Punch,20,South Shroud,Quarrymill,Leatherworking,Nyell
+Men Who Scare Up Goats,25,Gridania,Gridania,Leatherworking,Gontrant
+Belts Served Cold,25,Gridania,Gridania,Leatherworking,Gontrant
+Just Rewards,25,Gridania,Gridania,Leatherworking,Gontrant
+"No Risk, No Reward",25,South Shroud,Quarrymill,Leatherworking,Nyell
+Campaign in the Membrane,25,South Shroud,Quarrymill,Leatherworking,Nyell
+Quicker than Sand,25,South Shroud,Quarrymill,Leatherworking,Nyell
+Quality over Quantity,30,Gridania,Gridania,Leatherworking,Gontrant
+Best Served Toad,30,Gridania,Gridania,Leatherworking,Gontrant
+Just Cinch It,30,Gridania,Gridania,Leatherworking,Gontrant
+The Hand that Bleeds,30,Eastern La Noscea,Costa del Sol,Leatherworking,Nahctahr
+Slave to Fashion,30,Eastern La Noscea,Costa del Sol,Leatherworking,Nahctahr
+Subordinate Clause,30,Eastern La Noscea,Costa del Sol,Leatherworking,Nahctahr
+Soft Shoe Shuffle,35,Gridania,Gridania,Leatherworking,Gontrant
+Supply Side Logic,35,Gridania,Gridania,Leatherworking,Gontrant
+The Righteous Tools for the Job,35,Gridania,Gridania,Leatherworking,Gontrant
+Through a Glass Brightly,35,Coerthas Central Highlands,Observatorium,Leatherworking,Cimeaurant
+Springtime for Coerthas,35,Coerthas Central Highlands,Observatorium,Leatherworking,Cimeaurant
+First They Came for the Heretics,35,Coerthas Central Highlands,Observatorium,Leatherworking,Cimeaurant
+Skirt Chaser,40,Gridania,Gridania,Leatherworking,Gontrant
+The Tao of Rabbits,40,Gridania,Gridania,Leatherworking,Gontrant
+The Birdmen of Ishgard,40,Gridania,Gridania,Leatherworking,Gontrant
+Not So Alike in Dignity,40,Coerthas Central Highlands,Whitebrim Front,Leatherworking,Voilinaut
+Foot Blues,40,Coerthas Central Highlands,Whitebrim Front,Leatherworking,Voilinaut
+"It's Not a Job, It's a Calling",40,Coerthas Central Highlands,Whitebrim Front,Leatherworking,Voilinaut
+Too Hot to Handle,45,Gridania,Gridania,Leatherworking,Gontrant
+Handle with Care,45,Gridania,Gridania,Leatherworking,Gontrant
+Hang in There,45,Gridania,Gridania,Leatherworking,Gontrant
+Tenderfoot Moments,45,Mor Dhona,Saint Coinach's Find,Leatherworking,K'leytai
+Fuss in Boots,45,Mor Dhona,Saint Coinach's Find,Leatherworking,K'leytai
+Spelling Me Softly,45,Mor Dhona,Saint Coinach's Find,Leatherworking,K'leytai
+Pummeling Abroad,50,Ishgard,Foundation,Leatherworking,Eloin
+From Mud to Mourning,50,Ishgard,Foundation,Leatherworking,Eloin
+Glorified Hole-punchers,50,Ishgard,Foundation,Leatherworking,Eloin
+Below Tradition's Belt,50,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+These Boots Are Made for Hawkin',50,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Treat Them with Kid Gloves,50,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+You Could Say It's a Moving Target,52,Ishgard,Foundation,Leatherworking,Eloin
+Maybe He's a Lion,52,Ishgard,Foundation,Leatherworking,Eloin
+(Don't) Love the Skin You're In,52,Ishgard,Foundation,Leatherworking,Eloin
+They Call It Bloody Mary,52,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+The Wyvern of It,52,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Belting Out the Low Notes,52,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+"Tally Ho, Chocobo",54,Ishgard,Foundation,Leatherworking,Eloin
+"Overall, We Blend In",54,Ishgard,Foundation,Leatherworking,Eloin
+Dragoon Drop Rate,54,Ishgard,Foundation,Leatherworking,Eloin
+Hunting Heretics,54,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Eviction Notice,54,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Exploiting the Adroit,54,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+I Need Your Glove Tonight,56,Ishgard,Foundation,Leatherworking,Eloin
+Don't Sweat the Small Fry,56,Ishgard,Foundation,Leatherworking,Eloin
+Trainin' the Neck,56,Ishgard,Foundation,Leatherworking,Eloin
+Halonic Drake Handlers,56,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+It's All in the Wrists,56,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Training Is Only Skin-tight,56,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Starting Off on the Wrong Foot,58,Ishgard,Foundation,Leatherworking,Eloin
+Bar of the Bannermen,58,Ishgard,Foundation,Leatherworking,Eloin
+It Will Knock Your Socks Off,58,Ishgard,Foundation,Leatherworking,Eloin
+Raising the Dragoons,58,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Do My Little Turn on the Stonewalk,58,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+On My Own Two Feet,58,Ishgard,Foundation,Leatherworking (Large-scale),Eloin
+Vested Interest,60,Kugane,Kugane,Leatherworking,Keltraeng
+Fitting In,60,Kugane,Kugane,Leatherworking,Keltraeng
+Hide to Go Seek,60,Kugane,Kugane,Leatherworking,Keltraeng
+Off the Cuff,62,Kugane,Kugane,Leatherworking,Keltraeng
+Weathering Heights,62,Kugane,Kugane,Leatherworking,Keltraeng
+Looking for Glove,62,Kugane,Kugane,Leatherworking,Keltraeng
+Tiger in The Sack,64,Kugane,Kugane,Leatherworking,Keltraeng
+Shoe on the Other Foot,64,Kugane,Kugane,Leatherworking,Keltraeng
+Try Tricorn Again,64,Kugane,Kugane,Leatherworking,Keltraeng
+Security Breeches,66,Kugane,Kugane,Leatherworking,Keltraeng
+A Stitch in Time,66,Kugane,Kugane,Leatherworking,Keltraeng
+Shrug It On,66,Kugane,Kugane,Leatherworking,Keltraeng
+If the Shoe Fits,68,Kugane,Kugane,Leatherworking,Keltraeng
+Brace Yourself,68,Kugane,Kugane,Leatherworking,Keltraeng
+Thick and Thin,68,Kugane,Kugane,Leatherworking,Keltraeng
+Band Substances,70,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Girding for Glory,70,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Ware and Chair,70,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+A Slippery Slope,72,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Breeches of Trust,72,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Glove Me Tender,72,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+A Heady Endeavor,74,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+At Your Neck and Call,74,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Peace in Rest,74,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+If I Could Walk a Thousand Malms,76,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Protecting the Nuts,76,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Strike True,76,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+A Show In,78,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Fit for a Friend,78,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+Into the Storm,78,The Crystarium,The Baldaquin,Leatherworking,Eirikur
+The Unmentionables,1,Ul'dah,Ul'dah,Weaving,Eustace
+Trew Enough,1,Ul'dah,Ul'dah,Weaving,Eustace
+Not Cool Enough,1,Ul'dah,Ul'dah,Weaving,Eustace
+"Long Hair, Long Life",1,Western Thanalan,Scorpion Crossing,Weaving,Graceful Song
+Burn Me Up,1,Western Thanalan,Scorpion Crossing,Weaving,Graceful Song
+Hire in the Blood,1,Western Thanalan,Scorpion Crossing,Weaving,Graceful Song
+A Taste for Dalmaticae,5,Ul'dah,Ul'dah,Weaving,Eustace
+The Adventurer's New Coat,5,Ul'dah,Ul'dah,Weaving,Eustace
+Just for Kecks,5,Ul'dah,Ul'dah,Weaving,Eustace
+Time for Acton,5,Western Thanalan,Scorpion Crossing,Weaving,Graceful Song
+This Is Why You Can't Have Nice Things,5,Western Thanalan,Scorpion Crossing,Weaving,Graceful Song
+Wiggle Room,5,Western Thanalan,Scorpion Crossing,Weaving,Graceful Song
+Hat in Hand,10,Ul'dah,Ul'dah,Weaving,Eustace
+Workplace Safety,10,Ul'dah,Ul'dah,Weaving,Eustace
+Keep It under Wraps,10,Ul'dah,Ul'dah,Weaving,Eustace
+Dirt Cheap,10,Western Thanalan,Horizon,Weaving,Totonowa
+Welcome to the Cotton Club,10,Western Thanalan,Horizon,Weaving,Totonowa
+Making Gloves Out of Nothing at All,10,Western Thanalan,Horizon,Weaving,Totonowa
+Don't Trew So Hard,15,Ul'dah,Ul'dah,Weaving,Eustace
+Read the Fine Print,15,Ul'dah,Ul'dah,Weaving,Eustace
+Better Shroud than Sorry,15,Ul'dah,Ul'dah,Weaving,Eustace
+A Drag of a Doublet,15,Eastern Thanalan,Camp Drybone,Weaving,Poponagu
+Pants Are Not Enough,15,Eastern Thanalan,Camp Drybone,Weaving,Poponagu
+Touch Me If You Can,15,Eastern Thanalan,Camp Drybone,Weaving,Poponagu
+Don't Sash Me,20,Ul'dah,Ul'dah,Weaving,Eustace
+Hitting Below the Belt,20,Ul'dah,Ul'dah,Weaving,Eustace
+Doublet Jeopardy,20,Ul'dah,Ul'dah,Weaving,Eustace
+Getting Handsy,20,South Shroud,Quarrymill,Weaving,Nyell
+Whatchoo Talking About,20,South Shroud,Quarrymill,Weaving,Nyell
+The Telltale Tress,20,South Shroud,Quarrymill,Weaving,Nyell
+Piling It On,25,Ul'dah,Ul'dah,Weaving,Eustace
+He's Got Legs,25,Ul'dah,Ul'dah,Weaving,Eustace
+I'll Be Your Wailer Today,25,Ul'dah,Ul'dah,Weaving,Eustace
+Put a Lid on It,25,South Shroud,Quarrymill,Weaving,Nyell
+Pantser Corps,25,South Shroud,Quarrymill,Weaving,Nyell
+Bet You Anything,25,South Shroud,Quarrymill,Weaving,Nyell
+By the Short Hairs,30,Ul'dah,Ul'dah,Weaving,Eustace
+Our Man in Ul'dah,30,Ul'dah,Ul'dah,Weaving,Eustace
+By the Seat of the Pants,30,Ul'dah,Ul'dah,Weaving,Eustace
+Put on Your Party Pants,30,Eastern La Noscea,Costa del Sol,Weaving,Nahctahr
+Half is the New Double,30,Eastern La Noscea,Costa del Sol,Weaving,Nahctahr
+Walk Softly and Carry a Big Halberd,30,Eastern La Noscea,Costa del Sol,Weaving,Nahctahr
+Private Concerns,35,Ul'dah,Ul'dah,Weaving,Eustace
+Crunching the Numbers,35,Ul'dah,Ul'dah,Weaving,Eustace
+Edmelle's Hair,35,Ul'dah,Ul'dah,Weaving,Eustace
+The Wages of Sin,35,Coerthas Central Highlands,Observatorium,Weaving,Cimeaurant
+In over Your Head,35,Coerthas Central Highlands,Observatorium,Weaving,Cimeaurant
+A Leg Up on the Cold,35,Coerthas Central Highlands,Observatorium,Weaving,Cimeaurant
+After the Smock-down,40,Ul'dah,Ul'dah,Weaving,Eustace
+Party Animals,40,Ul'dah,Ul'dah,Weaving,Eustace
+Cool to Be Southern,40,Ul'dah,Ul'dah,Weaving,Eustace
+No Country for Cold Men,40,Coerthas Central Highlands,Whitebrim Front,Weaving,Voilinaut
+I'll Swap You,40,Coerthas Central Highlands,Whitebrim Front,Weaving,Voilinaut
+A Matter of Import,40,Coerthas Central Highlands,Whitebrim Front,Weaving,Voilinaut
+Glad As a Hatter,45,Ul'dah,Ul'dah,Weaving,Eustace
+Seeing It Through to the End,45,Ul'dah,Ul'dah,Weaving,Eustace
+Full Moon Fever,45,Ul'dah,Ul'dah,Weaving,Eustace
+And a Haircut Wouldn't Hurt,45,Mor Dhona,Saint Coinach's Find,Weaving,K'leytai
+Big in Mor Dhona,45,Mor Dhona,Saint Coinach's Find,Weaving,K'leytai
+"Bundle Up, It's Odd out There",45,Mor Dhona,Saint Coinach's Find,Weaving,K'leytai
+Pride Up in Smoke,50,Ishgard,Foundation,Weaving,Eloin
+Perfecting the Posture,50,Ishgard,Foundation,Weaving,Eloin
+Ribbon of Remembrance,50,Ishgard,Foundation,Weaving,Eloin
+Desperate for Diversionaries,50,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Curb the Gnawing Feeling,50,Ishgard,Foundation,Weaving (Large-scale),Eloin
+The Road Was a Ribbon of Moonlight,50,Ishgard,Foundation,Weaving (Large-scale),Eloin
+What Not to Wear,52,Ishgard,Foundation,Weaving,Eloin
+Fashion Patrol,52,Ishgard,Foundation,Weaving,Eloin
+An Account of My Apron,52,Ishgard,Foundation,Weaving,Eloin
+Appeal of Foreign Apparel,52,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Dress Code Violation,52,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Soot in My Hair and Scars on My Hands,52,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Clothing the Naked Truth,54,Ishgard,Foundation,Weaving,Eloin
+Storm upon Bald Mountain,54,Ishgard,Foundation,Weaving,Eloin
+Finger on the Pulse,54,Ishgard,Foundation,Weaving,Eloin
+When in Robes,54,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Abrupt Apprentices,54,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Chirurgeon Hand in Glove,54,Ishgard,Foundation,Weaving (Large-scale),Eloin
+"Where the Dragonflies, the Net Catches",56,Ishgard,Foundation,Weaving,Eloin
+A Show of Ice and Fire,56,Ishgard,Foundation,Weaving,Eloin
+Investing in the Future,56,Ishgard,Foundation,Weaving,Eloin
+To Kill a Dragon on Nameday,56,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Through Sashes Come the Ashes,56,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Maids of Honor,56,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Felt for the Fallen,58,Ishgard,Foundation,Weaving,Eloin
+He Wears the Pants,58,Ishgard,Foundation,Weaving,Eloin
+The Clothes off Her Back,58,Ishgard,Foundation,Weaving,Eloin
+Blinding Veil of Vigilance,58,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Pom Hemlock,58,Ishgard,Foundation,Weaving (Large-scale),Eloin
+The Cinders of Modesty,58,Ishgard,Foundation,Weaving (Large-scale),Eloin
+Proper Props,60,Kugane,Kugane,Weaving,Keltraeng
+What Guides Want,60,Kugane,Kugane,Weaving,Keltraeng
+Modest Beginnings,60,Kugane,Kugane,Weaving,Keltraeng
+Getting a Leg Up,62,Kugane,Kugane,Weaving,Keltraeng
+Skills on Display,62,Kugane,Kugane,Weaving,Keltraeng
+Duress Rehearsal,62,Kugane,Kugane,Weaving,Keltraeng
+Of Great Import,64,Kugane,Kugane,Weaving,Keltraeng
+Apparent Apparel,64,Kugane,Kugane,Weaving,Keltraeng
+Say Yes to Formal Dress,64,Kugane,Kugane,Weaving,Keltraeng
+To the Tops,66,Kugane,Kugane,Weaving,Keltraeng
+Who War It Better,66,Kugane,Kugane,Weaving,Keltraeng
+Don't Sweat the Role,66,Kugane,Kugane,Weaving,Keltraeng
+Wrap It Up,68,Kugane,Kugane,Weaving,Keltraeng
+One Winged Angle,68,Kugane,Kugane,Weaving,Keltraeng
+Brimming With Confidence,68,Kugane,Kugane,Weaving,Keltraeng
+Flax Wax,70,The Crystarium,The Baldaquin,Weaving,Eirikur
+Lovely Leggings,70,The Crystarium,The Baldaquin,Weaving,Eirikur
+Turban in Training,70,The Crystarium,The Baldaquin,Weaving,Eirikur
+Legs for Days,72,The Crystarium,The Baldaquin,Weaving,Eirikur
+Hair Do No Harm,72,The Crystarium,The Baldaquin,Weaving,Eirikur
+Suits You,72,The Crystarium,The Baldaquin,Weaving,Eirikur
+A Tender Table,74,The Crystarium,The Baldaquin,Weaving,Eirikur
+Gloves Come in Handy,74,The Crystarium,The Baldaquin,Weaving,Eirikur
+Hunting Season,74,The Crystarium,The Baldaquin,Weaving,Eirikur
+All-purpose Overgarments,76,The Crystarium,The Baldaquin,Weaving,Eirikur
+Something in My Eyes,76,The Crystarium,The Baldaquin,Weaving,Eirikur
+The Hunt Continues,76,The Crystarium,The Baldaquin,Weaving,Eirikur
+A Job Well Done,78,The Crystarium,The Baldaquin,Weaving,Eirikur
+A Turban for the Ages,78,The Crystarium,The Baldaquin,Weaving,Eirikur
+Healing Headwear,78,The Crystarium,The Baldaquin,Weaving,Eirikur

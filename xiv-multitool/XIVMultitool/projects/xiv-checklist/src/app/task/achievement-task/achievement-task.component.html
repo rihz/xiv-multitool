@@ -1,0 +1,43 @@
+<div class="achievement-task">
+    <div class="main-contents">
+        <div class="contents">
+            <div class="points">
+                <span [style.opacity]="isTracked ? 1.0 : 0.3">
+                    {{ task.points }}
+                </span>
+            </div>
+            <div class="name">
+                <span [style.opacity]="isTracked ? 1.0 : 0.3">
+                    {{ task.name }}
+                </span>
+            </div>
+            <!-- <div class="description">
+                            <span [style.opacity]="isTracked ? 1.0 : 0.3">
+                                {{ task.description }}
+                            </span>
+                        </div> -->
+            <div class="extras">
+                <div *ngIf="hasTitle" class="title">
+                    <img src="https://img.finalfantasyxiv.com/lds/h/i/zgNdMxXg4Exk4Lg5BjhUybz8TY.png" />
+                </div>
+                <div *ngIf="hasReward" class="reward">
+                    <img src="https://img.finalfantasyxiv.com/lds/h/M/1t3TkHQAd7GaWGI3dyPrC73cMs.png" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="details" *ngIf="showDetails" @details>
+        <div class="rwd" *ngFor="let reward of task.rewards">
+            <div class="gold">
+                {{ reward.rewardTypeId === 5 ? 'TITLE' : 'REWARD' }}
+                <img *ngIf="reward.rewardTypeId === 5" class="title"
+                    src="https://img.finalfantasyxiv.com/lds/h/i/zgNdMxXg4Exk4Lg5BjhUybz8TY.png" />
+                <img *ngIf="reward.rewardTypeId !== 5" class="reward"
+                    src="https://img.finalfantasyxiv.com/lds/h/M/1t3TkHQAd7GaWGI3dyPrC73cMs.png" />
+            </div>
+            <div class="content">
+                {{ reward.rewardName }}
+            </div>
+        </div>
+    </div>
+</div>

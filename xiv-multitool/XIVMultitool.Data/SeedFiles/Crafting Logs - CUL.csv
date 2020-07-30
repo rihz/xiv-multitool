@@ -1,0 +1,375 @@
+Level,Name
+1,Table Salt
+1,Maple Syrup
+2,Maple Sugar
+3,Raisins
+3,Boiled Egg
+4,Rye Flour
+4,Honey
+4,Frumenty
+5,Fishmeal
+5,Crayfish Ball
+5,Battered Fish
+5,Rolanberry Shaved Ice
+5,Marmot Steak
+5,Grilled Trout
+5,Flatbread
+6,Sweet Cream
+6,Orange Juice
+7,Sunset Wheat Flour
+7,Smooth Butter
+7,Tree Toad Legs
+8,Braised Pipira
+8,Chanterelle Saute
+9,Boiled Crayfish
+9,Mutton Stew
+10,Kukuru Butter
+10,Goby Ball
+10,Jack-o'-lantern
+10,Mint Lassi
+11,Olive Oil
+11,Kukuru Powder
+11,Grilled Dodo
+12,Tomato Sauce
+12,Bubble Chocolate
+12,Pearl Chocolate
+13,Mole Loaf
+13,Parsnip Salad
+14,Gelatin
+14,Pie Dough
+14,Rabbit Pie
+15,Grilled Carp
+15,Salt Cod
+16,Cider Vinegar
+16,Lavender Oil
+16,Meat Miq'abob
+16,Dodo Omelette
+17,Cottage Cheese
+17,Lentils and Chestnuts
+17,Roasted Nopales
+17,Stone Soup
+18,Walnut Bread
+18,Apple Tart
+19,Raw Oyster
+20,Crab Ball
+20,Grilled Warmwater Trout
+20,Antelope Stew
+20,Chicken and Mushrooms
+21,Antelope Steak
+21,Honey Muffin
+21,Mashed Popotoes
+21,Grape Juice
+22,Mustard Eggs
+22,Spinach Saute
+22,Dried Plums
+23,Salmon Meuniere
+23,Dark Pretzel
+23,Shepherd's Pie
+24,Chamomile Tea
+25,Bass Ball
+25,Eel Pie
+26,Aldgoat Steak
+26,Ginger Cookie
+26,Pea Soup
+27,Fried Egg
+27,Boiled Bream
+27,Cheese Risotto
+28,Chicken Stock
+28,Orobon Stew
+28,Crumpet
+29,Cornmeal
+30,Baked Sole
+30,Grade 1 Feed - Speed Blend
+30,Grade 1 Feed - Acceleration Blend
+30,Grade 1 Feed - Endurance Blend
+30,Grade 1 Feed - Stamina Blend
+30,Grade 1 Feed - Balance Blend
+31,Dark Vinegar
+31,Alligator Salad
+31,Cornbread
+32,Smoked Raptor
+32,Forest Miq'abob
+33,Tuna Miq'abob
+33,Blood Currant Tart
+34,Scrambled Eggs
+34,Acorn Cookie
+35,Herring Ball
+35,Cawl Cennin
+36,Cream Cheese
+36,Sauerkraut
+37,Ratatouille
+37,Cheese Souffle
+38,Mugwort Carp
+38,Knight's Bread
+39,Raptor Stew
+39,Stuffed Artichoke
+40,Grilled Raincaller
+40,Pastry Fish
+40,Apple Juice
+41,Jerked Beef
+42,Salt Cod Puffs
+43,Rolanberry Cheese
+43,Fish Soup
+44,Dzemael Gratin
+44,Button Mushroom Saute
+45,Stuffed Cabbage
+45,La Noscean Toast
+45,Rolanberry Lassi
+46,Deviled Eggs
+47,Mulled Tea
+48,Crowned Pie
+49,Buttons in a Blanket
+50,Eft Steak
+50,Beef Stew
+50,Trapper's Quiche
+50,Dagger Soup
+50★,Pan-fried Mahi-Mahi
+50★,Landtrap Salad
+50★,Tomato Pie
+50★,Bouillabaisse
+50★,Rolanberry Cheesecake
+50★★,Sauteed Coeurl
+50★★,Apkallu Omelette
+50★★,Lava Toad Legs
+50★★,Black Truffle Risotto
+50★★,Finger Sandwich
+50★★,Spinach Quiche
+50★★,Chilled Popoto Soup
+50★★,Pineapple Ponzecake
+50★★,Pineapple Juice
+50★★,Grade 2 Feed - Speed Blend
+50★★,Grade 2 Feed - Acceleration Blend
+50★★,Grade 2 Feed - Endurance Blend
+50★★,Grade 2 Feed - Stamina Blend
+50★★,Grade 2 Feed - Balance Blend
+51,Sour Cream
+51,Fig Bavarois
+52,Highland Flour
+52,Stuffed Cabbage Rolls
+52,Baked Onion Soup
+53,Fermented Butter
+53,Sauteed Porcini
+53,Ishgardian Muffin
+53,Ishgardian Tea
+54,Grilled Sweetfish
+54,Dhalmel Gratin
+54,Beet Soup
+54,Sohm Al Tart
+55,Hollandaise Sauce
+55,Kaiser Roll
+56,Vermicelli
+56,Sesame Cookie
+56,Emerald Soup
+57,Royal Eggs
+57,Dhalmel Fricassee
+58,Cockatrice Meatballs
+58,Baked Pipira Pira
+58,Frozen Spirits
+59,Birch Syrup
+59,Liver-Cheese Sandwich
+59,Marron Glace
+60,Deep-fried Okeanis
+60,Stuffed Chysahl
+60,Morel Salad
+60,Clam Chowder
+61,Gyr Abanian Flour
+61,Baklava
+61,Loquat Juice
+62,Algae Salt
+62,Charred Charr
+62,Kasha
+62,Buckwheat Tea
+63,Cottonseed Oil
+63,Popoto Soba
+63,Grilled Turban
+64,Firm Tofu
+64,Beet Sugar
+64,Crab Croquette
+64,Miso Soup with Tofu
+65,Rice Vinegar
+65,Shorlog
+65,Sweet and Sour Frogs' Legs
+65,Gameni
+66,Tempura Platter
+66,Steppe Salad
+66,Nomad Meat Pie
+66,Warrior's Stew
+67,Egg Foo Young
+67,Fish Stew
+67,Persimmon Pudding
+68,Onigara-yaki
+68,Boiled Amberjack Head
+68,Doman Tea
+69,Jerked Jhammel
+69,Miso Dengaku
+69,Chirashi-zushi
+70,Stewed River Bream
+70,Steamed Grouper
+70,Jhammel Moussaka
+70★,Persimmon Leaf Sushi
+70★,Jellied Compote
+71,Frantoio Oil
+71,Grilled Rail
+71,Purple Carrot Juice
+72,Garden Beet Sugar
+72,Broad Bean Soup
+72,Caramels
+73,Squid Ink
+73,Grilled Platinum Bream
+73,Broad Bean Salad
+73,Spaghetti al Nero
+74,Upland Wheat Flour
+74,Golden Honey
+74,Baguette
+74,Pixie Apple Pie
+74,Blood Tomato Juice
+75,Night Vinegar
+75,Blood Tomato Salad
+75,Mushroom Saute
+75,Nut Bake
+76,Sausage Links
+76,Roast Ovim
+76,Baked Megapiranha
+76,Mushroom Skewer
+77,Peppered Popotoes
+77,Popotoes au Gratin
+77,Masala Chai
+78,Mist Spinach Saute
+78,Risotto al Nero
+78,Espresso con Panna
+79,Blood Bouillabaisse
+79,Paella
+79,Coffee Biscuit
+80,Ovim Cordon Bleu
+80,Oysters on the Half Shell
+80,Jellied Harcot
+80,Lemonade
+50★★,Spicy Tomato Relish
+50★★★,Rich Tomato Relish
+50★★★,Duck Broth
+50★★★,Tailor-made Eel Pie
+50★★★,Roast Canard
+50★★★,Steamed Catfish
+50★★★,Haddock Dip
+50★★★,Popoto Pancakes
+50★★★,Shark Fin Soup
+50★★★,Sachertorte
+50★★★★,Flint Caviar
+50★★★★,Bacon Bread
+50★★★★,Bacon Broth
+50★★★★,Triple Cream Coffee
+56,Oriental Breakfast
+57,Oriental Supper
+60★,Urchin Loaf
+60★,Steamed Staff
+60★,Seafood Stew
+60★,Almond Cream Croissant
+60★,Snurbleberry Tart
+60★,Kingcake
+60★,Creme Brulee
+60★,Hot Chocolate
+60★,Nameday Cake
+60★★,Sweet Gnomefish
+60★★,Oyster Confit
+60★★,Angler Stew
+60★★★,Peperoncino
+60★★★,Boscaiola
+60★★★,Loaghtan Steak
+60★★★,Apple Strudel
+60★★★,Spiced Cider
+60★★★,Pasta Ortolano
+60★★★,Heavensegg Soup
+60★★★★,Spaghetti Carbonara
+60★★★★,Spaghetti Pescatore
+60★★★★,Loaghtan Cordon Bleu
+60★★★★,Wildwood Scrambled Eggs
+60★★★★,Priestly Omelette
+60★★★★,Heavenly Eggnog
+60★★★★,Flaugnarde
+70★★,Pork Kakuni
+70★★,Chawan-mushi
+70★★,Sermon-worthy Meuniere
+70★★,Pork Stew
+70★★,Steppe Tea
+70★★★,Dzo Steak
+70★★★,Oden
+70★★★,Ema Datshi
+70★★★,Sauteed Green Leeks
+70★★★,Tako-yaki
+70★★★,Futo-maki Roll
+70★★★,Tofu Pancakes
+70★★★,Banh Xeo
+70★★★,Konpeito
+70★★★,Crimson Cider
+70★★★,Matcha
+70★★★★,Laghman
+70★★★★,Shakshouka
+70★★★★,Ginger Salad
+70★★★★,Imam Bayildi
+70★★★★,Salmon Muffin
+70★★★★,Papanasi
+70★★★★,Rooibos Tea
+80★★,Rare Roast Beef
+80★★,Creamy Salmon Pasta
+80★★,King Salmon Meuniere
+80★★,Exquisite Beef Stew
+80★★,Mejillones al Ajillo
+80★★,Popoto Salad
+80★★,Robe Lettuce Salad
+80★★,Arros Negre
+80★★,Pixieberry Cheesecake
+80★★,Kukuru Rusk
+80★★,Lemon Curd Sachertorte
+80★★,Pixieberry Tea
+78,Baker's Stall
+78,Fruiterer's Stall
+78,Greengrocer's Stall
+78,Butcher's Stall
+15,Wax Vegetables
+17,Sandwich Basket
+20,Starlight Dodo
+25,Riviera Supper
+27,Bowl of Oden
+30,Chilled Red
+32,Pot of Cream Stew
+35,Glade Tea Set
+40,Gourmet Lunch
+43,Redoubtable Rolanberry Tart
+45,Alpine Breakfast
+45,Starlight Cake
+50,Assorted Fruit
+50★,Oasis Breakfast
+50★,Green Tea Set
+50★★,Gourmet Supper
+50★★,Afternoon Tea Set
+50★★★,Valentione's Cake
+52,Cake Tray
+52,Royal Dowager Tea Set
+55,House Borel Tea Set
+56,Riviera Lunch
+56,Oriental Tea Set
+56,High House Supper Set
+56,Riviera Breakfast
+57,Alpine Tea Set
+60,Alpine Supper Set
+64,Oriental Udon Lunch
+65,Oriental Sushi Lunch
+65,Oriental Rice Ball Lunch
+66,Oriental Soba Lunch
+69,Bread Basket
+78,Oriental Chawanmushi Lunch
+63,Doman Rice Balls
+65,Doman Udon Broth
+68,Nigiri-zushi
+70,Doman Sukiyaki
+70,Edible Antidote
+73,Nutrient-Rich Porridge
+75,Fortifying Soup
+75,Offering of Sweets
+78,Berube Feed
+80,Zun-Style Amaro Feed
+20,Skybuilders' Hemp Milk
+40,Skybuilders' Uncooked Pasta
+60,Skybuilders' Tea
+70,Skybuilders' All-purpose Infusion
+80,Skybuilders' Stew

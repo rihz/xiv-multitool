@@ -1,0 +1,40 @@
+<div class="expanded-category" *ngIf="!default">
+    <button mat-button class="back-button" (click)="backtrack(category.id)">
+        <mat-icon>arrow_back</mat-icon>
+    </button>
+    <div class="stroke clickable" [style.width.px]="getWidth(category.position)"
+        [style.margin-left.px]="-20"></div>
+    <div class="name-card">
+        <span class="name">
+            {{ category.name }}
+        </span>
+    </div>
+    <div class="stroke">
+        <div class="complete">
+            <mat-card class="stat-card">
+                <div class="stats">
+                    76 / 100
+                </div>
+            </mat-card>
+            <mat-button-toggle-group class="button-group">
+                <mat-button-toggle value="untrack" class="untrack">
+                    <mat-icon>close</mat-icon>
+                </mat-button-toggle>
+                <mat-button-toggle [checked]="true" value="clear" class="clear">
+                    <mat-icon>horizontal_rule</mat-icon>
+                </mat-button-toggle>
+                <mat-button-toggle value="check" class="check">
+                    <mat-icon>check</mat-icon>
+                </mat-button-toggle>
+            </mat-button-toggle-group>
+        </div>
+    </div>
+</div>
+<div class="expanded-category" *ngIf="default">
+    <div class="name-card">
+        <span class="name default">
+            Categories
+        </span>
+    </div>
+    <div class="stroke"></div>
+</div>

@@ -1,0 +1,338 @@
+Discipline,Level,Name
+Tank,15,Avoid Area of Effect Attacks
+Tank,15,Execute a Combo to Increase Enmity
+Tank,15,Execute a Combo in Battle
+Tank,15,Accrue Enmity from Multiple Targets
+Tank,15,Engage Multiple Targets
+Tank,15,Execute a Ranged Attack to Increase Enmity
+Tank,15,Engage Enemy Reinforcements
+Tank,15,Final Exercise
+DPS,15,Avoid Area of Effect Attacks
+DPS,15,Assist Allies in Defeating a Target
+DPS,15,Defeat an Occupied Target
+DPS,15,Avoid Engaged Targets
+DPS,15,Engage Enemy Reinforcements
+DPS,15,Interact with the Battlefield
+DPS,15,Final Exercise
+Healer,15,Avoid Area of Effect Attacks
+Healer,15,Heal an Ally
+Healer,15,Heal Multiple Allies
+Healer,15,Avoid Engaged Targets
+Healer,15,Final Exercise
+Archer,1,Way of the Archer
+Archer,1,My First Bow
+Archer,5,A Matter of Perspective
+Archer,10,Training with Leih
+Archer,15,Violators Will Be Shot
+Archer,20,To Catch a Poacher
+Archer,25,Homecoming
+Archer,30,The One that Got Away
+Gladiator,1,Way of the Gladiator
+Gladiator,1,My First Gladius
+Gladiator,5,Kicking the Hornet's Nest
+Gladiator,10,Ul'dah's Most Wanted
+Gladiator,15,That Old Familiar Feeling
+Gladiator,20,The Face of Thal
+Gladiator,25,On Holy Ground
+Gladiator,30,The Rematch
+Lancer,1,Way of the Lancer
+Lancer,1,My First Spear
+Lancer,5,Spear of the Fearless
+Lancer,10,Courage of Stone
+Lancer,15,A Dangerous Proposition
+Lancer,20,Lance of Destiny
+Lancer,25,Questions and Lancers
+Lancer,30,Proof of Might
+Marauder,1,Way of the Marauder
+Marauder,1,My First Axe
+Marauder,5,Axe in the Stone
+Marauder,10,Wake of Destruction
+Marauder,15,Brutal Strength
+Marauder,20,The Mountain that Strides
+Marauder,25,Bleeder of the Pack
+Marauder,30,Bringing Down the Mountain
+Pugilist,1,Way of the Pugilist
+Pugilist,1,My First Hora
+Pugilist,5,Harder than Rock
+Pugilist,10,Burning Up the Quarter Malm
+Pugilist,15,The Spirit Is Willing
+Pugilist,20,Keeping the Spirit Alive
+Pugilist,25,Star-crossed Rivals
+Pugilist,30,Return of the Holyfist
+Rogue,1,My First Daggers
+Rogue,1,Stabbers in Yer Fambles
+Rogue,5,A Dainty Dilemma
+Rogue,10,Stray into the Shadows
+Rogue,15,Stifled Screams
+Rogue,15,Slave to the Code
+Rogue,20,Grinners in the Mist
+Rogue,25,Sweet Sorrows
+Rogue,30,Market for Death
+Rogue,30,Cloying Victory
+Arcanist,1,Way of the Arcanist
+Arcanist,1,My First Grimoire
+Arcanist,5,What's in the Box
+Arcanist,10,Tactical Planning
+Arcanist,15,Topaz Teachings
+Arcanist,15,Over the Rails
+Arcanist,20,Pincer Maneuver
+Arcanist,25,Grimoire Fandango
+Arcanist,30,Sinking Doesmaga
+Conjurer,1,Way of the Conjurer
+Conjurer,1,My First Cane
+Conjurer,5,Trial by Earth
+Conjurer,10,Trial by Wind
+Conjurer,15,Trial by Water
+Conjurer,20,Sylphie's Trials
+Conjurer,25,"Like Mother, Like Daughter"
+Conjurer,30,In Nature's Embrace
+Thaumaturge,1,Way of the Thaumaturge
+Thaumaturge,1,My First Scepter
+Thaumaturge,5,The Threat of Intimacy
+Thaumaturge,10,The Threat of Paucity
+Thaumaturge,15,The Threat of Superiority
+Thaumaturge,20,The Threat of Perplexity
+Thaumaturge,25,The Hidden Chapter
+Thaumaturge,30,Facing Your Demons
+Alchemist,1,Way of the Alchemist
+Alchemist,1,My First Alembic
+Alchemist,5,The Second Principle
+Alchemist,10,All of Your Beeswax
+Alchemist,15,For Fair Love
+Alchemist,20,The Archanist's Stone
+Alchemist,25,Practical Alchemy
+Alchemist,30,Baleful Brews
+Alchemist,35,Cease and Assist
+Alchemist,40,Might Made Right
+Alchemist,45,Ultimate Alchemy
+Alchemist,50,Momentary Miracle
+Alchemist,50,Without a Trace
+Alchemist,53,Magic Marks the Spot
+Alchemist,55,From Hells
+Alchemist,58,Burden of Proof
+Alchemist,60,What Death Can Join Together
+Alchemist,60,Not Quite Dead Yet
+Alchemist,63,The Forbidden Blade
+Alchemist,65,Do Goldsmiths Dream of Gilded Sheep
+Alchemist,68,No Sin Unpunished
+Alchemist,70,A Love Beyond Lifetimes
+Armorer,1,Way of the Armorer
+Armorer,1,My First Doming Hammer
+Armorer,5,From Thigh to Neck
+Armorer,10,The Base Fundamentals
+Armorer,15,One's Own Worst Critic
+Armorer,20,An Armorer's Pride
+Armorer,25,Showing Your Steel
+Armorer,30,May the Best Armorer Win
+Armorer,35,Pans of Steel
+Armorer,40,Best of Three
+Armorer,45,For the Good of the Guild
+Armorer,50,Rivalry and Respect
+Armorer,50,The Breaking of Blanstyr
+Armorer,53,Light-Headed
+Armorer,55,Fancy Lancer
+Armorer,58,The Reforging of Blanstyr
+Armorer,60,The Pride of Vymelli
+Armorer,60,Original Blanstyr
+Armorer,63,Eastern Apprentice
+Armorer,65,Forging with Scales
+Armorer,68,Head to Head Contest
+Armorer,70,A Confluence of Style
+Blacksmith,1,Way of the Blacksmith
+Blacksmith,1,My First Cross-pein Hammer
+Blacksmith,5,Hammer Time
+Blacksmith,10,Riveting Ramblings
+Blacksmith,15,The Business of Blacksmithing
+Blacksmith,20,By the Sweat of Your Brow
+Blacksmith,25,True as Steel
+Blacksmith,30,As Iron Sharpens Iron
+Blacksmith,35,Set Faezahr to Stun
+Blacksmith,40,Forging Ahead
+Blacksmith,45,Beauty and the Bardiche
+Blacksmith,50,Waiting in the Winglet
+Blacksmith,50,Forging Northwards
+Blacksmith,53,Leave It to Fremondain
+Blacksmith,55,The Good Fight
+Blacksmith,58,Blade That Was Broken
+Blacksmith,60,Integrity
+Blacksmith,60,A Missive from the Far East
+Blacksmith,63,The Client Is King
+Blacksmith,65,Blood Ties
+Blacksmith,68,The Missing Piece
+Blacksmith,70,The Final Face-off
+Carpenter,1,Way of the Carpenter
+Carpenter,1,My First Saw
+Carpenter,5,To Be the Wood
+Carpenter,10,Supplies for the Sick
+Carpenter,15,A Carpenter in Need
+Carpenter,20,The Lance's Lesson
+Carpenter,25,A Crisis of Confidence
+Carpenter,30,Between Captain and Conjurer
+Carpenter,35,Growing Apart
+Carpenter,40,Memento Mori
+Carpenter,45,Gone till the Sixth Astral Moon
+Carpenter,50,Saving Captain Gairhard
+Carpenter,50,Lance of a Lifetime
+Carpenter,53,A-hunting He Will Go
+Carpenter,55,Ministers of Grace Defend Him
+Carpenter,58,The Son Also Rises
+Carpenter,60,More Fierce than Fire
+Carpenter,60,Uncharted Territory
+Carpenter,63,The Game of Confidence
+Carpenter,65,A Lesson in Listening
+Carpenter,68,Live and Let Dine
+Carpenter,70,Tea Party Rules
+Culinarian,1,Way of the Culinarian
+Culinarian,1,My First Skillet
+Culinarian,5,A Treat of Trout
+Culinarian,10,Dodo It Yourself
+Culinarian,15,On a Skewer Tip
+Culinarian,20,Releasing a Burden
+Culinarian,25,Winning Friends with Aldgoat
+Culinarian,30,The Chefsbane Cometh
+Culinarian,35,Of Cooks and Books
+Culinarian,40,Diplomacy of the Skillet
+Culinarian,45,A Taste of Home
+Culinarian,50,Revenge of the Chefsbane
+Culinarian,50,Wait on Me
+Culinarian,53,A Spoonful Less Sugar
+Culinarian,55,Looking for Some Hot Stuff
+Culinarian,58,Love Meat Tender
+Culinarian,60,The Spirit of Hospitality
+Culinarian,60,Flavors of the Far East
+Culinarian,63,Rice to the Occasion
+Culinarian,65,A Broth from the Brine
+Culinarian,68,Teach a Man to Make Fish
+Culinarian,70,The Way to a Father's Heart
+Goldsmith,1,Way of the Goldsmith
+Goldsmith,1,My First Chaser Hammer
+Goldsmith,5,Gorgets Rising
+Goldsmith,10,Throw Some Rings on It
+Goldsmith,15,Objectively Speaking
+Goldsmith,20,A Melding of the Minds
+Goldsmith,25,Or Ever the Silver Cord Be Loosed
+Goldsmith,30,Serendipity Now
+Goldsmith,35,Mammets on Fire
+Goldsmith,40,The Horns of the Green
+Goldsmith,45,The Fox in the Hen House
+Goldsmith,50,Jaded
+Goldsmith,50,Form to the Formless
+Goldsmith,53,Elegance and Artistry
+Goldsmith,55,Double Trouble
+Goldsmith,58,A Masterclass
+Goldsmith,60,Two Hearts Beat as One
+Goldsmith,60,A Royal Request
+Goldsmith,63,Gemworks in Progress
+Goldsmith,65,Blindsided
+Goldsmith,68,The Perfect Tribute
+Goldsmith,70,Sultana Dreaming
+Leatherworker,1,Way of the Leatherworker
+Leatherworker,1,My First Head Knife
+Leatherworker,5,A Test of Technique
+Leatherworker,10,Geva's Gambit
+Leatherworker,15,Working Hells for Leather
+Leatherworker,20,Aldgoat Everything
+Leatherworker,25,Skin in the Game
+Leatherworker,30,Toadskins of the Father
+Leatherworker,35,Lead by Example
+Leatherworker,40,Brand Loyalty
+Leatherworker,45,Dissension in the Ranks
+Leatherworker,50,Accept No Imitations
+Leatherworker,50,Turndown Service
+Leatherworker,53,By Your Bootstraps
+Leatherworker,55,Perfect Pitch
+Leatherworker,58,From the Hoplon to the Brume
+Leatherworker,60,A Winter's Sale
+Leatherworker,60,A Taxing Request
+Leatherworker,63,Mounting Expectations
+Leatherworker,65,The Value of Life
+Leatherworker,68,The Trouble with Taxidermy
+Leatherworker,70,True to Life
+Weaver,1,Way of the Weaver
+Weaver,1,My First Needle
+Weaver,5,Once More unto the Breeches
+Weaver,10,Alternative Applications
+Weaver,15,Practical Needs
+Weaver,20,Materia Concerns
+Weaver,25,That Velveteen Dress
+Weaver,30,Miner on a Mission
+Weaver,35,Designed by Committee
+Weaver,40,A Subtle Inquiry
+Weaver,45,The Intervention
+Weaver,50,A Miner Reborn
+Weaver,50,The Social Knitwork
+Weaver,53,Tomboy Foolery
+Weaver,55,For Lover and Country
+Weaver,58,Spinning the Truth
+Weaver,60,Never Leave without a Good-bye
+Weaver,60,When East Meets West
+Weaver,63,The Butterfly Effect
+Weaver,65,The Crane's Caveat
+Weaver,68,A Geiko for All Seasons
+Weaver,70,Send Me an Angel
+Botanist,1,Way of the Botanist
+Botanist,1,My First Hatchet
+Botanist,5,Sap for Smiles
+Botanist,10,Weapons of a Feather
+Botanist,15,Haste Makes Waste
+Botanist,20,Dressed to Harvest
+Botanist,25,Aromatic Aspirations
+Botanist,30,What Nature Giveth
+Botanist,35,A Feast to Say the Least
+Botanist,40,Crisis of Faith
+Botanist,45,Botanist in a Bind
+Botanist,50,Seeds of Hope
+Botanist,50,Call from the Clouds
+Botanist,53,Onions of Life Bestowing
+Botanist,55,"Two Nations, One Seed"
+Botanist,58,Love for Harmony
+Botanist,60,Seeds Know No Borders
+Botanist,60,Never Meet Your Heroes
+Botanist,63,"You Say Popoto, I Say..."
+Botanist,65,Walking for Walker's
+Botanist,68,The White Death
+Botanist,70,Edgyth's Winning Streak
+Fisher,1,Way of the Fisher
+Fisher,1,My First Fishing Rod
+Fisher,5,Bigger Fish to Fry
+Fisher,10,The Princess and the Fish
+Fisher,15,Every Fish Has a Silver Lining
+Fisher,20,A Fish in Hot Water
+Fisher,25,A Game of Cat and Fish
+Fisher,30,Like Fish Passing in the Night
+Fisher,35,A Fish out of Water
+Fisher,40,Fishing in the Rain
+Fisher,45,I Believe Fish Can Fly
+Fisher,50,"So Long, and Thanks for All the Fish"
+Fisher,50,Plenty More Fish in the Sea
+Fisher,53,The Icepick Challenge
+Fisher,55,Invasion of the Supper Snatchers
+Fisher,58,One Man's Fish Is Another Man's Poison
+Fisher,60,Carpe Diem
+Fisher,60,Whither Wawalago Wanders
+Fisher,63,A Rousing Reunion
+Fisher,65,Search for the Spawning Grounds
+Fisher,68,Always a Bigger Fish
+Fisher,70,"Farewell, and Thanks for the Fish"
+Miner,1,Way of the Miner
+Miner,1,My First Pickaxe
+Miner,5,Know Thy Land
+Miner,10,The Cutting Edge
+Miner,15,Getting in Deep
+Miner,20,"Old Wisdom, New Ways"
+Miner,25,Water from Stone
+Miner,30,Obsidian Race
+Miner,35,"Amethysts Are Forever "
+Miner,40,To Die For
+Miner,45,Gulley of Woes
+Miner,50,Canyon of Regret
+Miner,50,Breaking New Ground
+Miner,53,Sellspade
+Miner,55,The Same Vein
+Miner,58,Digging Deeper
+Miner,60,The Hole Truth
+Miner,60,Gift of the Gob
+Miner,63,Thick Skin
+Miner,65,Pedal to the Metal
+Miner,68,Where the Money Takes You
+Miner,70,A Miner Success

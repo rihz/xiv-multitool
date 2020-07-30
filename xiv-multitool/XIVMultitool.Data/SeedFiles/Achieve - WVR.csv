@@ -1,0 +1,21 @@
+Group,Name,Points,Description,Reward
+Unique Recipes,I Made That: Weaver I,5,Craft 60 unique weaver recipes.
+Unique Recipes,I Made That: Weaver II,5,Craft 120 unique weaver recipes.
+Unique Recipes,I Made That: Weaver III,10,Craft 250 unique weaver recipes.,Item: Master Weaver's Ring
+Unique Recipes,I Made That: Weaver IV,10,Craft 350 unique weaver recipes.
+Unique Recipes,I Made That: Weaver V,10,Craft and record completion of 470 unique weaver recipes.,Item: Blessed Boltkeep's Needle
+Unique Recipes,I Made That: Weaver VI,10,Craft and record completion of 590 unique weaver recipes.,Item: Blessed Boltking's Needle
+Synthesizing,Threading the Needle: Amateur,5,Successfully synthesize 50 times for level 1-10 clothcraft recipes.
+Synthesizing,Threading the Needle: Initiate,5,Successfully synthesize 300 times for level 11-20 clothcraft recipes.
+Synthesizing,Threading the Needle: Apprentice,5,Successfully synthesize 750 times for level 21-30 clothcraft recipes.
+Synthesizing,Threading the Needle: Journeyman,5,"Successfully synthesize 1,500 times for level 31-40 clothcraft recipes."
+Synthesizing,Threading the Needle: Artisan,10,"Successfully synthesize 3,000 times for level 41-50 clothcraft recipes.",Title: Of the Golden Needle
+Synthesizing,Threading the Needle: Adept,10,"Successfully synthesize 1,000 times for level 51-60 clothcraft recipes."
+Synthesizing,Threading the Needle: Veteran,10,"Successfully synthesize 1,000 times for level 61-70 clothcraft recipes."
+Synthesizing,Threading the Needle: Master,10,"Successfully synthesize 1,000 times for level 71-80 clothcraft recipes."
+Synthesizing,A Weaver's Life for Me,30,"Obtain the first five ""Threading the Needle"" achievements.",Item: Needle of the Luminary
+High Quality Crafts,An Eye for Detail: Weaver I,5,Craft 100 high-quality items as a weaver.
+High Quality Crafts,An Eye for Detail: Weaver II,5,Craft 500 high-quality items as a weaver.
+High Quality Crafts,An Eye for Detail: Weaver III,10,"Craft 3,000 high-quality items as a weaver."
+High Quality Crafts,An Eye for Detail: Weaver IV,10,"Craft 5,000 high-quality items as a weaver."
+High Quality Crafts,An Eye for Detail: Weaver V,10,"Craft 10,000 high-quality items as a weaver.",Title: Master Weaver

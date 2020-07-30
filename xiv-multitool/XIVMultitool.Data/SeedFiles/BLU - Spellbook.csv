@@ -1,0 +1,81 @@
+Group,Number,Name,Mobs,Location
+Starting,1,Water Cannon,,Starting Spell
+Instance,2,Flame Thrower,"Gobmachine G-VI, Einhander","Brayflox's Longstop (Hard), The Keeper of the Lake"
+Instance,3,Aqua Breath,"Ultros, Leviathan","The Dragon's Neck, The Whorleater"
+Instance,4,Flying Frenzy,Zu,Pharos Sirius
+World,5,Drill Cannons,Magitek Vanguard H-2,Northern Thanalan
+Instance,6,High Voltage,"ADS, Bestial Node","The Binding Coil of Bahamut Turn 1, Masked Carnival #15"
+Instance,7,Loom,"Flame Serpant Dalvag, Baalzephon, Dantalion","Northern Thanalan, The Lost City of Amdapoor, The Tam-Tara Deepcroft (Hard)"
+World,8,Final Sting,Killer Waspe,Middle La Noscea
+Instance,9,Song of Torment,Siren,Pharos Sirius
+Instance,10,Glower,Coincounter,The Aurum Vale
+World,11,Plaincracker,"Basalt Golem, Sandstone Golem","Outer La Noscea, Southern Thanalan"
+World,12,Bristle,Wild Boar,East Shroud
+Miscellaneous,13,White Wind,,Learn 10 Spells
+Instance,14,Level 5 Petrify,Manor Sentry,Haukke Manor
+Instance,15,Sharpened Knife,Tonberry King,The Wanderer's Palace
+World,16,Ice Spikes,Trickster Imp,Central Shroud
+World,17,Blood Drain,Cave Bat,Lower La Noscea
+World,18,Acorn Bomb,Treant Sapling,North Shroud
+World,19,Bomb Toss,"Goblin Fisher, Goblin Gambler","Middle La Noscea, Middle La Noscea"
+Miscellaneous,20,Off-Guard,,Learn 5 Spells
+World,21,Self-Destruct,Glide Bomb,Western Thanalan
+Miscellaneous,22,Transfusion,,Learn 20 Spells
+World,23,Faze,Qiqirn Shellsweeper,Central Thanalan
+World,24,Flying Sardine,Apkallu,Eastern La Noscea
+Instance,25,Snort,"Typhon, Typhon","The Dragon's Neck, The Masked Carnivale"
+Instance,26,4-Tonze Weight,Ultros,The Dragon's Neck
+Instance,27,The Look,Anantaboga,Amdapoor Keep
+World,28,Bad Breath,"Stroper, Morbol","Central Shroud, Mor Dhona"
+Instance,29,Diamondback,"Cuca Fera, Horde Armored Dragon","The Stone Vigil (Hard), The Steps of Faith"
+Miscellaneous,30,Mighty Guard,,Learn 10 Spells
+World,31,Sticky Tongue,"Toxic Toad, Laughing Toad","Central Thanalan, Western Thanalan"
+World,32,Toad Oil,Giggling Gigantoad,Western Thanalan
+Instance,33,The Ram's Voice,"Chimera, Dhorme Chimera, Azulmagia","Cutter's Cry, A Relic Reborn: The Chimera, The Masked Carnivale #25"
+Instance,34,The Dragon's Voice,"Chimera, Dhorme Chimera, Azulmagia","Cutter's Cry, A Relic Reborn: The Chimera, The Masked Carnivale #25"
+Instance,35,Missile,Enkidu,Battle in the Big Keep
+World,36,1000 Needles,Sabotender Bailaor,Southern Thanalan
+Instance,37,Ink Jet,Kraken,Sastasha (Hard)
+Instance,38,Fire Angon,Fruminious Koheel Ja,The Wanderer's Palace (Hard)
+Instance,39,Moon Flute,,Complete 10 Stages in the Masked Carnivale
+Instance,40,Tail Screw,"Karlabos, Clay Claw","Sastasha (Hard), The Peaks"
+Instance,41,Mind Blast,Galvanth the Dominator,The Tam-Tara Deepcroft
+Instance,42,Doom,,Complete 20 Stages in the Masked Carnivale
+World,43,Peculiar Light,Lentic Mudpuppy,"Mor Dhona"
+Instance,44,Feather Rain,Garuda,The Howling Eye (Extreme)
+Instance,45,Eruption,Ifrit,The Bowl of Embers
+Instance,46,Mountain Buster,Titan,The Navel (Hard)
+Instance,47,Shock Strike,Ramuh,The Striking Tree (Hard)
+Instance,48,Glass Dance,Shiva,Akh Afah Amphitheatre (Extreme)
+Instance,49,Veil Of The Whorl,Leviathan,The Whorleater
+World,50,Alpine Draft,Griffin,Sea of Clouds
+Instance,51,Protean Wave,"Living Liquid, Shikigami","Alexander - The Arm of the Father, Masked Carnivale #29"
+World,52,Northerlies,Slate Yeti,Coerthas Western Highlands
+World,53,Electrogenesis,Conodont,Sea of Clouds
+Instance,54,Kaltstrahl,"Faust, Jagd Doll","Alexander - The Fist of the Father, Alexander - The Cuff of the Father"
+Instance,55,Abyssal Transfixion,"Ash, Arch Demon, Biblioklept","Haukke Manor (Hard), The Dravanian Hinterlands (Levequest: Necrologos: His Treasure Forbidden Leve), The Great Gubal Library"
+World,56,Chirp,Paissa,Sea of Clouds
+World,57,Eerie Soundwave,Empuse,Azys Lla
+Instance,58,Pom Cure,Furryfoot Kupli Kipp,Thornmarch (Hard)
+Instance,59,Gobskin,"Alexander Hider, Slipkinx Steeljoints (A Rank)","Alexander - The Breath of the Creator, The Dravanian Hinterlands"
+Instance,60,Magic Hammer,"Apanda, Epilogi","The Great Gubal Library (Hard), Masked Carnivale #24"
+Instance,61,Avail,Queen Hawk,Saint Mocianne's Arboretum
+World,62,Frog Legs,Poroggo,The Dravanian Hinterlands
+World,63,Sonic Boom,Anzu,Sea of Clouds
+World,64,Whistle,Dhalmel,Sea of Clouds
+Instance,65,White Knight's Tour,White Knight,The Vault
+Instance,66,Black Knight's Tour,Black Knight,The Vault
+Instance,67,Level 5 Death,Page 64,The Great Gubal Library
+Instance,68,Launcher,Armored Weapon,Baelsar's Wall
+Instance,69,Perpetual Ray,The Manipulator,Alexander - The Burden of the Father
+Instance,70,Cactguard,Sabotender Gaurdia,The Sunken Temple of Qarn (Hard)
+Miscellaneous,71,Revenge Blast,,Learn 50 Spells
+Instance,72,Angel Whisper,,Complete 30 Stages at the Masked Carnivale
+World,73,Exuviation,Abalatian Wamoura,Sea of Clouds
+World,74,Reflex,Cloud Wyvern,The Churning Mists
+Instance,75,Devour,Caduceus,The Banding Coil of Bahamut Turn 1
+Instance,76,Condensed Libra,Arena Scribe,Masked Carnivale #24
+Instance,77,Aetherial Mimicry,Ghrah Luminary Adds,Pharos Sirius (Hard)
+Instance,78,Surpanakha,Ravana,Thok Ast Thok
+Instance,79,Quasar,Sophia,Containment Bay P1T6
+Instance,80,J Kick,Brute Justice,Alexander - The Burden of the Son

@@ -1,0 +1,27 @@
+.contents {
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    padding: 0px 5px;
+    display: flex;
+}
+
+.main-contents {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.name {
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+.level {
+    display: flex;
+    height: 40px;
+    flex-direction: column;
+    font-size: 26pt;
+    width: 50px;
+    padding-right: 15px;
+}

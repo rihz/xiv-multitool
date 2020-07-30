@@ -1,0 +1,269 @@
+Level,Name,Zone,Location
+1,Fire Shard,Middle La Noscea,Summerford
+1,Ice Shard,Western La Noscea,Quarterstone
+1,Wind Shard,Central Shroud,Bentbranch
+1,Earth Shard,Lower La Noscea,Moraby Bay
+1,Lightning Shard,Central Thanalan,The Clutch
+1,Water Shard,Western Thanalan,Horizon's Edge
+1,Firelight Seeds,Middle La Noscea,Summerford
+1,Icelight Seeds,Western La Noscea,Quarterstone
+1,Windlight Seeds,Central Shroud,Bentbranch
+1,Earthlight Seeds,Lower La Noscea,Moraby Bay
+1,Levinlight Seeds,Central Thanalan,The Clutch
+1,Waterlight Seeds,Western Thanalan,Horizon's Edge
+11,Chanterelle,Central Shroud,Bentbranch
+11,Lowland Grapes,Lower La Noscea,Moraby Bay
+11,Rye,Western Thanalan,Horizon's Edge
+11,Sunset Wheat,Middle La Noscea,Summerford
+11,Garlean Garlic,Western Thanalan,Nophica's Wells
+11,Tree Toad,Central Shroud,Bentbranch
+11,Moko Grass,Western Thanalan,Horizon's Edge
+11,Yellow Ginseng,Central Thanalan,The Clutch
+11,Lowland Grape Seeds,Lower La Noscea,Moraby Bay
+11,Garlic Cloves,Western Thanalan,Nophica's Wells
+12,Wild Onion,Western Thanalan,Nophica's Wells
+12,Buffalo Beans,Central Shroud,Bentbranch
+12,Straw,Middle La Noscea,Summerford
+12,Lavender,Central Shroud,Bentbranch
+12,Grass Viper,Western Thanalan,Horizon's Edge
+12,Wild Onion Set,Western Thanalan,Nophica's Wells
+12,Lavender Seeds,Central Shroud,Bentbranch
+13,Coerthan Carrot,Western Thanalan,Horizon's Edge
+13,Ogre Pumpkin,Western Thanalan,Nophica's Wells
+13,La Noscean Lettuce,Middle La Noscea,Summerford
+13,Cinderfoot Olive,Lower La Noscea,Moraby Bay
+13,Humus,Central Shroud,Bentbranch
+13,Carnation,Central Shroud,Bentbranch
+13,Coerthan Carrot Seeds,Western Thanalan,Horizon's Edge
+13,La Noscean Lettuce Seeds,Middle La Noscea,Summerford
+13,Olive Seeds,Lower La Noscea,Moraby Bay
+14,Cieldalaes Spinach,Lower La Noscea,Moraby Bay
+14,Black Pepper,Central Thanalan,The Clutch
+14,Cotton Boll,Central Shroud,Bentbranch
+14,Black Pepper Seeds,Central Thanalan,The Clutch
+15,Ruby Tomato,Middle La Noscea,Summerford
+15,Alpine Parsnip,Central Thanalan,The Clutch
+15,Highland Parsley,Lower La Noscea,Moraby Bay
+15,Marjoram,Central Shroud,Bentbranch
+16,Paprika,Western La Noscea,Quarterstone
+16,Galago Mint,East Shroud,Nine Ivies
+16,Paprika Seeds,Western La Noscea,Quarterstone
+17,Lalafellin Lentil,Western La Noscea,Quarterstone
+18,Popoto,Eastern Thanalan,Sandgate
+18,Belladonna,East Shroud,Nine Ivies
+18,Popoto Set,Eastern Thanalan,Sandgate
+19,Gil Bun,East Shroud,Nine Ivies
+20,Island Seedling,Western La Noscea,Quarterstone
+20,Shroud Seedling,East Shroud,Nine Ivies
+20,Desert Seedling,Eastern Thanalan,Sandgate
+20,White Scorpion,Eastern Thanalan,Sandgate
+21,Pixie Plums,Upper La Noscea,Oakwood
+21,Pixie Plum Seeds,Upper La Noscea,Oakwood
+22,Button Mushroom,Eastern Thanalan,Drybone
+22,Noble Grapes,Upper La Noscea,Oakwood
+23,Ala Mhigan Mustard,Eastern Thanalan,Drybone
+23,Ala Mhigan Mustard Seeds,Eastern Thanalan,Drybone
+24,Pearl Ginger,Eastern Thanalan,Drybone
+24,Chamomile,Upper La Noscea,Oakwood
+24,Pearl Ginger Root,Eastern Thanalan,Drybone
+24,Chamomile Seeds,Upper La Noscea,Oakwood
+25,Sticky Rice,Upper La Noscea,Oakwood
+25,Millioncorn,Eastern Thanalan,Drybone
+25,Millioncorn Seeds,Eastern Thanalan,Drybone
+26,Jade Peas,North Shroud,Alder Springs
+26,Fire Crystal,The Dravanian Forelands,Chocobo Forest
+26,Ice Crystal,Coerthas Western Highlands,Twinpools
+26,Wind Crystal,The Dravanian Hinterlands,The Answering Quarter
+26,Earth Crystal,The Churning Mists,Landlord Colony
+26,Lightning Crystal,The Sea of Clouds,The Blue Window
+26,Water Crystal,The Ruby Sea,The Isle of Bekko
+27,Wizard Eggplant,North Shroud,Alder Springs
+27,Wizard Eggplant Seeds,North Shroud,Alder Springs
+28,Midland Cabbage,North Shroud,Alder Springs
+28,Midland Cabbage Seeds,North Shroud,Alder Springs
+30,Moor Leech,North Shroud,Alder Springs
+31,Flax,South Shroud,Lower Paths
+31,Yafaem Wildgrass,Southern Thanalan,Broken Water
+31,Linseed,South Shroud,Lower Paths
+32,Aloe,Southern Thanalan,Broken Water
+32,Midland Basil,Eastern La Noscea,Bloodshore
+32,Midland Basil Seeds,Eastern La Noscea,Bloodshore
+33,White Truffle,South Shroud,Lower Paths
+33,Bloodgrass,Southern Thanalan,Broken Water
+33,Mandrake,Eastern La Noscea,Bloodshore
+33,Mandrake Seeds,Eastern La Noscea,Bloodshore
+34,Salt Leek,Eastern La Noscea,Bloodshore
+34,Laurel,Southern Thanalan,Broken Water
+34,Wildfowl Feather,South Shroud,Lower Paths
+35,Dragon Pepper,Eastern La Noscea,Bloodshore
+35,Desert Saffron,Southern Thanalan,Broken Water
+36,Blood Currants,South Shroud,Lower Paths
+36,Blood Currant Seeds,South Shroud,Lower Paths
+37,Mugwort,Eastern La Noscea,Raincatcher Gully
+38,Maiden Artichoke,Eastern La Noscea,Raincatcher Gully
+39,Ramhorn Zucchini,Eastern La Noscea,Raincatcher Gully
+39,Thyme,South Shroud,Lower Paths
+41,Sagolii Sage,Upper La Noscea,Bronze Lake
+42,Black Scorpion,Upper La Noscea,Bronze Lake
+43,Rolanberry,Upper La Noscea,Bronze Lake
+43,Rolanberry Seeds,Upper La Noscea,Bronze Lake
+45,Dart Frog,Upper La Noscea,Bronze Lake
+48,Thanalan Tea Leaves,Southern Thanalan,Sagolii Desert
+49,Lava Toad,Southern Thanalan,Sagolii Desert
+50,Maiden Grass,Southern Thanalan,Sagolii Desert
+50,Ice Cluster,Coerthas Western Highlands,Twinpools
+50,Wind Cluster,The Dravanian Hinterlands,The Answering Quarter
+50,Earth Cluster,The Dravanian Forelands,Avalonia Fallen
+50★,Dzemael Tomato,Eastern La Noscea,Raincatcher Gully
+50★,Black Truffle,Eastern Thanalan,Drybone
+50★,Honey Lemon,Eastern La Noscea,Bloodshore
+50★,Silkworm Cocoon,East Shroud,Nine Ivies
+50★,Trillium,East Shroud,The Bramble Patch
+50★,Trilium Bulb,East Shroud,The Honey Yard
+50★,Kidragora,East Shroud,The Honey Yard
+50★,Dzemael Tomato Seeds,Eastern La Noscea,Raincatcher Gully
+50★,Honey Lemon Seeds,Eastern La Noscea,Bloodshore
+50★,Unaspected Crystal,East Shroud,Little Solace
+50★,Mazlaya Greens,Eastern Thanalan,Drybone
+50★★,La Noscean Leek,Western La Noscea,Quarterstone
+50★★,Young Cieldalaes Spinach,Lower La Noscea,Cedarwood
+50★★,Waterfowl Feather,Western La Noscea,Quarterstone
+50★★,Shroud Tea Leaves,Central Shroud,Sorrel Haven
+50★★,Dark Matter Cluster,The Dravanian Forelands,Chocobo Forest
+50★★★,Old World Fig,The Dravanian Forelands,Chocobo Forest
+50★★★,Old World Fig Seeds,The Dravanian Forelands,Chocobo Forest
+50★★★,Rosemary,East Shroud,Nine Ivies
+51,Rainbow Cotton Boll,Coerthas Western Highlands,Twinpools
+52,Pearl Sprouts,Coerthas Western Highlands,Riversmeet
+52,Mist Dill,Coerthas Western Highlands,Twinpools
+52,Pearl Sprout Seeds,Coerthas Western Highlands,Riversmeet
+53,Cyclops Onion,The Dravanian Forelands,Chocobo Forest
+53,Highland Wheat,The Dravanian Forelands,Chocobo Forest
+53,Coerthan Tea Leaves,Coerthas Western Highlands,Riversmeet
+53,Coerthan Tea Seeds,Coerthas Western Highlands,Riversmeet
+54,Stalk of Ramie,The Dravanian Forelands,Chocobo Forest
+55,Magma Beet,The Churning Mists,Landlord Colony
+55,Emerald Beans,The Churning Mists,Landlord Colony
+55,Chives,Coerthas Western Highlands,Riversmeet
+56,Highland Oregano,Coerthas Western Highlands,Twinpools
+56,Granular Clay,The Dravanian Forelands,Avalonia Fallen
+56,Coneflower,The Dravanian Forelands,Avalonia Fallen
+57,Sesame Seeds,The Sea of Clouds,The Blue Window
+57,Cow Bitter,The Dravanian Hinterlands,The Answering Quarter
+57,Dated Radz-At-Han Coin,The Dravanian Hinterlands,The Answering Quarter
+58,Furymint,Coerthas Western Highlands,Twinpools
+58,Peat Moss,The Dravanian Forelands,Avalonia Fallen
+58,Ice Stalagmite,Coerthas Western Highlands,Twinpools
+58,Rue,Coerthas Western Highlands,Twinpools
+59,Dandelion,The Churning Mists,Four Arms
+59,Coriander,Coerthas Western Highlands,Twinpools
+59,Duskfall Moss,The Churning Mists,Four Arms
+60,Chysahl Greens,Coerthas Western Highlands,Twinpools
+60,Clary Sage,Coerthas Western Highlands,Twinpools
+60,Black Soil,The Dravanian Forelands,Avalonia Fallen
+60,Gaelicatnip,The Dravanian Hinterlands,The Answering Quarter
+60,Periwinkle,The Dravanian Hinterlands,The Answering Quarter
+60,Glass Eye,The Sea of Clouds,The Blue Window
+60,Starcrack Sand,The Fringes,East End
+60,Shishu Koban,The Ruby Sea,The Isle of Bekko
+60,Cotter Dynasty Relic,The Fringes,East End
+60★,Lover's Laurel,Coerthas Western Highlands,Twinpools
+60★,Whitefrost Cotton Boll,Coerthas Western Highlands,Twinpools
+60★,Rainbow Pigment,The Dravanian Forelands,Avalonia Fallen
+60★,Peaks Pigment,The Peaks,The Last Forest
+60★,Yellow Kudzu Root,The Peaks,The Last Forest
+60★★,Gyr Abanian Wheat,The Fringes,East End
+60★★,Bloodhemp,The Fringes,East End
+61,Pinch of Active Ingredients,The Peaks,The Last Forest
+62,Mountain Popoto,The Peaks,The Last Forest
+62,Buckwheat Kernels,The Peaks,The Last Forest
+62,Gem Algae,The Ruby Sea,Rasen Kaiko
+62,Harpoon Head,The Fringes,Dimwold
+63,Ruby Cotton Boll,The Ruby Sea,Rasen Kaiko
+63,Holy Basil,The Fringes,Dimwold
+63,Phial of Thermal Fluid,Coerthas Western Highlands,Gorgagne Holding
+64,Sugar Beet,The Peaks,The Last Forest
+64,Green Leek,The Peaks,The Last Forest
+64,Soybeans,The Ruby Sea,East Othard Coastline
+64,Ama Nori,The Ruby Sea,Rasen Kaikyo
+64,Shisui Jewel,The Ruby Sea,Rasen Kaikyo
+65,Kudzu Root,The Fringes,Dimwold
+65,Cumin Seeds,The Ruby Sea,East Othard Coastline
+65,Kudzu Vine,The Fringes,Dimwold
+65,Cloudkin Feather,The Churning Mists,Ohl Than
+66,Daikon Radish,Yanxia,Doma
+66,Gyr Abanian Carrot,The Peaks,Mount Yorn
+66,Lotus Root,Yanxia,Doma
+66,Sun Cabbage,The Azim Steppe,Nhaama's Retreat
+66,Fennel,The Azim Steppe,Nhaama's Retreat
+66,Doman Yellow,The Azim Steppe,Nhaama's Retreat
+66,Windtea Leaves,Yanxia,Doma
+66,Strong Steppe Spice,The Azim Steppe,Nhaama's Retreat
+67,Ruby Tide Kelp,The Ruby Sea,Rasen Kaikyo
+68,Jhammel Ginger,The Lochs,The Royal Hunting Grounds
+68,Yanxian Parsley,Yanxia,Doma
+68,Alyssum,The Peaks,Mount Yorn
+68,Nagxian Cudweed,Yanxia,Doma
+68,Chickweed,The Azim Steppe,Nhaama's Retreat
+68,Nipplewort,The Azim Steppe,Nhaama's Retreat
+69,Doman Eggplant,Yanxia,Doma
+69,Twincoon,The Peaks,Mount Yorn
+70,Amh Araeng Seasonings,Amh Araeng,Snitch
+70,Clinquant Stones,Il Mheg,Thysm Lran
+70,Animal Trace,Amh Araeng,Snitch
+70★,Hallowed Basil,The Peaks,Mount Yorn
+70★,Airship Fitting Components,Amh Araeng,Snitch
+70★★,Yanxian Verbena,Yanxia,Doma
+70★★,Night Pepper,Amh Araeng,Snitch
+71,Purple Carrot,Lakeland,The Forest of the Lost Shepherd
+71,Curly Parsley,Il Mheg,The Woolen Way
+71,Blood Tomato,Il Mheg,The Woolen Way
+71,Bright Flax,Lakeland,The Forest of the Lost Shepherd
+72,Garden Beet,Il Mheg,The Woolen Way
+72,Broad Beans,Il Mheg,Phisor Lran
+72,Iridescent Cocoon,Il Mheg,The Woolen Way
+73,Upland Wheat,Kholusia,Seagazer
+73,Animal Droppings,Lakeland,The Forest of the Lost Shepherd
+74,Peppermint,Lakeland,Embrasure
+74,Pixie Floss Boll,The Rak'tika Greatwood,The Deliberating Doll
+75,Creamtop Mushroom,The Rak'tika Greatwood,The Deliberating Doll
+75,Royal Grapes,The Rak'tika Greatwood,The Deliberating Doll
+75,Megafauna Leftovers,Il Mheg,The Woolen Way
+76,Russet Popoto,Amh Araeng,The Dragging Tail
+76,White Clay,Kholusia,Scree
+76,Sweet Alyssum,The Rak'tika Greatwood,The Wild Fete
+76,Sweet Marjoram,The Rak'tika Greatwood,The Wild Fete
+77,Fernleaf Lavender,The Rak'tika Greatwood,The Wild Fete
+78,Mist Spinach,The Rak'tika Greatwood,Bowrest
+78,Coffee Beans,Kholusia,Scree
+78,Bomba Rice,Kholusia,Scree
+78,Lime Basil,Lakeland,Weed
+78,Megafauna Trace,The Rak'tika Greatwood,The Wild Fete
+79,Dwarven Cotton Boll,Kholusia,Scree
+79,Tiger Lily,Lakeland,Weed
+79,Light Gerbera,Lakeland,Weed
+80,Bog Sage,Lakeland,Weed
+60★,Dravanian Paprika,Coerthas Western Highlands,The Bed of Bones
+60★,Vanilla Beans,Coerthas Western Highlands,The Watcher
+60★,Frost Cotton Boll,Coerthas Western Highlands,Gorgagne Holding
+60★,Snurbleberry,The Dravanian Hinterlands,The Daggers
+60★,Seventh Heaven,The Churning Mists,The Lost Landlord
+60★★★,Noble Sage,The Dravanian Forelands,Chocobo Forest
+60★★★,Star Cotton Boll,Azys Lla,Antithesis
+70★★,Hingan Flax,The Peaks,Mount Yorn
+70★,Rhea,The Azim Steppe,Ceol Aen
+70★,Azim Cotton Ball,The Azim Steppe,Ceol Aen
+70★★★,Yanzian Cotton Boll,Yanxia,Castrum Flumins
+80★,Ethereal Cocoon,Lakeland,Inviolate Witness
+15,Skybuilders' Hemp,Lower La Noscea,Moraby Bay
+25,Skybuilders' Toad,Western Thanalan,The Footfalls
+45,Skybuilders' Flax,South Shroud,Lower Paths
+55,Skybuilders' Tea Leaves,The Sea of Clouds,The Rosehouse
+55,Skybuilders' Straw,The Dravanian Forelands,Avalonia Fallen
+70,Skybuilders' Vine,The Azim Steppe,Ceol Aen
+70,Skybuilders' Cocoon,Yanxia,The Glittering Basin
+70,Skybuilders' Horsetail,Yanxia,The Glittering Basin
+70,Skybuilders's Adder,The Azim Steppe,Ceol Aen
+75,Skybuilders' Cotton Boll,Lakeland,The Forest of the Lost Shepherd
+80,Skybuilders' Wheat,Amh Araeng,The Central Hills of Amber
+80,Skybuilders' Dawn Lizard,Amh Araeng,The Central Hills of Amber

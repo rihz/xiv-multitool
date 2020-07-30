@@ -1,0 +1,877 @@
+Level,Name
+1,Bronze Ingot
+1,Bronze Hatchet
+2,Bronze Bastard Sword
+2,Amateur's File
+3,Bronze Rivets
+3,Bronze War Axe
+3,Amateur's Pliers
+4,Bronze Saw
+4,Amateur's Awl
+5,Bronze Daggers
+5,Amateur's Claw Hammer
+5,Bronze Cross-pein Hammer
+5,Bronze Doming Hammer
+6,Amateur's Mortar
+6,Amateur's Culinary Knife
+7,Viking Sword
+7,Bronze Labrys
+7,Bronze Chaser Hammer
+8,Bronze Knives
+8,Bronze Head Knife
+8,Bronze Pickaxe
+9,Cloud Axe
+9,Bronze Claw Hammer
+10,Bronze Baselards
+10,Amateur's Cross-pein Hammer
+10,Bronze File
+10,Bronze Pliers
+10,Amateur's Chaser Hammer
+10,Bronze Mortar
+11,Amateur's Doming Hammer
+11,Amateur's Head Knife
+11,Bronze Awl
+11,Amateur's Pickaxe
+11,Bronze Scythe
+12,Amateur's Saw
+12,Bronze Ornamental Hammer
+12,Bronze Culinary Knife
+12,Bronze Sledgehammer
+12,Amateur's Hatchet
+13,Bronze Spatha
+13,Bronze Knuckles
+14,Spiked Bronze Labrys
+14,Brass Daggers
+14,Brass Head Knife
+15,Iron Clapper
+15,Birdsbeak Hammer
+15,Bronze Raising Hammer
+16,Iron Ingot
+16,Iron Nails
+16,Brass Bastard Sword
+16,Brass Knuckles
+16,Brass Knives
+16,Chocobotail Saw
+16,Plumed Bronze Pickaxe
+17,Iron War Axe
+17,Iron Labrys
+17,Iron Hatchet
+18,Iron Rivets
+18,Iron Cross-pein Hammer
+18,Iron Doming Hammer
+18,Iron Chaser Hammer
+19,Initiate's Head Knife
+19,Iron Awl
+19,Initiate's Sledgehammer
+19,Initiate's Hatchet
+20,Brass Viking Sword
+20,Carnage Sword
+20,Iron Daggers
+20,Initiate's Saw
+20,Iron Claw Hammer
+20,Iron Pickaxe
+21,Inferno Axe
+21,Initiate's Cross-pein Hammer
+21,Initiate's Doming Hammer
+21,Initiate's Chaser Hammer
+21,Iron Mortar
+21,Iron Culinary Knife
+21,Iron Scythe
+22,Iron Shortsword
+22,Iron Pugiones
+22,Iron File
+22,Iron Pliers
+22,Initiate's Pickaxe
+23,Spiked Knuckles
+23,Initiate's Awl
+23,Iron Sledgehammer
+24,Iron Bill
+24,Bas-relief Iron Saw
+24,Initiate's Claw Hammer
+24,Initiate's Mortar
+24,Brass Hatchet
+25,Iron Spatha
+25,Iron Round Knife
+25,Initiate's Culinary Knife
+25,Initiate's Scythe
+26,Steel Ingot
+26,Thunderstorm Axe
+26,Steel Daggers
+26,Crowsbeak Hammer
+26,Iron Raising Hammer
+26,Iron Ornamental Hammer
+27,Steel Nails
+27,Initiate's File
+27,Initiate's Pliers
+27,Iron Dolabra
+28,Steel Broadsword
+28,Spiked Steel Labrys
+28,Iron Chocobotail Saw
+29,Steel Rivets
+29,Steel Claws
+29,Heavy Crowsbeak Hammer
+29,Wrapped Iron Raising Hammer
+29,Iron Head Knife
+29,Plumed Iron Hatchet
+30,Steel Knives
+30,Bas-relief Steel Saw
+30,Steel Chaser Hammer
+30,Silver Head Knife
+30,Steel Pickaxe
+30,Steel Sledgehammer
+31,Steel Falchion
+31,Steel Claw Hammer
+31,Steel Awl
+32,Steel Bardiche
+32,Steel Cross-pein Hammer
+32,Steel Ornamental Hammer
+32,Steel Mortar
+32,Steel Culinary Knife
+33,Steel Dolabra
+33,Wrapped Steel Sledgehammer
+33,Steel Hatchet
+33,Steel Scythe
+34,Steel Zweihander
+34,Steel Baselards
+34,Steel-barreled Musketoon
+34,Steel Crowsbeak Hammer
+34,Steel File
+34,Steel Doming Hammer
+35,Steel Bhuj
+35,Crosscut Saw
+35,Steel Pliers
+35,Heavy Steel Mortar
+35,Wrapped Steel Culinary Knife
+35,Plumed Steel Hatchet
+35,Wrapped Steel Scythe
+35,Vintage Bastard Sword
+36,Wrapped Steel Claw Hammer
+36,Steel Round Knife
+36,Wrapped Steel Awl
+37,Steel Longsword
+38,Mythril Ingot
+38,Mythril Broadsword
+38,Mythril Claymore
+38,Mythril Knives
+38,Mythril-barreled Carbine
+38,Wrapped Crowsbeak Hammer
+38,Steel Raising Hammer
+38,Plumed Mythril Pickaxe
+38,Mythril Hatchet
+38,Vintage Viking Sword
+39,Mythril Rivets
+39,Spiked Mythril Labrys
+39,Mythril Claws
+39,Mythril Saw
+39,Mythril Head Knife
+40,Mythril Bhuj
+40,Mythril Claw Hammer
+40,Mythril File
+40,Mythril Ornamental Hammer
+40,Mythril Awl
+41,Mythril Zweihander
+41,Mythril Baselards
+41,Mythril-barreled Musketoon
+41,Mythril Mortar
+41,Mythril Culinary Knife
+41,Mythril Sledgehammer
+41,Mythril Scythe
+42,Cobalt Ingot
+42,Cobalt Katzbalger
+42,Cobalt Knuckles
+42,Mythril Chocobotail Saw
+42,Cobalt Cross-pein Hammer
+42,Mythril Pliers
+42,Mythril Lapidary Hammer
+42,Mythril Round Knife
+42,Goblin Scimitar
+43,Cobalt Rivets
+43,Cobalt Shamshir
+43,Buccaneer's Bardiche
+43,Cobalt Doming Hammer
+43,Cobalt Dolabra
+43,Cobalt Hatchet
+44,Cobalt Nails
+44,Cobalt Claw Hammer
+44,Cobalt Pliers
+44,Cobalt Awl
+44,Cobalt Culinary Knife
+44,Cobalt Sledgehammer
+45,Demilune Bhuj
+45,Cobalt Claymore
+45,Mythril Pugiones
+45,Cobalt-barreled Carbine
+45,Wrapped Hawksbeak Hammer
+45,Cobalt File
+45,Cobalt Mortar
+45,Cobalt Scythe
+45,Goblin Longsword
+46,Bas-relief Cobalt Saw
+46,Electrum Head Knife
+47,Cobalt Raising Hammer
+47,Electrum Lapidary Hammer
+47,Vintage Bill
+48,Cobalt Zweihander
+48,Cobalt-barreled Musketoon
+48,Egret Dolabra
+49,Cobalt Winglet
+49,Spiked Cobalt Labrys
+49,Cobalt Claws
+49,Cobalt Baselards
+49,Horned Hatchet
+50★,Darksteel Nugget
+50★,Darksteel Rivets
+50★,Aeolian Scimitar
+50★,Barbarian's Bardiche
+50★,Militia Claw Hammer
+50★,Militia File
+50★,Militia Pliers
+50★,Militia Awl
+50★,Militia Mortar
+50★,Militia Culinary Knife
+50★,Militia Sledgehammer
+50★,Militia Scythe
+50★★,Darksteel Ingot
+50★★,Avenger Grips
+50★★,Obelisk Head
+50★★,Mailbreaker Blade
+50★★,Rampager Head
+50★★,Misericorde Blades
+50★★,Mailbreaker
+50★★,Rampager
+50★★,Subduer
+50★★,Obelisk
+50★★,Avengers
+50★★,Misericordes
+50★★,Darksteel-barreled Blunderbuss
+50★★★★,Model Magitek Bit
+51,Mythrite Nugget
+51,Mythrite Uchigatana
+51,Mythrite Rivets
+51,Mythrite Katzbalger
+51,Mythrite War Axe
+51,Mythrite Claymore
+51,Mythrite Patas
+51,Mythrite Pugiones
+51,Mythrite-barreled Arquebus
+52,Mythrite Ingot
+52,Mythrite Tachi
+52,Mythrite Halfheart Saw
+52,Mythrite Lump Hammer
+52,Mythrite Raising Hammer
+52,Mythrite Lapidary Hammer
+52,Mythrite Round Knife
+52,Mythrite Pickaxe
+52,Mythrite Hatchet
+53,Mythrite Flametongue
+53,Mythrite Labrys
+53,Mythrite Zweihander
+53,Mythrite Jamadhars
+53,Mythrite Stilettos
+53,Mythrite-barreled Musketoon
+53,Mythrite Claw Hammer
+53,Mythrite File
+53,Mythrite Pliers
+53,Mythrite Awl
+53,Mythrite Mortar
+53,Mythrite Culinary Knife
+53,Mythrite Sledgehammer
+53,Mythrite Scythe
+54,Titanium Nugget
+54,Titanium Rivets
+54,Titanium Bastard Sword
+54,Titanium Axe
+54,Titanium Claymore
+54,Titanium Jamadhars
+54,Titanium Uchigatana
+54,Titanium Pugiones
+54,Titanium-barreled Arquebus
+55,Hardsilver Saw
+55,Titanium Cross-pein Hammer
+55,Titanium Ball-pein Hammer
+55,Hardsilver Texture Hammer
+55,Titanium Creasing Knife
+55,Hardsilver Dolabra
+55,Titanium Hatchet
+56,Titanium Ingot
+56,Titanium Tachi
+56,Titanium Claw Hammer
+56,Titanium File
+56,Titanium Pliers
+56,Titanium Awl
+56,Titanium Mortar
+56,Titanium Culinary Knife
+56,Titanium Sledgehammer
+56,Titanium Scythe
+57,Titanium Longsword
+57,Titanium Battleaxe
+57,Titanium Greatsword
+57,Titanium Knuckles
+57,Titanium Kris
+57,Titanium-barreled Snaphance
+57,Titanium Halfheart Saw
+57,Titanium Lump Hammer
+57,Titanium Raising Hammer
+57,Hardsilver Lapidary Hammer
+57,Hardsilver Round Knife
+57,Titanium Pickaxe
+57,Hardsilver Hatchet
+58,Adamantite Nugget
+58,Adamantite Rivets
+58,Adamantite Broadsword
+58,Adamantite Bill
+58,Adamantite Zweihander
+58,Adamantite Jamadhars
+58,Adamantite Uchigatana
+58,Adamantite Knives
+58,Adamantite Revolver
+59,Adamantite Claw Hammer
+59,Adamantite File
+59,Adamantite Pliers
+59,Adamantite Awl
+59,Adamantite Mortar
+59,Adamantite Culinary Knife
+59,Adamantite Sledgehammer
+59,Adamantite Scythe
+61,High Steel Nugget
+61,High Steel Katzbalger
+61,High Steel Headsman's Axe
+61,High Steel Guillotine
+61,High Steel Gunblade
+61,High Steel Knuckles
+61,High Steel Tachi
+61,High Steel Main Gauches
+61,High Steel Culverin
+61,High Steel Chakrams
+61,High Steel Saw
+61,High Steel Cross-pein Hammer
+61,High Steel Doming Hammer
+61,Koppranickel Ornamental Hammer
+61,High Steel Head Knife
+61,High Steel Dolabra
+61,High Steel Hatchet
+62,High Steel Ingot
+62,High Steel Claw Hammer
+62,High Steel File
+62,High Steel Pliers
+62,High Steel Awl
+62,High Steel Mortar
+62,High Steel Culinary Knife
+62,High Steel Sledgehammer
+62,High Steel Scythe
+63,High Steel Longsword
+63,High Steel Battleaxe
+63,Folded High Steel Greatsword
+63,High Steel Bayonet
+63,Folded High Steel Knuckles
+63,High Steel Uchigatana
+63,High Steel Kris
+63,High Steel-barreled Snaphance
+63,Hight Steel War Quoits
+64,Oroshigane Ingot
+64,Doman Iron Longsword
+64,Doman Iron War Axe
+64,Doman Iron Gunblade
+64,Doman Iron Claws
+64,Doman Iron Glaives
+64,Doman Iron Halfheart Saw
+64,Doman Iron Lump Hammer
+64,Doman Iron Raising Hammer
+64,Durium Texture Hammer
+64,Doman Iron Head Knife
+64,Doman Iron Pickaxe
+64,Doman Iron Hatchet
+65,Doman Iron Greatsword
+65,Doman Iron Uchigatana
+65,Doman Iron Daggers
+65,Doman Iron Culverin
+65,Doman Iron Claw Hammer
+65,Doman Iron File
+65,Doman Iron Pliers
+65,Doman Iron Awl
+65,Doman Iron Mortar
+65,Doman Iron Culinary Knife
+65,Doman Iron Sledgehammer
+65,Doman Iron Scythe
+66,Tama-hagane Ingot
+66,Doman Steel Longsword
+66,Doman Steel Battleaxe
+66,Doman Steel Gunblade
+66,Doman Steel Patas
+66,Doman Steel War Quoits
+66,Doman Steel Saw
+66,Doman Steel Cross-pein Hammer
+66,Doman Steel Raising Hammer
+66,Durium Lapidary Hammer
+66,Doman Steel Round Knife
+66,Plumed Doman Steel Pickaxe
+66,Doman Steel Hatchet
+67,Doman Steel Greatsword
+67,Doman Steel Tachi
+67,Doman Steel Main Gauches
+67,Doman Steel-barreled Musketoon
+67,Doman Steel Claw Hammer
+67,Doman Steel File
+67,Doman Steel Pliers
+67,Doman Steel Awl
+67,Doman Steel Mortar
+67,Doman Steel Culinary Knife
+67,Doman Steel Sledgehammer
+67,Doman Steel Scythe
+68,Molybdenum Ingot
+68,Molybdenum Longsword
+68,Molybdenum War Axe
+68,Molybdenum Longblade
+68,Molybdenum Gunblade
+68,Molybdenum Knuckles
+68,Molybdenum Uchigatana
+68,Molybdenum Daggers
+68,Molybdenum Rimfire
+68,Molybdenum Chakrams
+69,Molybdenum Halfheart Saw
+69,Molybdenum Lump Hammer
+69,Molybdenum Ball-pein Hammer
+69,Palladium Texture Hammer
+69,Molybdenum Creasing Knife
+69,Molybdenum Pickaxe
+69,Molybdenum Hatchet
+70,Molybdenum Claw Hammer
+70,Molybdenum File
+70,Molybdenum Pliers
+70,Molybdenum Awl
+70,Molybdenum Mortar
+70,Molybdenum Culinary Knife
+70,Molybdenum Sledgehammer
+70,Molybdenum Scythe
+71,Deepgold Nugget
+71,Deepgold Anelace
+71,Deepgold Battleaxe
+71,Deepgold Claymore
+71,Deepgold Gunblade
+71,Deepgold Katars
+71,Deepgold Blade
+71,Deepgold Cinquedeas
+71,Deepgold Revolver
+71,Deepgold War Quoits
+71,Deepgold Saw
+71,Deepgold Claw Hammer
+71,Deepgold Cross-pein Hammer
+71,Deepgold File
+71,Deepgold Raising Hammer
+71,Deepgold Pliers
+71,Deepgold Lapidary Hammer
+71,Deepgold Head Knife
+71,Deepgold Awl
+71,Deepgold Mortar
+71,Deepgold Culinary Knife
+71,Deepgold Pickaxe
+71,Deepgold Sledgehammer
+71,Deepgold Hatchet
+71,Deepgold Scythe
+72,Deepgold Ingot
+72,Deepgold Sword
+72,Deepgold Axe
+72,Deepgold Greatsword
+72,Stonegold Uchigatana
+72,Deepgold Daggers
+73,Deepgold Bayonet
+73,Deepgold Knuckles
+73,Deepgold Arquebus
+73,Deepgold Chakrams
+74,Bluespirit Tile
+74,Bluespirit Sword
+74,Bluespirit Axe
+74,Bluespirit Guillotine
+74,Bluespirit Gunblade
+74,Bluespirit Handgonne
+74,Bluespirit Claw Hammer
+74,Bluespirit File
+74,Bluespirit Pliers
+74,Bluespirit Awl
+74,Bluespirit Mortar
+74,Bluespirit Culinary Knife
+74,Bluespirit Sledgehammer
+74,Bluespirit Scythe
+75,Bluespirit Halfheart Saw
+75,Bluespirit Cross-pein Hammer
+75,Bluespirit Raising Hammer
+75,Bluespirit Lapidary Hammer
+75,Bluespirit Round Knife
+75,Bluespirit Pickaxe
+75,Bluespirit Hatchet
+76,Titanbronze Ingot
+76,Titanbronze Kilij
+76,Titanbronze Battleaxe
+76,Titanbronze Guillotine
+76,Titanbronze Bayonet
+76,Titanbronze Fist
+76,Titanbronze Uchigatana
+76,Titanbronze Daggers
+76,Titanbronze Musketoon
+76,Titanbronze Chakrams
+77,Titanbronze Saw
+77,Titanbronze Claw Hammer
+77,Titanbronze Lump Hammer
+77,Titanbronze File
+77,Titanbronze Ball-pein Hammer
+77,Titanbronze Pliers
+77,Titanbronze Texture Hammer
+77,Titanbronze Creasing Knife
+77,Titanbronze Awl
+77,Titanbronze Mortar
+77,Titanbronze Culinary Knife
+77,Titanbronze Pickaxe
+77,Titanbronze Sledgehammer
+77,Titanbronze Hatchet
+77,Titanbronze Scythe
+78,Dwarven Mythril Ingot
+78,Dwarven Mythril Pikenstock
+78,Dwarven Mythril Hammer
+78,Dwarven Mythril Guillotine
+78,Dwarven Mythril Manatrigger
+78,Dwarven Mythril Knuckles
+78,Dwarven Mythril Uchigatana
+78,Dwarven Mythril Rotaries
+78,Dwarven Mythril Pistol
+78,Dwarven Mythril Glaives
+78,Dwarven Mythril Planisphere
+79,Dwarven Mythril Claw Hammer
+79,Dwarven Mythril File
+79,Dwarven Mythril Pliers
+79,Dwarven Mythril Awl
+79,Dwarven Mythril Mortar
+79,Dwarven Mythril Culinary Knife
+79,Dwarven Mythril Sledgehammer
+79,Dwarven Mythril Scythe
+80,Dwarven Mythril Saw
+80,Dwarven Mythril Cross-pein Hammer
+80,Dwarven Mythril Raising Hammer
+80,Dwarven Mythril Lapidary Hammer
+80,Dwarven Mythril Round Knife
+80,Dwarven Mythril Pickaxe
+80,Dwarven Mythril Hatchet
+50★★,Darksteel Hook
+50★★★,Balanced Darksteel Hook
+50★★★,Mummer's Daggers
+50★★★,Wolfram Ingot
+50★★★,Perfect Pestle
+50★★★,Artisan's Claw Hammer
+50★★★,Artisan's File
+50★★★,Artisan's Pliers
+50★★★,Artisan's Awl
+50★★★,Artisan's Mortar
+50★★★,Artisan's Culinary Knife
+50★★★,Forager's Sledgehammer
+50★★★,Forager's Scythe
+52,Garlond Steel
+50★★★★,Wootz Ingot
+50★★★★,Wootz Scimitar
+50★★★★,Mighty Thunderstrike
+50★★★★,Wootz Bhuj
+50★★★★,Mighty Thunderstorm
+50★★★★,Wootz Faussar
+50★★★★,Mighty Thunderclap
+50★★★★,Wootz Knuckles
+50★★★★,Mighty Thundercrack
+50★★★★,Mighty Thunderstroke
+50★★★★,Wootz Daggers
+50★★★★,Mighty Thundersparks
+50★★★★,Wootz Revolver
+50★★★★,Mighty Thundershower
+60,Adamantite Winglet
+60,Adamantite Headsman's Axe
+60,Adamantite Greatsword
+60,Adamantite Knuckles
+60,Adamantite Main Gauches
+60,Adamantite-barreled Culverin
+60,Adamantite Saw
+60,Adamantite Cross-pein Hammer
+60,Adamantite Ball-pein Hammer
+60,Aurum Regis Texture Hammer
+60,Aurum Regis Creasing Knife
+60,Adamantite Dolabra
+60,Adamantite Hatchet
+60★,Titanium Alloy Ingot
+60★,Adamantite Francesca
+60★,Crystal Bell
+60★★,Adamantite Ingot
+60★★,Kamacite
+60★★,Millmaster's Saw
+60★★,Fortified Claw Hammer
+60★★,Forgemaster's Hammer
+60★★,Polished Adamantite File
+60★★,Hammermaster's Beetle
+60★★,Double-jointed Adamantite Pliers
+60★★,Gemmaster's Mallet
+60★★,Hidemaster's Knife
+60★★,Sharpened Adamantite Awl
+60★★,Heavy Adamantite Mortar
+60★★,Wrapped Adamantite Culinary Knife
+60★★,Weighted Adamantite Sledgehammer
+60★★,Balanced Adamantite Scythe
+60★★,High Mythrite Nugget
+60★★,Galvanized Garlond Steel
+60★★,Endless Expanse Sword
+60★★,Dead Hive Shamshir
+60★★,Endless Expanse Battleaxe
+60★★,Dead Hive Battleaxe
+60★★,Endless Expanse Greatsword
+60★★,Dead Hive Claymore
+60★★,Endless Expanse Patas
+60★★,Dead Hive Claws
+60★★,Endless Expanse Katana
+60★★,Dead Hive Katana
+60★★,Endless Expanse Machetes
+60★★,Dead Hive Kris
+60★★,Endless Expanse Handgonne
+60★★,Dead Hive Musketoon
+60★★,Pudding Floor Lamp
+60★★,Great Gubal Floor Lamp
+60★★,Mammet Lantern
+60★★★,High Mythrite Ingot
+60★★★,Sword of the Round
+60★★★,Blade of the Fiend
+60★★★,Seeing Horde Blade
+60★★★,Blade of the Goddess
+60★★★,Replica Allagan Blade
+60★★★,Replica High Allagan Blade
+60★★★,Axe of the Round
+60★★★,Axe of the Fiend
+60★★★,Seeing Horde Axe
+60★★★,Axe of the Goddess
+60★★★,Replica Allagan Battleaxe
+60★★★,Replica High Allagan Battleaxe
+60★★★,Claymore of the Round
+60★★★,Edge of the Fiend
+60★★★,Seeing Horde Guillotine
+60★★★,Edge of the Goddess
+60★★★,Replica Allagan Guillotine
+60★★★,Replica High Allagan Guillotine
+60★★★,Replica Allagan Spear
+60★★★,Replica High Allagan Spear
+60★★★,Knuckles of the Round
+60★★★,Fists of the Fiend
+60★★★,Seeing Horde Knuckles
+60★★★,Fists of the Goddess
+60★★★,Replica Allagan Baghnakhs
+60★★★,Replica High Allagan Baghnakhs
+60★★★,Katana of the Round
+60★★★,Katana of the Fiend
+60★★★,Seeing Horde Katana
+60★★★,Katana of the Goddess
+60★★★,Daggers of the Round
+60★★★,Points of the Fiend
+60★★★,Seeing Horde Daggers
+60★★★,Points of the Goddess
+60★★★,Replica Allagan Daggers
+60★★★,Replica High Allagan Cleavers
+60★★★,Replica Allagan Composite Bow
+60★★★,Replica High Allagan Composite Bow
+60★★★,Fire of the Round
+60★★★,Fire of the Fiend
+60★★★,Fire of the Goddess
+60★★★,Replica Allagan Pistol
+60★★★,Replica High Allagan Pistol
+60★★★,Cloud Mythril Ingot
+60★★★,High Mythrite Saw
+60★★★,High Mythrite Claw Hammer
+60★★★,High Mythrite Cross-pein Hammer
+60★★★,High Mythrite File
+60★★★,High Mythrite Raising Hammer
+60★★★,High Mythrite Pliers
+60★★★,Eikon Iron Lapidary Hammer
+60★★★,High Mythrite Round Knife
+60★★★,High Mythrite Awl
+60★★★,High Mythrite Mortar
+60★★★,High Mythrite Culinary Knife
+60★★★,High Mythrite Pickaxe
+60★★★,High Mythrite Sledgehammer
+60★★★,High Mythrite Hatchet
+60★★★,High Mythrite Scythe
+60★★★★,Heavy Metal Ingot
+60★★★★,Heavy Metal Longsword
+60★★★★,Heavy Metal War Axe
+60★★★★,Heavy Metal Greatsword
+60★★★★,Heavy Metal Claws
+60★★★★,Heavy Metal Daggers
+60★★★★,Heavy Metal Culverin
+70★,Pure Titanium Plate
+70★★,Chromite Ingot
+70★★,Chromite Sword
+70★★,Chromite Axe
+70★★,Chromite Greatsword
+70★★,Chromite Knuckles
+70★★,Chromite Uchigatana
+70★★,Chromite Daggers
+70★★,Chromite Arquebus
+70★★,Ala Mhiggan Saw
+70★★,Ala Mhigan Cross-pein Hammer
+70★★,Ala Mhigan Raising Hammer
+70★★,Ala Mhigan Lapidary Hammer
+70★★,Ala Mhigan Round Knife
+70★★,Ala Mhigan Pickaxe
+70★★,Ala Mhigan Hatchet
+70★★,Private Moai
+70★★,Bomb Stove
+70★★★,Nightsteel Ingot
+70★★★,Nightsteel Sword
+70★★★,Nightsteel Battleaxe
+70★★★,Nightsteel Greatsword
+70★★★,Nightsteel Claws
+70★★★,Nightsteel Katana
+70★★★,Nightsteel Daggers
+70★★★,Nightsteel Blunderbuss
+70★★★,Nightsteel Saw
+70★★★,Nightsteel Claw Hammer
+70★★★,Nightsteel Cross-pein Hammer
+70★★★,Nightsteel File
+70★★★,Nightsteel Raising Hammer
+70★★★,Nightsteel Pliers
+70★★★,Nightsteel Lapidary Hammer
+70★★★,Nightsteel Round Knife
+70★★★,Nightsteel Awl
+70★★★,Nightsteel Mortar
+70★★★,Nightsteel Culinary Knife
+70★★★,Nightsteel Pickaxe
+70★★★,Nightsteel Sledgehammer
+70★★★,Nightsteel Hatchet
+70★★★,Nightsteel Scythe
+70★★★★,Chigusa Ingot
+70★★★★,Rakshasa Blade
+70★★★★,Rakshasa Axe
+70★★★★,Rakshasa Odachi
+70★★★★,Rakshasa Lance
+70★★★★,Rakshasa Knuckles
+70★★★★,Rakshasa Katana
+70★★★★,Rakshasa Daggers
+70★★★★,Rakshasa Revolver
+80★,Blades of Innocence
+80★★,Tungsten Steel Ingot
+80★★,Sinfender
+80★★,Alastor
+80★★,Gust Tongue
+80★★,Tutelary
+80★★,Burattinaios
+80★★,Sankhara
+80★★,Silktones
+80★★,Murderer
+80★★,Barathrum
+80★★,Facet Saw
+80★★,Facet Claw Hammer
+80★★,Facet Cross-pein Hammer
+80★★,Facet File
+80★★,Facet Raising Hammer
+80★★,Facet Pliers
+80★★,Facet Mallet
+80★★,Facet Round Knife
+80★★,Facet Awl
+80★★,Facet Mortar
+80★★,Facet Culinary Knife
+80★★,Facet Pickaxe
+80★★,Facet Sledgehammer
+80★★,Facet Hatchet
+80★★,Facet Scythe
+15,Glamour Prism
+50★★★,Inferno Blade
+50★★★,Gaze of the Vortex
+50★★★,Morbid Moggle Mogblade
+50★★★,Inferno Battleaxe
+50★★★,Scream of the Vortex
+50★★★,Malignant Moggle Mogaxe
+50★★★,Inferno Faussar
+50★★★,Pain of the Vortex
+50★★★,Monstrous Moggle Mogsword
+50★★★,Inferno Harpoon
+50★★★,Melancholy Moggle Mogfork
+50★★★,Inferno Claws
+50★★★,Talons of the Vortex
+50★★★,Inferno Katana
+50★★★,Blood of the Vortex
+50★★★,Maliferous Moggle Mogtana
+50★★★,Inferno Kris
+50★★★,Mortal Moggle Mogknives
+50★★★,Inferno Musketoon
+50★★★,Abandon of the Vortex
+50★★★,Menacing Moggle Mog Gun
+15,Oasis Octagonal Window
+18,Riviera Oblong Window
+20,Oasis Lancet Window
+21,Riviera Pendant Lamp
+27,Riviera Ornate Door
+29,Deluxe Riviera Pendant Lamp
+30,Riviera Lamppost
+32,Oasis Lamppost
+33,Oaken Bench
+42,Apkallu Weathervane
+45,Cannonballs
+45,Stone Vigil Beacon
+48,Riviera Chandelier
+50,Chocobo Weathervane
+50,Dark Divinity Falleth
+50★,Tonberry Chandelier
+50★,Bertha Cannon
+50★,Riviera Fence
+50★★,Wavesoul Fount
+50★★★,Riviera Path Light
+50★★★,Oasis Path Light
+50★★★,Carbuncle Garden Bench
+50★★★,Tidal Wavesoul Fount
+57,Alpine Chandelier
+61,Hingan Cottage Roof (Mokuzo)
+62,Hingan Stone Fence
+64,Hingan House Roof (Mozuko)
+68,Hingan Mansion Roof (Mokuzo)
+78,Weaponsmith's Stall
+17,Oasis Round Table
+18,Towel Hanger
+21,Riviera Chair
+24,Riviera Table
+27,Galleass Wheel
+30,Manor Flower Stand
+35,Ahriman Bookshelf
+35,Ahriman Screen
+35,Ahriman Cupboard
+35,Ahriman Sideboard
+41,Riviera Counter
+45,Oasis Floor Lamp
+46,Riviera Bench
+46,Knight Captain's Desk
+47,Riviera Floor Lamp
+47,Oasis Counter
+47,Nymian Wall Lantern
+49,Mahogany Screen
+50,Wall Lantern
+50★,Tonberry Wall Lantern
+50★★,Seating Module
+50★★,Plasma Lamp
+50★★,Manor Oven
+50★★★,Shower Stand
+50★★★,Lord of Levin Lamp
+50★★★,Summoning Bell
+50★★★,Smithing Bench
+50★★★,Cooking Stove
+50★★★★,Head of the Dreadwyrm
+63,Kotetsu Replica
+76,Crystarium Stove
+78,Ale Tap
+50★,Wolf Winglet
+50★,Wolf Labrys
+50★,Wolf Zweihander
+50★,Wolf Claws
+50★,Wolf Pugiones
+50★,Wolf Musketoon
+63,Featherlight Shortsword
+65,Heavy Uchigatana
+68,Custom-made Hammer
+70,Examination Uchigatana
+70,Metal Gauntlets
+73,Metal Worm Jar
+75,Metal Trident
+75,Intricate Censer
+78,Nullifying Neckpiece
+80,Enchanting Ring
+20,Skybuilders' Alloy
+40,Skybuilders' Nails
+60,Skybuilders' Hammer
+70,Skybuilders' Crosscut Saw
+80,Skybuilders' Oven

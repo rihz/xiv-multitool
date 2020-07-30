@@ -1,0 +1,21 @@
+<div class="blu-spell-task">
+    <div class="main-contents">
+        <div class="contents">
+            <div class="stage">
+                <span [style.opacity]="isTracked ? 1.0 : 0.3">
+                    {{ task.number }}
+                </span>
+            </div>
+            <div class="name">
+                <span [style.opacity]="isTracked ? 1.0 : 0.3">
+                    {{ task.name }}
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="details" *ngIf="showDetails" @details>
+        <div class="locations" *ngFor="let location of task.locations">
+            {{ location.mob }} @ {{ location.location }}
+        </div>
+    </div>
+</div>

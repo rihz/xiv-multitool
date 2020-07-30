@@ -1,0 +1,79 @@
+Group,Name,Points,Description,Reward
+Paladin,Animaniac: Ancile & Almace,20,Obtain the anima weapons Ancile and Almace.
+Paladin,Hyper Animaniac: Ancile & Almace,20,Obtain both a hyperconductive Ancile and Almace.
+Paladin,It's Alive: The Twin Thegns,20,Obtain both the Sword of the Twin Thegns and the Shield of the Twin Thegns.
+Paladin,It's Smart: The Twin Thegns,20,Obtain both a sharpened Sword of the Twin Thegns and a sharpened Shield of the Twin Thegns.
+Paladin,It's Done: Aettir & Priwen,20,Obtain Aettir and Priwen.
+Paladin,It's Really Done: Aettir Lux & Priwen Lux,20,Obtain Aettir Lux and Priwen Lux.
+Monk,Animaniac: Verethragna,20,Obtain the anima weapon Verethragna.
+Monk,Hyper Animaniac: Verethragna,20,Obtain a pair of hyperconductive Verethragna.
+Monk,It's Alive: The Sultan,20,Obtain a pair of Sultan's Fists.
+Monk,It's Smart: The Sultan,20,Obtain a pair of sharpened Sultan's Fists.
+Monk,It's Done: Nyepels,20,Obtain Nyepels.
+Monk,It's Really Done: Nyepels Lux,20,Obtain Nyepels Lux.
+Warrior,Animaniac: Ukonvasara,20,Obtain the anima weapon Ukonvasara.
+Warrior,Hyper Animaniac: Ukonvasara,20,Obtain a hyperconductive Ukonvasara.
+Warrior,It's Alive: The Blood Emperor,20,Obtain an Axe of the Blood Emperor.
+Warrior,It's Smart: The Blood Emperor,20,Obtain an sharpened Axe of the Blood Emperor.
+Warrior,It's Done: Minos,20,Obtain Minos.
+Warrior,It's Really Done: Minos Lux,20,Obtain Minos Lux.
+Dragoon,Animaniac: Rhongomiant,20,Obtain the anima weapon Rhongomiant.
+Dragoon,Hyper Animaniac: Rhongomiant,20,Obtain a hyperconductive Rhongomiant.
+Dragoon,It's Alive: The Overlord,20,Obtain a Trident of the Overlord.
+Dragoon,It's Smart: The Overlord,20,Obtain a sharpened Trident of the Overlord.
+Dragoon,It's Done: Areadbhar,20,Obtain Areadbhar.
+Dragoon,It's Really Done: Areadbhar Lux,20,Obtain Areadbhar Lux.
+Bard,Animaniac: Gandiva,20,Obtain the anima weapon Gandiva.
+Bard,Hyper Animaniac: Gandiva,20,Obtain a hyperconductive Gandiva.
+Bard,It's Alive: The Autarch,20,Obtain a Bow of the Autarch.
+Bard,It's Smart: The Autarch,20,Obtain a sharpened Bow of the Autarch.
+Bard,It's Done: Terpander,20,Obtain Terpander.
+Bard,It's Really Done: Terpander Lux,20,Obtain Terpander Lux.
+Ninja,Animaniac: Kannagi,20,Obtain the anima weapon Kannagi.
+Ninja,Hyper Animaniac: Kannagi,20,Obtain a hyperconductive Kannagi.
+Ninja,It's Alive: The Thorn Prince,20,Obtain a pair of Spurs of the Thorn Prince.
+Ninja,It's Smart: The Thorn Prince,20,Obtain a pair of sharpened Spurs of the Thorn Prince.
+Ninja,It's Done: Sandungs,20,Obtain Sandungs.
+Ninja,It's Really Done: Sandungs Lux,20,Obtain Sandungs Lux.
+White Mage,Animaniac: Majestas,20,Obtain the anima weapon Majestas.
+White Mage,Hyper Animaniac: Majestas,20,Obtain a hyperconductive Majestas.
+White Mage,It's Alive: The White Tsar,20,Obtain a Cane of the White Tsar.
+White Mage,It's Smart: The White Tsar,20,Obtain a sharpened Cane of the White Tsar.
+White Mage,It's Done: Sindri,20,Obtain Sindri.
+White Mage,It's Really Done: Sindri Lux,20,Obtain Sindri Lux.
+Black Mage,Animaniac: Hvergelmir,20,Obtain the anima weapon Hvergelmir.
+Black Mage,Hyper Animaniac: Hvergelmir,20,Obtain a hyperconductive Hvergelmir.
+Black Mage,It's Alive: The Black Khan,20,Obtain a Rod of the Black Khan.
+Black Mage,It's Smart: The Black Khan,20,Obtain a sharpened Rod of the Black Khan.
+Black Mage,It's Done: Kaladanda,20,Obtain Kaladanda.
+Black Mage,It's Really Done: Kaladanda Lux,20,Obtain Kaladanda Lux.
+Summoner,Animaniac: The Draconomicon,20,Obtain the anima weapon Draconomicon.
+Summoner,Hyper Animaniac: The Draconomicon,20,Obtain a hyperconductive Draconomicon.
+Summoner,It's Alive: The Mad Queen,20,Obtain a Book of the Mad Queen.
+Summoner,It's Smart: The Mad Queen,20,Obtain a sharpened Book of the Mad Queen.
+Summoner,It's Done: Mimesis,20,Obtain a copy of Mimesis.
+Summoner,It's Really Done: Mimesis Lux,20,Obtain a copy of Mimesis Lux.
+Scholar,Animaniac: Tetrabiblos,20,Obtain the anima weapon Tetrabiblos.
+Scholar,Hyper Animaniac: Tetrabiblos,20,Obtain a hyperconductive Tetrabiblos.
+Scholar,It's Alive: The Magnate,20,Obtain a Word of the Magnate.
+Scholar,It's Smart: The Magnate,20,Obtain a sharpened Word of the Magnate.
+Scholar,It's Done: Anabasis,20,Obtain a copy of Anabasis.
+Scholar,It's Really Done: Anabasis Lux,20,Obtain a copy of Anabasis Lux.
+Dark Knight,Animaniac: Nothung,20,Obtain the anima weapon Nothung.
+Dark Knight,Hyper Animaniac: Nothung,20,Obtain a hyperconductive Nothung.
+Dark Knight,It's Alive: The Tyrant,20,Obtain a Guillotine of the Tyrant.
+Dark Knight,It's Smart: The Tyrant,20,Obtain a sharpened Guillotine of the Tyrant.
+Dark Knight,It's Done: Cronus,20,Obtain Cronus.
+Dark Knight,It's Really Done: Cronus Lux,20,Obtain Cronus Lux.
+Machinist,Animaniac: Armageddon,20,Obtain the anima weapon Armageddon.
+Machinist,Hyper Animaniac: Armageddon,20,Obtain a hyperconductive Armageddon.
+Machinist,It's Alive: The Dynast,20,Obtain a Flame of the Dynast.
+Machinist,It's Smart: The Dynast,20,Obtain a sharpened Flame of the Dynast.
+Machinist,It's Done: Deathlocke,20,Obtain Deathlocke.
+Machinist,It's Really Done: Deathlocke Lux,20,Obtain Deathlocke Lux.
+Astrologist,Animaniac: Deneb,20,Obtain the anima weapon Deneb.
+Astrologist,Hyper Animaniac: Deneb,20,Obtain a hyperconductive Deneb.
+Astrologist,It's Alive: The Last Heir,20,Obtain a Sphere of the Last Heir.
+Astrologist,It's Smart: The Last Heir,20,Obtain a sharpened Sphere of the Last Heir.
+Astrologist,It's Done: Canopus,20,Obtain Canopus.
+Astrologist,It's Really Done: Canopus Lux,20,Obtain Canopus Lux.

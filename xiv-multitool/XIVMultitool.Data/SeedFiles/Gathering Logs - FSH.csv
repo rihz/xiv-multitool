@@ -1,0 +1,251 @@
+Name,Level,Zone,Location
+Zephyr Drift,1,Middle La Noscea,"Zephyr Drift (18,21)"
+Rogue River,1,Middle La Noscea,"Zephyr Drift (21,21)"
+West Agelyss River,1,Middle La Noscea,"Summerford (20,17)"
+Summerford,5,Middle La Noscea,"Summerford (14,15)"
+Nym River,5,Middle La Noscea,"Summerford (17,14)"
+Woad Whisper Canyon,15,Middle La Noscea,"Three-malm Bend (21,12)"
+The Mourning Widow,1,Lower La Noscea,"Moraby Bay (24,23)"
+Moraby Bay,5,Lower La Noscea,"Moraby Bay (26,25)"
+Cedarwood,10,Lower La Noscea,"Cedarwood (34,17)"
+Oschon's Torch,10,Lower La Noscea,"The Gods' Grip (24,39)"
+Candlekeep Quay,10,Lower La Noscea,"The Gods' Grip (20,38)"
+Moraby Drydocks,15,Lower La Noscea,"The Gods' Grip (26,34)"
+Empty Heart,15,Lower La Noscea,"The Gods' Grip (21,34)"
+The Salt Strand,20,Lower La Noscea,"The Gods' Grip (17,36)"
+Blind Iron Mines,20,Lower La Noscea,"Cedarwood (27,15)"
+Costa del Sol,30,Eastern La Noscea,"Bloodshore (35,29)"
+South Bloodshore,25,Eastern La Noscea,"Bloodshore (32,34)"
+North Bloodshore,35,Eastern La Noscea,"Bloodshore (32,24)"
+Rhotano Sea (Privateer Forecastle),50,Eastern La Noscea,"Bloodshore (39,24)"
+Rhotano Sea (Privateer Sterncastle),50,Eastern La Noscea,"Bloodshore (38,24)"
+Hidden Falls,35,Eastern La Noscea,"Bloodshore (30,23)"
+East Agelyss River,40,Eastern La Noscea,"Raincatcher Gully (22,25)"
+Raincatcher Gully,40,Eastern La Noscea,"Raincatcher Gully (20,30)"
+The Juggernaut,40,Eastern La Noscea,"Raincatcher Gully (17,32)"
+Red Mantis Falls,45,Eastern La Noscea,"Raincatcher Gully (15,27)"
+North Isle of Endless Summer,50,Eastern La Noscea,"Bloodshore (36,26)"
+Swiftperch,10,Western La Noscea,"Quarterstone (34,32)"
+Skull Valley,15,Western La Noscea,"Skull Valley (25,27)"
+The Brewer's Beacon,15,Western La Noscea,"Skull Valley (30,30)"
+Halfstone,35,Western La Noscea,"Halfstone (17,20)"
+Isles of Umbra Northshore,40,Western La Noscea,"The Isles of Umbra (15,29)"
+The Ship Graveyard,45,Western La Noscea,"The Isles of Umbra (15,35)"
+Sapsa Spawning Grounds,45,Western La Noscea,"Sapsa Spawning Grounds (17,15)"
+Isles of Umbra Southshore,50,Western La Noscea,"The Isles of Umbra (12,36)"
+Reaver Hide,50,Western La Noscea,"Sapsa Spawning Grounds (14,12)"
+Oakwood,20,Upper La Noscea,"Oakwood (13,24)"
+Fool Falls,20,Upper La Noscea,"Oakwood (9,20)"
+Bronze Lake Shallows,30,Upper La Noscea,"Bronze Lake (33,24)"
+Northeast Bronze Lake,35,Upper La Noscea,"Bronze Lake (27,22)"
+The Long Climb,40,Outer La Noscea,"The Long Climb (15,11)"
+Northwest Bronze Lake,35,Outer La Noscea,"The Long Climb (19,18)"
+Mist,30,Mist,Mist
+Jadeite Flood,5,Gridania,"New Gridania (12,13)"
+Lower Black Tea Brook,5,Gridania,"New Gridania (10,11)"
+Whispering Gorge,5,Gridania,"Old Gridania (15,6)"
+Upper Black Tea Brook,5,Gridania,"Old Gridania (8,8)"
+The Vein,5,Central Shroud,"Jadeite Thick (22,21)"
+The Mirror,15,Central Shroud,"Bentbranch (26,28)"
+Everschade,30,Central Shroud,"Bentbranch (15,24)"
+Hopeseed Pond,35,Central Shroud,"Sorrel Haven (13,21)"
+Haukke Manor,35,Central Shroud,"Sorrel Haven (10,22)"
+Sweetbloom Pier,15,East Shroud,"The Honey Yard (10,22)"
+Springripple Brook,15,East Shroud,"Nine Ivies (24,25)"
+Sanctum of the Twelve,20,East Shroud,"The Bramble Patch (17,16)"
+Verdant Drop,25,East Shroud,"The Bramble Patch (20,21)"
+Sylphlands,45,East Shroud,"Sylphlands (26,20)"
+Upper Hathoeva River,20,South Shroud,"Upper Paths (18,19)"
+Lower Hathoeva River,25,South Shroud,"Lower Paths (18,24)"
+East Hathoeva River,25,South Shroud,"Silent Arbor (24,22)"
+Middle Hathoeva River,30,South Shroud,"Upper Paths (19,22)"
+Goblinblood,30,South Shroud,"Silent Arbor (27,21)"
+Rootslake,35,South Shroud,"Lower Paths (18,29)"
+Urth's Gift,45,South Shroud,"Urth's Gift (32,23)"
+Murmur Rills,15,North Shroud,"Treespeak (26,25)"
+Fallgourd Float,15,North Shroud,"Alder Springs (21,24)"
+Proud Creek,40,North Shroud,"Proud Creek (20,20)"
+Lake Tahtotl,50,North Shroud,"Proud Creek (18,19)"
+Lavender Beds,30,Lavender Beds,Lavender Beds
+Nophica's Wells,5,Western Thanalan,"Hammerlea (24,21)"
+The Footfalls,10,Western Thanalan,"The Footfalls (17,15)"
+Vesper Bay,15,Western Thanalan,"The Footfalls (11,12)"
+Crescent Cove,20,Western Thanalan,"The Footfalls (14,18)"
+The Silver Bazaar,25,Western Thanalan,"Hammerlea (15,29)"
+Cape Westwind,45,Western Thanalan,"Cape Westwind (9,6)"
+Moondrip,45,Western Thanalan,"The Footfalls (17,6)"
+Parata's Peace,50,Western Thanalan,"The Footfalls (15,6)"
+Upper Soot Creek,5,Central Thanalan,"Black Brush (23,18)"
+Lower Soot Creek,10,Central Thanalan,"Black Brush (16,23)"
+The Clutch,10,Central Thanalan,"The Clutch (29,21)"
+The Unholy Heir,15,Central Thanalan,"The Clutch (27,19)"
+North Drybone,15,Eastern Thanalan,"Drybone (13,20)"
+South Drybone,15,Eastern Thanalan,"Drybone (17,24)"
+Yugr'am River,30,Eastern Thanalan,"Wellwick Wood (25,22)"
+The Burning Wall,40,Eastern Thanalan,"The Burning Wall (29,24)"
+Burnt Lizard Creek,25,Southern Thanalan,"Broken Water (21,15)"
+Zahar'ak,35,Southern Thanalan,"Zahar'ak (25,20)"
+Forgotten Springs,35,Southern Thanalan,"Sagolii Desert (15,31)"
+Sagolii Desert,35,Southern Thanalan,"Sagolii Desert (12,35)"
+Sagolii Dunes,35,Southern Thanalan,"Sagolii Desert (27,37)"
+Bluefog,40,Northern Thanalan,"Bluefog (24,25)"
+Ceruleum Field,45,Northern Thanalan,"Bluefog (16,20)"
+The Goblet,30,The Goblet,The Goblet
+Coerthas River,35,Coerthas Central Highlands,"Boulder Downs (20,30)"
+Daniffen Pass,35,Coerthas Central Highlands,"Boulder Downs (13,23)"
+The Nail,40,Coerthas Central Highlands,"Whitebrim (16,21)"
+Dragonhead Latrines,40,Coerthas Central Highlands,"Providence Point (28,17)"
+Exploratory Ice Hole,40,Coerthas Central Highlands,"Whitebrim (6,22)"
+The Weeping Saint,45,Coerthas Central Highlands,"Providence Point (31,7)"
+Snowcloak,45,Coerthas Central Highlands,"Whitebrim (3,21)"
+Sea of Clouds,45,Coerthas Central Highlands,"Whitebrim (13,14)"
+Witchdrop,50,Coerthas Central Highlands,"Providence Point (33,18)"
+Riversmeet,50,Coerthas Western Highlands,"Riversmeet (32,27)"
+Greytail Falls,51,Coerthas Western Highlands,"Riversmeet (35,26)"
+Unfrozen Pond,52,Coerthas Western Highlands,"Twinpools (28,18)"
+Clearpool,60,Coerthas Western Highlands,"Riversmeet (36,6)"
+Dragonspit,60,Coerthas Western Highlands,"Twinpools (8,10)"
+South Banepool,53,Coerthas Western Highlands,"Twinpools (21,11)"
+Ashpool,52,Coerthas Western Highlands,"Twinpools (14,15)"
+West Banepool,53,Coerthas Western Highlands,"Twinpools (13,8)"
+North Silvertear,45,Mor Dhona,"North Silvertear (24,12)"
+The Deep Tangle,45,Mor Dhona,"Fogfens (12,11)"
+Singing Shards,45,Mor Dhona,"North Silvertear (28,10)"
+Rathefrost,50,Mor Dhona,"Fogfens (18,17)"
+The Tangle,50,Mor Dhona,"Fogfens (14,13)"
+The North Shards,50,Mor Dhona,"North Silvertear (31,6)"
+Voor Sian Siran,52,The Sea of Clouds,"Voor Sian Siran (29,35)"
+The Eddies,60,The Sea of Clouds,"Voor Sian Siran (30,39)"
+Cloudtop,53,The Sea of Clouds,"Cloudtop (14,38)"
+The Blue Window,56,The Sea of Clouds,"The Blue Window (7,11)"
+Mok Oogl Island,56,The Sea of Clouds,"The Gauntlet (15,7)"
+Alpha Quadrant,58,Azys Lla,"Alpha Quadrant (16,12)"
+Aetherochemical Spill,59,Azys Lla,"Beta Quadrant (30,6)"
+Hypersteller Downconvertor,60,Azys Lla,"Alpha Quadrant (6,16)"
+Delta Quadrant,59,Azys Lla,"Delta Quadrant (10,31)"
+The Pappus Tree,60,Azys Lla,"Delta Quadrant (6,35)"
+The Habisphere,60,Azys Lla,"The Habisphere (38,18)"
+The Flagship,60,Azys Lla,"The Flagship (21,21)"
+The Hundred Throes,52,The Dravanian Forelands,"Chocobo Forest (31,10)"
+Whilom River,52,The Dravanian Forelands,"Chocobo Forest (30,14)"
+The Smoldering Wastes,52,The Dravanian Forelands,"The Smoldering Wastes (25,25)"
+The Iron Feast,55,The Dravanian Forelands,"Abalathia Foothills (31,5)"
+Mourn,55,The Dravanian Forelands,"Mourn (13,13)"
+West Mourn,56,The Dravanian Forelands,"Mourn (9,7)"
+Anyx Old,57,The Dravanian Forelands,"Mourn (19,10)"
+Halo,60,The Dravanian Forelands,"Mourn (7,5)"
+Thaliak River,57,The Dravanian Hinterlands,"The Ruling Quarter (18,18)"
+Quickspill Delta,60,The Dravanian Hinterlands,"The Answering Quarter (11,24)"
+Upper Thaliak River,58,The Dravanian Hinterlands,"Upper Thaliak River (22,35)"
+Middle Thaliak River,60,The Dravanian Hinterlands,"Middle Thaliak River (20,25)"
+Eil Tohm,54,The Churning Mists,"Eil Tohm (36,30)"
+Greensward,54,The Churning Mists,"Greensward (8,34)"
+Weston Waters,54,The Churning Mists,"Ohl Tahn (9,8)"
+Landlord Colony,54,The Churning Mists,"Landlord Colony (29,25)"
+Sohm Al Summit,55,The Churning Mists,"Sohm Al Summit (18,39)"
+Tharl Oom Khash,55,The Churning Mists,"Ohl Tahn (20,6)"
+Rhalgr's Reach,62,Rhalgr's Reach,"Rhalgr's Reach (11,10)"
+Upper Mirage Creek,61,Rhalgr's Reach,"Rhalgr's Reach (11,14)"
+The Outer Fist,62,Rhalgr's Reach,"Rhagr's Reach (12, 6)"
+Timmon Beck,61,The Fringes,"East End (11.4, 18)"
+Dimwold,62,The Fringes,"Dimwold (9.6, 29)"
+The Comet's Tail,62,The Fringes,"Pike Falls (13, 31)"
+The Velodyna River,61,The Fringes,"The Striped Hills (17.7, 8.9)"
+Mirage Creek,62,The Fringes,"The Striped Hills (27.5, 16.5)"
+Grymm & Enid,61,The Peaks,"The Last Forest (6.5, 15.6)"
+The Slow Wash,61,The Peaks,"Rustrock (23.5, 9)"
+Heather Falls,65,The Peaks,"Rustrock (31.8, 7.1)"
+The Ephor,70,The Peaks,"Rustrock (31, 17)"
+The Bull's Bath,68,The Peaks,"Mount Yorn (25, 32.7)"
+The Arms of Meed,70,The Peaks,"Wightrock (9.3, 37.5)"
+Loch Seld,70,The Lochs,"Loch Seld (21,21)"
+The Ruby Price,62,The Ruby Sea,"Rasen Kaikyo (38.4, 38.5)"
+Hell's Lid,62,The Ruby Sea,"Rasen Kaikyo (25.9, 33.3)"
+The Isle of Bekko,65,The Ruby Sea,"Rasen Kaikyo (34.6, 19.7)"
+Shoal Rock,63,The Ruby Sea,"Rasen Kaikyo (32.5, 8.3)"
+Onokoro,64,The Ruby Sea,"Rasen Kaikyo (22.1, 11)"
+Isari,64,The Ruby Sea,"East Othard Coastline (8.5, 12)"
+The Heron's Nest,64,Yanxia,"The Gensui Chain (34.7, 14)"
+The Heron's Way,64,Yanxia,"The Gensui Chain (35.6, 17)"
+Namai,64,Yanxia,"The Gensui Chain (29.5, 15.5)"
+The One River (East),65,Yanxia,"The Glittering Basin (20, 24)"
+The One River (West),70,Yanxia,"The Glittering Basin (11, 33)"
+Plum Spring,70,Yanxia,"The Gensui Chain (37, 24)"
+Prism Canyon,67,Yanxia,"Valley of the Fallen Rainbow (32, 7)"
+Prism Lake,67,Yanxia,"Valley of the Fallen Rainbow (29, 6)"
+Mercantile Docks,67,Yanxia,"Doma (11, 13)"
+Doma Castle,67,Yanxia,"Doma (14, 7)"
+Nem Khaal,60,The Azim Steppe,"The Sea of Blades (31, 26)"
+Hak Khaal,66,The Azim Steppe,"Onsal Hakair (29, 20)"
+Upper Yat Khaal,67,The Azim Steppe,"Nhaama's Retreat (17,18)"
+Azim Khaat,70,The Azim Steppe,"The Azim Khaat (23,23)"
+Tao Khaal,67,The Azim Steppe,"Onsal Hakair (16, 14)"
+Lower Yat Khaal,67,The Azim Steppe,"The Sea of Blades (22, 28)"
+Dortharl Khaa,67,The Azim Steppe,"Nhaama's Retreat (12.4, 33.1)"
+Kugane Piers,63,Kugane,"Pier 2 (12, 10.5)"
+Shirogane,63,Shirogane,"Shirogane (8,14)"
+The Silver Canal,65,Shirogane,"Kobai Goten (10,11)"
+The Trivium,70,Norvrandt,The Crystarium
+The Quadrivium,70,Norvrandt,The Crystarium
+Crystarium Personal Suites,70,Norvrandt,The Crystarium
+The Derelicts,72,Norvrandt,Eulmore
+The Rift of Sighs,71,Norvrandt,Lakeland
+The Rusted Reservoir,72,Norvrandt,Lakeland
+The Source,71,Norvrandt,Lakeland
+Sullen,72,Norvrandt,Lakeland
+The Isle of Ken,75,Norvrandt,Lakeland
+Upper Watts River,78,Norvrandt,Kholusia
+White Oil Falls,71,Norvrandt,Kholusia
+Lower Watts River,71,Norvrandt,Kholusia
+Sharptongue Drip,71,Norvrandt,Kholusia
+The Western Kholusian Coast,72,Norvrandt,Kholusia
+Seagazer Shoals,75,Norvrandt,Kholusia
+The Eastern Kholusian Coast,72,Norvrandt,Kholusia
+The River of Sand,71,Norvrandt,Amh Araeng
+The Hills of Amber,77,Norvrandt,Amh Araeng
+The Nabaath Severance,72,Norvrandt,Amh Araeng
+Handmirror Lake,73,Norvrandt,Il Mheg
+Longmirror Lake,73,Norvrandt,Il Mheg
+The Haughty One,74,Norvrandt,Il Mheg
+The Jealous One,74,Norvrandt,Il Mheg
+Father Collard's Failings,75,Norvrandt,Il Mheg
+The Spoiled One,74,Norvrandt,Il Mheg
+Saint Fathric's Temple,74,Norvrandt,Il Mheg
+Lake Tusi Mek'ta,75,Norvrandt,The Rak'tika Greatwood
+The Red Chalice,76,Norvrandt,The Rak'tika Greatwood
+The Lotzatl,77,Norvrandt,The Rak'tika Greatwood
+South Mjrl's Regret,77,Norvrandt,The Rak'tika Greatwood
+Woven Oath,80,Norvrandt,The Rak'tika Greatwood
+The Flounders' Floor,80,Norvrandt,The Tempest
+Where the Dry Return,79,Norvrandt,The Tempest
+Northwest Caliban Gorge,79,Norvrandt,The Tempest
+West Caliban Gap,80,Norvrandt,The Tempest
+East Caliban Gap,80,Norvrandt,The Tempest
+Purpure,79,Norvrandt,The Tempest
+The Norvrandt Slope,80,Norvrandt,The Tempest
+Loch Seld Northwestern Lakebed,70,The Lochs,"Loch Seld (13, 18)"
+Loch Seld Central Lakebed,70,The Lochs,"Loch Seld (22, 23)"
+Loch Seld Southeastern Lakebed,70,The Lochs,"Loch Seld (26, 28)"
+Ruby Price Depths,65,The Ruby Sea,"Rasen Kaikyo (34.7, 29.9)"
+Tamamizu,65,The Ruby Sea,"Rasen Kaikyo (28, 13.3)"
+Sui-no-Sato,65,The Ruby Sea,"Rasen Kaikyo (17.5, 20.5)"
+The Adventure,65,The Ruby Sea,"Rasen Kaikyo (16.3, 24.7)"
+Shisui of the Violet Tides,65,The Ruby Sea,"Rasen Kaikyo (4.9, 37)"
+The Kobayashi Maru,70,The Ruby Sea,"Rasen Kaikyo (38.8, 6.3)"
+The One River Southwestern Riverbeds,65,Yanxia,"The Glittering Basin (15, 37)"
+The One River Southern Riverbeds,65,Yanxia,"The Glittering Basin (21.5, 36.6)"
+Imperial Hypersonic Assault Craft L-XXIII,65,Yanxia,"The Glittering Basin (34.7, 36.7)"
+The Sunken Junk,70,Yanxia,The Glittering Basin (10-34)
+The Dragon's Struggle,70,Yanxia,"Doma (12, 10)"
+Azim Khaat Western Lakebed,70,The Azim Steppe,"Azim Khaat (19, 23.7)"
+Azim Khaat Eastern Lakebed,70,The Azim Steppe,"Azim Khaat (23, 23.7)"
+Northeast Source,70,Norvrandt,Lakeland
+The Isle of Ken,75,Norvrandt,Lakeland
+Southeast Source,75,Norvrandt,Lakeland
+North Lyhe Ghiah,75,Norvrandt,Il Mheg
+Deepwood Swim,75,Norvrandt,Il Mheg
+Central Longmirror Lake,80,Norvrandt,Il Mheg
+Thysm Lran,80,Norvrandt,Il Mheg
+South Longmirror Lake,80,Norvrandt,Il Mheg
+North Lake Tusi Mek'ta,80,Norvrandt,The Rak'tika Greatwood
+The Covered Halls of Dwatl,80,Norvrandt,The Rak'tika Greatwood

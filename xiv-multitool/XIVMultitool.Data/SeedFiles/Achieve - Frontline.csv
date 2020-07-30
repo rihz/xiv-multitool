@@ -1,0 +1,71 @@
+Group,Name,Points,Description,Reward
+Match Victories,Front and Center I,5,Triumph for the first time in Frontline.
+Match Victories,Front and Center II,5,Triumph in 10 matches in Frontline.
+Match Victories,Front and Center III,5,Triumph in 30 matches in Frontline.
+Match Victories,Front and Center IV,5,Triumph in 50 matches in Frontline.
+Match Victories,Front and Center V,10,Triumph in 100 matches in Frontline.,Mount: Safeguard System
+Match Victories,Front and Center VI,20,Triumph in 300 matches in Frontline.,Title: Vanguard
+Campaign Participation,Walk the Line I,5,Participate in a Frontline campaign.
+Campaign Participation,Walk the Line II,5,Participate in 30 Frontline campaigns.
+Campaign Participation,Walk the Line III,5,Participate in 50 Frontline campaigns.
+Campaign Participation,Walk the Line IV,5,Participate in 100 Frontline campaigns.
+Campaign Participation,Walk the Line V,10,Participate in 300 Frontline campaigns.,Title: Frontline Forerunner
+Campaign Participation,Walk the Line VI,20,Participate in 1000 Frontline campaigns.
+Interceptor Nodes,Just Say Node I,5,Destroy an interceptor node.
+Interceptor Nodes,Just Say Node II,5,Destroy 5 interceptor nodes.
+Interceptor Nodes,Just Say Node III,5,Destroy 10 interceptor nodes.
+Interceptor Nodes,Just Say Node IV,5,Destroy 20 interceptor nodes.,Title: Heliodrome Hero
+Interceptor Nodes,A Node Off My Back,10,Destroy 50 interceptor nodes.
+Interceptor Drones,Prime Air I,5,Destroy an interceptor drone.
+Interceptor Drones,Prime Air II,5,Destroy 30 interceptor drone.
+Interceptor Drones,Prime Air III,5,Destroy 50 interceptor drone.
+Interceptor Drones,Prime Air IV,5,Destroy 100 interceptor drone.,Title: Drone Sniper
+Interceptor Drones,A Drone in the Dark,10,Destroy 300 interceptor drone.
+Frontline Enemies,Slaughterhouse One,5,Dispatch an enemy on a Frontline campaign
+Frontline Enemies,Slaughterhouse Two,5,Dispatch 100 enemies on a Frontline campaign
+Frontline Enemies,Slaughterhouse Three,5,Dispatch 500 enemies on a Frontline campaign
+Frontline Enemies,Slaughterhouse Four,10,Dispatch 1000 enemies on a Frontline campaign,Title: Slaughterhouse
+Frontline Enemies,Slaughterhouse Five,20,Dispatch 5000 enemies on a Frontline campaign,Title: Hand of Mercy
+Seal Rock Victories,Between a Rock and a Hard Place I,5,Guide any of the the Grand Companies to victory on Seal Rock.,Item: Field Commander's Helm
+Seal Rock Victories,Between a Rock and a Hard Place II,5,Guide any of the the Grand Companies to victory on Seal Rock 10 times.,Item: Field Commander's Boots
+Seal Rock Victories,Between a Rock and a Hard Place III,5,Guide any of the the Grand Companies to victory on Seal Rock 30 times.,Item: Field Commander's Gloves
+Seal Rock Victories,Between a Rock and a Hard Place IV,5,Guide any of the the Grand Companies to victory on Seal Rock 50 times.,Item: Field Commander's Slops
+Seal Rock Victories,Between a Rock and a Hard Place V,5,Guide any of the the Grand Companies to victory on Seal Rock 100 times.,Item: Field Commander's Coat
+Seal Rock Victories,Beneath Enemy Rocks,5,Guide any of the the Grand Companies to victory on Seal Rock 300 times.
+Fields of Glory Victories,In a Blaze of Glory I,5,Guide any of the the Grand Companies to victory on the Fields of Glory.
+Fields of Glory Victories,In a Blaze of Glory II,5,Guide any of the the Grand Companies to victory on the Fields of Glory 10 times.
+Fields of Glory Victories,In a Blaze of Glory III,5,Guide any of the the Grand Companies to victory on the Fields of Glory 30 times.
+Fields of Glory Victories,In a Blaze of Glory IV,5,Guide any of the the Grand Companies to victory on the Fields of Glory 50 times.
+Fields of Glory Victories,In a Blaze of Glory V,5,Guide any of the the Grand Companies to victory on the Fields of Glory 100 times.,Mount: Aerodynamics System
+Fields of Glory Victories,In a Blaze of Glory VI,5,Guide any of the the Grand Companies to victory on the Fields of Glory 300 times.,Title: The Knight of Glory
+Frontline Victories,Behind Enemy Lines I,10,Guide any of the Grand Companies to a total of 200 Frontline victories.,Mount: Logistics System
+Frontline Victories,Behind Enemy Lines II,10,Guide any of the Grand Companies to a total of 300 Frontline victories.
+Seal Rock Tomeliths,Hounding the Rock I,5,Occupy a tomelith on Seal Rock.
+Seal Rock Tomeliths,Hounding the Rock II,5,Occupy 30 tomeliths on Seal Rock.
+Seal Rock Tomeliths,Hounding the Rock III,5,Occupy 100 tomeliths on Seal Rock.
+Seal Rock Tomeliths,Hounding the Rock IV,5,Occupy 300 tomeliths on Seal Rock.,Title: Keeper of Knowledge
+Seal Rock Tomeliths,Hounding the Rock V,10,Occupy 500 tomeliths on Seal Rock.
+Maelstrom Victories,A Line in the Storm I,5,Guide the Maelstrom to a Frontline victory.
+Maelstrom Victories,A Line in the Storm II,5,Guide the Maelstrom to 30 Frontline victories.
+Maelstrom Victories,A Line in the Storm III,5,Guide the Maelstrom to 50 Frontline victories.
+Maelstrom Victories,A Line in the Storm IV,5,Guide the Maelstrom to 100 Frontline victories.,Mount: Storm Warsteed
+Maelstrom Victories,A Line in the Storm V,10,Guide the Maelstrom to 300 Frontline victories.,Title: Storm Forerunner
+Maelstrom Victories,The Amethyst Keel,20,"Guide the Maelstrom to 1,000 Frontline victories."
+Twin Adder Victories,A Line in the Glade I,5,Guide the Order of the Twin Adder to a Frontline victory.
+Twin Adder Victories,A Line in the Glade II,5,Guide the Order of the Twin Adder to 30 Frontline victories.
+Twin Adder Victories,A Line in the Glade III,5,Guide the Order of the Twin Adder to 50 Frontline victories.
+Twin Adder Victories,A Line in the Glade IV,5,Guide the Order of the Twin Adder to 100 Frontline victories.,Mount: Serpent Warsteed
+Twin Adder Victories,A Line in the Glade V,10,Guide the Order of the Twin Adder to 300 Frontline victories.,Title: Serpent Forerunner
+Twin Adder Victories,The Ebony Leaf,20,"Guide the Order of the Twin Adder to 1,000 Frontline victories."
+Immortal Flame Victories,A Line in the Sand I,5,Guide the Immortal Flames to a Frontline victory.
+Immortal Flame Victories,A Line in the Sand II,5,Guide the Immortal Flames to 30 Frontline victories.
+Immortal Flame Victories,A Line in the Sand III,5,Guide the Immortal Flames to 50 Frontline victories.
+Immortal Flame Victories,A Line in the Sand IV,5,Guide the Immortal Flames to 100 Frontline victories.,Mount: Flame Warsteed
+Immortal Flame Victories,A Line in the Sand V,10,Guide the Immortal Flames to 300 Frontline victories.,Title: Flame Forerunner
+Immortal Flame Victories,The Rose Gold Scales,20,"Guide the Immortal Flames to 1,000 Frontline victories."
+Onsal Hakair Victories,One Steppe at a Time I,5,Guide any of the three Grand Companies to victory at Onsal Hakair.
+Onsal Hakair Victories,One Steppe at a Time II,5,Guide any of the three Grand Companies to a total of 10 victories at Onsal Hakair.
+Onsal Hakair Victories,One Steppe at a Time III,5,Guide any of the three Grand Companies to a total of 30 victories at Onsal Hakair.
+Onsal Hakair Victories,One Steppe at a Time IV,5,Guide any of the three Grand Companies to a total of 50 victories at Onsal Hakair.
+Onsal Hakair Victories,One Steppe at a Time V,5,Guide any of the three Grand Companies to a total of 100 victories at Onsal Hakair.,Mount: Construct VII Core
+Onsal Hakair Victories,One Steppe at a Time VI,10,Guide any of the three Grand Companies to a total of 300 victories at Onsal Hakair.,Title: The Battleforged

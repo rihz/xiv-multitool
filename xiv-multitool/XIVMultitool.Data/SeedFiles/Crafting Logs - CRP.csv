@@ -1,0 +1,695 @@
+Level,Name
+1,Maple Lumber
+1,Maple Clogs
+2,Maple Shortbow
+3,Bone Harpoon
+4,Amateur's Grinding Wheel
+4,Maple Pattens
+5,Amateur's Spinning Wheel
+5,Square Maple Shield
+6,Bronze Spear
+6,Maple Cane
+7,Maple Longbow
+8,Maple Crook
+8,Maple Fishing Rod
+9,Plumed Maple Shortbow
+9,Round Shield
+10,Ash Lumber
+10,Ash Macuahuitl
+10,Ramhorn Harpoon
+11,Ragstone Grinding Wheel
+12,Ash Spinning Wheel
+12,Amateur's Fishing Rod
+13,Feathered Harpoon
+13,Ash Radical
+14,Brass Spear
+14,Ash Mask
+14,Ash Pattens
+15,Wrapped Maple Longbow
+15,Ash Shortbow
+15,Square Ash Shield
+16,Elm Lumber
+16,Elm Fishing Rod
+17,Iron Spear
+18,Elm Cane
+19,Elm Longbow
+19,Elm Crook
+19,Initiate's Spinning Wheel
+20,Blank Grade 1 Orchestrion Roll
+20,Iron Lance
+20,Initiate's Fishing Rod
+20,Ash Mask (Lapis Lazuli)
+21,Yew Lumber
+21,Elm Velocity Bow
+21,Yew Radical
+22,Iron Guisarme
+22,Mudstone Grinding Wheel
+23,Elm Spinning Wheel
+24,Wrapped Elm Longbow
+24,Yew Crook
+24,Elm Pattens
+25,Walnut Lumber
+25,Initiate's Grinding Wheel
+25,Yew Fishing Rod
+26,Ash Composite Bow
+26,Pastoral Yew Cane
+26,Viper-crested Round Shield
+27,Silver Battle Fork
+28,Elm Macuahuitl
+29,Steel Halberd
+29,Walnut Cane
+29,Staghorn Fishing Rod
+30,Steel Spear
+30,Plumed Yew Crook
+31,Ash Cavalry Bow
+32,Oak Lumber
+32,Walnut Fishing Rod
+33,Walnut Spinning Wheel
+33,Walnut Pattens
+34,Walnut Macuahuitl
+34,Siltstone Grinding Wheel
+35,Heavy Steel Lance
+35,Oak Longbow
+35,Oak Radical
+35,Vintage Square Shield
+36,Yarzonshell Harpoon
+36,Mythril Cavalry Bow
+37,Pastoral Oak Cane
+37,Horn Fishing Rod
+38,Mythril Lance
+38,Vintage Cane
+39,Mahogany Lumber
+39,Oak Pattens
+40,Oak Composite Bow
+40,Mahogany Spinning Wheel
+40,Mahogany Fishing Rod
+41,Plumed Oak Macuahuitl
+42,Sprouting Rosewood Radical
+43,Garnet Grinding Wheel
+43,Vintage Round Shield
+44,Cobalt Halberd
+44,Jade Crook
+45,Rosewood Lumber
+45,Cobalt Cavalry Bow
+45,Rosewood Spinning Wheel
+45,Rosewood Fishing Rod
+45,Eagle-crested Round Shield
+45,Vintage Guisarme
+46,Yew Longbow
+47,Cobalt Trident
+47,Basilisk Grinding Wheel
+47,Vintage Bow
+48,Pastoral Mahogany Cane
+48,Gilded Rosewood Fishing Rod
+48,Mahogany Pattens
+49,Hart Guisarme
+49,Crab Bow
+50★,Spruce Lumber
+50★,Champion's Lance
+50★,Longarm's Composite Bow
+50★,Militia Grinding Wheel
+50★,Militia Spinning Wheel
+50★★,Treated Spruce Lumber
+50★★,Sarnga Limb
+50★★,Sarnga
+50★★,Spruce Round Shield
+50★★,Spruce Pattens
+50★★,Magicked Stable Broom
+50★★★,Blank Grade 2 Orchestrion Roll
+50★★★,Magic Broom
+51,Cedar Lumber
+51,Mythrite Trident
+51,Cedar Longbow
+51,Cedar Crook
+52,Holy Cedar Lumber
+52,Mythrite Pugil Stick
+52,Holy Cedar Composite Bow
+52,Cedar Fishing Rod
+53,Astral Grinding Wheel
+53,Holy Cedar Spinning Wheel
+53,Holy Cedar Armillae
+53,Holy Cedar Ring
+54,Dark Chestnut Lumber
+54,Titanium Lance
+54,Dark Chestnut Longbow
+54,Dark Chestnut Rod
+54,Holy Cedar Necklace
+55,Dark Chestnut Fishing Rod
+56,Hallowed Chestnut Lumber
+56,Titanium Fork
+56,Hallowed Chestnut Composite Bow
+56,Cloud Mica Grinding Wheel
+56,Dark Chestnut Spinning Wheel
+56,Hallowed Chestnut Mask of Aiming
+56,Hallowed Chestnut Mask of Casting
+56,Hallowed Chestnut Mask of Healing
+57,Hallowed Chestnut Fishing Rod
+57,Hallowed Chestnut Ring
+58,Birch Lumber
+58,Adamantite Spear
+58,Birch Longbow
+58,Birch Signum
+58,Hallowed Chestnut Armillae
+59,Dragonscale Grinding Wheel
+59,Birch Spinning Wheel
+59,Hallowed Chestnut Necklace
+60,Blank Grade 3 Orchestrion Roll
+61,Beech Lumber
+61,Beech Rod
+61,Beech Mask of Healing
+61,High Steel Trident
+61,Beech Composite Bow
+61,Muudhorn Fishing Rod
+61,Beech Mask of Casting
+62,Larch Lumber
+62,High Steel Fork
+62,Larch Composite Bow
+62,Larch Wand
+62,Stiperstone Grinding Wheel
+62,Larch Spinning Wheel
+63,Larch Earrings
+63,Larch Necklace
+63,Larch Bracelets
+63,Larch Ring
+64,Pine Lumber
+64,Doman Iron Lance
+64,Pine Composite Bow
+64,Pine Cane
+65,Slate Grinding Wheel
+65,Pine Spinning Wheel
+65,Pine Fishing Rod
+66,Persimmon Lumber
+66,Doman Steel Halberd
+66,Persimmon Bow
+66,Persimmon Cane
+66,Gazelle Horn Fishing Rod
+67,Polished Slate Grinding Wheel
+67,Persimmon Spinning Wheel
+67,Persimmon Earrings
+67,Persimmon Necklace
+67,Persimmon Bracelets
+67,Persimmon Ring
+68,Zelkova Lumber
+68,Molybdenum Trident
+68,Zelkova Longbow
+68,Zelkova Cane
+69,Zelkova Earrings
+69,Zelkova Necklace
+69,Zelkova Bracelets
+69,Zelkova Ring
+70,Almandine Grinding Wheel
+70,Zelkova Spinning Wheel
+70,Zelkova Fishing Rod
+71,White Oak Lumber
+71,White Oak Partisan
+71,White Oak Composite Bow
+71,White Oak Rod
+71,White Oak Cane
+71,White Oak Grinding Wheel
+71,White Oak Spinning Wheel
+71,White Oak Fishing Rod
+71,White Oak Earrings
+71,White Oak Necklace
+71,White Oak Bracelets
+71,White Oak Ring
+72,Miracle Apple Lumber
+72,Applewood Spear
+72,Applewood Longbow
+73,Applewood Staff
+73,Applewood Cane
+74,White Ash Lumber
+74,Bluespirit Spear
+74,Bluespirit Cane
+74,White Ash Grinding Wheel
+74,White Ash Spinning Wheel
+74,White Ash Fishing Rod
+75,White Ash Earring of Fending
+75,White Ash Earring of Slaying
+75,White Ash Erraing of Aiming
+75,White Ash Earring of Casting
+75,White Ash Earring of Healing
+75,White Ash Earring
+75,White Ash Necklace
+75,White Ash Bracelet
+75,White Ash Ring
+76,Sandteak Lumber
+76,Sandteak Fauchard
+76,Sandteak Longbow
+76,Sandteak Rod
+76,Sandteak Cane
+77,Sandteak Grinding Wheel
+77,Sandteak Spinning Wheel
+77,Sandteak Fishing Rod
+78,Lignum Vitae Lumber
+78,Dwarven Lignum Lance
+78,Dwarven Lignum Bow
+78,Dwarven Lignum Pole
+78,Dwarven Lignum Cane
+79,Lignum Vitae Earrings
+79,Lignum Vitae Necklace
+79,Lignum Vitae Bracelet
+79,Lignum Vitae Ring
+80,Lignum Vitae Grinding Wheel
+80,Lignum Vitae Spinning Wheel
+80,Lignum Vitae Fishing Rod
+50★★,Spruce Plywood
+50★★,Beach Chair
+50★★,Round Stage
+50★★★,Reinforced Spruce Plywood
+50★★★,Petrified Orb
+50★★★,Ancient Lumber
+50★★★,Perfect Firewood
+50★★★,Artisan's Grinding Wheel
+50★★★,Artisan's Spinning Wheel
+50★★★,Oriental Deck
+50★★★,Glade Partition Door
+50★★★,Oasis Partition Door
+50★★★,Staggered Shelf
+50★★★,Portable Stepladder
+50★★★,Glade Bachelor's Desk
+56,Cassia Lumber
+50★★★★,Ebony Lumber
+50★★★★,Wootz Spear
+50★★★★,Mighty Thunderbolt
+50★★★★,Ebony Longbow
+50★★★★,Mighty Thunderdart
+50★★★★,Ebony Staff
+50★★★★,Ebony Cane
+50★★★★,High Adjudicator's Gavel
+50★★★★,Artisan's Sandals
+58,The Unending Journey
+60,Adamantite Trident
+60,Birch Composite Bow
+60,Birch Rod
+60,Birch Fishing Rod
+60,Hive Ceiling Fan
+60★,Cassia Block
+60★,Dispelling Arrow
+60★,Clockwork Barrow
+60★,Unfinished Interior Wall
+60★,Unfinished Wood Flooring
+60★,Magnificent Mogdelier
+60★,Deep Hive Ceiling Fan
+60★,Bar Stool
+60★,Gordian Bureau
+60★,Bar Counter
+60★,Stuffed Carbuncle
+60★★,Astral Birch Lumber
+60★★,Sun Mica Grinding Wheel
+60★★,Astral Birch Spinning Wheel
+60★★,Astral Birch Necklace
+60★★,Astral Birch Armillae
+60★★,Astral Birch Ring
+60★★,Mhachi Coffin
+60★★,Savage Gordian Bureau
+60★★,Tiny Bronco Miniature
+60★★,Invincible Miniature
+60★★,Enterprise Miniature
+60★★,Invincible II Miniature
+60★★,Odyssey Miniature
+60★★,Tatanora Miniature
+60★★,Viltgance Miniature
+60★★,Camphorwood Lumber
+60★★,Endless Expanse Partisan
+60★★,Dead Hive Spear
+60★★,Endless Expanse Longbow
+60★★,Dead Hive Bow
+60★★,Endless Expanse Cane
+60★★,Dead Hive Cane
+60★★,Shishi-odoshi
+60★★,Orchestrion
+60★★,Pudding Desk
+60★★,Troupe Stage
+60★★,Tier 3 Aquarium
+60★★★,Treated Camphorwood Lumber
+60★★★,Halberd of the Round
+60★★★,Pike of the Fiend
+60★★★,Seeing Horde Spear
+60★★★,Pike of the Goddess
+60★★★,Bow of the Round
+60★★★,Bow of the Fiend
+60★★★,Seeing Horde Bow
+60★★★,Bow of the Goddess
+60★★★,Cane of the Round
+60★★★,Cane of the Fiend
+60★★★,Camphorwood Necklace of Fending
+60★★★,Camphorwood Necklace of Slaying
+60★★★,Camphorwood Necklace of Aiming
+60★★★,Camphorwood Necklace of Casting
+60★★★,Camphorwood Necklace of Healing
+60★★★,Camphorwood Armillae of Fending
+60★★★,Camphorwood Armillae of Slaying
+60★★★,Camphorwood Armillae of Aiming
+60★★★,Camphorwood Armillae of Casting
+60★★★,Camphorwood Armillae of Healing
+60★★★,Oriental Wood Bridge
+60★★★,Bread Rack
+60★★★,Knightly Round Table
+60★★★,Grade 3 Picture Frame
+60★★★,Eikon Iron Grinding Wheel
+60★★★,Camphorwood Spinning Wheel
+60★★★,Luminous Fiber Fishing Rod
+60★★★,Ironworks Necklace of Crafting
+60★★★,Ironworks Necklace of Gathering
+60★★★,Ironworks Armillae of Crafting
+60★★★,Ironworks Armillae of Gathering
+60★★★★,Teak Lumber
+60★★★★,Heavy Metal Lance
+60★★★★,Teak Composite Bow
+60★★★★,Teak Cane
+60★★★★,Teak Choker of Fending
+60★★★★,Teak Choker of Slaying
+60★★★★,Teak Choker of Aiming
+60★★★★,Teak Choker of Casting
+60★★★★,Teak Choker of Healing
+60★★★★,Teak Bracelet of Fending
+60★★★★,Teak Bracelet of Slaying
+60★★★★,Teak Bracelet of Aiming
+60★★★★,Teak Bracelet of Casting
+60★★★★,Teak Bracelet of Healing
+60★★★★,Hingan Cleaning Supplies
+60★★★★,Tier 4 Aquarium
+70★,Cryptomeria Lumber
+70★,Fool's Portal
+70★,Imitation Square Window
+70★★,Torreya Lumber
+70★★,Chromite Spear
+70★★,Torreya Longbow
+70★★,Torreya Cane
+70★★,Ala Mhigan Fishing Rod
+70★★,Torreya Choker of Fending
+70★★,Torreya Choker of Slaying
+70★★,Torreya Choker of Aiming
+70★★,Torreya Choker of Casting
+70★★,Torreya Choker of Healing
+70★★,Torreya Bracelet of Fending
+70★★,Torreya Bracelet of Slaying
+70★★,Torreya Bracelet of Aiming
+70★★,Torreya Bracelet of Casting
+70★★,Torreya Bracelet of Healing
+70★★,Hingan Hot Spring
+70★★,Odder Otter Bench
+70★★,Odder Otter Screen
+70★★,Odder Otter Chair
+70★★,Merry Mog Bed
+70★★,Odder Otter Dining Table
+70★★,Counter Cart
+70★★,Mirific Mogshelf
+70★★,Southern Kitchen
+70★★,Kitchen Hanger
+70★★,Mounted Cupboard
+70★★★,Byakko Sideboard
+70★★★,Black Willow Lumber
+70★★★,Black Willow Spear
+70★★★,Black Willow Greatbow
+70★★★,Black Willow Cane
+70★★★,Silvergrace Grinding Wheel
+70★★★,Black Willow Spinning Wheel
+70★★★,Black Willow Fishing Rod
+70★★★,Yamashi Kasa
+70★★★,Black Willow Necklace of Fending
+70★★★,Black Willow Necklace of Slaying
+70★★★,Black Willow Necklace of Aiming
+70★★★,Black Willow Necklace of Casting
+70★★★,Black Willow Necklace of Healing
+70★★★,Black Willow Necklace of Crafting
+70★★★,Black Willow Armillae of Fending
+70★★★,Black Willow Armillae of Slaying
+70★★★,Black Willow Armillae of Aiming
+70★★★,Black Willow Armillae of Casting
+70★★★,Black Willow Armillae of Healing
+70★★★,Black Willow Armillae of Crafting
+70★★★,Black Willow Ring of Crafting
+70★★★★,Suzaku Wall Hanging
+70★★★★,Urunday Lumber
+70★★★★,Rakshasa Greatbow
+70★★★★,Rakshasa Cane
+70★★★★,Rakshasa Necklace of Fending
+70★★★★,Rakshasa Necklace of Slaying
+70★★★★,Rakshasa Necklace of Aiming
+70★★★★,Rakshasa Necklace of Casting
+70★★★★,Rakshasa Necklace of Healing
+70★★★★,Rakshasa Bracelet of Fending
+70★★★★,Rakshasa Bracelet of Slaying
+70★★★★,Rakshasa Bracelet of Aiming
+70★★★★,Rakshasa Bracelet of Casting
+70★★★★,Rakshasa Bracelet of Healing
+80★,Magicked Bed
+80★★,Sandalwood Lumber
+80★★,Skystrider
+80★★,Gendawa
+80★★,Catalyst
+80★★,Clearpath
+80★★,Facet Grinding Wheel
+80★★,Facet Spinning Wheel
+80★★,Facet Fishing Rod
+15,Glamour Prism
+50★★★,Beak of the Vortex
+50★★★,Inferno Bow
+50★★★,Spine of the Vortex
+50★★★,Mischievous Moggle Mogbow
+50★★★,Maleficent Moggle Mogstaff
+50★★★,Inferno Cane
+12,Firewood
+13,Glade Classical Window
+13,Stump Stool
+14,Riviera Arched Window
+14,Crofter's Wain
+16,Glade Lancet Window
+16,Oasis Oblong Window
+16,Oasis Wooden Awning
+17,Riviera Bay Window
+18,Glade Cottage Wall (Wood)
+19,Glade Pendant Lamp
+19,Riviera Cottage Roof (Composite)
+20,Laundry Pole
+21,Glade Rounded Window
+21,Riviera Cottage Wall (Wood)
+22,Oasis Cottage Roof (Wood)
+22,Oasis Cottage Wall (Wood)
+23,Glade Cottage Wall (Composite)
+24,Riviera Cottage Roof (Stone)
+25,Walnut Interior Wall
+26,Glade Lancet Door
+26,Glade Thatch Chimney
+26,Riviera Flooring
+26,Glade Flooring
+26,Oasis Flooring
+27,Oasis Crowned Door
+28,Riviera Wooden Awning
+28,Walnut Table
+30,Arbor Interior Wall
+30,Stepladder
+30,Standing Signboard
+31,Riviera Interior Wall
+31,Glade Interior Wall
+31,Retainer Cartonnier
+32,Riviera Wooden Door
+32,Glade Arched Door
+32,Deluxe Glade Pendant Lamp
+33,Oasis Wooden Wall
+34,Glade Lamppost
+35,Dried Well
+35,Riviera House Roof (Composite)
+35,Glade House Wall (Wood)
+38,Riviera House Wall (Wood)
+39,Oasis House Roof (Wood)
+39,Oasis House Wall (Wood)
+40,Glade House Wall (Composite)
+41,Riviera House Roof (Stone)
+45,Black-and-white Interior Wall
+45,Lattice Planter
+46,Riviera Garden Table Set
+47,Glade Chandelier
+50,Glade Roundpole Fence
+50★,Riviera Mansion Roof (Composite)
+50★,Riviera Mansion Roof (Stone)
+50★,Oasis Mansion Roof (Wood)
+50★,Riviera Mansion Wall (Wood)
+50★,Glade Mansion Wall (Wood)
+50★,Glade Mansion Wall (Composite)
+50★,Oasis Mansion Wall (Wood)
+50★★,Straight Stepping Stumps
+50★★,Cob Inner Wall
+50★★,Manor Flooring
+50★★,Curved Stepping Stumps
+50★★★,Glade Path Light
+50★★★,Carbuncle Garden Table
+50★★★,Alps Striking Dummy
+50★★★,Oriental Striking Dummy
+61,Hingan Oblong Window
+61,Hingan Mozuko Door
+61,Hingan Watchtower (Mokuzo)
+61,Hingan Cottage Wall (Mokuzo)
+61,Hingan Cottage Wall (Nanpu)
+62,Dodo Message Book Stand
+63,Hingan Nanpu Door
+63,Hingan Placard (Mokuzo)
+63,Hingan Hanging Andon Lamp
+66,Hingan Lancet Window
+66,Hingan Kura-Zukuri Door
+66,Hingan House Wall (Mokuzo)
+66,Hingan House Wall (Nanpu)
+66,Hingan Napu Fence
+68,Hingan Placard (Nanpu)
+68,Hingan Flooring
+68,Hingan Hangin Toro Lamp
+68,Hingan Mansion Wall (Mokuzo)
+68,Hingan Mansion Wall (Nanpu)
+70,Eastern Teahouse Bench
+78,Wooden Deck
+12,Glade Round Table
+14,Glade Chair
+15,Glade Drawer Table
+18,Lalafellin Step Stool
+18,Oriental Round Table
+19,Glade Cupboard
+20,Riviera Half Partition
+20,Ash Cabinet
+21,Riviera Partition
+22,Glade Lantern
+23,Glade Cartonnier
+25,Funguar Chair
+25,Oasis Cupboard
+26,Walnut Dining Table
+27,Manor Highback Chair
+27,Shipping Crate
+28,Manor Wardrobe
+28,Riviera Cupboard
+28,Manor Cupboard
+28,Manor Bookshelf
+29,Manor Table
+30,Manor Music Stand
+30,Manor Music Stool
+30,Display Stand
+30,Glade Wardrobe
+30,Walnut Cartonnier
+31,Oasis Chair
+31,Glade Partition
+32,Riviera Stall
+32,Small Imitation Window
+32,Tree Slice Tower
+32,Wooden Showcase
+33,Hanging Planter Shelf
+33,Oasis Wardrobe
+33,Glade Sideboard
+33,Mounted Box Shelf
+34,Glade Stall
+34,Easel
+35,Wine Barrel
+35,Glade Half Partition
+37,Glade Table
+38,Glade Desk
+39,Wooden Handrail
+40,Oasis Half Partition
+40,Grade 1 Picture Frame
+40,Glade Pillar
+40,Mahogany Partition Door
+41,Oasis Stall
+41,Oasis Desk
+42,Mahogany Bunk Bed
+43,Model Star Globe
+43,Mounted Plate Rack
+43,Royal Partition
+44,Riviera Stool
+44,Glade Bookshelf
+45,Knight Captain's Chair
+45,Glade Stool
+45,Wooden Loft
+45,Wooden Steps
+45,Wooden Beam
+45,Oasis Bookshelf
+45,Mounted Bookshelf
+46,Oasis Stool
+46,Riviera Wall Shelf
+46,Corner Counter
+47,Oasis Table
+49,Glade Floor Lamp
+49,Deluxe Manor Fireplace
+50,Tier 1 Aquarium
+50,Glade Bathtub
+50★,Tonberry Bookshelf
+50★,Chocobo Pillar
+50★,Tonberry Screen
+50★,Looming Tonberry Screen
+50★,Kotatsu Table
+50★,Merchant's Shelf
+50★,Riviera Open-shelf Bookcase
+50★,Glade Open-shelf Bookcase
+50★,Oasis Open-shelf Bookcase
+50★★,Yarn Basket
+50★★,Hand Basket
+50★★,Oriental Bathtub
+50★★,Open Hearth
+50★★,Manor Counter
+50★★★,Carbuncle Chair
+50★★★,Dragon Piece
+50★★★,Wyvern Piece
+50★★★,Vigil Piece
+50★★★,Temple Knight Piece
+50★★★,Dragoon Piece
+50★★★,Carbuncle Wardrobe
+50★★★,Longcase Chronometer
+50★★★,Manor Harpsichord
+50★★★,Manor Timpani
+50★★★,Manor Cello
+50★★★,Manor Harp
+50★★★,Woodworking Bench
+50★★★,Goldsmithing Bench
+50★★★,Leatherworking Bench
+50★★★,Clothcraft Loom
+50★★★,Eorzean Map Table
+50★★★,Carbuncle Desk
+50★★★,Oriental Altar
+50★★★★,Armoire
+50★★★★,Riviera Canopy Bed
+50★★★★,Glade Canopy Bed
+50★★★★,Oasis Canopy Bed
+50★★★★,Guildleve Counter
+50★★★★,Order of Nald'thal Lectern
+51,Imitation Shuttered Window
+51,Round Banquet Table
+52,Cask Rack
+54,War Chest
+55,Hat Stand
+55,Alpine Chair
+55,Alpine Round Table
+55,Toy Box
+55,Grade 2 Picture Frame
+55,Steppe Kitchen
+57,Royal Plotting Table
+58,Tier 2 Aquarium
+59,Paissa Floor Lamp
+61,Hingan Chochin Lantern
+61,Hingan Bookshelf
+62,Message Book Stand
+63,Oriental Pipe Box
+63,Hingan Bed
+65,Oriental Dressing Case
+66,Hingan Cupboard
+66,Hingan Fire Pit
+68,Doman Partition
+68,Hingan Open-shelf Bookcase
+69,Paper Partition
+69,Bamboo Planter
+74,Imitation Long Window
+78,Lakeland Chair
+78,Lakeland Table
+50★,Wolf Guisarme
+50★,Wolf Bow
+50★,Wolf Cane
+63,Lavish Dressing Case
+65,Stylish Pipe Box
+68,Ornate Partition
+70,Teahouse Bench
+70,Canvas Repair Materials
+73,Upholstery Repair Materials
+75,Amaro Barding Repair Materials
+75,Workshop Sign
+78,Lute Repair Materials
+80,Lute Modification Component
+20,Skybuilders' Plywood
+40,Skybuilders' Wain
+60,Skybuilders' Barrel
+70,Skybuilders' Pedestal
+80,Skybuilders' Bed

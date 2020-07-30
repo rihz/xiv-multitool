@@ -1,0 +1,698 @@
+Level,Name
+1,Distilled Water
+1,Quicksilver
+2,Animal Glue
+3,Growth Formula Alpha
+4,Enchanted Copper Ink
+4,Maple Wand
+5,Leather Grimoire
+5,Antidote
+6,Eye Drops
+7,Rubber
+8,Maple Picatrix
+8,Whispering Maple Wand
+10,Fish Oil
+10,Fish Glue
+10,Beeswax
+10,Engraved Leather Grimoire
+11,Roof Tile
+11,Budding Maple Wand
+12,Potion
+13,Ash Picatrix
+14,Clove Oil
+14,Enchanted Iron Ink
+15,Growth Formula Beta
+15,Ether
+16,Hard Leather Grimoire
+16,Ash Wand
+16,Potion of Intelligence
+17,Potion of Dexterity
+18,Firebricks
+18,Potion of Vitality
+19,Jellyfish Humours
+19,Potion of Strength
+20,Mortar
+20,Engraved Hard Leather Grimoire
+20,Potion of Mind
+21,Budding Ash Wand
+21,Weak Poisoning Potion
+21,Weak Blinding Potion
+21,Weak Sleeping Potion
+21,Weak Paralyzing Potion
+22,Yew Picatrix
+22,Echo Drops
+22,Weak Silencing Potion
+23,Enchanted Silver Ink
+24,Goatskin Grimoire
+25,Natron
+25,Hi-Potion
+26,Crab Oil
+27,Whispering Ash Wand
+28,Clear Glass Lens
+28,Yew Wand
+29,Linseed Oil
+29,Engraved Goatskin Grimoire
+30,Growth Formula Gamma
+30,Horn Glue
+30,Spine Drops
+30,Riptide Orchestrion Roll
+30,Dark Vows Orchestrion Roll
+30,"The Dark's Embrace Orchestrion Roll "
+31,Hi-Potion of Dexterity
+31,Hi-Potion of Mind
+32,Black Firesand
+32,Hi-Potion of Vitality
+32,Hi-Potion of Intelligence
+33,Enchanted Mythril Ink
+33,Hi-Potion of Strength
+34,Book of Silver
+34,Budding Yew Wand
+34,Fire Ward Potion
+34,Ice Ward Potion
+34,Wind Ward Potion
+34,Earth Ward Potion
+34,Lightning Ward Potion
+34,Water Ward Potion
+35,Maddening Daggers
+35,Vintage Picatrix
+35,Hi-Ether
+35,Poisoning Potion
+35,Paralyzing Potion
+36,Blinding Potion
+36,Sleeping Potion
+37,Silencing Potion
+38,Embossed Book of Silver
+38,Budding Oak Wand
+39,Clinker Bricks
+39,Wand of Tremors
+39,Wand of Frost
+39,Wand of Tides
+40,Lanolin
+40,Smelling Salts
+41,Shark Oil
+41,Varnish
+42,Book of Mythril
+43,Enchanted Electrum Ink
+43,Mega-Potion
+44,Mega-Potion of Mind
+45,Book of Electrum
+45,Wand of Gales
+45,Wand of Storms
+45,Wand of Flames
+45,Mega-Potion of Strength
+45,Mega-Potion of Intelligence
+46,Gold Needle
+46,Mega-Potion of Dexterity
+46,Mega-Potion of Vitality
+47,Potent Poisoning Potion
+47,Potent Paralyzing Potion
+48,Potent Silencing Potion
+48,Potent Sleeping Potion
+49,Embossed Book of Electrum
+49,Budding Rosewood Wand
+49,Potent Blinding Potion
+50,Tane Mahuta
+50,Mega-Ether
+50,Elixir
+50,Fire Ward Hi-Potion
+50,Ice Ward Hi-Potion
+50,Wind Ward Hi-Potion
+50,Earth Ward Hi-Potion
+50,Lightning Ward Hi-Potion
+50,Water Ward Hi-Potion
+50,Another Round Orchestrion Roll
+50,"The Only Path Orchestrion Roll "
+50,A World Apart Orchestrion Roll
+50★,Growth Formula Delta
+50★,Enchanted Gold Ink
+50★,Vamper's Knives
+50★,Erudite's Picatrix of Casting
+50★,Madman's Whispering Rod
+50★,Erudite's Picatrix of Healing
+50★,Watered Cordial
+50★★,Growth Formula Delta Concentrate
+50★★,Enchanted Rose Gold Ink
+50★★,Diluted Vitriol
+50★★,Crystal Glass
+50★★,Suspended Trillium Flower
+50★★,Deus Ex Verbis
+50★★,Alkalurops
+50★★,Deus Ex Gratia
+50★★,X-Potion
+50★★,X-Ether
+50★★,Hi-Elixir
+50★★,X-Potion of Strength
+50★★,X-Potion of Dexterity
+50★★,X-Potion of Vitality
+50★★,X-Potion of Intelligence
+50★★,X-Potion of Mind
+50★★,Fire Ward Mega-Potion
+50★★,Ice Ward Mega-Potion
+50★★,Wind Wand Mega-Potion
+50★★,Earth Ward Mega-Potion
+50★★,Lightning Ward Mega-Potion
+50★★,Water Ward Mega-Potion
+51,Enchanted Mythrite Ink
+51,Archaeoskin Grimoire
+51,Archaeoskin Codex
+51,Growth Formula Epsilon
+51,Void Glue
+52,Holy Water
+52,Wyvernskin Grimoire
+52,Holy Cedar Wand
+52,Wyvernskin Codex
+53,Grade 1 Strength Dissolvent
+53,Grade 1 Dexterity Dissolvent
+53,Dried Red Oldrose
+53,Dried Blue Oldrose
+53,Dried Yellow Oldrose
+53,Dried Green Oldrose
+53,Dried Orange Oldrose
+53,Dried Purple Oldrose
+53,Dried White Oldrose
+53,Dried Black Oldrose
+53,Oldrose Corsage
+53,Red Viola Corsage
+53,Blue Viola Corsage
+53,Yellow Viola Corsage
+53,Green Viola Corsage
+53,Orange Viola Corsage
+53,Purple Viola Corsage
+53,White Viola Corsage
+53,Black Viola Corsage
+53,Rainbow Viola Corsage
+53,Red Cherry Blossom Corsage
+53,Blue Cherry Blossom Corsage
+53,Yellow Cherry Blossom Corsage
+53,Green Cherry Blossom Corsage
+53,Orange Cherry Blossom Corsage
+53,Purple Cherry Blossom Corsage
+53,White Cherry Blossom Corsage
+53,Black Cherry Blossom Corsage
+53,Pink Cherry Blossom Corsage
+53,Red Daisy Corsage
+53,Blue Daisy Corsage
+53,Yellow Daisy Corsage
+53,Green Daisy Corsage
+53,Orange Daisy Corsage
+53,Purple Daisy Corsage
+53,White Daisy Corsage
+53,Black Daisy Corsage
+53,Rainbow Daisy Corsage
+53,Red Brightlily Corsage
+53,Blue Brightlily Corsage
+53,Yellow Brightlily Corsage
+53,Green Brightlily Corsage
+53,Orange Brightlily Corsage
+53,Purple Brightlily Corsage
+53,White Brightlily Corsage
+53,Black Brightlily Corsage
+53,Rainbow Brightlily Corsage
+54,Enchanted Hardsilver Ink
+54,Grade 1 Vitality Dissolvent
+54,Grade 1 Intelligence Dissolvent
+54,Grade 1 Mind Dissolvent
+55,Wing Glue
+55,Dhalmelskin Grimoire
+55,Dhalmelskin Codex
+56,Hallowed Water
+56,Hallowed Chestnut Wand
+57,Dragonskin Grimoire
+57,Dragonskin Codex
+58,Growth Formula Zeta
+58,Enchanted Aurum Regis Ink
+58,Book of Aurum Regis
+58,Noble's Picatrix
+59,Scale Glue
+60,Hakutaku Eye Cluster
+60,Potion of Harmony
+60,Max-Potion
+60,Max-Ether
+61,Growth Formula Eta
+61,Enchanted Koppranickel Ink
+61,Koppranickel Index
+61,Koppranickel Codex
+62,Gyuki Leather Grimoire
+62,Gyuki Leather Codex
+62,Potent Spiritbond Potion
+63,Grade 1 Reisui of Strength
+63,Grade 1 Reisui of Dexterity
+63,Grade 1 Reisui of Vitality
+63,Grade 1 Reisui of Intelligence
+63,Grade 1 Reisui of Mind
+64,Enchanted Duriam Ink
+64,Beetle Glue
+64,Competent Craftsman's Tea
+65,Tigerskin Grimoire
+65,Tigerskin Codex
+65,Commanding Craftsman's Tea
+66,Growth Formula Theta
+66,Persimmon Tannin
+66,Red Dahlia Corsage
+66,Blue Dahlia Corsage
+66,Yellow Dahlia Corsage
+66,Green Dahlia Corsage
+66,Orange Dahlia Corsage
+66,Purple Dahlia Corsage
+66,White Dahlia Corsage
+66,Black Dahlia Corsage
+66,Rainbow Dahlia Corsage
+66,Red Arum Corsage
+66,Blue Arum Corsage
+66,Yellow Arum Corsage
+66,Green Arum Corsage
+66,Orange Arum Corsage
+66,Purple Arum Corsage
+66,White Arum Corsage
+66,Black Arum Corsage
+66,Rainbow Arum Corsage
+66,Red Lily of the Valley Corsage
+66,Blue Lily of the Valley Corsage
+66,Yellow Lily of the Valley Corsage
+66,Green Lily of the Valley Corsage
+66,Orange Lily of the Valley Corsage
+66,Purple Lily of the Valley Corsage
+66,White Lily of the Valley Corsage
+66,Black Lily of the Valley Corsage
+66,Rainbow Lily of the Valley Corsage
+66,Red Hydrangea Corsage
+66,Blue Hydrangea Corsage
+66,Yellow Hydrangea Corsage
+66,Green Hydrangea Corsage
+66,Orange Hydrangea Corsage
+66,Purple Hydrangea Corsage
+66,White Hydrangea Corsage
+66,Black Hydrangea Corsage
+66,Rainbow Hydrangea Corsage
+66,Red Campanula Corsage
+66,Blue Campanula Corsage
+66,Yellow Campanula Corsage
+66,Green Campanula Corsage
+66,Orange Campanula Corsage
+66,Purple Campanula Corsage
+66,White Campanula Corsage
+66,Black Campanula Corsage
+66,Rainbow Campanula Corsage
+66,Red Tulip Corsage
+66,Blue Tulip Corsage
+66,Yellow Tulip Corsage
+66,Green Tulip Corsage
+66,Orange Tulip Corsage
+66,Purple Tulip Corsage
+66,White Tulip Corsage
+66,Black Tulip Corsage
+66,Rainbow Tulip Corsage
+67,Marid Leather Grimoire
+67,Marid Leather Codex
+67,Cunning Craftsman's Tea
+68,Enchanted Palladium Ink
+68,Gazelleskin Grimoire
+68,Gazelleskin Codex
+69,Infusion of Vitality
+69,Infusion of Mind
+70,Super-Potion
+70,Super-Ether
+70,Infusion of Strength
+70,Infusion of Dexterity
+70,Infusion of Intelligence
+71,Growth Formula Iota
+71,Enchanted Truegold Ink
+71,Crimson Firesand
+71,Smilodonskin Grimoire
+71,Smilodonskin Codex
+72,Gliderskin Grimoire
+72,Gliderskin Codex
+72,Superior Spiritbond Potion
+73,Grade 1 Strength Alkahest
+73,Grade 1 Dexterity Alkahest
+73,Grade 1 Vitality Alkahest
+73,Grade 1 Intelligence Alkahest
+73,Grade 1 Mind Alkahest
+74,Enchanted Manasilver Ink
+74,Bluespirit Grimoire
+74,Bluespirit Codex
+75,Starch Glue
+75,Competent Craftsman's Syrup
+76,Growth Formula Kappa
+76,Refined Natron
+77,Zonureskin Grimoire
+77,Zonureskin Codex
+77,Cunning Craftsman's Syrup
+77,Commanding Craftsman's Syrup
+78,Enchanted Dimuthrite Ink
+78,Dwarven Mythril Grimoire
+78,Dwarven Mythril Codex
+79,Tincture of Vitality
+79,Tincture of Mind
+80,Tincture of Strength
+80,Tincture of Dexterity
+80,Tincture of Intelligence
+50★★,Spirits of Salt
+50★★,Giantsgall Longsword
+50★★,Giantsgall War Axe
+50★★,Giantsgall Guillotine
+50★★,Giantsgall Trident
+50★★,Giantsgall Claws
+50★★,Giantsgall Cleavers
+50★★,Giantsgall Longbow
+50★★,Giantsgall Knifelock
+50★★,Giantsgall Longstaff
+50★★,Cantamina Thavnaria
+50★★,Giantsgall Cane
+50★★,Medica Thavnaria
+50★★,Giantsgall Star Globe
+50★★,A Light in the Storm Orchestrion Roll
+50★★,"The Scars of Battle Orchestrion Roll "
+50★★,Battle on the Big Bridge Orchestrion Roll
+50★★★,Enchanted Platinum Ink
+50★★★,Concentrated Spirits of Salt
+50★★★,Enchanted Quicksilver
+50★★★,Terminus Putty
+50★★★,Perfect Pounce
+50★★★,Gallant Armor Augmentation
+50★★★,Temple Attire Augmentation
+50★★★,Fighter's Armor Augmentation
+50★★★,Drachen Armor Augmentation
+50★★★,Choral Attire Augmentation
+50★★★,Wizard's Attire Augmentation
+50★★★,Healer's Attire Augmentation
+50★★★,Evoker's Attire Augmentation
+50★★★,Scholar's Attire Augmentation
+50★★★,Ninja Garb Augmentation
+50★★★,Cordial
+50★★★,"The Maker's Ruin Orchestrion Roll "
+50★★★,Primal Judgment Orchestrion Roll
+50★★★,Fallen Angel Orchestrion Roll
+50★★★,Under the Weight Orchestrion Roll
+50★★★,Wreck to the Seaman Orchestrion Roll
+50★★★,Through the Maelstrom Orchestrion Roll
+50★★★,Good King Moggle Mog XII Orchestrion Roll
+51,Deep-red Enchanted Ink
+51,Deep-green Enchanted Ink
+51,Deep-blue Enchanted Ink
+60★,Superior Deep-red Enchanted Ink
+60★,Superior Deep-green Enchanted Ink
+60★,Superior Deep-blue Enchanted Ink
+50★★★★,Kirimu Grimoire
+50★★★★,Ona Ramuhda First Edition
+50★★★★,Kirimu Codex
+50★★★★,The Law of Levin First Edition
+50★★★★,Tinker's Calm
+50★★★★,Hubris Orchestrion Roll
+50★★★★,Tumbling Down Orchestrion Roll
+50★★★★,Out of the Labyrinth Orchestrion Roll
+50★★★★,Now I Know the Truth Orchestrion Roll
+50★★★★,Blind to the Dark Orchestrion Roll
+50★★★★,Hunger Orchestrion Roll
+50★★★★,Thunder Rolls Orchestrion Roll
+50★★★★,Rise of the White Raven Orchestrion Roll
+50★★★★,From the Ashes Orchestrion Roll
+50★★★★,Footsteps in the Snow Orchestrion Roll
+50★★★★,Oblivion Orchestrion Roll
+50★★★★,Thunder Rolls Orchestrion Roll
+50★★★★,The Corpse Hall Orchestrion Roll
+58,Draconian Potion of Strength
+58,Draconian Potion of Dexterity
+59,Draconian Potion of Vitality
+59,Draconian Potion of Intelligence
+59,Draconian Potion of Mind
+60,Noble Gold
+60,Noble's Codex
+60,Painted Foothills Orchestrion Roll
+60,Lost in the Clouds Orchestrion Roll
+60,Blood for Blood Orchestrion Roll
+60,Starved Orchestrion Roll
+60,Imagination Orchestrion Roll
+60,Against The Wind Orchestrion Roll
+60,Landlords Orchestrion Roll
+60,Missing Pages Orchestrion Roll
+60,Engage Orchestrion Roll
+60,Close to the Heavens Orchestrion Roll
+60,Skylords Orchestrion Roll
+60,The Silent Regard of Stars Orchestrion Roll
+60,Black and White Orchestrion Roll
+60★,Astral Oil
+60★,Titanium Alloy Mirror
+60★,Atrophied Atomos
+60★,Down the Up Staircase Orchestrion Roll
+60★,Heroes Orchestrion Roll
+60★,Fiend Orchestrion Roll
+60★,Eternal Wind Orchestrion Roll
+60★,Limitless Blue Orchestrion Roll
+60★,Woe That Is Madness Orchestrion Roll
+60★,The Hand That Gives the Rose Orchestrion Roll
+60★,Unbending Steel Orchestrion Roll
+60★★,Grade 2 Strength Dissolvent
+60★★,Grade 2 Dexterity Dissolvent
+60★★,Grade 2 Vitality Dissolvent
+60★★,Grade 2 Intelligence Dissolvent
+60★★,Grade 2 Mind Dissolvent
+60★★,Dravanian Down Tree
+60★★,Luminous Fiber
+60★★,Tempered Glass
+60★★,Camphor
+60★★,Powdered Horn
+60★★,Endless Expanse Grimoire
+60★★,Dead Hive Grimoire
+60★★,Endless Expanse Codex
+60★★,Dead Hive Codex
+60★★,Solid-brick Interior Wall
+60★★,Sephirot Root
+60★★,Wine Glass
+60★★,Answers Orchestrion Roll
+60★★,Revenge of the Horde Orchestrion Roll
+60★★,Equilibrium Orchestrion Roll
+60★★★,Grimoire of the Round
+60★★★,Word of the Fiend
+60★★★,Seeing Horde Grimoire
+60★★★,Word of the Goddess
+60★★★,Replica Allagan Grimoire of Casting
+60★★★,Replica High Allagan Grimoire of Casting
+60★★★,Codex of the Round
+60★★★,Song of the Fiend
+60★★★,Seeing Horde Codex
+60★★★,Song of the Goddess
+60★★★,Replica Allagan Grimoire of Healing
+60★★★,Replica High Allagan Grimoire of Healing
+60★★★,Max-Potion of Strength
+60★★★,Max-Potion of Dexterity
+60★★★,Max-Potion of Vitality
+60★★★,Max-Potion of Intelligence
+60★★★,Max-Potion of Mind
+60★★★,Sephirot Tree
+60★★★,Infinity Orchestrion Roll
+60★★★★,Grade 3 Strength Dissolvent
+60★★★★,Grade 3 Dexterity Dissolvent
+60★★★★,Grade 3 Vitality Dissolvent
+60★★★★,Grade 3 Intelligence Dissolvent
+60★★★★,Grade 3 Mind Dissolvent
+60★★★★,Hemiskin Grimoire
+60★★★★,Hemiskin Codex
+60★★★★,Supramax-Potion of Strength
+60★★★★,Supramax-Potion of Dexterity
+60★★★★,Supramax-Potion of Vitality
+60★★★★,Supramax-Potion of Intelligence
+60★★★★,Supramax-Potion of Mind
+70★,Revelation Orchestrion Roll
+70★,Beauty's Wicked Wiles Orchestrion Roll
+70★,The Worm's Head Orchestrion Roll
+70★,The Worm's Tail Orchestrion Roll
+70★★,Shinryu's Wing
+70★★,Ala Mhigan Burdet
+70★★,Snailfish Oil
+70★★,Grade 2 Reisui of Strength
+70★★,Grade 2 Reisui of Dexterity
+70★★,Grade 2 Reisui of Vitality
+70★★,Grade 2 Reisui of Intelligence
+70★★,Grade 2 Reisui of Mind
+70★★,Grimoire of the True Griffin
+70★★,Codex of the True Griffin
+70★★,Flying Chair
+70★★,Assorted Candles
+70★★,Jellyfish Lamp
+70★★,Chirurgeon's Essentials
+70★★,Ambient Abyss Orchestrion Roll
+70★★★,Veteran Tree Sap
+70★★★,Grade 3 Reisui of Strength
+70★★★,Grade 3 Reisui of Dexterity
+70★★★,Grade 3 Reisui of Vitality
+70★★★,Grade 3 Reisui of Intelligence
+70★★★,Grade 3 Reisui of Mind
+70★★★,Hawk's Eye Sand
+70★★★,Silvergrace Grimoire
+70★★★,Silvergrace Codex
+70★★★,Grade 2 Infusion of Strength
+70★★★,Grade 2 Infusion of Dexterity
+70★★★,Grade 2 Infusion of Vitality
+70★★★,Grade 2 Infusion of Intelligence
+70★★★,Grade 2 Infusion of Mind
+70★★★,Answer On High Orchestrion Roll
+70★★★,Amatsu Kaze Orchestrion Roll
+70★★★,Nightbloom Orchestrion Roll
+70★★★,Wayward Daughter Orchestrion Roll
+70★★★★,Grade 4 Reisui of Strength
+70★★★★,Grade 4 Reisui of Dexterity
+70★★★★,Grade 4 Reisui of Vitality
+70★★★★,Grade 4 Reisui of Intelligence
+70★★★★,Grade 4 Reisui of Mind
+70★★★★,Rakshasa Grimoire
+70★★★★,Rakshasa Codex
+70★★★★,Grade 3 Infusion of Strength
+70★★★★,Grade 3 Infusion of Dexterity
+70★★★★,Grade 3 Infusion of Vitality
+70★★★★,Grade 3 Infusion of Intelligence
+70★★★★,Grade 3 Infusion of Mind
+70★★★★,Sunrise Orchestrion Roll
+70★★★★,From the Dragon's Wake Orchestrion Roll
+80★,Crystarium Umbrella Stand
+80★,What Angel Wakes Me Orchestrion Roll
+80★,Insanity Orchestrion Roll
+80★★,Grade 2 Strength Alkahest
+80★★,Grade 2 Dexterity Alkahest
+80★★,Grade 2 Vitality Alkahest
+80★★,Grade 2 Intelligent Alkahest
+80★★,Grade 2 Mind Alkahest
+80★★,Pliable Glass Fiber
+80★★,Galdrabok
+80★★,Pragmatism
+80★★,Grade 2 Tincture of Strength
+80★★,Grade 2 Tincture of Dexterity
+80★★,Grade 2 Tincture of Vitality
+80★★,Grade 2 Tincture of Intelligence
+80★★,Grade 2 Tincture of Mind
+80★★,Invincible Orchestrion Roll
+15,Glamour Prism
+50★,Spiritbond Potion
+50★★★,Tremor Axe
+50★★★,Tremor Guillotine
+50★★★,Tremor Spear
+50★★★,Tremor Knuckles
+50★★★,Tremor Katana
+50★★★,Tremor Cleavers
+50★★★,Tremor Bow
+50★★★,Tremor Culverin
+50★★★,Tremor Cudgel
+50★★★,Tremor Staff
+50★★★,Inferno Grimoire
+50★★★,Will of the Vortex
+50★★★,The Greater Key of Tremors
+50★★★,Majestic Moggle Mogtome
+50★★★,Tremor Foil
+50★★★,Malevolent Moggle Mogwand
+50★★★,Tremor Cane
+50★★★,Mighty Moggle Mogrod
+50★★★,Inferno Codex
+50★★★,Embrace of the Vortex
+50★★★,The Holy Key of Tremors
+50★★★,Munificent Moggle Mogtome
+50★★★,Tremor Star Globe
+50★★★,Tremor Shield
+17,Low Barrel Planter
+20,Brick Flooring
+20,Glade Tiled Awning
+20,Shroud Broadleaf
+20,Island Palm
+20,Desert Ironwood
+20,Riviera Cottage Roof (Wood)
+23,Ghostmaws
+23,Glade Cottage Roof (Composite)
+24,Unbreakable Rock
+24,Pyrepods
+25,Half Barrel Planter
+25,Blue Coral Formation
+25,Turnkey's Cups
+26,Bisque Flooring
+28,Campfire
+30,Stone Interior Wall
+30,Stone Flooring
+30,Botanist's Garden
+31,Oasis Interior Wall
+33,Mossy Rock
+35,Rounded Shrub
+36,Riviera House Roof (Wood)
+37,Lotus Parasol
+40,Glade House Roof (Composite)
+41,Water Lilies
+45,Planter Box
+46,Bloodblossoms
+49,Death's Fingers
+50,Country Interior Wall
+50,Country Flooring
+50,Large Planter Box
+50★,Corner Hedge Partition
+50★,Hedge Partition
+50★,Riviera Mansion Roof (Wood)
+50★,Glade Mansion Roof (Composite)
+50★,Glade Hedgewall
+50★★,Grade 1 Wheel of Confrontation
+50★★,Grade 1 Wheel of Productivity
+50★★,Grade 1 Wheel of Industry
+50★★,Grade 1 Wheel of Longeing
+50★★,Grade 1 Wheel of Rivalry
+50★★,Grade 1 Wheel of Company
+50★★,Grade 1 Wheel of Initiation
+50★★,Grade 1 Wheel of Capacity
+50★★,Grade 1 Wheel of Observation
+50★★,Grade 1 Wheel of Efficiency
+50★★,Grade 1 Wheel of Precision
+50★★,Grade 1 Wheel of Dedication
+50★★,Grade 1 Wheel of Nutriment
+50★★,Grade 1 Wheel of Permanence
+50★★,Grade 1 Wheel of Revival
+50★★,Grade 1 Wheel of Pilgrimage
+50★★,Grade 1 Wheel of Recreation
+50★★,Wild Banana Tree
+55,Lupin Plot
+55,Topiary Moogle
+55,Topiary Chocobo
+55,Topiary Sabotender
+55,Topiary Paissa
+55,Topiary Carbuncle
+59,Oriental Grass Plot
+78,Florist's Stall
+78,Bookseller's Stall
+78,Enchanter's Stall
+78,Vegetable Garden
+12,Honey Pot
+13,Terracotta Pot
+15,Ink & Quill
+22,Potted Maguey
+23,Riviera Flower Vase
+23,Glade Flower Vase
+23,Oasis Flower Vase
+27,Wall Planter
+33,Potted Axilflower
+33,Potted Azalea
+33,Potted Spider Plant
+34,Oak Low Barrel Planter
+39,Planter Partition
+43,Sylphic Flower Vase
+43,Bathroom Wall Tiles
+43,Bathroom Floor Tiles
+50★,Potted Dragon Tree
+50★,Potted Oliphant's Ear
+50★,Stuffed Mazlaya Marlin
+50★★,Potted Umbrella Fig
+50★★,Stuffed Takitaro
+60,Botanist's Dried Herbs
+64,Bag of Booty
+80,Indoor Oriental Garden
+50★,Wolf Grimoire of Casting
+50★,Wolf Grimoire of Healing
+50★,Icarus Wing
+50★,Regain Feather
+63,Intellectuary
+65,Twice-fermented Mun-Tuy Juice
+68,Luminol
+70,Potent Dissolvent
+70,Edible Antidote
+73,Nutrient-Rich Porridge
+75,Fortifying Soup
+75,Offering of Sweets
+78,Berube Feed
+80,Zun-Style Amaro Feed
+20,Skybuilders' Ink
+40,Skybuilders' Plant Oil
+60,Skybuilders' Charcoal
+70,Skybuilders' Soap
+80,Skybuilders' Alchemic

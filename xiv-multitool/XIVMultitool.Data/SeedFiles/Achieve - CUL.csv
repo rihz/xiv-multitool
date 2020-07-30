@@ -1,0 +1,21 @@
+Group,Name,Points,Description,Reward
+Unique Recipes,I Made That: Culinarian I,5,Craft 30 unique culinarian recipes.
+Unique Recipes,I Made That: Culinarian II,5,Craft 60 unique culinarian recipes.
+Unique Recipes,I Made That: Culinarian III,10,Craft 120 unique culinarian recipes.,Item: Master Culinarian's Ring
+Unique Recipes,I Made That: Culinarian IV,10,Craft 170 unique culinarian recipes.
+Unique Recipes,I Made That: Culinarian V,10,Craft and record completion of 190 unique culinarian recipes.,Item: Blessed Galleykeep's Frypan
+Unique Recipes,I Made That: Culinarian VI,10,Craft and record completion of 230 unique culinarian recipes.,Item: Blessed Galleyking's Frypan
+Synthesizing,Savoring the Realm: Amateur,5,Successfully synthesize 50 times for level 1-10 cooking recipes.
+Synthesizing,Savoring the Realm: Initiate,5,Successfully synthesize 300 times for level 11-20 cooking recipes.
+Synthesizing,Savoring the Realm: Apprentice,5,Successfully synthesize 750 times for level 21-30 cooking recipes.
+Synthesizing,Savoring the Realm: Journeyman,5,"Successfully synthesize 1,500 times for level 31-40 cooking recipes."
+Synthesizing,Savoring the Realm: Artisan,10,"Successfully synthesize 3,000 times for level 41-50 cooking recipes.",Title: Of the Golden Ladle
+Synthesizing,Savoring the Realm: Adept,10,"Successfully synthesize 1,000 times for level 51-60 cooking recipes."
+Synthesizing,Savoring the Realm: Veteran,10,"Successfully synthesize 1,000 times for level 61-70 cooking recipes."
+Synthesizing,Savoring the Realm: Master,10,"Successfully synthesize 1,000 times for level 71-80 cooking recipes."
+Synthesizing,A Life of Cooking,30,"Obtain the first five ""Savoring the Realm"" achievements.",Item: Pan of the Luminary
+High Quality Crafts,An Eye for Detail: Culinarian I,5,Craft 100 high-quality items as a culinarian.
+High Quality Crafts,An Eye for Detail: Culinarian II,5,Craft 500 high-quality items as a culinarian.
+High Quality Crafts,An Eye for Detail: Culinarian III,10,"Craft 3,000 high-quality items as a culinarian."
+High Quality Crafts,An Eye for Detail: Culinarian IV,10,"Craft 5,000 high-quality items as a culinarian."
+High Quality Crafts,An Eye for Detail: Culinarian V,10,"Craft 10,000 high-quality items as a culinarian.",Title: Master Culinarian

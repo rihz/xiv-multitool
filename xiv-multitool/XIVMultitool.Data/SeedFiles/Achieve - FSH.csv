@@ -1,0 +1,50 @@
+Group,Name,Points,Description,Reward
+La Noscea,Good Things Come to Those Who Bait: La Noscea I,5,Fish 20 times from level 1-10 waters in La Noscea.
+La Noscea,Good Things Come to Those Who Bait: La Noscea II,5,Fish 100 times from level 11-20 waters in La Noscea.
+La Noscea,Good Things Come to Those Who Bait: La Noscea III,5,Fish 300 times from level 21-30 waters in La Noscea.
+La Noscea,Good Things Come to Those Who Bait: La Noscea IV,5,Fish 500 times from level 31-40 waters in La Noscea.
+La Noscea,Good Things Come to Those Who Bait: La Noscea V,5,"Fish 1,000 times from level 41-50 waters in La Noscea."
+La Noscea,A Fisher’s Life for Me: La Noscea,10,"Obtain all five ""Good Things Come to Those Who Bait: La Noscea"" achievements.",Title: Meadowcaster
+Black Shroud,Good Things Come to Those Who Bait: Black Shroud I,5,Fish 20 times from level 1-10 waters in the Black Shroud.
+Black Shroud,Good Things Come to Those Who Bait: Black Shroud II,5,Fish 100 times from level 11-20 waters in the Black Shroud.
+Black Shroud,Good Things Come to Those Who Bait: Black Shroud III,5,Fish 300 times from level 21-30 waters in the Black Shroud.
+Black Shroud,Good Things Come to Those Who Bait: Black Shroud IV,5,Fish 500 times from level 31-40 waters in the Black Shroud.
+Black Shroud,Good Things Come to Those Who Bait: Black Shroud V,5,"Fish 1,000 times from level 41-50 waters in the Black Shroud."
+Black Shroud,A Fisher’s Life for Me: Black Shroud,10,"Obtain all five ""Good Things Come to Those Who Bait: Black Shroud"" achievements.",Title: Forestcaster
+Thanalan,Good Things Come to Those Who Bait: Thanalan I,5,Fish 20 times from level 1-10 waters in Thanalan.
+Thanalan,Good Things Come to Those Who Bait: Thanalan II,5,Fish 100 times from level 11-20 waters in Thanalan.
+Thanalan,Good Things Come to Those Who Bait: Thanalan III,5,Fish 300 times from level 21-30 waters in Thanalan.
+Thanalan,Good Things Come to Those Who Bait: Thanalan IV,5,Fish 500 times from level 31-40 waters in Thanalan.
+Thanalan,Good Things Come to Those Who Bait: Thanalan V,5,"Fish 1,000 times from level 41-50 waters in Thanalan."
+Thanalan,A Fisher’s Life for Me: Thanalan,10,"Obtain all five ""Good Things Come to Those Who Bait: Thanalan"" achievements.",Title: Desertcaster
+Eureka,A Fisher’s Life for Me: Greater Eorzea,30,"Obtain the ""A Fisher's Life for Me"" achievements for La Noscea, the Black Shroud, and Thanalan.",Item: Rod of the Luminary
+Heavensward,Baiting Heavensward,10,"Fish 3,000 times from level 51-60 waters."
+Stormblood,Baiting Stormblood,10,"Fish 3,000 times from level 61-70 waters."
+Shadowbringers,Baiting Shadowbringers,10,"Fish 3,000 times from level 71-80 waters."
+Big Fish,Go Big or Go Home I,5,Catch your first big fish.
+Big Fish,Go Big or Go Home II,10,Catch 16 different varieties of big fish.
+Big Fish,Go Big or Go Home III,20,Catch 37 different varieties of big fish.
+Big Fish,Go Big or Go Home IV,20,Catch 56 different varieties of big fish.
+Big Fish,Go Big or Go Home V,20,Catch 71 different varieties of big fish.
+Big Fish,Go Big or Go Home VI,20,Catch 81 different varieties of big fish.
+Big Fish,Go Big or Go Home VII,20,Catch 87 different varieties of big fish.
+Big Fish,Go Big or Go Home VIII,20,Catch 94 different varieties of big fish.
+Big Fish,Go Big or Go Home IX,20,Catch 100 different varieties of big fish.,Title: Master Caster
+Big Fish,Go Big or Go Home X,20,Catch 106 different varieties of big fish.,Item: Ironworks Fishing Rod
+Big Fish,Go Big or Go Home XI,20,Catch 119 different varieties of big fish.
+Big Fish,Go Big or Go Home XII,20,Catch 135 different varieties of big fish.
+Big Fish,Go Big or Go Home XIII,20,Catch 156 different varieties of big fish.
+Big Fish,Go Big or Go Home XIV,20,Catch 170 different varieties of big fish.
+Big Fish,Go Big or Go Home XV,20,Catch 185 different varieties of big fish.
+Big Fish,Go Big or Go Home XVI,20,Catch 204 different varieties of big fish.,Title: Grandmaster Catcher
+Big Fish,Go Big Farm From Home,10,Catch 8 different varieties of big fish in the First world.
+Unique Fish,I Caught That I,5,Catch 40 unique fish.
+Unique Fish,I Caught That II,5,Catch 80 unique fish.
+Unique Fish,I Caught That III,10,Catch 160 unique fish.,Item: Master Fisher's Ring
+Unique Fish,I Caught That IV,10,Catch 400 unique fish.
+Unique Fish,I Caught That V,10,Catch and record discovery of 460 unique fish.,Item: Blessed Tacklekeep's Rod
+Unique Fish,I Caught That VI,10,Catch and record discovery of 780 unique fish.,Item: Blessed Tackleking's Rod
+High Quality Fish,The One that Didn't Get Away I,5,Catch 100 high-quality fish.
+High Quality Fish,The One that Didn't Get Away II,5,Catch 500 high-quality fish.
+High Quality Fish,The One that Didn't Get Away III,10,"Catch 3,000 high-quality fish."
+High Quality Fish,The One that Didn't Get Away IV,10,"Catch 10,000 high-quality fish.",Title: Master Fisher

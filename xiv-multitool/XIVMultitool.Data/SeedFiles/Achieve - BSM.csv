@@ -1,0 +1,21 @@
+Group,Name,Points,Description,Reward
+Unique Recipes,I Made That: Blacksmith I,5,Craft 40 unique blacksmith recipes.
+Unique Recipes,I Made That: Blacksmith II,5,Craft 90 unique blacksmith recipes.
+Unique Recipes,I Made That: Blacksmith III,10,Craft 190 unique blacksmith recipes.,Item: Master Blacksmith's Ring
+Unique Recipes,I Made That: Blacksmith IV,10,Craft 270 unique blacksmith recipes.
+Unique Recipes,I Made That: Blacksmith V,10,Craft and record completion of 380 unique blacksmith recipes.,Item: Blessed Forgekeeper's Hammer
+Unique Recipes,I Made That: Blacksmith VI,10,Craft and record completion of 480 unique blacksmith recipes.,Item: Blessed Forgeking's Hammer
+Synthesizing,Working the Bellows: Amateur,5,Successfully synthesize 50 times for level 1-10 smithing recipes.
+Synthesizing,Working the Bellows: Initiate,5,Successfully synthesize 300 times for level 11-20 smithing recipes.
+Synthesizing,Working the Bellows: Apprentice,5,Successfully synthesize 750 times for level 21-30 smithing recipes.
+Synthesizing,Working the Bellows: Journeyman,5,"Successfully synthesize 1,500 times for level 31-40 smithing recipes."
+Synthesizing,Working the Bellows: Artisan,10,"Successfully synthesize 3,000 times for level 41-50 smithing recipes.",Title: Of the Golden Anvil
+Synthesizing,Working the Bellows: Adept,10,"Successfully synthesize 1,000 times for level 51-60 smithing recipes."
+Synthesizing,Working the Bellows: Veteran,10,"Successfully synthesize 1,000 times for level 61-70 smithing recipes."
+Synthesizing,Working the Bellows: Master,10,"Successfully synthesize 1,000 times for level 71-80 smithing recipes."
+Synthesizing,A Blacksmith's Life for Me,30,"Obtain the first five ""Working the Bellows"" achievements.",Item: Hammer of the Luminary
+High Quality Crafts,An Eye for Detail: Blacksmith I,5,Craft 100 high-quality items as a blacksmith.
+High Quality Crafts,An Eye for Detail: Blacksmith II,5,Craft 500 high-quality items as a blacksmith.
+High Quality Crafts,An Eye for Detail: Blacksmith III,10,"Craft 3,000 high-quality items as a blacksmith."
+High Quality Crafts,An Eye for Detail: Blacksmith IV,10,"Craft 5,000 high-quality items as a blacksmith."
+High Quality Crafts,An Eye for Detail: Blacksmith V,10,"Craft 10,000 high-quality items as a blacksmith.",Title: Master Blacksmith

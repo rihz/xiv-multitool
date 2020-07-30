@@ -1,0 +1,746 @@
+Level,Name
+1,Bronze Ingot
+2,Bronze Rings
+2,Bronze Rivets
+3,Bronze Plate
+3,Bronze Alembic
+4,Bronze Skillet
+5,Bronze Hoplon
+6,Bronze Haubergeon
+7,Bronze Sollerets
+8,Bronze Chain Coif
+8,Bronze Sallet
+9,Amateur's Alembic
+9,Bronze Mitt Gauntlets
+10,Bronze Scutum
+10,Bronze Barbut
+11,Amateur's Skillet
+11,Bronze Plate Belt
+12,Bronze Celata
+12,Bronze Cuirass
+13,Iron Ingot
+13,Bronze Sabatons
+14,Iron Plate
+14,Iron Rivets
+14,Bronze Gauntlets
+15,Iron Rings
+15,Iron Joint Plate
+15,Brass Alembic
+15,Iron Skillet
+15,Bronze Buckler
+16,Decorated Bronze Barbut
+16,Decorated Bronze Mitt Gauntlets
+17,Iron Hoplon
+18,Initiate's Alembic
+18,Initiate's Skillet
+19,Iron Sallet
+19,Iron Plate Belt
+19,Iron Sabatons
+20,Ironclad Bronze Buckler
+20,Iron Celata
+20,Iron Cuirass
+20,Iron Gauntlets
+21,Iron Lantern Shield
+21,Iron Vambraces
+22,Iron Elmo
+22,Iron Headgear
+22,Iron-plated Jackboots
+23,Iron Alembic
+23,Iron Frypan
+23,Iron Scale Mail
+23,Iron Scale Fingers
+23,Iron Scale Greaves
+24,Iron Scutum
+24,Reinforced Iron Sallet
+24,Reinforced Iron Plate Belt
+25,Heavy Iron Armor
+25,Heavy Iron Gauntlets
+25,Heavy Iron Flanchard
+26,Steel Ingot
+26,Steel Hinge
+26,Conical Alembic
+27,Steel Plate
+27,Steel Rivets
+27,Steel Joint Plate
+27,Bomb Frypan
+27,Iron Kite Shield
+28,Steel Rings
+28,Steel Chainmail
+28,Steel Tassets
+29,Steel Alembic
+29,Steel Skillet
+29,Steel Sallet
+30,Steel Celata
+30,Steel Cuirass
+30,Steel Gauntlets
+30,Steel Sabatons
+30,Steel-plated Jackboots
+31,Bull Hoplon
+31,Steel Elmo
+31,Steel Vambraces
+31,Steel Plate Belt
+32,Steel Headgear
+32,Steel Scale Mail
+32,Steel Scale Fingers
+32,Steel Scale Greaves
+33,White Skillet
+33,Decorated Buckler
+34,Silver Alembic
+34,Decorated Iron Scutum
+34,Heavy Steel Armor
+34,Heavy Steel Gauntlets
+34,Reinforced Steel Plate Belt
+35,Steel Barbut
+35,Altered Heavy Steel Armor
+35,Steel Mitt Gauntlets
+35,Heavy Steel Flanchard
+35,Steel-plated Caligae
+35,Vintage Hoplon
+36,Mythril Ingot
+36,Steel Frypan
+37,Mythril Rings
+37,Mythril Rivets
+37,Bladed Lantern Shield
+37,Horn Scale Greaves
+38,Mythril Plate
+38,Mythril Celata
+38,Horn Scale Fingers
+38,Mythril Plate Belt
+38,Vintage Celata
+39,Mythril Cuirass
+39,Mythril Gauntlets
+39,Mythril Sabatons
+40,Mythril Alembic
+40,Mythril Elmo
+40,Altered Mythril Elmo
+40,Horn Scale Mail
+40,Vintage Scutum
+41,Mythril Barbut
+41,Mythril Vambraces
+41,Mythril-plated Jackboots
+41,Vintage Scale Mail
+42,Cobalt Ingot
+42,Electrum Alembic
+42,Mythril Mesail
+42,Mythril Chain Coif
+42,Mythril Haubergeon
+42,Mythril-plated Caligae
+42,Mythril Sollerets
+43,Cobalt Plate
+43,Cobalt Rings
+43,Cobalt Skillet
+43,Mythril Mitt Gauntlets
+43,High Mythril Gauntlets
+43,High Mythril Plate Belt
+43,High Mythril Flanchard
+43,Vintage Buckler
+44,Cobalt Rivets
+44,Cobalt Joint Plate
+44,Cobalt Scutum
+44,Reinforced Mythril Elmo
+44,Altered Mythril Chain Coif
+44,High Mythril Armor
+44,Altered High Mythril Armor
+44,Cobalt Vambraces
+45,Cobalt Elmo
+45,Altered Cobalt Elmo
+45,Tortoiseshell Scale Mail
+45,Tortoiseshell Scale Fingers
+45,Cobalt-plated Jackboots
+45,Tortoiseshell Scale Greaves
+45,Vintage Kite Shield
+46,Cobalt Barbut
+46,Cobalt-plated Caligae
+46,Vintage Haubergeon
+47,Hells' Kitchen
+47,Mosshorn Scale Mail
+48,Cobalt Mitt Gauntlets
+49,Cobalt Bladed Lantern Shield
+49,Cobalt Mesail
+49,Cobalt Sallet
+50,Thermal Alembic
+50,Kite Shield
+50,Cobalt Chain Coif
+50,Cobalt Celata
+50,Cobalt Mask
+50,Cobalt Haubergeon
+50,Cobalt Cuirass
+50,Altered Cobalt Cuirass
+50,Cobalt Gauntlets
+50,Altered Cobolt Gauntlets
+50,Cobalt Plate Belt
+50,Cobalt Sollerets
+50,Cobalt Sabatons
+50,Altered Cobalt Sabatons
+50,Wind-up Dullahan
+50★,Darksteel Nugget
+50★,Darksteel Plate
+50★,Darksteel Rings
+50★,Darksteel Rivets
+50★,Militia Armet
+50★,Militia Barbut
+50★,Militia Cuirass
+50★,Militia Gauntlets
+50★,Militia Mitt Gauntlets
+50★,Militia Sabatons
+50★,Armorer's Visor
+50★,Hamlet Digger's Helmet
+50★,Blacksmith's Workboots
+50★★,Darksteel Ingot
+50★★,Darksteel Couters
+50★★,Darksteel Breastplate
+50★★,Darksteel Gauntlet Plates
+50★★,Darksteel Scutum
+50★★,Darksteel Buckler
+50★★,Darksteel Chain Coif
+50★★,Darksteel Haubergeon
+50★★,Heavy Darksteel Armor
+50★★,Light Steel Galerus
+50★★,Darksteel Mitt Gauntlets
+50★★,Heavy Darksteel Gauntlets
+50★★,Darksteel Tassets
+50★★,Heavy Darksteel Flanchard
+50★★,Light Steel Subligar
+50★★,Darksteel Sollerets
+50★★★,Tidal Barding
+51,Mythrite Nugget
+51,Mythrite Sallet of Fending
+51,Mythrite Sallet of Maiming
+51,Mythrite Tassets of Fending
+51,Mythrite Tassets of Maiming
+51,Mythrite Rivets
+51,Mythrite Scutum
+51,Mythrite Hauberk of Fending
+51,Mythrite Hauberk of Maiming
+51,Mythrite Gauntlets of Fending
+51,Mythrite Gauntlets of Maiming
+51,Mythrite Sabatons of Fending
+51,Mythrite Sabatons of Maiming
+52,Mythrite Ingot
+52,Mythrite Alembic
+52,Frypan Caliente
+53,Mythrite Bladed Lantern Shield
+53,Titanium Plate Belt of Fending
+53,Titanium Plate Belt of Maiming
+54,Titanium Nugget
+54,Titanium Rivets
+54,Hardsilver Alembic
+54,Titanium Frypan
+54,Titanium Mask of Fending
+54,Titanium Sallet of Maiming
+54,Titanium Mask of Striking
+54,Titanium Mask of Scouting
+54,Titanium Mask of Aiming
+55,Titanium Kite Shield
+55,Titanium Mail of Fending
+55,Titanium Cuirass of Maiming
+55,Titanium Gauntlets of Fending
+55,Titanium Mitt Gauntlets of Maiming
+55,Titanium Sollerets of Fending
+55,Titanium Sabatons of Maiming
+56,Titanium Ingot
+56,Titanium Helm of Fending
+56,Titanium Mask of Maiming
+56,Titanium Headgear of Striking
+56,Titanium Headgear of Scouting
+56,Titanium Vambraces of Fending
+56,Titanium Vambraces of Maiming
+56,Titanium Vambraces of Striking
+56,Titanium Vambraces of Scouting
+56,Titanium Tassets of Fending
+57,Titanium Alembic
+57,Mandragoras Frypan
+57,Titanium Hoplon
+57,Titanium Cuirass of Fending
+57,Titanium Mail of Maiming
+57,Titanium Mail of Striking
+57,Titanium Mail of Scouting
+57,Titanium Sabatons of Fending
+57,Titanium Sollerets of Maiming
+57,Titanium Sabatons of Striking
+57,Titanium Sabatons of Scouting
+58,Adamantite Nugget
+58,Adamantite Rivets
+58,Adamantite Helm of Fending
+58,Adamantite Helm of Maiming
+58,Adamantite Gauntlets of Fending
+58,Adamantite Gauntlets of Maiming
+58,Adamantite Tassets of Fending
+58,Adamantite Tassets of Maiming
+58,Adamantite Sabatons of Fending
+58,Adamantite Sabatons of Maiming
+59,Adamatite Scutum
+59,Adamantite Armor of Fending
+59,Adamantite Armor of Maiming
+59,Adamantite Chain Hose of Fending
+59,Adamantite Chain Hose of Maiming
+61,High Steel Nugget
+61,High Steel Hoplon
+61,High Steel Helm of Fending
+61,High Steel Helm of Maiming
+61,High Steel Thermal Alembic
+61,High Steel Bomb Frypan
+61,High Steel Scale Mail of Fending
+61,High Steel Scale Mail of Maiming
+61,High Steel Armguards of Fending
+61,High Steel Armguards of Maiming
+62,High Steel Ingot
+62,High Steel Scutum
+62,High Steel Barbut of Fending
+62,High Steel Barbut of Maiming
+62,High Steel Plate Belt of Fending
+62,High Steel Plate Belt of Maiming
+63,High Steel Mail of Fending
+63,High Steel Mail of Maiming
+63,High Steel Gauntlets of Fending
+63,High Steel Gauntlets of Maiming
+63,High Steel Sollerets of Fending
+63,High Steel Sollerets of Maiming
+64,Oroshigane Ingot
+64,Doman Iron Gauntlets of Fending
+64,Doman Iron Gauntlets of Maiming
+64,Doman Iron Tassets of Fending
+64,Doman Iron Tassets of Maiming
+64,Doman Iron Greaves of Fending
+64,Doman Iron Greaves of Maiming
+65,Doman Iron Alembic
+65,Doman Iron Frypan
+65,Doman Iron Kite Shield
+65,Tigerskin Coat of Fending
+65,Tigerskin Coat of Maiming
+66,Tama-hagane Ingot
+66,Doman Steel Gauntlets of Fending
+66,Doman Steel Gauntlets of Maiming
+66,Doman Steel Gauntlets of Striking
+66,Doman Steel Gauntlets of Scouting
+66,Doman Steel Greaves of Fending
+66,Doman Steel Greaves of Maiming
+66,Doman Steel Greaves of Striking
+66,Doman Steel Greaves of Scouting
+67,Doman Steel Alembic
+67,Doman Steel Frypan Caliente
+67,Doman Steel Shield
+67,Doman Steel Armet of Fending
+67,Doman Steel Armet of Maiming
+67,Doman Steel Tabard of Fending
+67,Doman Steel Tabard of Maiming
+68,Molybdenum Ingot
+68,Molybdenum Headgear of Fending
+68,Molybdenum Headgear of Maiming
+68,Molybdenum Plate Belt of Fending
+68,Molybdenum Plate Belt of Maiming
+69,Molybdenum Kite Shield
+69,Molybdenum Armguards of Maiming
+69,Molybdenum Armguards of Striking
+69,Molybdenum Armguards of Scouting
+69,Molybdenum Greaves of Fending
+70,Molybdenum Alembic
+70,Molybdenum Frypan
+70,Molybdenum Tassets of Fending
+70,Molybdenum Tassets of Maiming
+71,Deepgold Nugget
+71,Deepgold Alembic
+71,Deepgold Rail Frypan
+71,Deepgold Kite Shield
+71,Deepgold Helm of Fending
+71,Deepgold Mask of Scouting
+71,Deepgold Cuirass of Fending
+71,Deepgold Gauntlets of Fending
+71,Deepgold Plate Belt of Fending
+71,Deepgold Plate Belt of Maiming
+71,Deepgold Plate Belt of Striking
+71,Deepgold Plate Belt of Scouting
+71,Deepgold Plate Belt of Aiming
+71,Deepgold Plate Belt of Casting
+71,Deepgold Plate Belt of Healing
+71,Deepgold Sollerets of Fending
+72,Deepgold Ingot
+72,Deepgold Wings of Fending
+72,Deepgold Gloves of Fending
+72,Deepgold Gauntlets of Maiming
+72,Deepgold Tassets of Fending
+72,Deepgold Tassets of Maiming
+72,Deepgold Tassets of Striking
+72,Deepgold Tassets of Scouting
+72,Deepgold Tassets of Aiming
+72,Deepgold Tassets of Casting
+72,Deepgold Tassets of Healing
+72,Deepgold Sollerets of Maiming
+73,Deepgold Shield
+73,Deepgold Mail of Fending
+73,Deephold Surcoat of Maiming
+74,Bluespirit Tile
+74,Bluespirit Helm of Fending
+74,Bluespirit Helm of Maiming
+74,Bluespirit Headgear of Casting
+74,Bluespirit Gauntlets of Fending
+74,Bluespirit Gauntlets of Maiming
+74,Bluespirit Plate Belt of Fending
+74,Bluespirit Plate Belt of Maiming
+74,Bluespirit Plate Belt of Striking
+74,Bluespirit Plate Belt of Scouting
+74,Bluespirit Plate Belt of Aiming
+74,Bluespirit Plate Belt of Casting
+74,Bluespirit Plate Belt of Healing
+74,Bluespirit Sabatons of Fending
+74,Bluespirit Sabatons of Maiming
+74,Bluespirit Sabatons of Casting
+75,Bluespirit Alembic
+75,Bluespirit Porxie Frypan
+75,Bluespirit Tower Shield
+75,Bluespirit Cuirass Fending
+75,Bluespirit Cuirass Maiming
+76,Titanbronze Ingot
+76,Titanbronze Headband of Scouting
+76,Titanbronze Tassets of Fending
+76,Titanbronze Tassets of Maiming
+76,Titanbronze Tassets of Striking
+76,Titanbronze Tassets of Scouting
+76,Titanbronze Tassets of Aiming
+76,Titanbronze Tassets of Casting
+76,Titanbronze Tassets of Healing
+77,Titanbronze Alembic
+77,Titanbronze Moogle Frypan
+77,Titanbronze Tower Shield
+78,Dwarven Mythril Ingot
+78,Dwarven Mythril Helm of Fending
+78,Dwarven Mythril Helm of Maiming
+78,Dwarven Mythril Helm of Striking
+78,Dwarven Mythril Chainmail of Fending
+78,Dwarven Mythril Chainmail of Maiming
+78,Dwarven Mythril Chainmail of Striking
+78,Dwarven Mythril Plate Belt of Fending
+78,Dwarven Mythril Plate Belt of Maiming
+78,Dwarven Mythril Shoes of Fending
+78,Dwarven Mythril Shoes of Maiming
+78,Dwarven Mythril Shoes of Scouting
+78,Dwarven Mythril Shoes of Aiming
+79,Dwarven Mythril Shield
+79,Dwarven Mythril Plate Belt of Striking
+79,Dwarven Mythril Plate Belt of Scouting
+79,Dwarven Mythril Plate Belt of Aiming
+79,Dwarven Mythril Plate Belt of Casting
+79,Dwarven Mythril Plate Belt of Healing
+80,Dwarven Mythril Alembic
+80,Dwarven Mythril Frypan
+50★★,Darksteel Wire
+50★★★,Reinforced Darksteel Wire
+50★★★,Lapdog Collar Bell
+50★★★,Wolfram Square
+50★★★,Perfect Mortar
+50★★★,Heavy Wolfram Helm
+50★★★,Wolfram Mask
+50★★★,Heavy Wolfram Cuirass
+50★★★,Wolfram Cuirass
+50★★★,Heavy Wolfram Gauntlets
+50★★★,Wolfram Gauntlets
+50★★★,Heavy Wolfram Plate Belt
+50★★★,Wolfram Tassets
+50★★★,Heavy Wolfram Cuisses
+50★★★,Heavy Wolfram Sabatons
+50★★★,Wolfram Sabatons
+52,Garlond Steel
+50★★★★,Wootz Shield
+50★★★★,Mighty Thunderhead
+50★★★★,Wootz Sallet
+50★★★★,Wootz Mask
+50★★★★,Wootz Cuirass
+50★★★★,Wootz Mail
+50★★★★,Wootz Mitten Gauntlets
+50★★★★,Wootz Gauntlets
+50★★★★,Wootz Plate Belt
+50★★★★,Wootz Sabatons
+50★★★★,Wootz Sollerets
+55,Company Escutcheon
+59,Adamantite Circlet of Fending
+59,Adamantite Plate Belt of Fending
+60,Adamantite Alembic
+60,Adamantite Frypan
+60,Adamantite Hoplon
+60,Adamantite Lorica of Fending
+60,Adamantite Mail of Maiming
+60,Heavy Adamantite Gauntlets of Fending
+60,Adamantite Greaves of Fending
+60,Adamantite Leg Guards of Maiming
+60,Aurum Regis Sollerets of Healing
+60★,Chivalric Coat of Fending
+60★,Chivalric Coat of Maiming
+60★,Titanium Alloy Square
+60★,Iron Dwarf
+60★,Steam-powered Gobwalker G-VII
+60★,Expanse Barding
+60★,Hive Barding
+60★,Gordian Chair
+60★★,Adamantite Ingot
+60★★,Kamacite
+60★★,Cauldronmaster's Alembic
+60★★,Galleymaster's Frypan
+60★★,Hammermaster's Visor
+60★★,Adamantite Barbut of Fending
+60★★,Sky Pirate's Helm of Fending
+60★★,Adamantite Barbut of Maiming
+60★★,Sky Pirate's Helm of Maiming
+60★★,Adamantite Pauldroncoat of Fending
+60★★,Sky Pirate's Coat of Fending
+60★★,Adamantite Pauldroncoat of Maiming
+60★★,Sky Pirate's Coat of Maiming
+60★★,Adamantite Vambraces of Fending
+60★★,Sky Pirate's Gauntlets of Fending
+60★★,Adamantite Vambraces of Maiming
+60★★,Sky Pirate's Gauntlets of Maiming
+60★★,Adamantite Sollerets of Fending
+60★★,Adamantite Sollerets of Maiming
+60★★,Savage Gordian Chair
+60★★,High Mythrite Nugget
+60★★,Galvanized Garlond Steel
+60★★,Endless Expanse Shield
+60★★,Dead Hive Scutum
+60★★,Replica Allagan Helm
+60★★,Replica Allagan Visor of Maiming
+60★★,Replica Allagan Visor of Striking
+60★★,Replica Allagan Visor of Aiming
+60★★,Replica High Allagan Headgear of Maiming
+60★★,Replica High Allagan Headgear of Striking
+60★★,Replica Dreadwym Barbut of Maiming
+60★★,Replica Heavy Allagan Armor
+60★★,Replica Allagan Cuirass of Maiming
+60★★,Replica Allagan Cuirass of Striking
+60★★,Replica Allagan Cuirass of Aiming
+60★★,Replica Heavy High Allagan Coat
+60★★,Replica High Allagan Cuirass of Maiming
+60★★,Replica High Allagan Cuirass of Striking
+60★★,Replica Dreadwym Armor of Fending
+60★★,Replica Dreadwym Mail of Maiming
+60★★,Replica Heavy Allagan Gauntlets
+60★★,Replica Allagan Gauntlets of Maiming
+60★★,Replica Allagan Gauntlets of Striking
+60★★,Replica Allagan Gauntlets of Aiming
+60★★,Replica High Allagan Gauntlets of Fending
+60★★,Replica High Allagan Gauntlets of Maiming
+60★★,Replica High Allagan Gauntlets of Striking
+60★★,Replica Dreadwym Gauntlets of Fending
+60★★,Replica Dreadwym Vambraces of Maiming
+60★★,Replica Heavy Allagan Cuisses
+60★★,Replica Heavy Allagan Flanchard
+60★★,Replica Allagan Sollerets of Maiming
+60★★,Replica Allagan Sollerets of Striking
+60★★,Replica Allagan Sollerets of Aiming
+60★★,Replica High Allagan Sabatons of Fending
+60★★,Replica High Allagan Sabatons of Maiming
+60★★,Replica High Allagan Sabatons of Striking
+60★★,Replica Dreadwym Sabatons of Fending
+60★★,Replica Dreadwym Greaves of Maiming
+60★★,Replica Dreadwym Greaves of Aiming
+60★★★,High Mythrite Ingot
+60★★★,Shield of the Round
+60★★★,Shield of the Fiend
+60★★★,Seeing Horde Shield
+60★★★,Shield of the Goddess
+60★★★,Replica Allagan Round Shield
+60★★★,Replica High Allagan Kite Shield
+60★★★,High Mythrite Helm of Fending
+60★★★,High Mythrite Cuirass of Fending
+60★★★,High Mythrite Gauntlets of Fending
+60★★★,High Mythrite Plate Belt of Fending
+60★★★,High Mythrite Tassets of Maiming
+60★★★,High Mythrite Tassets of Striking
+60★★★,High Mythrite Sabatons of Fending
+60★★★,Faust Striking Dummy
+60★★★,Indirect Stand Lighting
+60★★★,Indirect Lighting
+60★★★,Indirect Wall Lighting
+60★★★,Cloud Mythril Ingot
+60★★★,High Mythrite Alembic
+60★★★,High Mythrite Frypan
+60★★★★,Heavy Metal Ingot
+60★★★★,Heavy Metal Kite Shield
+60★★★★,Heavy Metal Coif of Fending
+60★★★★,Heavy Metal Coif of Maiming
+60★★★★,Sky Rat Mask of Striking
+60★★★★,Sky Rat Mask of Scouting
+60★★★★,Heavy Metal Cuirass of Fending
+60★★★★,Heavy Metal Cuirass of Maiming
+60★★★★,Heavy Metal Gauntlets of Fending
+60★★★★,Sky Rat Hook of Fending
+60★★★★,Heavy Metal Gauntlets of Maiming
+60★★★★,Sky Rat Hook of Maiming
+60★★★★,Sky Rat Hook of Scouting
+60★★★★,Sky Rat Hook of Healing
+60★★★★,Heavy Metal Plate Belt of Fending
+60★★★★,Heavy Metal Plate Belt of Maiming
+60★★★★,Heavy Metal Tassets of Striking
+60★★★★,Heavy Metal Tassets of Scouting
+60★★★★,Heavy Metal Tassets of Aiming
+60★★★★,Heavy Metal Sabatons of Fending
+60★★★★,Heavy Metal Sabatons of Maiming
+60★★★★,Sky Rat Ironclad Boots of Striking
+60★★★★,Sky Rat Ironclad Boots of Aiming
+60★★★★,Sky Rat Ironclad Boots of Casting
+60★★★★,Zurvanite Barding
+60★★★★,Alexander Miniature
+60★★★★,Zurvan Miniature
+70★,Pure Titanium Plate
+70★,Reveler's Barding
+70★,Susano Miniature
+70★★,Chromite Ingot
+70★★,Ala Mhigan Alembic
+70★★,Ala Mhigan Frypan
+70★★,Chromite Shield
+70★★,Chromite Helm of Fending
+70★★,Chromite Armor of Fending
+70★★,Chromite Mail of Maiming
+70★★,Chromite Gauntlets of Fending
+70★★,Chromite Gauntlets of Maiming
+70★★,Chromite Sabatons of Fending
+70★★,Chromite Greaves of Maiming
+70★★,Shinryu Barding
+70★★,Tier 1 Metal Aquarium
+70★★,Tier 2 Metal Aquarium
+70★★,Tier 3 Metal Aquarium
+70★★,Tier 4 Metal Aquarium
+70★★★,Nightsteel Ingot
+70★★★,Nightsteel Alembic
+70★★★,Nightsteel Frypan
+70★★★,Nightsteel Shield
+70★★★,Nightsteel Helm of Fending
+70★★★,Nightsteel Helm of Maiming
+70★★★,Nightsteel Armor of Fending
+70★★★,Nightsteel Mail of Maiming
+70★★★,Nightsteel Gauntlets of Fending
+70★★★,Nightsteel Gauntlets of Maiming
+70★★★,Nightsteel Sabatons of Fending
+70★★★,Nightsteel Greaves of Maiming
+70★★★★,Chigusa Ingot
+70★★★★,Rakshasa Greatshield
+70★★★★,Rakshasa Mask of Fending
+70★★★★,Rakshasa Mask of Maiming
+70★★★★,Rakshasa Kote of Fending
+70★★★★,Rakshasa Kote of Maiming
+70★★★★,Rakshasa Sune-ate of Fending
+70★★★★,Rakshasa Sune-ate of Maiming
+70★★★★,Suzaka Barding
+70★★★★,Seiryu Barding
+80★,Titania Barding
+80★,Innocence Barding
+80★★,Tungsten Steel Ingot
+80★★,Facet Alembic
+80★★,Facet Frypan
+80★★,Dominus Shield
+80★★,Facet Circlet of Maiming
+80★★,Facet Mail of Fending
+80★★,Facet Mail of Maiming
+80★★,Facet Gauntlets of Fending
+80★★,Facet Gauntlets of Maiming
+80★★,Facet Plate Belt of Fending
+80★★,Facet Plate Belt of Maiming
+80★★,Facet Plate Belt of Striking
+80★★,Facet Plate Belt of Scouting
+80★★,Facet Plate Belt of Aiming
+80★★,Facet Plate Belt of Casting
+80★★,Facet Plate Belt of Healing
+80★★,Facet Sabatons of Fending
+80★★,Facet Sabatons of Maiming
+80★★,Hades Barding
+15,Glamour Prism
+50★★★,Augmented Heavy Wolfram Cuirass
+50★★★,Augmented Wolfram Cuirass
+16,Brass Bench
+19,Riviera Placard
+22,Oasis Pendant Lamp
+25,Glade Placard
+27,Deluxe Oasis Pendant Lamp
+29,Oasis Arched Door
+29,Iron Plate Flooring
+30,Cast-iron Cookpot
+34,Riviera Rounded Chimney
+35,Explorer's Campfire
+36,Glade Wall Chimney
+39,Mythril Table
+41,Glade Hanging Placard
+43,Riviera Hanging Placard
+45,Glade Rounded Chimney
+45,Moogle Letter Box
+46,Metal Interior Wall
+46,Metal Flooring
+49,Oasis Chandelier
+61,Hingan Cottage Roof (Kura-zukuri)
+61,Hingan Cottage Wall (Kura-zukuri)
+63,Hingan Squinch Window
+63,Hingan Kura-zukuri Fence
+64,Hingan House Roof (Kura-zukuri)
+66,Hingan Awning (Kura-zukuri)
+66,Hingan House Wall (Kura-zukuri)
+68,Hingan Placard (Kura-zukuri)
+68,Hingan Mansion Roof (Kura-zukuri)
+68,Hingan Mansion Wall (Kura-zukuri)
+78,Armorer's Stall
+14,Riviera Lantern
+20,Oasis Dining Table
+25,Glade Dining Table
+29,Manor Desk
+32,Riviera Round Table
+32,Riviera Wardrobe
+34,Ahriman Round Table
+34,Riviera Dining Table
+38,Belah'dian Crystal Lantern
+46,Riviera Desk
+48,Riviera Bookshelf
+48,Company Chest
+48,Manor Fireplace
+50★★,Diagnostics Module
+50★★,Magitek Reaper Miniature
+50★★★,Incensory
+50★★★,Dead Man's Chest
+50★★★,Manor Marching Horn
+50★★★,Alchemy Furnace
+50★★★,Projection Module
+50★★★,Purification Module
+54,Hunting Supplies
+66,Hingan Oven
+66,Hingan Armor Display
+77,Crystarium Teapot
+77,Crystarium Bench
+77,Crystarium Kitchen Hanger
+80,Oasis Wall Mounted Fountain
+50★,Wolf Kite Shield
+50★,Wolf Celata
+50★,Wolf Elmo
+50★,Wolf Sallet
+50★,Wolf Cuirass
+50★,Wolf Scale Mail
+50★,Wolf Gauntlets
+50★,Wolf Scale Fingers
+50★,Wolf Plate Belt
+50★,Wolf Tassets
+50★,Wolf Sabatons
+50★,Wolf Scale Greaves
+63,Paladin Mail
+65,Titanium Kote
+68,Tournament Somen
+70,Lominsan Hara-ate
+70,Metal Gauntlets
+73,Metal Worm Jar
+75,Metal Trident
+75,Intricate Censer
+78,Nullifying Neckpiece
+80,Enchanting Ring
+20,Skybuilders' Steel Plate
+40,Skybuilders' Rivets
+60,Skybuilders' Cooking Pot
+70,Skybuilders' Counter
+80,Skybuilders' Lamppost
+61,Replica Sky Pirate's Helm of Fending
+61,Replica Sky Pirate's Helm of Maiming
+61,Replica Sky Pirate's Mask of Striking
+61,Replica Sky Pirate's Mask of Scouting
+61,Replica Sky Pirate's Coat of Fending
+61,Replica Sky Pirate's Coat of Maiming
+61,Replica Sky Pirate's Gauntlets of Fending
+61,Replica Sky Pirate's Gauntlets of Maiming
+61,Replica Sky Rats Hook of Fending
+61,Replica Sky Rats Hook of Maiming
+61,Replica Sky Rats Hook of Scouting
+61,Replica Sky Rats Hook of Healing
+61,Replica Sky Rat Ironclad Boots of Striking
+61,Replica Sky Rat Ironclad Boots of Aiming
+61,Replica Sky Rat Ironclad Boots of Casting

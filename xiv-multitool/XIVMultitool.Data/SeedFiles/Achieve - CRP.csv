@@ -1,0 +1,21 @@
+Group,Name,Points,Description,Reward
+Unique Recipes,I Made That: Carpenter I,5,Craft 30 unique carpenter recipes.
+Unique Recipes,I Made That: Carpenter II,5,Craft 50 unique carpenter recipes.
+Unique Recipes,I Made That: Carpenter III,10,Craft 100 unique carpenter recipes.,Item: Master Carpenter's Ring
+Unique Recipes,I Made That: Carpenter IV,10,Craft 200 unique carpenter recipes.
+Unique Recipes,I Made That: Carpenter V,10,Craft and record completion of 320 unique carpenter recipes.,Item: Blessed Millkeep's Saw
+Unique Recipes,I Made That: Carpenter VI,10,Craft and record completion of 410 unique carpenter recipes.,Item: Blessed Millking's Saw
+Synthesizing,Going with the Grain: Amateur,5,Successfully synthesize 50 times for level 1-10 woodworking recipes.
+Synthesizing,Going with the Grain: Initiate,5,Successfully synthesize 300 times for level 11-20 woodworking recipes.
+Synthesizing,Going with the Grain: Apprentice,5,Successfully synthesize 750 times for level 21-30 woodworking recipes.
+Synthesizing,Going with the Grain: Journeyman,5,"Successfully synthesize 1,500 times for level 31-40 woodworking recipes."
+Synthesizing,Going with the Grain: Artisan,10,"Successfully synthesize 3,000 times for level 41-50 woodworking recipes.",Title: Of the Golden Saw
+Synthesizing,Going with the Grain: Adept,10,"Successfully synthesize 1,000 times for level 51-60 woodworking recipes."
+Synthesizing,Going with the Grain: Veteran,10,"Successfully synthesize 1,000 times for level 61-70 woodworking recipes."
+Synthesizing,Going with the Grain: Master,10,"Successfully synthesize 1,000 times for level 71-80 woodworking recipes."
+Synthesizing,A Carpenter's Life for Me,30,"Obtain the first five ""Going with the Grain"" achievements.",Item: Saw of the Luminary
+High Quality Crafts,An Eye for Detail: Carpenter I,5,Craft 100 high-quality items as a carpenter.
+High Quality Crafts,An Eye for Detail: Carpenter II,5,Craft 500 high-quality items as a carpenter.
+High Quality Crafts,An Eye for Detail: Carpenter III,10,"Craft 3,000 high-quality items as a carpenter."
+High Quality Crafts,An Eye for Detail: Carpenter IV,10,"Craft 5,000 high-quality items as a carpenter."
+High Quality Crafts,An Eye for Detail: Carpenter V,10,"Craft 10,000 high-quality items as a carpenter.",Title: Master Carpenter

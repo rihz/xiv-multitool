@@ -1,0 +1,124 @@
+Level,Name,Zone,Location
+1,Fire Shard,Middle La Noscea,Three-malm Bend
+1,Ice Shard,Western La Noscea,Skull Valley
+1,Wind Shard,East Shroud,Nine Ivies
+1,Earth Shard,Upper La Noscea,Oakwood
+1,Lightning Shard,Central Thanalan,Black Brush
+1,Water Shard,Western Thanalan,Horizon's Edge
+11,Fine Sand,Central Thanalan,Black Brush
+11,Copper Sand,Western Thanalan,Horizon's Edge
+12,Rock Salt,Central Thanalan,Black Brush
+13,Ragstone,Central Thanalan,Black Brush
+14,Iron Sand,Western Thanalan,Horizon's Edge
+15,Cinnabar,Western Thanalan,Horizon's Edge
+17,Limestone,Western La Noscea,Skull Valley
+20,Mudstone,Western La Noscea,Skull Valley
+20,Grade 1 Carbonized Matter,Middle La Noscea,Three-malm Bend
+21,Earth Rock,South Shroud,Upper Paths
+22,Silver Sand,South Shroud,Upper Paths
+23,Fire Rock,Upper La Noscea,Oakwood
+23,Ice Rock,South Shroud,Upper Paths
+24,Wind Rock,South Shroud,Upper Paths
+24,Lightning Rock,Upper La Noscea,Oakwood
+25,Water Rock,Upper La Noscea,Oakwood
+26,Bomb Ash,Southern Thanalan,Sagolii Desert
+26,Fire Crystal,Eastern Thanalan,Wellwick Wood
+26,Ice Crystal,Western La Noscea,Quarterstone
+26,Wind Crystal,East Shroud,Nine Ivies
+26,Earth Crystal,Lower La Noscea,Blind Iron Mines
+26,Lightning Crystal,Southern Thanalan,Broken Water
+26,Water Crystal,Western Thanalan,Nophica's Wells
+27,Silex,Southern Thanalan,Sagolii Desert
+28,Blue Pigment,Western Thanalan,Nophica's Wells
+28,Red Pigment,Eastern Thanalan,Wellwick Wood
+28,Yellow Pigment,Lower La Noscea,Blind Iron Mines
+28,Grey Pigment,Western La Noscea,Quarterstone
+28,Brown Pigment,Lower La Noscea,Blind Iron Mines
+28,Green Pigment,East Shroud,Nine Ivies
+28,Purple Pigment,Southern Thanalan,Broken Water
+29,Brimstone,Upper La Noscea,Oakwood
+30,Siltstone,Upper La Noscea,Oakwood
+30,Grade 1 La Noscean Topsoil,Lower La Noscea,Cedarwood
+30,Grade 1 Shroud Topsoil,East Shroud,Nine Ivies
+30,Grade 1 Thanalan Topsoil,Eastern Thanalan,Wellwick Wood
+33,Mythril Sand,Southern Thanalan,The Red Labyrinth
+40,Grenade Ash,Northern Thanalan,Bluefog
+42,Electrum Sand,Upper La Noscea,Bronze Lake
+45,Marble,Upper La Noscea,Bronze Lake
+46,Grade 2 La Noscean Topsoil,Lower La Noscea,The Gods' Grip
+46,Grade 2 Shroud Topsoil,East Shroud,The Bramble Patch
+46,Grade 2 Thanalan Topsoil,Western Thanalan,Nophica's Wells
+50,Black Limestone,Western La Noscea,Quarterstone
+50,Fire Cluster,Mor Dhona,North Silvertear
+50,Ice Cluster,Mor Dhona,North Silvertear
+50,Wind Cluster,Mor Dhona,North Silvertear
+50,Earth Cluster,Mor Dhona,North Silvertear
+50,Lightning Cluster,Mor Dhona,North Silvertear
+50,Water Cluster,Mor Dhona,North Silvertear
+50★,Astral Rock,Coerthas Central Highlands,Dragonhead
+50★,Gold Sand,Eastern Thanalan,Wellwick Wood
+50★,Volcanic Rock Salt,Eastern La Noscea,Raincatcher Gully
+50★,Umbral Rock,South Shroud,Rootslake
+50★,Unaspected Crystal,Mor Dhona,North Silvertear
+50★,Grade 3 La Noscean Topsoil,Middle La Noscea,Zephyr Drift
+50★,Grade 3 Shroud Topsoil,South Shroud,Rootslake
+50★,Grade 3 Thanalan Topsoil,Western Thanalan,Hammerlea
+50★★,Antumbral Rock,Eastern Thanalan,Wellwick Wood
+50★★,Dark Matter Cluster,Eastern Thanalan,Wellwick Wood
+50★★★,Pumice,Eastern La Noscea,Raincatcher Gully
+51,Mythrite Sand,Coerthas Western Highlands,Twinpools
+52,Yellow Quartz,The Churning Mists,The House of Letters
+55,Green Quartz,The Churning Mists,The House of Letters
+56,Abalathian Rock Salt,The Sea of Clouds,The Blue Window
+56,Fire Moraine,The Dravanian Forelands,Avalonia Fallen
+56,Lightning Moraine,The Sea of Clouds,Voor Sian Siran
+56,Hardsilver Sand,The Churning Mists,Landlord Colony
+56,Fossilized Dragon Bone,The Churning Mists,Landlord Colony
+58,Cloud Mica,The Churning Mists,Landlord Colony
+58,Red Quartz,The Sea of Clouds,The Blue Window
+58,Bright Fire Rock,The Dravanian Forelands,Avalonia Fallen
+58,Bright Lightning Rock,The Sea of Clouds,Voor Sian Siran
+59,Tektite,The Churning Mists,Landlord Colony
+59,Duskfall Moss,The Churning Mists,Landlord Colony
+60,Radiant Fire Moraine,The Dravanian Forelands,Avalonia Fallen
+60,Radiant Lightning Moraine,The Sea of Clouds,Voor Sian Siran
+60★,Lumythrite Sand,The Churning Mists,Landlord Colony
+60★,Radiant Astral Moraine,Coerthas Western Highlands,Red Rim
+61,Stiperstone,The Peaks,Rustrock
+61,Koppranickel Sand,The Peaks,Rustrock
+61,Pinch of Active Ingredients,The Peaks,Rustrock
+62,Slate,The Peaks,Rustrock
+63,Diatomite,The Ruby Sea,Rasen Kaikyo
+64,Shisui Jewel,The Ruby Sea,Rasen Kaikyo
+65,Cloudkin Feather,The Churning Mists,Landlord Colony
+66,Perlite,Yanxia,Unseen Spirits Laughing
+66,Durium Sand,The Azim Steppe,Onsal Hakair
+66,Strong Steppe Spice,The Azim Steppe,Onsal Hakair
+67,Doman Iron Sand,The Azim Steppe,Onsal Hakair
+69,Palladium Sand,The Azim Steppe,Onsal Hakair
+69,Ala Mhigan Salt Crystal,The Lochs,Loch Seld
+70,Raven Coal,Kholusia,Shadow Fruit
+70,Amh Araeng Seasonings,Amh Araeng,The Inn at Journey's Head
+70,Animal Trace,Amh Araeng,The Inn at Journey's Head
+70★,Airship Fitting Components,Amh Araeng,The Inn at Journey's Head
+70★,Kholusian Miscellany,Kholusia,Shadow Fruit
+70★★,Yanxian Soil,Yanxia,Unseen Spirits Laughing
+70★★,Coarse Saltpeter,Amh Araeng,The Inn at Journey's Head
+70★★,Yellow Alumen,Amh Araeng,The Inn at Journey's Head
+71,Hard Mudstone,Kholusia,Slowroad
+71,Truegold Sand,Kholusia,Slowroad
+75,Manasilver Sand,The Rak'tika Greatwood,Lozatl's Conquest
+76,Volcanic Tuff,Kholusia,Amity
+76,Titancopper Sand,Amh Araeng,Mount Biran Mines
+79,Dimythrite Sand,Amh Araeng,Mount Biran Mines
+80,Shade Quartz,Kholusia,Amity
+60★,Violet Quartz,Coerthas Western Highlands,The Convictory
+60★,Astral Moraine,Coerthas Western Highlands,Hemlock
+60★,Blue Quartz,The Dravanian Hinterlands,The Answering Quarter
+60★★★,Zeolite Ore,The Dravanian Hinterlands,Quickspill Delta
+60★,Sun Mica,The Sea of Clouds,The Nidifice
+15,Skybuilders' Fine Sand,Central Thanalan,Black Brush
+25,Skybuilders' Iron Sand,Eastern Thanalan,Drybone
+55,Skybuilders' Mythrite Sand,Coerthas Western Highlands,Riversmeet
+70,Skybuilders' Durium Sand,The Azim Steppe,Nhaama's Retreat
+80,Skybuilders' Truegold Sand,Kholusia,The Duergar Mountains

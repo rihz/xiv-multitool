@@ -1,0 +1,66 @@
+Group,Name,Points,Description,Reward
+Participation,Hungry Like a Wolf I,5,Participate in your first match at the Wolves' Den.
+Participation,Hungry Like a Wolf II,5,Participate in 50 matches at the Wolves' Den.
+Participation,Hungry Like a Wolf III,5,Participate in 100 matches at the Wolves' Den.
+Participation,Hungry Like a Wolf IV,5,Participate in 500 matches at the Wolves' Den.
+Participation,Hungry Like a Wolf V,10,Participate in 1000 matches at the Wolves' Den.
+Participation,Wolfing it Down,20,Participate in 5000 matches at the Wolves' Den.,Title: The Ravenous Wolf
+The Feast,Look Who's Coming to Dinner I,5,Participate in your first match in the Feast.
+The Feast,Look Who's Coming to Dinner II,5,Participate in 50 matches in the Feast.
+The Feast,Look Who's Coming to Dinner III,5,Participate in 100 matches in the Feast.
+The Feast,Look Who's Coming to Dinner IV,5,Participate in 200 matches in the Feast.
+The Feast,Look Who's Coming to Dinner V,10,Participate in 500 matches in the Feast.
+The Feast,A Clean Plate,20,Participate in 1000 matches in the Feast.,Title: Hungry Wolf
+Melee DPS,A Wolf in Spiked Subligar I,5,Triumph in 10 matches at the Feast while taking on the role of melee DPS.
+Melee DPS,A Wolf in Spiked Subligar II,5,Triumph in 50 matches at the Feast while taking on the role of melee DPS.
+Melee DPS,A Wolf in Spiked Subligar III,5,Triumph in 100 matches at the Feast while taking on the role of melee DPS.
+Melee DPS,A Wolf in Spiked Subligar IV,5,Triumph in 500 matches at the Feast while taking on the role of melee DPS.
+Melee DPS,A Slayer to Remember,10,Triumph in 1000 matches at the Feast while taking on the role of melee DPS.,Title: The Unrelenting
+KOs,Mama Said Knock You Out I,5,Record your first KO in the Feast.
+KOs,Mama Said Knock You Out II,5,Record 100 KOs in the Feast.,Title: Mortal Fist
+KOs,Mama Said Knock You Out III,5,Record 300 KOs in the Feast.,Mount: Hellpup 
+KOs,Mama Said Knock You Out IV,10,Record 1000 KOs in the Feast.
+KOs,Mama Said Knock You Out V,20,Record 5000 KOs in the Feast.,Title: Rhalgr's Right Fist
+Assists,How Can I Help I,5,Record your first assist in the Feast.
+Assists,How Can I Help II,5,Record 100 assists in the Feast.,Title: Tablesetter
+Assists,How Can I Help III,5,Record 300 assists in the Feast.,Mount: Faepup
+Assists,How Can I Help IV,10,Record 1000 assists in the Feast.
+Assists,How Can I Help V,20,Record 5000 assists in the Feast.,Title: Halone's Cup Bearer
+Ranged Magic DPS,A Wolf in Dark Robes I,5,Triumph in 10 matches at the Feast while taking on the role of ranged magic DPS.
+Ranged Magic DPS,A Wolf in Dark Robes I,5,Triumph in 50 matches at the Feast while taking on the role of ranged magic DPS.
+Ranged Magic DPS,A Wolf in Dark Robes I,5,Triumph in 100 matches at the Feast while taking on the role of ranged magic DPS.
+Ranged Magic DPS,A Wolf in Dark Robes I,5,Triumph in 500 matches at the Feast while taking on the role of ranged magic DPS.
+Ranged Magic DPS,A Spellcaster to Remember,10,Triumph in 1000 matches at the Feast while taking on the role of ranged magic DPS.,Title: The Unleashed
+Healer,A Wolf In White Robes I,5,Triumph in 10 matches at the Feast while taking on the role of healer.
+Healer,A Wolf In White Robes II,5,Triumph in 50 matches at the Feast while taking on the role of healer.
+Healer,A Wolf In White Robes III,5,Triumph in 100 matches at the Feast while taking on the role of healer.
+Healer,A Wolf In White Robes IV,5,Triumph in 500 matches at the Feast while taking on the role of healer.
+Healer,A Sawbones to Remember,10,Triumph in 1000 matches at the Feast while taking on the role of healer.,Title: The Undamaged
+Tank,A Wolf in Plate Armor I,5,Triumph in 10 matches at the Feast while taking on the role of tank.
+Tank,A Wolf in Plate Armor II,5,Triumph in 50 matches at the Feast while taking on the role of tank.
+Tank,A Wolf in Plate Armor III,5,Triumph in 100 matches at the Feast while taking on the role of tank.
+Tank,A Wolf in Plate Armor IV,5,Triumph in 500 matches at the Feast while taking on the role of tank.
+Tank,A Stalwart to Remember,10,Triumph in 1000 matches at the Feast while taking on the role of tank.,Title: The Unmoving
+Victories,Pack Mentality I,5,Triumph for the first time at the Wolves' Den.
+Victories,Pack Mentality II,5,Triumph in 50 matches at the Wolves' Den.
+Victories,Pack Mentality III,5,Triumph in 100 matches at the Wolves' Den.
+Victories,Pack Mentality IV,5,Triumph in 500 matches at the Wolves' Den.
+Victories,Pack Mentality V,10,Triumph in 1000 matches at the Wolves' Den.
+Victories,Leader of the Pack,20,Triumph in 5000 matches at the Wolves' Den.,Title: The Alpha Wolf
+Victories,You Are What You Eat I,5,Triumph for the first time in the Feast.
+Victories,You Are What You Eat II,5,Triumph in 50 matches in the Feast.
+Victories,You Are What You Eat III,5,Triumph in 100 matches in the Feast.
+Victories,You Are What You Eat IV,5,Triumph in 200 matches in the Feast.,Mount: Gloria Ignition
+Victories,You Are What You Eat V,10,Triumph in 500 matches in the Feast.
+Victories,Breaking Fast with Champions,20,Triumph in 1000 matches in the Feast.,Title: The Devourer
+Ranged Physical DPS,A Wolf in Green Tights I,5,Triumph in 10 matches at the Feast while taking on the role of ranged physical DPS.
+Ranged Physical DPS,A Wolf in Green Tights II,5,Triumph in 50 matches at the Feast while taking on the role of ranged physical DPS.
+Ranged Physical DPS,A Wolf in Green Tights III,5,Triumph in 100 matches at the Feast while taking on the role of ranged physical DPS.
+Ranged Physical DPS,A Wolf in Green Tights IV,5,Triumph in 500 matches at the Feast while taking on the role of ranged physical DPS.
+Ranged Physical DPS,A Sniper to Remember,10,Triumph in 1000 matches at the Feast while taking on the role of ranged physical DPS.,Title: The Unseen
+Team Victories,Pack Man I,5,Emerge victorious with your PvP team in a match at the Feast. 
+Team Victories,Pack Man II,5,Triumph in 10 matches with your PvP team at the Feast.,Item: Eversharp Choker
+Team Victories,Pack Man III,5,Triumph in 50 matches with your PvP team at the Feast.,Item: Eversharp Earring
+Team Victories,Pack Man IV,10,Triumph in 100 matches with your PvP team at the Feast.,Item: Eversharp Ring
+Team Victories,Pack Man V,10,Triumph in 200 matches with your PvP team at the Feast.,Item: Eversharp Wristbands
+Team Victories,Stay Sharp,20,Triumph in 500 matches with your PvP team at the Feast.,Title: Eversharp

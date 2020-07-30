@@ -1,0 +1,50 @@
+<div class="cat-container">
+    <div class="cat" [style.left.px]="left">
+        <div class="banner">
+            <banner [bannerClass]="bannerClass" [position]="category.position" (toggle)="toggleTracking()"></banner>
+        </div>
+        <mat-card class="category" [ngClass]="categoryClass" [style.width.px]="width"
+            (click)="showChildren = !showChildren">
+            <div class="contents">
+                <div class="name">
+                    <span [style.opacity]="isTracked ? 1.0 : 0.3">
+                        {{ category.name }}
+                    </span>
+                </div>
+            </div>
+        </mat-card>
+    </div>
+    <div class="complete" [style.left.px]="left">
+        <mat-checkbox [disabled]="!isTracked"></mat-checkbox>
+    </div>
+</div>
+<div class="children" [@list]="categories.length">
+    <div class="child-categories" *ngFor="let child of categories">
+        <category [category]="child"></category>
+    </div>
+</div>
+<div class="children" [@list]="tasks.length">
+    <div class="child-tasks" *ngFor="let child of tasks">
+        <app-task [task]="child" [position]="childPosition"></app-task>
+    </div>
+</div>
+<!-- <mat-accordion>
+    <mat-expansion-panel class="category" [ngClass]="categoryClass">
+        <mat-expansion-panel-header>
+            <category-banner [bannerClass]="bannerClass" (toggle)="toggleTracking()"></category-banner>
+            <div class="name">
+                <span [style.opacity]="this.isTracked ? 1.0 : 0.3">Category 1</span>
+            </div>
+            <div class="complete">
+                <mat-checkbox [disabled]="!this.isTracked" (click)="$event.stopPropagation();"></mat-checkbox>
+            </div>
+        </mat-expansion-panel-header>
+
+        <h1>Test</h1>
+        <h2>Test</h2>
+        <h3>Test</h3>
+        <h4>Test</h4>
+        <h5>Test</h5>
+        <h6>Test</h6>
+    </mat-expansion-panel>
+</mat-accordion> -->

@@ -1,0 +1,312 @@
+Discipline,Level,Name
+Bard,30,A Song of Bards and Bowmen
+Bard,30,Plucking the Heartstrings
+Bard,35,The Archer's Anthem
+Bard,40,Bard's-eye View
+Bard,45,Doing It the Bard Way
+Bard,45,Pieces of the Past
+Bard,50,Requiem for the Fallen
+Bard,50,A Relic Reborn (Artemis Bow)
+Bard,50,On the Road Again
+Bard,52,The Stiff and the Spent
+Bard,54,Requiem on Ice
+Bard,56,When Gnaths Cry
+Bard,58,A Saint of Song
+Bard,60,The Ballad of Oblivion
+Bard,60,Three's a Company
+Bard,63,Masked Motives
+Bard,65,One Autumn's Secret
+Bard,68,Sleeping Truths Lie
+Bard,70,Sweet Dreams Are Made of Peace
+Bard,80,A Harmony from the Heavens
+Dancer,60,Shall We Dance
+Dancer,60,Gamboling for Gil
+Dancer,63,A Soirée in the Sultanate
+Dancer,65,Dances with Duskwights
+Dancer,68,High-steppin' in the Holy See
+Dancer,70,Save the Last Dance for Me
+Dancer,80,Rising to the Occasion
+Dark Knight,50,Our End
+Dark Knight,30,Ishgardian Justice
+Dark Knight,35,The Voice in the Abyss
+Dark Knight,40,Heroic Reprise
+Dark Knight,45,Declaration of Blood
+Dark Knight,50,Our Answer
+Dark Knight,50,The Wages of Mercy
+Dark Knight,52,The Knight and the Maiden Fair
+Dark Knight,54,Kindred Spirits
+Dark Knight,56,Original Sins
+Dark Knight,58,The Flame in the Abyss
+Dark Knight,60,Absolution
+Dark Knight,60,In Memories We Walked
+Dark Knight,63,The Widow and Her Love
+Dark Knight,65,The Orphans and the Broken Blade
+Dark Knight,68,We Can Never Go Home
+Dark Knight,70,Our Compromise
+Dark Knight,80,Our Closure
+Dragoon,30,Eye of the Dragon
+Dragoon,35,Lance of Fury
+Dragoon,40,Unfading Skies
+Dragoon,45,Double Dragoon
+Dragoon,45,Fatal Seduction
+Dragoon,50,Into the Dragon's Maw
+Dragoon,50,A Relic Reborn (Gae Bolg)
+Dragoon,50,Sky's the Limit
+Dragoon,52,Days of Azure
+Dragoon,52,Heart of Justice
+Dragoon,54,Sworn Upon a Lance
+Dragoon,56,Dragoon's Errand
+Dragoon,58,Sanguine Dragoon
+Dragoon,60,Dragoon's Fate
+Dragoon,60,Friends through Eternity
+Dragoon,63,Drowsy Dragons
+Dragoon,65,Serpent and the Sea of Rubies
+Dragoon,68,Dark as the Night Sky
+Dragoon,70,Dragon Sound
+Dragoon,80,Gone but Not Forgiven
+Gunbreaker,60,The Makings of a Gunbreaker
+Gunbreaker,60,Hired Gunblades
+Gunbreaker,63,For Better or Worse
+Gunbreaker,65,Confessions of a Flaming Mongrel
+Gunbreaker,68,Of Defectors and Defenders
+Gunbreaker,70,Steel against Steel
+Gunbreaker,80,Gunblades of the Patriots
+Machinist,50,Savior of Skysteel
+Machinist,30,Master of Marksmanship
+Machinist,35,Always the Last Place You Look
+Machinist,40,Rook Before You Reap
+Machinist,40,Securing the Locks
+Machinist,45,A Suppressive Strategy
+Machinist,45,Blood on the Sands
+Machinist,50,Rage against the Machinists
+Machinist,50,The Power of a Tourney
+Machinist,50,A Joye-less Celebration
+Machinist,52,Pushing the Brume
+Machinist,54,A Joye-ful Reunion
+Machinist,56,Wheels of Justice
+Machinist,58,Taking the Fall
+Machinist,58,Rusted Steel
+Machinist,60,Rise of the Machinists
+Machinist,60,The Machinists' Choice
+Machinist,63,The Hrunting Heist
+Machinist,65,Release the Hounds
+Machinist,68,"Snouts Down, Tails Up"
+Machinist,70,The Mongrel and the Knight
+Machinist,80,Machinists for the Morrow
+Monk,30,Brother from Another Mother
+Monk,35,Insulted Intelligence
+Monk,40,A Slave to the Aether
+Monk,45,The Pursuit of Power
+Monk,45,Good Vibrations
+Monk,50,Five Easy Pieces
+Monk,50,A Relic Reborn (Sphairai)
+Monk,50,The Legend Continues
+Monk,52,Let's Talk about Sects
+Monk,54,Against the Shadow
+Monk,56,Fight the Battle to Win
+Monk,58,Stop the Senseless Killing
+Monk,60,Appetite for Destruction
+Monk,60,A Fistful of Resolve
+Monk,63,Return of the Monk
+Monk,65,Cross-fist Training
+Monk,68,Choices and Paths
+Monk,70,The Power to Protect
+Monk,80,A Monk's Legacy
+Ninja,30,"Peasants by Day, Ninjas by Night"
+Ninja,30,My First Mudra
+Ninja,35,Killer Combinations
+Ninja,35,Once Upon a Time in Doma
+Ninja,40,Pirates versus Ninjas
+Ninja,40,Ninja Bathin'
+Ninja,45,Tough Guys
+Ninja,45,The Crow Knows
+Ninja,50,Master and Student
+Ninja,50,A Relic Reborn (Yoshimitsu)
+Ninja,50,Strangers in a Strange Land
+Ninja,52,The Impossible Girl
+Ninja,54,Ninja Assassin
+Ninja,56,Medieval Espionage
+Ninja,58,Staying Alive
+Ninja,60,In Her Defense
+Ninja,60,Search for the Stolen Scroll
+Ninja,63,Ninja Bathin' Redux
+Ninja,65,A Game of Life and Death
+Ninja,68,True Enlightenment
+Ninja,70,When Clans Collide
+Ninja,80,Oboro's Big Idea
+Paladin,30,Paladin's Pledge
+Paladin,35,Honor Lost
+Paladin,40,Power Struggles
+Paladin,45,Poisoned Hearts
+Paladin,45,Parley in the Sagolii
+Paladin,50,Keeping the Oath
+Paladin,50,A Relic Reborn (Curtana)
+Paladin,50,An Exemplary Example
+Paladin,52,The Paladin Who Cried Wolf
+Paladin,54,Big Sollerets to Fill
+Paladin,56,Hey Soul Crystal
+Paladin,58,All According to Plan
+Paladin,60,This Little Sword of Mine
+Paladin,60,Tournament of the Century
+Paladin,63,In Thal's Name
+Paladin,65,In Nald's Name
+Paladin,68,Fade to Black Lotus
+Paladin,70,Raising the Sword
+Paladin,80,Worth Fighting For
+Samurai,50,The Way of the Samurai
+Samurai,50,Master Musosai
+Samurai,52,The Sands of Debt
+Samurai,54,Blood on the Deck
+Samurai,56,A Fraudster in the Forest
+Samurai,58,Tears in the Snow
+Samurai,60,The Face of True Evil
+Samurai,60,A Dignified Visitor
+Samurai,63,Trials of the Sekiseigumi
+Samurai,65,Matsuba Mayhem
+Samurai,68,The Hunt for Ugetsu
+Samurai,70,The Battle on Bekko
+Samurai,80,The Legend of Musosai
+Warrior,30,Pride and Duty (Will Take You from the Mountain)
+Warrior,35,Embracing the Beast
+Warrior,40,Curious Gorge Goes to Wineport
+Warrior,45,Looking the Part
+Warrior,45,Proof Is the Pudding
+Warrior,50,How to Quit You
+Warrior,50,A Relic Reborn (Bravura)
+Warrior,50,Better Axe Around
+Warrior,52,Duty and the Beast
+Warrior,54,The Bear Necessity
+Warrior,56,Pirates of Shallow Water
+Warrior,56,How to Train Your Warrior
+Warrior,58,Slap an' Chop
+Warrior,60,And My Axe
+Warrior,60,Curious Gorge Meets His Match
+Warrior,63,Field Training
+Warrior,65,When Push Comes to Shove
+Warrior,68,Going the Distance
+Warrior,70,The Heart of the Problem
+Warrior,80,"Once, Twice, Three Times a Warrior"
+Astrologian,50,Stairway to the Heavens
+Astrologian,30,Fortune Favors the Bole
+Astrologian,35,Hanging in the Balance
+Astrologian,40,A Lesson in Patience
+Astrologian,40,Slings and Arrows
+Astrologian,45,Ewer Right
+Astrologian,50,Loved by the Sun
+Astrologian,50,Spearheading Initiatives
+Astrologian,50,Sharlayan Ascending
+Astrologian,52,Empty Nest
+Astrologian,54,Conviction
+Astrologian,56,Feather in the Cap
+Astrologian,58,Trumped
+Astrologian,60,The Hands of Fate
+Astrologian,60,East Meets West
+Astrologian,63,Ride Like the Wind
+Astrologian,65,Come Rain or Shrine
+Astrologian,68,Behind Door Number Two
+Astrologian,70,Foxfire
+Astrologian,80,"Love, Astrologically"
+Black Mage,30,Taking the Black
+Black Mage,35,You'll Never Go Back
+Black Mage,40,International Relations
+Black Mage,45,The Voidgate Breathes Gloomy
+Black Mage,45,The Blood Must Flow
+Black Mage,50,Always Bet on Black
+Black Mage,50,A Relic Reborn (Stardust Rod)
+Black Mage,50,Black Books
+Black Mage,52,An Unexpected Journey
+Black Mage,54,A Cunning Plan
+Black Mage,56,Black Squawk Down
+Black Mage,58,Destruction in the Name of Justice
+Black Mage,60,The Defiant Ones
+Black Mage,60,Shades of Shatotto
+Black Mage,63,Golems Gone Wild
+Black Mage,65,When the Golems Get Tough
+Black Mage,68,Unnatural Selection
+Black Mage,70,One Golem to Rule Them All
+Black Mage,80,A Home for a Tome
+Blue Mage,50,Out of the Blue
+Blue Mage,1,Blue Leading the Blue
+Blue Mage,10,Blue Collar Work
+Blue Mage,20,Why They Call it the Blues
+Blue Mage,30,Scream Blue Murder
+Blue Mage,40,Blue Gold
+Blue Mage,50,The Real Folk Blues
+Blue Mage,50,Turning Over a Blue Leaf
+Blue Mage,50,Into the Blue Again
+Blue Mage,53,"Something Borrowed, Something Blue"
+Blue Mage,55,Bolt from the Blue
+Blue Mage,58,Blue in the Face
+Blue Mage,60,Blue Scream of Death
+Blue Mage,60,Blue Cheese
+Red Mage,50,Taking the Red
+Red Mage,50,The Crimson Duelist
+Red Mage,52,A Rewarding Struggle
+Red Mage,54,Tracking the Cabal
+Red Mage,56,A Vermilion Vendetta
+Red Mage,58,On Lambard's Trail
+Red Mage,60,Stained in Scarlet
+Red Mage,60,The Color of Her Hair
+Red Mage,63,Traced in Blood
+Red Mage,65,Nightkin
+Red Mage,68,Child of Lilith
+Red Mage,70,With Heart and Steel
+Red Mage,80,Succession of Steel
+Scholar,30,Forgotten but Not Gone
+Scholar,35,The Last Remnants
+Scholar,40,The Consequences of Anger
+Scholar,45,In the Image of the Ancients
+Scholar,45,For Your Fellow Man
+Scholar,50,The Beast Within
+Scholar,50,A Relic Reborn (Omnilex)
+Scholar,50,The Green Death
+Scholar,52,Quarantine
+Scholar,54,False Friends
+Scholar,56,Ooh Rah
+Scholar,58,Unseen
+Scholar,60,"Forward, the Royal Marines"
+Scholar,60,The Vanishing Act
+Scholar,63,A Safe Place to Hide
+Scholar,65,In Loving Memory
+Scholar,68,The Chase
+Scholar,70,Our Unsung Heroes
+Scholar,80,Yes Beauty
+Summoner,30,Austerities of Flame
+Summoner,35,Austerities of Earth
+Summoner,40,Shadowing the Summoner
+Summoner,45,Allagan Attire
+Summoner,45,Austerities of Wind
+Summoner,50,Primal Burdens
+Summoner,50,A Relic Reborn (The Veil of Wiyu)
+Summoner,50,A Fitting Tomestone
+Summoner,52,A Matter of Fact
+Summoner,54,A Miner Negotiation
+Summoner,56,"Mad, Bad, and Ebon-clad"
+Summoner,58,I Could Have Tranced All Night
+Summoner,60,A Flare for the Dramatic
+Summoner,60,A Book with Bite
+Summoner,63,Performing for Prin
+Summoner,65,An Egi-stential Crisis
+Summoner,68,Off the Record
+Summoner,70,An Art for the Living
+Summoner,80,To Be Second Best
+White Mage,30,Seer Folly
+White Mage,35,Only You Can Prevent Forest Ire
+White Mage,40,"O Brother, Where Art Thou"
+White Mage,45,Following in His Footsteps
+White Mage,45,Yearn for the Urn
+White Mage,50,Heart of the Forest
+White Mage,50,A Relic Reborn (Thyrus)
+White Mage,50,Taint Misbehaving
+White Mage,52,A Journey of Purification
+White Mage,54,The Girl with the Dragon Tissue
+White Mage,56,The Dark Blight Writhes
+White Mage,58,In the Wake of Death
+White Mage,58,"Trials of the Padjals "
+White Mage,60,Hands of Healing
+White Mage,60,Unease in East End
+White Mage,63,An Aura for Trouble
+White Mage,65,A Beacon for Bad Things
+White Mage,68,The Problem with Padjals
+White Mage,70,What She Always Wanted
+White Mage,80,Whence the Healing Springs

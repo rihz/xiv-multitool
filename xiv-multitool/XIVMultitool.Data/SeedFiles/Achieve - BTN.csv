@@ -1,0 +1,33 @@
+Group,Name,Points,Description,Reward
+La Noscea,Logging the Hours: La Noscea I,5,Log 20 times from level 1-10 mature trees in La Noscea.
+La Noscea,Logging the Hours: La Noscea II,5,Log 300 times from level 11-20 mature trees in La Noscea.
+La Noscea,Logging the Hours: La Noscea III,5,"Log 1,000 times from level 21-30 mature trees in La Noscea."
+La Noscea,Logging the Hours: La Noscea IV,5,"Log 2,000 times from level 31-40 mature trees in La Noscea."
+La Noscea,Logging the Hours: La Noscea V,5,"Log 4,000 times from level 41-50 mature trees in La Noscea."
+La Noscea,A Botanist's Life for Me: La Noscea,10,"Obtain all five ""Logging the Hours: La Noscea"" achievements.",Title: Meadowreaper
+Black Shroud,Logging the Hours: Black Shroud I,5,Log 20 times from level 1-10 mature trees in the Black Shroud.
+Black Shroud,Logging the Hours: Black Shroud II,5,Log 300 times from level 11-20 mature trees in the Black Shroud.
+Black Shroud,Logging the Hours: Black Shroud III,5,"Log 1,000 times from level 21-30 mature trees in the Black Shroud."
+Black Shroud,Logging the Hours: Black Shroud IV,5,"Log 2,000 times from level 31-40 mature trees in the Black Shroud."
+Black Shroud,Logging the Hours: Black Shroud V,5,"Log 4,000 times from level 41-50 mature trees in the Black Shroud."
+Black Shroud,A Botanist's Life for Me: Black Shroud,10,"Obtain all five ""Logging the Hours: Black Shroud"" achievements.",Title: Forestreaper
+Thanalan,Logging the Hours: Thanalan I,5,Log 20 times from level 1-10 mature trees in Thanalan.
+Thanalan,Logging the Hours: Thanalan II,5,Log 300 times from level 11-20 mature trees in Thanalan.
+Thanalan,Logging the Hours: Thanalan III,5,"Log 1,000 times from level 21-30 mature trees in Thanalan."
+Thanalan,Logging the Hours: Thanalan IV,5,"Log 2,000 times from level 31-40 mature trees in Thanalan."
+Thanalan,Logging the Hours: Thanalan V,5,"Log 4,000 times from level 41-50 mature trees in Thanalan."
+Thanalan,A Botanist's Life for Me: Thanalan,10,"Obtain all five ""Logging the Hours: Thanalan"" achievements.",Title: Desertreaper
+Eorzea,A Botanist's Life for Me: Greater Eorzea,30,"Obtain the ""A Botanist's Life for Me"" achievements for La Noscea, the Black Shroud, and Thanalan.",Item: Axe of the Luminary
+Heavensward,Reaping Heavensward,10,"Gather 5,000 times from level 51-60 mature trees or lush vegetation."
+Stormblood,Reaping Stormblood,10,"Gather 5,000 times from level 61-70 mature trees or lush vegetation."
+Shadowbringers,Reaping Shadowbringers,10,"Gather 5,000 times from level 71-80 mature trees or lush vegetation."
+Unique Items,I Found That: Botanist I,5,Gather 25 unique items as a botanist.
+Unique Items,I Found That: Botanist II,5,Gather 50 unique items as a botanist.
+Unique Items,I Found That: Botanist III,10,Gather 100 unique items as a botanist.,Item: Master Botanist's Ring
+Unique Items,I Found That: Botanist IV,10,Gather 150 unique items as a botanist.
+Unique Items,I Found That: Botanist V,10,Gather and record discovery of 230 unique items as a botanist.,Item: Blessed Fieldkeep's Hatchet
+Unique Items,I Found That: Botanist VI,10,Gather and record discovery of 280 unique items as a botanist.,Item: Blessed Fieldking's Hatchet
+High Quality Items,An Eye for Quality: Botanist I,5,Gather 300 high-quality items as a botanist.
+High Quality Items,An Eye for Quality: Botanist II,5,"Gather 1,500 high-quality items as a botanist."
+High Quality Items,An Eye for Quality: Botanist III,10,"Gather 10,000 high-quality items as a botanist."
+High Quality Items,An Eye for Quality: Botanist IV,10,"Gather 20,000 high-quality items as a botanist.",Title: Master Botanist

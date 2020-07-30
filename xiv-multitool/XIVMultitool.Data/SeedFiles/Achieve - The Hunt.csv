@@ -1,0 +1,54 @@
+Group,Name,Points,Description,Reward
+Rank A,Bring Your A Game I,5,Slay 5 rank A elite marks. 
+Rank A,Bring Your A Game II,5,Slay 30 rank A elite marks. 
+Rank A,Bring Your A Game III,5,Slay 200 rank A elite marks.,Title: Soldier of Fortune 
+Rank A,Straight As,10,Slay 500 rank A elite marks. 
+Rank A,Bring Your A Game IV,10,Slay 1500 rank A elite marks. 
+Rank A,Bring Your A Game V,10,Slay 3000 rank A elite marks.,Title: Of the Longest Hunt 
+Rank A,Bring Your A Game VI,10,Slay 10000 rank A elite marks.,Title: Of the Endless Hunt 
+Rank S,Bring Your S Game I,5,Slay 3 rank S elite marks. 
+Rank S,Bring Your S Game II,5,Slay 20 rank S elite marks. 
+Rank S,Bring Your S Game III,5,Slay 200 rank S elite marks.,Title: Captain of the Hunt 
+Rank S,Straight Ss,10,Slay 500 rank S elite marks. 
+Rank S,Bring Your S Game IV,5,Slay 1000 rank S elite marks. 
+Rank S,Bring Your S Game V,5,Slay 2000 rank S elite marks.,Title: Thrillseeker 
+Rank S,Bring Your S Game VI,5,Slay 5000 rank S elite marks.,Title: Ultimate Thrillseeker 
+Completionist,You Got Game,10,"Obtain the achievements ""Bring Your A Game V"" and ""Bring Your S Game V""",Mount: Centurio Tiger
+Rank B,Bring Your B Game I,5,Slay 10 rank B elite marks. 
+Rank B,Bring Your B Game II,5,Slay 50 rank B elite marks. 
+Rank B,Bring Your B Game III,5,Slay 300 rank B elite marks.,Title: Bounty Hunter 
+Rank B,Straight Bs,10,"Slay 1,000 rank B elite marks." 
+Rank B,Mark of the Holt: B,5,Slay 4 unique rank B elite marks in the Black Shroud. 
+Rank B,Mark of the Desert: B,5,Slay 5 unique rank B elite marks in Thanalan. 
+Rank B,Mark of the Sea: B,5,Slay 6 unique rank B elite marks in La Noscea. 
+Rank B,Mark of the Lake: B,5,Slay 2 unique rank B elite marks in Mor Dhona or Coerthas central highlands. 
+Rank A,Mark of the Holt: A,5,Slay 4 unique rank A elite marks in the Black Shroud. 
+Rank A,Mark of the Desert: A,5,Slay 5 unique rank A elite marks in Thanalan. 
+Rank A,Mark of the Sea: A,5,Slay 6 unique rank A elite marks in La Noscea. 
+Rank A,Mark of the Lake: A,5,Slay 2 unique rank A elite marks in Mor Dhona or Coerthas central highlands. 
+Rank S,Mark of the Holt: S,5,Slay 4 unique rank S elite marks in the Black Shroud. 
+Rank S,Mark of the Desert: S,5,Slay 5 unique rank S elite marks in Thanalan. 
+Rank S,Mark of the Sea: S,5,Slay 6 unique rank S elite marks in La Noscea. 
+Rank S,Mark of the Lake: S,5,Slay 2 unique rank S elite marks in Mor Dhona or Coerthas central highlands. 
+Rank B,Mark of the Dragon: B,5,"Slay 6 unique B rank elite marks in the Dravanian hinterlands, the Dravanian forelands, or the Churning Mists." 
+Rank B,Mark of Cloud and Ice: B,5,"Slay 6 unique B rank elite marks in the Coerthas western highlands, the Sea of Clouds, or Azys Lla." 
+Rank A,Mark of the Dragon: A,5,"Slay 6 unique A rank elite marks in the Dravanian hinterlands, the Dravanian forelands, or the Churning Mists." 
+Rank A,Mark of Cloud and Ice: A,5,"Slay 6 unique A rank elite marks in the Coerthas western highlands, the Sea of Clouds, or Azys Lla." 
+Rank S,Mark of the Dragon: S,5,"Slay 3 unique S rank elite marks in the Dravanian hinterlands, the Dravanian forelands, or the Churning Mists." 
+Rank S,Mark of Cloud and Ice: S,5,"Slay 3 unique S rank elite marks in the Coerthas western highlands, the Sea of Clouds, or Azys Lla." 
+Rank B,Mark of the Wastes: B,5,Slay 6 unique rank B elite marks in Gyr Abania. 
+Rank A,Mark of the Wastes: A,5,Slay 6 unique rank A elite marks in Gyr Abania. 
+Rank S,Mark of the Wastes: S,5,Slay 3 unique rank S elite marks in Gyr Abania. 
+Rank B,Mark of the East: B,5,Slay 6 unique rank B elite marks in Othard. 
+Rank A,Mark of the East: A,5,Slay 6 unique rank A elite marks in Othard. 
+Rank S,Mark of the East: S,5,Slay 3 unique rank S elite marks in Othard. 
+Rank A,On Your Mark: A,10,"Earn the following four achievements: Mark of the Holt: A, Mark of the Desert: A, Mark of the Sea: A, and Mark of the Lake: A.",Title: Seeker of Fortune 
+Rank S,On Your Mark: S,10,"Earn the following four achievements: Mark of the Holt: S, Mark of the Desert: S, Mark of the Sea: S, and Mark of the Lake: S.",Title: Seasoned Tracker 
+Rank B,On Your Mark: B,10,"Earn the following four achievements: Mark of the Holt: B, Mark of the Desert: B, Mark of the Sea: B, and Mark of the Lake: B.",Title: Hunter for Hire 
+Rank A,Shadowbring Your A Game I,10,Slay 100 rank A elite marks in Norvrandt 
+Rank A,Shadowbring Your A Game II,10,Slay 500 rank A elite marks in Norvrandt 
+Rank A,Shadowbring Your A Game III,10,Slay 2000 rank A elite marks in Norvrandt,Title: Charming Brute 
+Rank S,Shadowbring Your S Game I,10,Slay 30 elite marks of rank S or higher in Norvrandt 
+Rank S,Shadowbring Your S Game II,10,Slay 300 elite marks of rank S or higher in Norvrandt 
+Rank S,Shadowbring Your S Game III,10,Slay 1000 elite marks of rank S or higher in Norvrandt,Title: The Fabulously Feral 
+Completionist,Nuts for Nutsy,10,"Obtain the achievements ""Shadowbring Your A Game III"" and ""Shadowbring Your S Game III""",Mount: Triceratops

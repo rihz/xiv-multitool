@@ -1,0 +1,124 @@
+Group,Name,Points,Description,Reward
+Defeat Enemies,To Crush Your Enemies I,5,Defeat 100 enemies.
+Defeat Enemies,To Crush Your Enemies II,5,Defeat 500 enemies.
+Defeat Enemies,To Crush Your Enemies III,10,Defeat 1000 enemies.
+Defeat Enemies,To Crush Your Enemies IV,10,Defeat 5000 enemies.
+Defeat Enemies,To Crush Your Enemies V,10,Defeat 10000 enemies.
+Defeat Enemies,To Crush Your Enemies VI,10,Defeat 50000 enemies.,Title: The Exterminator
+Defeat Enemies,Let the Bodies Hit the Floor,30,Defeat 100000 enemies.
+Defeat Enemies,To Crush Your Enemies VII,30,Defeat 200000 enemies.
+Resurrection,The Kindness of Strangers,5,Resurrect a player who is not in your party or alliance. ,
+Resurrection,The Kindness of Strangers II,10,Resurrect a player who is not in your party or alliance 20 times.
+Resurrection,The Kindness of Strangers III,10,Resurrect a player who is not in your party or alliance 50 times.
+Resurrection,The Kindness of Strangers IV,10,Resurrect a player who is not in your party or alliance 100 times.
+Resurrection,The Kindness of Strangers V,10,Resurrect a player who is not in your party or alliance 200 times.,Title: Good Samaritan 
+Paladin,A Tankless Job I (Paladin),5,Complete 50 high-level full party duties as a paladin.,Title: The Meat Shield 
+Paladin,A Tankless Job II (Paladin),10,Complete 100 high-level full party duties as a paladin.,Title: Of the Stalwart Shield 
+Paladin,But Somebody's Gotta Do It (Paladin),20,Complete 200 high-level full party duties as a paladin.,Mount: Warlion 
+Paladin,"Tank You, Paladin I",5,"Complete 50 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a paladin. *Each roulette only counts with daily award bonus." 
+Paladin,"Tank You, Paladin II",10,"Complete 100 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a paladin. *Each roulette only counts with daily award bonus." 
+Paladin,"Tank You, Paladin III",20,"Complete 300 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a paladin. *Each roulette only counts with daily award bonus.",Mount: Battle Lion
+Paladin,"Tank You, Paladin IV",20,"Complete 500 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a paladin. *Each roulette only counts with daily award bonus.",Title: Of Unyielding Oath  
+Warrior,A Tankless Job I (Warrior),5,Complete 50 high-level full party duties as a warrior.,Title: The Meat Axe 
+Warrior,A Tankless Job II (Warrior),10,Complete 100 high-level full party duties as a warrior.,Title: Of the Stalwart Axe 
+Warrior,But Somebody's Gotta Do It (Warrior),20,Complete 200 high-level full party duties as a warrior.,Mount: Warbear
+Warrior,"Tank You, Warrior I",5,"Complete 50 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a warrior. *Each roulette only counts with daily award bonus." 
+Warrior,"Tank You, Warrior II",10,"Complete 100 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a warrior. *Each roulette only counts with daily award bonus." 
+Warrior,"Tank You, Warrior III",20,"Complete 300 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a warrior. *Each roulette only counts with daily award bonus.",Mount: Battle Bear
+Warrior,"Tank You, Warrior IV",20,"Complete 500 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a warrior. *Each roulette only counts with daily award bonus.",Title: Of Unyielding Steel  
+Dark Knight,A Tankless Job I (Dark Knight),5,Complete 50 high-level full party duties as a dark knight.,Title: Dark Driver 
+Dark Knight,A Tankless Job II (Dark Knight),10,Complete 100 high-level full party duties as a dark knight.,Title: Of the Stalwart Sword 
+Dark Knight,But Somebody's Gotta Do It (Dark Knight),20,Complete 200 high-level full party duties as a dark knight.,Mount: Warpanther
+Dark Knight,"Tank You, Dark Knight I",5,"Complete 50 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a dark knight. *Each roulette only counts with daily award bonus." 
+Dark Knight,"Tank You, Dark Knight II",10,"Complete 100 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a dark knight. *Each roulette only counts with daily award bonus." 
+Dark Knight,"Tank You, Dark Knight III",20,"Complete 300 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a dark knight. *Each roulette only counts with daily award bonus.",Mount: Battle Panther
+Dark Knight,"Tank You, Dark Knight IV",20,"Complete 500 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a dark knight. *Each roulette only counts with daily award bonus.",Title: Of Unyielding Principle  
+Gunbreaker,"Tank You, Gunbreaker I",5,"Complete 50 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a gunbreaker. *Each roulette only counts with daily award bonus." 
+Gunbreaker,"Tank You, Gunbreaker II",10,"Complete 100 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a gunbreaker. *Each roulette only counts with daily award bonus.",Mount: Sabertooth Tiger
+Gunbreaker,"Tank You, Gunbreaker III",20,"Complete 300 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a gunbreaker. *Each roulette only counts with daily award bonus.",Mount: Battle Tiger
+Gunbreaker,"Tank You, Gunbreaker IV",20,"Complete 500 dungeons (lv. 61 and above), extreme trials (lv. 61 and above). level 50/60 duty roulette dungeons, or duty roulette duties as a gunbreaker. *Each roulette only counts with daily award bonus.",Title: Of Unyielding Lealty  
+FATE Ratings,Locking Horns,10,"Successfully complete the FATE ""He Taketh It with His Eyes"" with the highest rating possible." 
+FATE Ratings,Uncut,10,"Successfully complete the FATE ""Steel Reign"" with the highest rating possible." 
+FATE Ratings,When the Going Gets Tough,10,"Successfully complete the FATE ""Go, Go, Gorgimera"" with the highest rating possible." 
+FATE Ratings,On the Ropes,10,"Successfully complete the FATE ""The Eyes Have It"" with the highest rating possible." 
+FATE Ratings,Full Remission,10,"Successfully complete the FATE ""It's Not Lupus"" with the highest rating possible." 
+FATE Ratings,Lazy Town,10,"Successfully complete the FATE ""Lazy for You"" with the highest rating possible." 
+FATE Ratings,"Blood, Sweat, and Blood",10,"Successfully complete the FATE ""Dark Devices - The End"" with the highest rating possible." 
+FATE Ratings,Ring of Fire,10,"Successfully complete either the FATE ""Svara's Fall"" or ""Svara's Fury"" with the highest rating possible." 
+FATE Ratings,Boughbury Burning,10,"Successfully complete the FATE ""Clearing the Hive,"" ""Defending the Hive,"" or ""Keeping the Hive"" with the highest rating possible." 
+FATE Ratings,Curtain Call,10,"Successfully complete the FATE ""Attack on Highbridge: Act III"" with the highest rating possible." 
+FATE Ratings,Old Maid,10,"Successfully complete the FATE ""Poor Maid's Misfortune"" with the highest rating possible." 
+FATE Ratings,"Short-lived, the Queen",10,"Successfully complete the FATE ""Coeurls Chase Boys Chase Coeurls"" with the highest rating possible." 
+FATE Ratings,A Worthy Adversary,10,"Successfully complete the FATE ""Vedrfolnir Devoteth"" with the highest rating possible." 
+FATE Ratings,A Day at the Dzu,10,"Successfully complete the FATE ""We Fought a Dzu"" with the highest rating possible." 
+FATE Ratings,Falling Down,10,"Successfully complete the FATE ""Special Tarasque Force"" with the highest rating possible." 
+FATE Ratings,Neverlasting Gobstopper,10,"Successfully complete the FATE ""Metal Gears Revengeance 2"" with the highest rating possible." 
+FATE Ratings,Tipping the Scales,10,"Successfully complete the FATE ""Darkscale Devoureth"" with the highest rating possible." 
+FATE Ratings,Fantasy Islet,10,"Successfully complete the FATE ""On Dangerous Ground"" with the highest rating possible." 
+FATE Ratings,Superseed,10,"Successfully complete the FATE ""The Evil Seed"" with the highest rating possible." 
+FATE Ratings,What You're Looking For,10,"Successfully complete the FATE ""Rattle and Humbaba"" with the highest rating possible." 
+FATE Ratings,Slay Me a Mountain,10,"Successfully complete the FATE ""Tall Tale"" with the highest rating possible." 
+FATE Ratings,"Shucked, not Stirred",10,"Successfully complete the FATE ""Never Say Daimyo"" with the highest rating possible." 
+FATE Ratings,Maru Five,10,"Successfully complete the FATE ""Curiosity Killed the Catfish"" with the highest rating possible." 
+FATE Ratings,Tusk,10,"Successfully complete the FATE ""Wham, Bam, Thank You, Mammoth"" with the highest rating possible." 
+FATE Ratings,"Naughty Girls Need Love, As Well",10,"Successfully complete the FATE ""Foxy Lady"" with the highest rating possible." 
+FATE Ratings,Ride On,10,"Successfully complete the FATE ""A Horse Outside"" with the highest rating possible." 
+FATE Ratings,Dataq Is Cheap,10,"Successfully complete the FATE ""The Dataqi Chronicles: Dominion"" with the highest rating possible." 
+FATE Ratings,Not Today,10,"Successfully complete the FATE ""Deadly Nightshade"" with the highest rating possible." 
+FATE Ratings,Stay Thy Blade,10,"Successfully complete the FATE ""The Elderblade"" with the highest rating possible." 
+FATE Ratings,Mischief Managed,10,"Successfully complete the FATE ""Fuath to Be Reckoned With"" with the highest rating possible." 
+FATE Ratings,"Unbowed, Unbent, Unbroken",10,"Successfully complete the FATE ""Tojil Eclipse"" with the highest rating possible." 
+FATE Ratings,Be Still My (Automatic) Heart,10,"Successfully complete the FATE ""A Finale Most Formidable"" with the highest rating possible." 
+FATE Ratings,"Another World, Another Turn",10,"Successfully complete the FATE ""The Head, the Tail, the Whole Damned Thing"" with the highest rating possible." 
+Completing FATEs,Date With Destiny I,5,Successfully complete 10 FATEs. 
+Completing FATEs,Date With Destiny II,5,Successfully complete 100 FATEs. 
+Completing FATEs,Date With Destiny III,10,Successfully complete 300 FATEs. 
+Completing FATEs,Date With Destiny IV,10,"Successfully complete 1,000 FATEs.",Title: Tempter/Temptress of Fate 
+Completing FATEs,Destiny's Child,20,"Successfully complete 3,000 FATEs.",Item: Paragon's Gown 
+Completing FATEs,Date With Destiny V,20,"Successfully complete 5,000 FATEs." 
+Completing FATEs,Date With Destiny VI,20,"Successfully complete 10,000 FATEs.",Title: The Fortunate 
+Shared FATE,Free Market Friend: Lakeland,10,Achieve shared FATE rank 3 in Lakeland. 
+Shared FATE,Free Market Friend: Kholusia,10,Achieve shared FATE rank 3 in Kholusia. 
+Shared FATE,Free Market Friend: Amh Araeng,10,Achieve shared FATE rank 3 in Amh Araeng. 
+Shared FATE,Free Market Friend: Il Mheg,10,Achieve shared FATE rank 3 in Il Mheg. 
+Shared FATE,Free Market Friend: The Rak'tika Greatwood,10,Achieve shared FATE rank 3 in the Rak'tika Greatwood. 
+Shared FATE,Free Market Friend: The Tempest,10,Achieve shared FATE rank 3 in The Tempest. 
+Shared FATE,Merchant's Best Friend,20,"Obtain ""Free Market Friend"" achievements for all six regions in Norvrandt.",Title: The Invisible Hand 
+Companion,Bosom Buddies I,5,See your companion chocobo to rank 1. 
+Companion,Bosom Buddies II,10,See your companion chocobo to rank 5. 
+Companion,Bosom Buddies III,20,See your companion chocobo to rank 10.,Item: Chocobo Suit 
+Hunting Log,Bump on a Log: Gladiator,20,Complete all gladiator entries in the hunting log.,Item: Master Gladiator's Ring 
+Hunting Log,Bump on a Log: Pugilist,20,Complete all pugilist entries in the hunting log.,Item: Master Pugilist's Ring 
+Hunting Log,Bump on a Log: Marauder,20,Complete all marauder entries in the hunting log.,Item: Master Marauder's Ring 
+Hunting Log,Bump on a Log: Lancer,20,Complete all lancer entries in the hunting log.,Item: Master Lancer's Ring 
+Hunting Log,Bump on a Log: Archer,20,Complete all archer entries in the hunting log.,Item: Master Archer's Ring 
+Hunting Log,Bump on a Log: Rogue,20,Complete all rogue entries in the hunting log.,Item: Master Rogue's Ring 
+Hunting Log,Bump on a Log: Conjurer,20,Complete all conjurer entries in the hunting log.,Item: Master Conjuror's Ring 
+Hunting Log,Bump on a Log: Thaumaturge,20,Complete all thaumaturge entries in the hunting log.,Item: Master Thaumaturge's Ring 
+Hunting Log,Bump on a Log: Arcanist,20,Complete all arcanist entries in the hunting log.,Item: Master Arcanist's Ring 
+Blue Mage,Jack of All Trades I,5,Complete 5 types of routine mission in the Blue Mage Log. 
+Blue Mage,Jack of All Trades II,5,Complete 20 types of routine mission in the Blue Mage Log. 
+Blue Mage,Jack of All Trades III,5,Complete 50 types of routine mission in the Blue Mage Log.,Title: Blue Luminary 
+Blue Mage,Mightier than the Inferno,5,"Complete the Bowl of Embers (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mighter than the Crag,5,"Complete the Navel (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Vortex,5,"Complete the Howling Eye (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the King,5,"Complete Thornmarch (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Whorl,5,"Complete the Whorleater (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Levin,5,"Complete the Striking Tree (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Frost,5,"Complete the Akh Afah Amphitheatre (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Dragon,5,"Complete the Binding Coil of Bahamut - Turn 5 with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Raven,5,"Complete the Second Coil of Bahamut - Turn 4 with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Dreadwyrm,5,"Complete the Final Coil of Bahamut - Turn 4 with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Hive,5,"Complete Thok ast Thok (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Expanse,5,"Complete the Limitless Blue (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Round,5,"Complete the Minstrel's Ballad: Thordan's Reign with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off.",Title: Masked of the Round 
+Blue Mage,Mightier than the Fiend,5,"Complete Containment Bay S1T7 (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Horde,5,"Complete the Minstrel's Ballad: Nidhogg's Rage with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Goddess,5,"Complete Containment Bay P1T6 (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Demon,5,"Complete Containment Bay Z1T9 (Extreme) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Manipulator,5,"Complete Alexander - The Burden of the Father (Savage) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than Justice,5,"Complete Alexander - The Burden of the Son (Savage) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Mightier than the Prime,5,"Complete Alexander - The Soul of the Creator (Savage) with a party of only blue mages, Silence Echo turned on, and Undersized Party turned off." 
+Blue Mage,Blue Unchained,10,"Obtain the achievements ""Mightier than the Dragon,"" ""Mightier than the Raven,"" and ""Mightier than the Dreadwyrm.""",Title: Unbound Blue 
+Blue Mage,Masked Conqueror,10,"Obtain the achievements ""Mightier than the Manipulator,"" ""Mightier than Justice,"" and ""Mightier than the Prime.""",Title: Blue Justice 
+Blue Mage,True Blue,10,"Obtain the achievements ""Blue Unchained"" and ""Masked Conqueror""",Mount: Morbol

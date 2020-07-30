@@ -1,0 +1,20 @@
+<div class="category-panel">
+    <mat-card class="category-card" (click)="selectCategory(category)">
+        <div class="name">
+            <h2>
+                {{ category.name }}
+            </h2>
+        </div>
+        <div class="stats">
+            <div class="total-completed">
+                <span class="completed">{{ completed }}</span>
+                <span class="total">/{{ total }}</span>
+            </div>
+            <div class="completed-percent">
+                <span class="percent">
+                    {{ (completed / total) * 100 }}%
+                </span>
+            </div>
+        </div>
+    </mat-card>
+</div>

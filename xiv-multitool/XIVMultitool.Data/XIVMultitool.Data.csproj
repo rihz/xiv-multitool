@@ -1,0 +1,665 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200216061236_Seed1.cs" />
+    <Compile Remove="Migrations\20200216062557_Seed2.cs" />
+    <Compile Remove="Migrations\20200216063030_Seed1.cs" />
+    <Compile Remove="Migrations\20200217175926_AchievementTaskSeed.cs" />
+    <Compile Remove="Migrations\20200217193501_AchievementTaskSeed.cs" />
+    <Compile Remove="Migrations\20200226205421_BLUSeed.cs" />
+    <Compile Remove="Migrations\20200423194904_CraftingLogTasks.cs" />
+    <Compile Remove="Migrations\20200426214631_FATETasks.cs" />
+    <Compile Remove="Migrations\20200428041122_FishGuideTasks.cs" />
+    <Compile Remove="Migrations\20200428041122_FishGuideTasks.Designer.cs" />
+    <Compile Remove="Migrations\20200503044518_GatheringLogTasks.cs" />
+    <Compile Remove="Migrations\20200429041820_FishGuideTasks.cs" />
+    <Compile Remove="Migrations\20200429041820_FishGuideTasks.Designer.cs" />
+    <Compile Remove="Migrations\20200429043613_FishGuideTasks.cs" />
+    <Compile Remove="Migrations\20200429043613_FishGuideTasks.Designer.cs" />
+    <Compile Remove="Migrations\20200430043209_FishGuideTasks.cs" />
+    <Compile Remove="Migrations\20200430043209_FishGuideTasks.Designer.cs" />
+    <Compile Remove="Migrations\20200505011313_FATEs_Gathering.cs" />
+    <Compile Remove="Migrations\20200606222205_PvETasks.cs" />
+    <Compile Remove="Migrations\20200607035111_PvEContent.cs" />
+    <Compile Remove="Migrations\20200614190910_PvETasks.cs" />
+    <Compile Remove="Migrations\20200624043102_ClassQuestsTasks.cs" />
+    <Compile Remove="Migrations\20200624043102_ClassQuestsTasks.Designer.cs" />
+    <Compile Remove="Migrations\20200624043606_ClassQuestsTasks.cs" />
+    <Compile Remove="Migrations\20200624043606_ClassQuestsTasks.Designer.cs" />
+    <Compile Remove="Migrations\20200624043945_ClassQuestsTasks.cs" />
+    <Compile Remove="Migrations\20200624043945_ClassQuestsTasks.Designer.cs" />
+    <Compile Remove="Migrations\20200624044606_ClassQuestsTasks.cs" />
+    <Compile Remove="Migrations\20200624044606_ClassQuestsTasks.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="SeedFiles\Achieve - Abalathia.csv" />
+    <None Remove="SeedFiles\Achieve - ALC.csv" />
+    <None Remove="SeedFiles\Achieve - Anima.csv" />
+    <None Remove="SeedFiles\Achieve - ARM.csv" />
+    <None Remove="SeedFiles\Achieve - Battle.csv" />
+    <None Remove="SeedFiles\Achieve - Beast Tribe.csv" />
+    <None Remove="SeedFiles\Achieve - Black Shroud.csv" />
+    <None Remove="SeedFiles\Achieve - BSM.csv" />
+    <None Remove="SeedFiles\Achieve - BTN.csv" />
+    <None Remove="SeedFiles\Achieve - Character.csv" />
+    <None Remove="SeedFiles\Achieve - Coerthas.csv" />
+    <None Remove="SeedFiles\Achieve - Collectibles.csv" />
+    <None Remove="SeedFiles\Achieve - Commendation.csv" />
+    <None Remove="SeedFiles\Achieve - CRP.csv" />
+    <None Remove="SeedFiles\Achieve - CUL.csv" />
+    <None Remove="SeedFiles\Achieve - Currency.csv" />
+    <None Remove="SeedFiles\Achieve - Deep Dungeon.csv" />
+    <None Remove="SeedFiles\Achieve - Desynthesis.csv" />
+    <None Remove="SeedFiles\Achieve - DoH.csv" />
+    <None Remove="SeedFiles\Achieve - DoL.csv" />
+    <None Remove="SeedFiles\Achieve - DoM.csv" />
+    <None Remove="SeedFiles\Achieve - DoW.csv" />
+    <None Remove="SeedFiles\Achieve - Dravania.csv" />
+    <None Remove="SeedFiles\Achieve - Dungeons.csv" />
+    <None Remove="SeedFiles\Achieve - Duty.csv" />
+    <None Remove="SeedFiles\Achieve - Eureka.csv" />
+    <None Remove="SeedFiles\Achieve - Frontline.csv" />
+    <None Remove="SeedFiles\Achieve - FSH.csv" />
+    <None Remove="SeedFiles\Achieve - GC.csv" />
+    <None Remove="SeedFiles\Achieve - Gold Saucer.csv" />
+    <None Remove="SeedFiles\Achieve - GSM.csv" />
+    <None Remove="SeedFiles\Achieve - Gyr Abania.csv" />
+    <None Remove="SeedFiles\Achieve - Immortal Flames.csv" />
+    <None Remove="SeedFiles\Achieve - Item.csv" />
+    <None Remove="SeedFiles\Achieve - La Noscea.csv" />
+    <None Remove="SeedFiles\Achieve - Levequests.csv" />
+    <None Remove="SeedFiles\Achieve - LTW.csv" />
+    <None Remove="SeedFiles\Achieve - Maelstrom.csv" />
+    <None Remove="SeedFiles\Achieve - Materia.csv" />
+    <None Remove="SeedFiles\Achieve - MIN.csv" />
+    <None Remove="SeedFiles\Achieve - Mor Dhona.csv" />
+    <None Remove="SeedFiles\Achieve - Norvrandt.csv" />
+    <None Remove="SeedFiles\Achieve - Othard.csv" />
+    <None Remove="SeedFiles\Achieve - PvP.csv" />
+    <None Remove="SeedFiles\Achieve - Quest.csv" />
+    <None Remove="SeedFiles\Achieve - Raids.csv" />
+    <None Remove="SeedFiles\Achieve - Rankings.csv" />
+    <None Remove="SeedFiles\Achieve - Relic.csv" />
+    <None Remove="SeedFiles\Achieve - Rival Wings.csv" />
+    <None Remove="SeedFiles\Achieve - Sightseeing.csv" />
+    <None Remove="SeedFiles\Achieve - Thanalan.csv" />
+    <None Remove="SeedFiles\Achieve - The Hunt.csv" />
+    <None Remove="SeedFiles\Achieve - Treasure Hunt.csv" />
+    <None Remove="SeedFiles\Achieve - Trials.csv" />
+    <None Remove="SeedFiles\Achieve - Twin Adder.csv" />
+    <None Remove="SeedFiles\Achieve - Wolves Den.csv" />
+    <None Remove="SeedFiles\Achieve - WVR.csv" />
+    <None Remove="SeedFiles\Achieve - Zodiac.csv" />
+    <None Remove="SeedFiles\BLU - Log.csv" />
+    <None Remove="SeedFiles\BLU - Masked Carnivale.csv" />
+    <None Remove="SeedFiles\BLU - Spellbook.csv" />
+    <None Remove="SeedFiles\Collections - Aesthetics.csv" />
+    <None Remove="SeedFiles\Collections - Bardings.csv" />
+    <None Remove="SeedFiles\Collections - Emotes.csv" />
+    <None Remove="SeedFiles\Collections - Minions.csv" />
+    <None Remove="SeedFiles\Collections - Mounts.csv" />
+    <None Remove="SeedFiles\Collections - Relic Weapons - Anima.csv" />
+    <None Remove="SeedFiles\Collections - Relic Weapons - Eurekan.csv" />
+    <None Remove="SeedFiles\Collections - Relic Weapons - Zodiac.csv" />
+    <None Remove="SeedFiles\Crafting Logs - ALC.csv" />
+    <None Remove="SeedFiles\Crafting Logs - ARM.csv" />
+    <None Remove="SeedFiles\Crafting Logs - BSM.csv" />
+    <None Remove="SeedFiles\Crafting Logs - CRP.csv" />
+    <None Remove="SeedFiles\Crafting Logs - CUL.csv" />
+    <None Remove="SeedFiles\Crafting Logs - GSM.csv" />
+    <None Remove="SeedFiles\Crafting Logs - LTW.csv" />
+    <None Remove="SeedFiles\Crafting Logs - Shared.csv" />
+    <None Remove="SeedFiles\Crafting Logs - WVR.csv" />
+    <None Remove="SeedFiles\FATEs - Abalathia.csv" />
+    <None Remove="SeedFiles\FATEs - Black Shroud.csv" />
+    <None Remove="SeedFiles\FATEs - Coerthas.csv" />
+    <None Remove="SeedFiles\FATEs - Dravania.csv" />
+    <None Remove="SeedFiles\FATEs - Eureka.csv" />
+    <None Remove="SeedFiles\FATEs - Gyr Abania.csv" />
+    <None Remove="SeedFiles\FATEs - La Noscea.csv" />
+    <None Remove="SeedFiles\FATEs - Mor Dhona.csv" />
+    <None Remove="SeedFiles\FATEs - Norvrandt.csv" />
+    <None Remove="SeedFiles\FATEs - Othard.csv" />
+    <None Remove="SeedFiles\FATEs - Thanalan.csv" />
+    <None Remove="SeedFiles\FATEs - The Diadem.csv" />
+    <None Remove="SeedFiles\Gathering Logs - Fish Guide.csv" />
+    <None Remove="SeedFiles\Gathering Logs - FSH.csv" />
+    <None Remove="SeedFiles\Gathering Logs - Harvesting.csv" />
+    <None Remove="SeedFiles\Gathering Logs - Logging.csv" />
+    <None Remove="SeedFiles\Gathering Logs - Mining.csv" />
+    <None Remove="SeedFiles\Gathering Logs - Quarrying.csv" />
+    <None Remove="SeedFiles\Hunt - ARR.csv" />
+    <None Remove="SeedFiles\Hunt - HW.csv" />
+    <None Remove="SeedFiles\Hunt - SB.csv" />
+    <None Remove="SeedFiles\Hunt - ShB.csv" />
+    <None Remove="SeedFiles\Leves - Battlecraft.csv" />
+    <None Remove="SeedFiles\Leves - Fieldcraft.csv" />
+    <None Remove="SeedFiles\Leves - Tradecraft.csv" />
+    <None Remove="SeedFiles\Logs - Hunting.csv" />
+    <None Remove="SeedFiles\Logs - Sightseeing.csv" />
+    <None Remove="SeedFiles\MSQ - Dragonsong War.csv" />
+    <None Remove="SeedFiles\MSQ - Heavensward.csv" />
+    <None Remove="SeedFiles\MSQ - Legend Returns.csv" />
+    <None Remove="SeedFiles\MSQ - Post-Shadowbringers.csv" />
+    <None Remove="SeedFiles\MSQ - Seventh Astral.csv" />
+    <None Remove="SeedFiles\MSQ - Seventh Umbral.csv" />
+    <None Remove="SeedFiles\MSQ - Shadowbringers.csv" />
+    <None Remove="SeedFiles\MSQ - Stormblood.csv" />
+    <None Remove="SeedFiles\Orchestrion - Dungeons.csv" />
+    <None Remove="SeedFiles\Orchestrion - Locales.csv" />
+    <None Remove="SeedFiles\Orchestrion - Mog Station.csv" />
+    <None Remove="SeedFiles\Orchestrion - Others.csv" />
+    <None Remove="SeedFiles\Orchestrion - Raids.csv" />
+    <None Remove="SeedFiles\Orchestrion - Seasonal.csv" />
+    <None Remove="SeedFiles\Orchestrion - Trials.csv" />
+    <None Remove="SeedFiles\PvE - Dungeons.csv" />
+    <None Remove="SeedFiles\PvE - Guildhests.csv" />
+    <None Remove="SeedFiles\PvE - Raids.csv" />
+    <None Remove="SeedFiles\PvE - Trials.csv" />
+    <None Remove="SeedFiles\SQ - Abalathia.csv" />
+    <None Remove="SeedFiles\SQ - Amh Araeng.csv" />
+    <None Remove="SeedFiles\SQ - Beast Tribe.csv" />
+    <None Remove="SeedFiles\SQ - Black Shroud.csv" />
+    <None Remove="SeedFiles\SQ - Chronicles of a New Era.csv" />
+    <None Remove="SeedFiles\SQ - Class Quests.csv" />
+    <None Remove="SeedFiles\SQ - Coerthas.csv" />
+    <None Remove="SeedFiles\SQ - Crystalline Mean.csv" />
+    <None Remove="SeedFiles\SQ - Dravania.csv" />
+    <None Remove="SeedFiles\SQ - GC.csv" />
+    <None Remove="SeedFiles\SQ - Gyr Abania.csv" />
+    <None Remove="SeedFiles\SQ - Il Mheg.csv" />
+    <None Remove="SeedFiles\SQ - Ishgard.csv" />
+    <None Remove="SeedFiles\SQ - Job Quests.csv" />
+    <None Remove="SeedFiles\SQ - Kholusia.csv" />
+    <None Remove="SeedFiles\SQ - Kugane.csv" />
+    <None Remove="SeedFiles\SQ - La Noscea.csv" />
+    <None Remove="SeedFiles\SQ - Lakeland.csv" />
+    <None Remove="SeedFiles\SQ - Mor Dhona.csv" />
+    <None Remove="SeedFiles\SQ - Othard.csv" />
+    <None Remove="SeedFiles\SQ - Raktika.csv" />
+    <None Remove="SeedFiles\SQ - Role Quests.csv" />
+    <None Remove="SeedFiles\SQ - Side Story.csv" />
+    <None Remove="SeedFiles\SQ - Tempest.csv" />
+    <None Remove="SeedFiles\SQ - Thanalan.csv" />
+    <None Remove="SeedFiles\SQ - Weapon Quests.csv" />
+    <None Remove="SeedFiles\Triple Triad - Card.csv" />
+    <None Remove="SeedFiles\Triple Triad - Opponents.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="SeedFiles\Achieve - Abalathia.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - ALC.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Anima.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - ARM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Battle.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Beast Tribe.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Black Shroud.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - BSM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - BTN.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Character.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Coerthas.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Collectibles.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Commendation.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - CRP.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - CUL.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Currency.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Deep Dungeon.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Desynthesis.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - DoH.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - DoL.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - DoM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - DoW.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Dravania.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Dungeons.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Duty.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Eureka.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Frontline.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - FSH.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - GC.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Gold Saucer.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - GSM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Gyr Abania.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Immortal Flames.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Item.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - La Noscea.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Levequests.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - LTW.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Maelstrom.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Materia.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - MIN.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Mor Dhona.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Norvrandt.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Othard.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - PvP.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Quest.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Raids.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Rankings.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Relic.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Rival Wings.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Sightseeing.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Thanalan.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - The Hunt.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Treasure Hunt.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Trials.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Twin Adder.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Wolves Den.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - WVR.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Achieve - Zodiac.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\BLU - Log.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\BLU - Masked Carnivale.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\BLU - Spellbook.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Aesthetics.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Bardings.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Emotes.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Minions.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Mounts.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Relic Weapons - Anima.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Relic Weapons - Eurekan.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Collections - Relic Weapons - Zodiac.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - ALC.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - ARM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - BSM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - CRP.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - CUL.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - GSM.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - LTW.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - Shared.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Crafting Logs - WVR.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Abalathia.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Black Shroud.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Coerthas.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Dravania.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Eureka.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Gyr Abania.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - La Noscea.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Mor Dhona.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Norvrandt.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Othard.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - Thanalan.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\FATEs - The Diadem.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Gathering Logs - Fish Guide.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Gathering Logs - FSH.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Gathering Logs - Harvesting.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Gathering Logs - Logging.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Gathering Logs - Mining.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Gathering Logs - Quarrying.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Hunt - ARR.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Hunt - HW.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Hunt - SB.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Hunt - ShB.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Leves - Battlecraft.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Leves - Fieldcraft.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Leves - Tradecraft.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Logs - Hunting.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Logs - Sightseeing.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Dragonsong War.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Heavensward.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Legend Returns.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Post-Shadowbringers.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Seventh Astral.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Seventh Umbral.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Shadowbringers.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\MSQ - Stormblood.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Orchestrion - Dungeons.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Orchestrion - Locales.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Orchestrion - Mog Station.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Orchestrion - Others.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Orchestrion - Raids.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Orchestrion - Seasonal.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Orchestrion - Trials.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\PvE - Dungeons.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\PvE - Guildhests.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\PvE - Raids.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\PvE - Trials.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Abalathia.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Amh Araeng.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Beast Tribe.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Black Shroud.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Chronicles of a New Era.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Class Quests.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Coerthas.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Crystalline Mean.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Dravania.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - GC.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Gyr Abania.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Il Mheg.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Ishgard.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Job Quests.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Kholusia.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Kugane.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - La Noscea.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Lakeland.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Mor Dhona.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Othard.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Raktika.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Role Quests.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Side Story.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Tempest.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\SQ - Thanalan.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Triple Triad - Card.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeedFiles\Triple Triad - Opponents.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="15.0.0" />
+    <PackageReference Include="EPPlus" Version="4.5.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XIVMultitool.Entities\XIVMultitool.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.identity.entityframeworkcore\2.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

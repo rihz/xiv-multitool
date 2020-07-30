@@ -1,0 +1,54 @@
+Group,Name,Points,Description,Reward
+Instances,Dungeon Siege I,5,"Complete 10 instanced dungeon, raids, or trials." 
+Instances,Dungeon Siege II,5,"Complete 30 instanced dungeon, raids, or trials." 
+Instances,Dungeon Siege III,5,"Complete 100 instanced dungeon, raids, or trials." 
+Instances,Dungeon Siege IV,10,"Complete 300 instanced dungeon, raids, or trials.",Title: Dungeon Master 
+Instances,Dungeon Master,20,"Complete 1,000 instanced dungeon, raids, or trials." 
+Instances,Lifer I,20,"Complete 2,000 instanced dungeon, raids, or trials." 
+Instances,Lifer II,20,"Complete 5,000 instanced dungeon, raids, or trials." 
+Instances,Lifer III,20,"Complete 10,000 instanced dungeon, raids, or trials." 
+Unique Instances,To the Dungeons I,5,"Successfully complete 5 unique instanced dungeon, raids, or trials." 
+Unique Instances,To the Dungeons II,10,"Successfully complete 10 unique instanced dungeon, raids, or trials." 
+Unique Instances,To the Dungeons III,20,"Successfully complete 20 unique instanced dungeon, raids, or trials." 
+Unique Instances,To the Dungeons IV,20,"Successfully complete 30 unique instanced dungeon, raids, or trials." 
+Unique Instances,To the Dungeons V,20,"Successfully complete 40 unique instanced dungeon, raids, or trials." 
+Unique Instances,To the Dungeons VI,20,"Successfully complete 50 unique instanced dungeon, raids, or trials." 
+Palace of the Dead,In Too Deep I,5,Clear the 10th floor of Palace of the Dead. 
+Palace of the Dead,In Too Deep II,5,Clear the 20th floor of Palace of the Dead. 
+Palace of the Dead,In Too Deep III,5,Clear the 30th floor of Palace of the Dead. 
+Palace of the Dead,In Too Deep IV,5,Clear the 40th floor of Palace of the Dead. 
+Palace of the Dead,In Too Deep V,10,Clear the 50th floor of Palace of the Dead. 
+Palace of the Dead,In Too Deep VI,10,Clear the 100th floor of Palace of the Dead.,Title: Hero of Gelmorra 
+Palace of the Dead,In Too Deep VII,10,Clear the 150th floor of Palace of the Dead. 
+Palace of the Dead,In Too Deep VIII,20,Clear the 200th floor of Palace of the Dead. 
+Palace of the Dead,Pal-less Palace I,10,Clear the 1st through the 50th floors of the Palace of the Dead solo. 
+Palace of the Dead,Pal-less Palace II,10,Clear the 1st through the 100th floors of the Palace of the Dead solo.,Title: Lonely Explorer 
+Palace of the Dead,Pal-less Palace III,20,Clear the 1st through the 200th floors of the Palace of the Dead solo.,Title: The Necromancer 
+Heaven-on-High,She's So High I,5,Clear the 10th floor of Heaven-on-High. 
+Heaven-on-High,She's So High II,5,Clear the 20th floor of Heaven-on-High. 
+Heaven-on-High,She's So High III,5,Clear the 30th floor of Heaven-on-High.,Title: Hiruko Hunter 
+Heaven-on-High,She's So High IV,10,Clear the 40th floor of Heaven-on-High. 
+Heaven-on-High,She's So High V,10,Clear the 100th floor of Heaven-on-High.,Title: Heavenly Gate Crasher 
+Heaven-on-High,Heaven is a Lonely Place I,10,Clear the 1st through the 50th floors of Heaven on High solo.
+Heaven-on-High,Heaven is a Lonely Place II,10,Clear the 1st through the 100th floors of Heaven on High solo.,Title: Lone Hero 
+Accursed Hoard,For the Hoard I,5,Discover a piece of the Accursed Hoard. 
+Accursed Hoard,For the Hoard II,5,Discover 100 pieces of the Accursed Hoard. 
+Accursed Hoard,For the Hoard III,10,"Discover 1,000 pieces of the Accursed Hoard.",Title: The Lucky 
+Accursed Hoard,For the Hoard IV,20,"Discover 5,000 pieces of the Accursed Hoard." 
+Accursed Hoard,For the Hoard V,20,"Discover 10,000 pieces of the Accursed Hoard.",Title: Hoarder 
+Accursed Hoard,The Trouble with Buried I,10,Discover a piece of the Accursed Hoard without using a pomander of intuition. 
+Accursed Hoard,The Trouble with Buried II,20,Discover 100 pieces of the Accursed Hoard without using a pomander of intuition.,Title: Of the Sixth Sense 
+Masked Carnivale,Smokin' I,5,Complete a single stage at the Masked Carnivale. 
+Masked Carnivale,Smokin' II,5,Complete 5 stages at the Masked Carnivale. 
+Masked Carnivale,Smokin' III,5,Complete 10 stages at the Masked Carnivale. 
+Masked Carnivale,Smokin' IV,5,Complete 15 stages at the Masked Carnivale. 
+Masked Carnivale,Smokin' V,5,Complete 20 stages at the Masked Carnivale. 
+Masked Carnivale,Smokin' VI,5,Complete 25 stages at the Masked Carnivale.,Title: Mask of the Blue 
+Masked Carnivale,Smokin' VII,5,Complete 30 stages at the Masked Carnivale. 
+Masked Carnivale,Octopath Traveller,10,"Achieve the ""Trouble with Tentacles"" feat at the Masked Carnivale." 
+Masked Carnivale,Something Borrowed,10,"Achieve the ""Perfect Blue"" feat at the Masked Carnivale.",Title: Perfect Blue 
+Masked Carnivale,The Harder They Fall,10,"Achieve the ""Giant Slayer"" feat at the Masked Carnivale." 
+Masked Carnivale,None More Blue,10,"Achieve the ""The Celestium's Finest"" feat at the Masked Carnivale.",Title: Champion of the Blue 
+Baldesion Arsenal,We're on Your Side I,5,Clear the Baldesion Arsenal.,Mount: Demi-Ozma
+Baldesion Arsenal,We're on Your Side II,5,Clear the Baldesion Arsenal 5 times. 
+Baldesion Arsenal,We're on Your Side III,5,Clear the Baldesion Arsenal 10 times. 

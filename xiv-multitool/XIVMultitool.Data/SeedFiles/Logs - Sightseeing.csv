@@ -1,0 +1,250 @@
+Set,Name,Number,Zone,Location,Weather,Time,Emote
+A Realm Reborn,Barracuda Piers,001,Limsa Lominsa Upper Decks,"The Bismarck (9,7)",Clear Skies/Sunshine,8AM-12PM,Lookout
+A Realm Reborn,The Astalicia,002,Limsa Lominsa Lower Decks,"The Astalicia (7,15)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,Seasong Grotto,003,Middle La Noscea,"Summerford (20,19)",Rain/Showers,5AM-8AM,Pray
+A Realm Reborn,The Skylift,004,Middle La Noscea,"Three-malm Bend (16,17)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,La Thagran Eastroad,005,Middle La Noscea,"Zephyr Drift (25,27)",Clouds,8AM-12PM,Lookout
+A Realm Reborn,The Salt Strand,006,Lower La Noscea,"The Gods' Grip (23,40)",Clear Skies/Sunshine,6PM-1AM,Lookout
+A Realm Reborn,Red Rooster Stead,007,Lower La Noscea,"Cedarwood (33,19)",Fog,5AM-8AM,Lookout
+A Realm Reborn,Brewer's Beacon,008,Western La Noscea,"Skull Valley (29,30)",Clear Skies/Sunshine,5AM-8AM,Lookout
+A Realm Reborn,The Leatherworkers' Guild,009,Old Gridania,"Leatherworker's Guild (12,8)",Clouds,12PM-5PM,Lookout
+A Realm Reborn,Apkallu Falls,010,Old Gridania,"Apkallu Falls (10,6)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,Bentbranch Meadows,011,Central Shroud,"Bentbranch (21,21)",Clear Skies/Sunshine,12PM-4PM,Sit
+A Realm Reborn,The Sanctum of the Twelve,012,East Shroud,"The Bramble Patch (17,18)",Clear Skies/Sunshine,8AM-12PM,Pray
+A Realm Reborn,Little Solace,013,East Shroud,"Nine Ivies (22,26)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,Royal Promenade,014,Ul'dah - Steps of Thal,"Hustings Strip (11,11)",Clear Skies/Sunshine,5AM-8AM,Salute
+A Realm Reborn,The Gold Court,015,Ul'dah - Steps of Thal,"The Gold Court (11,11)",Clouds,12PM-5PM,Lookout
+A Realm Reborn,The Jewel of the Desert,016,Western Thanalan,"Horizon's Edge (22,22)",Clear Skies/Sunshine,6PM-2AM,Lookout
+A Realm Reborn,The Ruins of Sil'dih,017,Central Thanalan,"Black Brush (15,22)",Fog,8AM-12PM,Lookout
+A Realm Reborn,The Lonely Giant,018,Eastern Thanalan,"Drybone (19,24)",Rain/Showers,5PM-6PM,Comfort
+A Realm Reborn,The Invisible City,019,Eastern Thanalan,"Drybone (14,18)",Clouds,8AM-12PM,Lookout
+A Realm Reborn,Highbridge,020,Eastern Thanalan,"Wellwick Wood (21,20)",Clear Skies/Sunshine,5AM-8AM,Pray
+A Realm Reborn,Woad Whisper Canyon,021,Middle La Noscea,"Three-malm Bend (19,13)",Clear Skies/Sunshine,12PM-4PM,Lookout
+A Realm Reborn,Summerford Farms,022,Middle La Noscea,"Summerford (25,17)",Clear Skies/Sunshine,5AM-7AM,Lookout
+A Realm Reborn,The Grey Fleet,023,Lower La Noscea,"Cedarwood (31, 12)",Rain/Showers,12PM-4PM,Lookout
+A Realm Reborn,Hidden Falls,024,Eastern La Noscea,"Bloodshore (32,23)",Clear Skies/Sunshine,8AM-12PM,Sit
+A Realm Reborn,Gullperch Tower,025,Eastern La Noscea,"Bloodshore (29,33)",Rain/Showers,6PM-4AM,Lookout
+A Realm Reborn,The Navigator,026,Western La Noscea,"Skull Valley (26,26)",Clear Skies/Sunshine,5PM-6PM,Pray
+A Realm Reborn,The Ship Graveyard,027,Western La Noscea,"The Isles of Umbra (17,36)",Gales,6PM-5AM,Lookout
+A Realm Reborn,Camp Skull Valley,028,Western La Noscea,"Skull Valley (22,22)",Clear Skies/Sunshine,8AM-12PM,Lookout
+A Realm Reborn,Tidegate,029,Western La Noscea,"Skull Valley (19,23)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,Camp Bronze Lake,030,Upper La Noscea,"Bronze Lake (30,22)",Clear Skies/Sunshine,5PM-6PM,Lookout
+A Realm Reborn,Thalaos,031,Upper La Noscea,"Oakwood (12,22)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,Jijiroon's Trading Post,032,Upper La Noscea,"Bronze Lake (29,25)",Thunderstorms,6PM-5AM,Lookout
+A Realm Reborn,The Floating City of Nym,033,Outer La Noscea,"The Long Climb (12,15)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,Camp Overlook,034,Outer La Noscea,"The Long Climb (17,16)",Clouds,5AM-8AM,Lookout
+A Realm Reborn,U'Ghamaro Mines,035,Outer La Noscea,"Iron Lake (23,11)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,The Hermit's Hovel,036,Outer La Noscea,"The Long Climb (15,9)",Rain/Showers,6PM-5AM,Sit
+A Realm Reborn,The Carline Canopy,037,New Gridania,"Blue Badger Gate (14,14)",Clear Skies/Sunshine,8AM-12PM,Lookout
+A Realm Reborn,The Lancers' Guild,038,Old Gridania,"Wailing Barracks (14,5)",Rain/Showers,5AM-8AM,Lookout
+A Realm Reborn,The Bannock,039,Central Shroud,"Jadeite Thick (23,19)",Rain/Showers,5AM-8AM,Lookout
+A Realm Reborn,Haukke Manor,040,Central Shroud,"Sorrel Haven (13,23)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,The Guardian Tree,041,Central Shroud,"Sorrel Haven (16,22)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,Rainbow Bridge,042,Central Shroud,"Jadeite Thick (26,18)",Clear Skies/Sunshine,11AM-1PM,Lookout
+A Realm Reborn,The Seedbed,043,East Shroud,"Sylphlands (20,10)",Thunder,6PM-8AM,Lookout
+A Realm Reborn,Buscarron's Druthers,044,South Shroud,"Upper Paths (17,20)",Thunderstorms,8AM-12PM,Lookout
+A Realm Reborn,South Shroud Landing,045,South Shroud,"Lower Paths (14,33)",Clear Skies/Sunshine,8AM-12PM,Lookout
+A Realm Reborn,Urth's Gift,046,South Shroud,"Urth's Gift (33,23)",Fog,12PM-5PM,Lookout
+A Realm Reborn,Quarrymill,047,South Shroud,"Silent Arbor (25,21)",Clear Skies/Sunshine,5AM-8AM,Lookout
+A Realm Reborn,Ixali Logging Grounds,048,North Shroud,"Proud Creek (18,19)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,Fallen Neurolink,049,North Shroud,"Alder Springs (16,31)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,Alder Springs,050,North Shroud,"Alder Springs (15,27)",Clouds,8AM-12PM,Lookout
+A Realm Reborn,Castrum Marinum,051,Western Thanalan,"Cape Westwind (8,5)",Clear Skies/Sunshine,5PM-6PM,Lookout
+A Realm Reborn,Vesper Bay,052,Western Thanalan,"The Footfalls (12,14)",Clear Skies/Sunshine,12PM-5PM,Point
+A Realm Reborn,Black Brush Station,053,Central Thanalan,"Black Brush (21,17)",Dust Storms,6PM-5AM,Lookout
+A Realm Reborn,Gate of Nald,054,Central Thanalan,"Spineless Basin (18,26)",Clear Skies/Sunshine,12PM-5PM,Sit
+A Realm Reborn,The Burning Wall,055,Eastern Thanalan,"The Burning Wall (30,26)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,The Golden Bazaar,056,Eastern Thanalan,"Drybone (10,16)",Clear Skies/Sunshine,8AM-12PM,Lookout
+A Realm Reborn,Thal's Respite,057,Eastern Thanalan,"Wellwick Wood (25,14)",Rain/Showers,6PM-5AM,Pray
+A Realm Reborn,Nald's Reflection,058,Southern Thanalan,"The Red Labyrinth (12,22)",Fog,5AM-8AM,Pray
+A Realm Reborn,Zahar'ak,059,Southern Thanalan,"Zanr'ak (19,20)",Clear Skies/Sunshine,5AM-8AM,Lookout
+A Realm Reborn,The Sagolii Desert,060,Southern Thanalan,"Sagolii Desert (21,38)",Heat Waves,12PM-5PM,Lookout
+A Realm Reborn,The Sunken Temple of Qarn,061,Southern Thanalan,"Broken Water (23,11)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,Minotaur Malm,062,Southern Thanalan,"Sagolii Desert (14,26)",Heat Waves,5AM-8AM,Psych
+A Realm Reborn,East Watchtower,063,Northern Thanalan,"Bluefog (22,25)",Clear Skies/Sunshine,5AM-8AM,Salute
+A Realm Reborn,Ceruleum Pipeline,064,Northern Thanalan,"Bluefog (20,29)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,Bluefog,065,Northern Thanalan,"Bluefog (20,22)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,Raubahn's Push,066,Northern Thanalan,"Bluefog (20,17)",Clouds,8AM-12PM,Lookout
+A Realm Reborn,Abandoned Amajina Mythril Mine,067,Northern Thanalan,"Bluefog (26,22)",Fog,6PM-5AM,Lookout
+A Realm Reborn,The Nail,068,Coerthas Central Highlands,"Dragonhead (25,29)",Clear Skies/Sunshine,5PM-6PM,Lookout
+A Realm Reborn,The Observatorium,069,Coerthas Central Highlands,"Dragonhead (25,29)",Fog,6PM-5AM,Lookout
+A Realm Reborn,The Frozen Fang,070,Coerthas Central Highlands,"Whitebrim (11,15)",Blizzards,8AM-12PM,Lookout
+A Realm Reborn,The Holy See of Ishgard,071,Coerthas Central Highlands,"Whitebrim (12,17)",Clear Skies/Sunshine,5AM-8AM,Lookout
+A Realm Reborn,Boulder Downs,072,Coerthas Central Highlands,"Boulder Downs (7,28)",Clear Skies/Sunshine,5PM-6PM,Lookout
+A Realm Reborn,The Fury's Gaze,073,Coerthas Central Highlands,"Boulder Downs (7,31)",Blizzards,6PM-5AM,Lookout
+A Realm Reborn,Snowcloak,074,Coerthas Central Highlands,"Whitebrim (2,21)",Clear Skies/Sunshine,8AM-12PM,Lookout
+A Realm Reborn,Camp Dragonhead,075,Coerthas Central Highlands,"Dragonhead (26,17)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,The Steel Vigil,076,Coerthas Central Highlands,"Providence Point (28,10)",Clear Skies/Sunshine,5AM-8AM,Lookout
+A Realm Reborn,Castrum Centri,077,Mor Dhona,"Fogfens (9,13)",Gloom,12PM-5PM,Lookout
+A Realm Reborn,The Crystal Tower,078,Mor Dhona,"North Silvertear (27,8)",Clear Skies/Sunshine,6PM-5AM,Lookout
+A Realm Reborn,Rathefrost,079,Mor Dhona,"Fogfens (18,17)",Clear Skies/Sunshine,12PM-5PM,Lookout
+A Realm Reborn,The Keeper of the Lake,080,Mor Dhona,"North Silvertear (26,11)",Clear Skies/Sunshine,5PM-6PM,Sit
+Heavensward,Falcon's Nest,001,Coerthas Western Highlands,"Riversmeet (32, 36.2, 2.4)",X,X,Lookout
+Heavensward,Camp Riversmeet,002,Coerthas Western Highlands,"Twinpools (20.8, 23.1, 1.7)",X,X,Lookout
+Heavensward,The Dreaming Dragon,003,Coerthas Western Highlands,"Twinpools (10.3, 18.0, 1.7)",X,X,Lookout
+Heavensward,The Dusk Vigil,004,Coerthas Western Highlands,"Twinpools (20.1, 6.6, 0.9)",X,X,Lookout
+Heavensward,Gorgagne Mills,005,Coerthas Western Highlands,"Riversmeet (31.6, 4.8, 1.3)",X,X,Lookout
+Heavensward,Hemlock,006,Coerthas Western Highlands,"Riversmeet (36.2, 19.2, 1.6)",X,X,Lookout
+Heavensward,The Bed of Bones,007,Coerthas Western Highlands,"Red Rim (20.5, 36.4, 1.8)",X,X,Lookout
+Heavensward,Loth ast Gnath,008,The Dravanian Forelands,"Loth ast Gnath (27.4, 36.3, 1.7)",X,X,Lookout
+Heavensward,Anyx Minor,009,The Dravanian Forelands,"Avalonia Fallen (12.0, 39.4, 1.0)",X,X,Lookout
+Heavensward,Anyx Trine,010,The Dravanian Forelands,"Avalonia Fallen (16.5, 23.3, 5.6)",X,X,Lookout
+Heavensward,The Hundred Throes,011,The Dravanian Forelands,"Sohm Al Foothills (29.6, 6.1, 2.4)",X,X,Lookout
+Heavensward,Halo,012,The Dravanian Forelands,"Mourn (8,6)",X,X,Pray
+Heavensward,Tailfeather,013,The Dravanian Forelands,"Chocobo Forest (33.9, 23.5, 1.4)",X,X,Lookout
+Heavensward,Sohm Al,014,The Dravanian Forelands,"Mourn (11.5, 13.5, 6.6)",X,X,Lookout
+Heavensward,Moghome,015,The Churning Mists,"Sohm Al Summit (29.4, 35.1, 0.2)",X,X,Lookout
+Heavensward,The Aery,016,The Churning Mists,"Ohl Tahn (29.2, 13.0, 3.0)",X,X,Lookout
+Heavensward,Tharl Oom Khash,017,The Churning Mists,"Ohl Tahn (18.6, 6.4, 3.6)",X,X,Lookout
+Heavensward,Zenith,018,The Churning Mists,"Four Arms (7.8, 27.0, 5.4)",X,X,Lookout
+Heavensward,The Lost Landlord,019,The Churning Mists,"Greensward (17.6, 37.2, 0.5)",X,X,Pray
+Heavensward,The House of Letters,020,The Churning Mists,"Landlord Colony (35.1, 20.4, 1.3)",X,X,Lookout
+Heavensward,The Rookery,021,The Churning Mists,"Ohl Tahn (23.2, 18.6, 1.5)",X,X,Lookout
+Heavensward,Camp Cloudtop,022,The Sea of Clouds,"Cloudtop (15.2, 37.7, 1.0)",X,X,Lookout
+Heavensward,The Nidifice,023,The Sea of Clouds,"Voor Sian Siran (37.2, 40.1, 1.6)",X,X,Doze
+Heavensward,Voor Sian Siran,024,The Sea of Clouds,"Vundu Ok' Bendu (39.9, 21.8, 2.8)",X,X,Lookout
+Heavensward,Mok Oogl Island,025,The Sea of Clouds,"The Gauntlet (13, 8.9, 2.1)",X,X,Lookout
+Heavensward,Hall of the Fallen Plume,026,The Sea of Clouds,"Ok' Vundu Mok (18.4, 27, 5.5)",X,X,Lookout
+Heavensward,Ok' Vundu Vana,027,The Sea of Clouds,"Ok' Vundu Vana (25, 23.9, 0.7)",X,X,Lookout
+Heavensward,Hengr's Crucible,028,The Sea of Clouds,"Ok' Vundu Vana (38, 11.7, 2.0)",X,X,Lookout
+Heavensward,The Arkhitekton,029,The Dravanian Hinterlands,"The Makers' Quarter (40.1, 21.8, 1.9)",X,X,Lookout
+Heavensward,The Answering Quarter,030,The Dravanian Hinterlands,"The Answering Quarter (17.9, 23.2, 0.4)",X,X,Lookout
+Heavensward,The Cenotaph,031,The Dravanian Hinterlands,"The Ruling Quarter (22.1, 27.6, 1.7)",X,X,Lookout
+Heavensward,The Tipped Ewer,032,The Dravanian Hinterlands,"The Ruling Quarter (10.1, 35.9, 1.1)",X,X,Lookout
+Heavensward,Great Gubal Library,033,The Dravanian Hinterlands,"The Ruling Quarter (28.8, 37.8, 3.6)",X,X,Lookout
+Heavensward,The Orn Wild,034,The Dravanian Hinterlands,"The Makers' Quarter (32.7, 11.9, 0.9)",X,X,Lookout
+Heavensward,Saint Mocianne Arboretum,035,The Dravanian Hinterlands,"The Answering Quarter (13, 21.6, 1.5)",X,X,Lookout
+Heavensward,The Gration,036,Azys Lla,"The Habisphere (39.2, 17, 6.8)",X,X,Lookout
+Heavensward,The Fractal Continuum,037,Azys Lla,"Gamma Quadrant (33.4, 35.6, 8.2)",X,X,Lookout
+Heavensward,Antithesis,038,Azys Lla,"Delta Quadrant (6, 30.6, 6)",X,X,Lookout
+Heavensward,Aetherochemical Research Facility,039,Azys Lla,"The Flagship (10.9, 35.6, 5.8)",X,X,Lookout
+Heavensward,Helix,040,Azys Lla,"Alpha Quadrant (6.1, 9.9, 7.0)",X,X,Lookout
+Heavensward,Quarantine Block,041,Azys Lla,"Alpha Quadrant (9.4, 21.5, 7.1)",X,X,Lookout
+Heavensward,Recombination Labs,042,Azys Lla,"Beta Quadrant (30.4, 11.4, 6.9)",X,X,Lookout
+Heavensward,The Pike,043,Coerthas Western Highlands,"Riversmeet (32.6, 28.2, 1.4)",X,X,Rally
+Heavensward,Black Iron Bridge,044,Coerthas Western Highlands,"Riversmeet (29.9, 23.7, 2.5)",X,X,Lookout
+Heavensward,Dragonspit,045,Coerthas Western Highlands,"Twinpools (9,10)",X,X,Sit
+Heavensward,The Slate Mountains,046,Coerthas Western Highlands,"Twinpools (12.7, 8.3, 0.8)",X,X,Me
+Heavensward,Whilom River,047,The Dravanian Forelands,"Chocobo Forest (23.4, 39.4, 0.2)",X,X,Lookout
+Heavensward,Loth ast Vath,048,The Dravanian Forelands,"The Smoldering Wastes (24.2, 18.8, 1.2)",X,X,Lookout
+Heavensward,The Hissing Cobbles,049,The Dravanian Forelands,"Chocobo Forest (34.3, 15.8, 1.3)",X,X,Lookout
+Heavensward,The Danneroad,050,The Dravanian Forelands,"Avalonia Fallen (18.6, 32.6, 0.7)",X,X,Lookout
+Heavensward,Statue of the Unsung,051,The Churning Mists,"Eil Tohm (33.8, 32.5, 2.6)",X,X,Pray
+Heavensward,Landlord Colony,052,The Churning Mists,"Landlord Colony (37.3, 14.4, 2.8)",X,X,Lookout
+Heavensward,The Old Father,053,The Churning Mists,"Ohl Tahn (14.7, 25.0, 1.9)",X,X,Lookout
+Heavensward,Coldwind,054,The Sea of Clouds,"Coldwind (6.4, 5.0, 1.5)",X,X,Lookout
+Heavensward,The Shattered Back,055,The Sea of Clouds,"The Gauntlet (26, 6)",X,X,Lookout
+Heavensward,Provenance,056,The Sea of Clouds,"The Blue Window (9.9, 28.7, 0.7)",X,X,Lookout
+Heavensward,The Sage's Cataract,057,The Dravanian Hinterlands,"The Answering Quarter (12.2, 13.0, 1.1)",X,X,Lookout
+Heavensward,The Path of Knowing,058,The Dravanian Hinterlands,"The Ruling Quarter (19.7, 38.1, 1.4)",X,X,Lookout
+Heavensward,The Daggers,059,The Dravanian Hinterlands,"The Makers' Quarter (30.4, 31.1, 1.6)",X,X,Lookout
+Heavensward,Centrifugal Crystal Engine,060,Azys Lla,"Alpha Quadrant (10.0, 14.8, 4.3)",X,X,Lookout
+Heavensward,Biomass Incubation Complex,061,Azys Lla,"Beta Quadrant (35.5, 6.4, 5.5)",X,X,Lookout
+Heavensward,The Cathedral,062,Azys Lla,"Gamma Quadrant (25.9, 28.6, 6.0)",X,X,Lookout
+Stormblood,Castellum Velodyna,001,The Fringes,"Virdjala (21.9, 26.9, 0.8)",X,X,Lookout
+Stormblood,Gyr Kehim,002,The Fringes,"The Striped Hills (24.2, 16.3, 0.7)",X,X,Lookout
+Stormblood,Schism,003,The Fringes,"The Striped Hills (23.2, 7.2, 0.6)",X,X,Lookout
+Stormblood,Castum Oriens,004,The Fringes,"East End (9.3, 10.8, 1.7)",X,X,Lookout
+Stormblood,Dimwold,005,The Fringes,"East End (8.6, 26.4, 0.9)",X,X,Lookout
+Stormblood,Djanan Qhat,006,The Fringes,"Djanan Qhat (36.5, 16.4, 2.1)",X,X,Lookout
+Stormblood,The Peering Stones,007,The Fringes,"Virdjala (30, 25.2, 2.4)",X,X,Lookout
+Stormblood,Hidden Tear,008,The Peaks,"Rustrock (33.2, 10.2, 2.2)",X,X,Lookout
+Stormblood,Coldhearth,009,The Peaks,"Mount Yorn (27, 36.9, 2.9)",X,X,Lookout
+Stormblood,Nyunkrepf's Hope,010,The Peaks,"Wightrock (22, 32.8, 3.5) ",X,X,Lookout
+Stormblood,Ala Gannha,011,The Peaks,"The Last Forest (25.1, 5.8, 1.1)",X,X,Lookout
+Stormblood,Specula Imperatoris,012,The Peaks,"Wightrock (19.9, 23.4, 3.2) ",X,X,Lookout
+Stormblood,The Arms of Meed,013,The Peaks,"Wightrock (8.1, 37.5, 2.6)",X,X,Lookout
+Stormblood,The Ziggurat,014,The Peaks,"The Last Forest (18.3, 14.1, 0.8)",X,X,Lookout
+Stormblood,Emprise,015,The Peaks,"The Last Forest (7.5, 7.6, 0.1)",X,X,Lookout
+Stormblood,Ala Mhigo,016,The Lochs,"The High Bank (23.6, 33.7, 1.7)",X,X,Lookout
+Stormblood,The Ala Mhigan Quarter,017,The Lochs,"The Ala Mighan Quarter (35.2, 33.2, 1.5)",X,X,Lookout
+Stormblood,Sothwatch,018,The Lochs,"The High Bank (13.8, 35.8, 2.8)",X,X,Lookout
+Stormblood,The Divine Audience,019,The Lochs,"Loch Seld (20.5, 13.7, 0.8)",X,X,Pray
+Stormblood,The Hidden Tunnel,020,The Lochs,"The Ala Mighan Quarter (33.9, 30.2, 0.5)",X,X,Lookout
+Stormblood,Porta Praetoria,021,The Lochs,"The High Bank (5.9, 22, 2.4)",X,X,Lookout
+Stormblood,The Sekiseigumi Barracks,022,Kugane,"Pier 2 (14.3, 9.6)",X,X,Lookout
+Stormblood,Bokairo Inn,023,Kugane,"Rakuza District (9.4, 7.3)",X,X,Lookout
+Stormblood,Kogane Dori,024,Kugane,"Kogane Dori (13.2, 12.8)",X,X,Lookout
+Stormblood,Kogane Alleyways,025,Kugane,"Kogane Dori (11.9, 11.7)",X,X,Lookout
+Stormblood,Shiokaze Hostelry,026,Kugane,"Pier 2 (10,10)",X,X,Lookout
+Stormblood,Tamamizu,027,The Ruby Sea,"Rasen Kaikyo (25.9, 13, -1)",X,X,Lookout
+Stormblood,Shoal Rock,028,The Ruby Sea,"Rasen Kaikyo (31.6, 8.6, 1)",X,X,Lookout
+Stormblood,Heaven-on-High,029,The Ruby Sea,"Rasen Kaikyo (24.1, 5.5, 0.4)",X,X,Lookout
+Stormblood,Sakazuki,030,The Ruby Sea,"Rasen Kaikyo (31.6, 37.2, 0.6)",X,X,Lookout
+Stormblood,The Isle of Zekki,031,The Ruby Sea,"The Isle of Zekki (10.1, 26.7, 0.1)",X,X,Lookout
+Stormblood,Isari,032,The Ruby Sea,"East Orthard Coastline (6.4, 10.8, 0.1)",X,X,Lookout
+Stormblood,The Swallow's Compass,033,Yanxia,"The Glittering Basin (12.4, 26.7, 1.1)",X,X,Lookout
+Stormblood,Castrum Fluminis,034,Yanxia,"The Glittering Basin (30.3, 32.9, 0.8)",X,X,Lookout
+Stormblood,Namal,035,Yanxia,"The Gensui Chain (34.3, 18.3, 1.1)",X,X,Lookout
+Stormblood,Prism Lake,036,Yanxia,"Valley of the Fallen Rainbow (30.4, 6.2, 0.4",X,X,Lookout
+Stormblood,Doma Castle,037,Yanxia,"Doma (14.9, 6.3, 0.9)",X,X,Lookout
+Stormblood,Dairyu Moon Gates,038,Yanxia,"The Glittering Basin (19.6, 20.5, 1.5)",X,X,Lookout
+Stormblood,Yuzuka Manor,039,Yanxia,"The Glittering Basin (15.2, 31.6, 0.6)",X,X,Lookout
+Stormblood,Ceol Aen,040,The Azim Steppe,"Onsal Hakair (14.2, 9.8, 1.1)",X,X,Lookout
+Stormblood,Dotharl Khaa,041,The Azim Steppe,"Nhaama's Retreat (12.2, 32, 0.3)",X,X,Lookout
+Stormblood,The Dusk Throne,042,The Azim Steppe,"Nhaama's Retreat (19.8, 33.7, 0.7)",X,X,Lookout
+Stormblood,Reunion,043,The Azim Steppe,"The Sea Of Blades (34.4, 31.9, 0.2)",X,X,Lookout
+Stormblood,Chakha Zoh,044,The Azim Steppe,"Onsal Hakair (20, 12.6, 1)",X,X,Pray
+Stormblood,The Dawn Throne,045,The Azim Steppe,"Azim Khaat (22.7, 21.2, 1.7)",X,X,Lookout
+Stormblood,The Destroyer,046,Rhalgr's Reach,"Rhalgr's Reach (11.4, 14)",X,X,Lookout
+Stormblood,Bloodstorm,047,Rhalgr's Reach,"Rhalgr's Reach (10.5, 9.7)",X,X,Lookout
+Stormblood,The Yawn,048,The Fringes,"Virdjala (27.5, 35.1, 1.4)",X,18:00-5:00,Lookout
+Stormblood,Ala Ghiri,049,The Peaks,"Wightrock (14.3, 36.6, 2.6)",X,X,Lookout
+Stormblood,Specula Imperatoris 2,050,The Peaks,"Wightrock (20.1, 22.7, 2.6)",X,X,Lookout
+Stormblood,The Sunken Destroyer,051,The Lochs,"Loch Seld (17.1, 19.1, -2.9)",X,X,Lookout
+Stormblood,The Ala Mhigan Quarter 2,052,The Lochs,"The Ala Mhigan Quarter (35.3, 33.3, 0.8)",X,X,Lookout
+Stormblood,The Statue of Zuiko,053,Kugane,"Pier 2 (11.1, 9.9)",X,X,Lookout
+Stormblood,Rakuza District,054,Kugane,"Rakuza District (9.8, 8.3)",X,X,Lookout
+Stormblood,Tenkonto,055,Kugane,"Pier 2 (12.5, 10.6)",X,X,Lookout
+Stormblood,Kugane Ofunakura,056,Kugane,"The Short Pier (9.9, 12.4)",X,X,Lookout
+Stormblood,Shisui of the Violet Tides,057,The Ruby Sea,"The Ruby Sea (5, 36.4, -8.6)",X,X,Lookout
+Stormblood,East Othard Coastline,058,The Ruby Sea,"East Orthard Coastline (9.5, 19, 0.1)",X,5:00-8:00,Lookout
+Stormblood,Crick,059,The Ruby Sea,"Rasen Kaikyo (21.1, 11.8, 0.3)",X,X,Lookout
+Stormblood,Imperial Hypersonic Assault Craft L-XXIII,060,Yanxia,"The Glittering Basin (35.6, 38.8, -1.2)",X,X,Lookout
+Stormblood,Mol Iloh,061,The Azim Steppe,"Onsal Hakair (31.3, 11.5, 0.6)",X,X,Lookout
+Stormblood,Moai Statue,062,The Azim Steppe,"Azim Khaat (21.3, 20.2, -0.5)",X,X,Lookout
+Shadowbringers,The Rotunda,001,The Chrystarium,"The Rotunda (8.6, 11.2)",X,X,Lookout
+Shadowbringers,Musica Universalis,002,The Chrystarium,Musica Universalis,X,X,Lookout
+Shadowbringers,The Cabinet of Curiosity,003,The Chrystarium,"The Cabinet of Curiosity (9.9, 5.9)",X,X,Lookout
+Shadowbringers,Rapture,004,The Chrystarium,"The Amaro Launch (11, 4.7)",X,X,Lookout
+Shadowbringers,Temenos Rookery,005,The Chrystarium,Temenos Rookery (7.3-9.7),X,X,Lookout
+Shadowbringers,The Glory Gate,006,Eulmore,The Glory Gate (11.7-8.4),X,X,Lookout
+Shadowbringers,The Derelicts,007,Eulmore,The Derelicts (12.5-14.0),X,X,Lookout
+Shadowbringers,Eulmoran Army Headquarters,008,Eulmore,Eulmoran Army Headquarters (11.1-11.4),X,X,Lookout
+Shadowbringers,The Beehive,009,Eulmore,The Beehive (12.3-10.4),X,X,Lookout
+Shadowbringers,Fort Jobb,010,Lakeland,Fort Jobb (37.4-20.9),X,X,Lookout
+Shadowbringers,Radisca's Round,011,Lakeland,Radisca's Round (18.4-18.7),X,X,Lookout
+Shadowbringers,Laxan Loft,012,Lakeland,Laxan Loft (22.1-15.1),X,X,Lookout
+Shadowbringers,The Ostall Imperative,013,Lakeland,The Ostall Imperative (6.3-15.2),X,X,Lookout
+Shadowbringers,The Hour of Certain Durance,014,Lakeland,The Hour of Certain Durance (8.7-22.9),X,X,Lookout
+Shadowbringers,Sullen,015,Lakeland,Sullen (21.5-36.2),X,X,Lookout
+Shadowbringers,Cracked Shell Beach,016,Kholusia,Cracked Shell Beach (33.2-28.8),X,X,Lookout
+Shadowbringers,White Oil Falls,017,Kholusia,"White Oil Falls (28.8-22.1) ",X,X,Lookout
+Shadowbringers,Gatetown,018,Kholusia,Gatetown (26.7-33.4),X,X,Lookout
+Shadowbringers,Wright,019,Kholusia,Wright (18.2-29.3),X,X,Lookout
+Shadowbringers,The Ladder,020,Kholusia,"The Ladder (12.1-22.1)  ",X,X,Lookout
+Shadowbringers,Tomra,021,Kholusia,Tomra (13.6-9.8),X,X,Lookout
+Shadowbringers,The Duergar's Tewel,022,Kholusia,The Duergar's Tewel (37.1-11.4),X,X,Lookout
+Shadowbringers,The Red Serai,023,Amh Araeng,"The Red Serai (33.2-13.8) ",X,X,Lookout
+Shadowbringers,Mord Souq,024,Amh Araeng,"Mord Souq (25.3-16.6) ",X,X,Lookout
+Shadowbringers,The Pristine Palace of Amh Malik,025,Amh Araeng,The Pristine Palace of Amh Malik (28.5-31.9),X,X,Lookout
+Shadowbringers,Mount Biran Mines,026,Amh Araeng,Mount Biran Mines (22.1-9.4),X,X,Lookout
+Shadowbringers,Twine,027,Amh Araeng,Twine (11.1-16.9),X,X,Lookout
+Shadowbringers,Kelk,028,Amh Araeng,Kelk (20.4-21.3),X,X,Lookout
+Shadowbringers,Lydha Lran,029,Il Mheg,Lydha Lran (14.8-31.9),X,X,Lookout
+Shadowbringers,The Bookman's Shelves,030,Il Mheg,The Bookman's Shelves (8.7-16.8),X,X,Lookout
+Shadowbringers,Pla Enni,031,Il Mheg,Pla Enni (20.2-4.6),X,X,Lookout
+Shadowbringers,Deepwood Swim,032,Il Mheg,Deepwood Swim (21.4-20.9),X,X,Lookout
+Shadowbringers,Lyhe Ghiah,033,Il Mheg,"Lyhe Ghiah (20.8-16.3) ",X,X,Lookout
+Shadowbringers,Saint Fathric's Temple,034,Il Mheg,Saint Fathric's Temple (35.7-24.8),X,X,Lookout
+Shadowbringers,Fort Gohn,035,The Rak'tika Greatwood,Fort Gohn (13.6-32.4),X,X,Lookout
+Shadowbringers,Fruit of the Protector,036,The Rak'tika Greatwood,Fruit of the Protector (8.9-25.1),X,X,Lookout
+Shadowbringers,The Covered Halls of Dwatl,037,The Rak'tika Greatwood,"The Covered Halls of Dwatl (4.3-27.2) ",X,X,Lookout
+Shadowbringers,Lozatl's Conquest,038,The Rak'tika Greatwood,"Lozatl's Conquest (14.1, 18.3)",X,X,Lookout
+Shadowbringers,Fanow,039,The Rak'tika Greatwood,"Fanow (29.1-19.0) ",X,X,Lookout
+Shadowbringers,The Morning Stars,040,The Rak'tika Greatwood,"The Morning Stars (26.4-10.0) ",X,X,Lookout
+Shadowbringers,The Ondo Cups,041,The Tempest,"The Ondo Cups (33.0-16.2) ",X,X,Lookout
+Shadowbringers,The Workbench,042,The Tempest," The Workbench (33.0-16.2) ",X,X,Lookout
+Shadowbringers,Where the Dry Return,043,The Tempest,"Where the Dry Return (37.1-6.6) ",X,X,Lookout
+Shadowbringers,Purpure,044,The Tempest,"Purpure (34.3-30.6) ",X,X,Lookout
+Shadowbringers,Amaurot,045,The Tempest,"Amaurot  (13.7-36.8) ",X,X,Lookout

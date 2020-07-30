@@ -1,0 +1,154 @@
+Level,Name,Zone,Location
+1,Latex,Central Shroud,Jadeite Thick
+1,Fire Shard,Middle La Noscea,Three-malm Bend
+1,Ice Shard,Central Shroud,Jadeite Thick
+1,Wind Shard,Central Shroud,Jadeite Thick
+1,Earth Shard,North Shroud,Treespeak
+1,Lightning Shard,Central Thanalan,Spineless Basin
+1,Water Shard,Eastern La Noscea,Bloodshore
+2,Allagan Snail,Central Shroud,Jadeite Thick
+2,Maple Sap,North Shroud,Treespeak
+3,Maple Log,Central Shroud,Jadeite Thick
+4,Cinnamon,North Shroud,Treespeak
+5,Maple Branch,Central Shroud,Jadeite Thick
+5,Beehive Chip,North Shroud,Treespeak
+6,Cock Feather,Central Thanalan,Spineless Basin
+6,Tinolqa Mistletoe,Central Shroud,Greentear
+7,La Noscean Orange,Lower La Noscea,Cedarwood
+7,La Noscean Orange Seeds,Lower La Noscea,Cedarwood
+8,Ash Log,Central Shroud,Greentear
+9,Kukuru Bean,Lower La Noscea,Cedarwood
+9,Ash Branch,Central Shroud,Greentear
+10,Cloves,Central Thanalan,Spineless Basin
+10,Crow Feather,Central Shroud,Greentear
+12,Elm Log,Central Shroud,Bentbranch
+14,Gridanian Chestnut,Central Shroud,Bentbranch
+16,Faerie Apple,East Shroud,Nine Ivies
+16,Faerie Apple Seeds,East Shroud,Nine Ivies
+17,Sun Lemon,Lower La Noscea,The Grey Fleet
+17,Sun Lemon Seeds,Lower La Noscea,The Grey Fleet
+18,Nopales,Central Thanalan,Black Brush
+19,Yew Log,East Shroud,Nine Ivies
+20,Yew Branch,East Shroud,Nine Ivies
+20,Grade 1 Carbonized Matter,Western La Noscea,Skull Valley
+21,Gridanian Walnut,South Shroud,Upper Paths
+23,Matron's Mistletoe,South Shroud,Upper Paths
+24,Walnut Log,South Shroud,Upper Paths
+26,Fire Crystal,Middle La Noscea,Three-malm Bend
+26,Ice Crystal,South Shroud,Upper Paths
+26,Wind Crystal,Central Shroud,Bentbranch
+26,Earth Crystal,North Shroud,Peacegarden
+26,Lightning Crystal,Central Thanalan,Spneless Basin
+26,Water Crystal,Eastern La Noscea,Bloodshore
+28,Blue Pigment,Eastern La Noscea,Bloodshore
+28,Red Pigment,Middle La Noscea,Three-malm Bend
+28,Yellow Pigment,North Shroud,Peacegarden
+28,Grey Pigment,South Shroud,Upper Paths
+28,Brown Pigment,North Shroud,Peacegarden
+28,Green Pigment,Central Shroud,Bentbranch
+28,Purple Pigment,Central Thanalan,Spineless Basin
+29,Chocobo Feather,South Shroud,Silent Arbor
+30,Alligator Pear,South Shroud,Silent Arbor
+31,Oak Branch,South Shroud,Lower Paths
+32,Oak Log,South Shroud,Lower Paths
+35,Tarantula,South Shroud,Lower Paths
+36,Iron Acorn,Eastern La Noscea,Raincatcher Gully
+37,Mahogany Log,Eastern La Noscea,Raincatcher Gully
+39,Nutmeg,Eastern La Noscea,Raincatcher Gully
+40,Almonds,Eastern La Noscea,Raincatcher Gully
+40,Almond Seeds,Eastern La Noscea,Raincatcher Gully
+42,Mirror Apple,Coerthas Central Highlands,Whitebrim
+42,Mirror Apple Seeds,Coerthas Central Highlands,Whitebrim
+44,Mistletoe,Coerthas Central Highlands,Whitebrim
+46,Rosewood Log,East Shroud,The Bramble Patch
+47,Rosewood Branch,East Shroud,The Bramble Patch
+50,Fire Cluster,Mor Dhona,North Silvertear
+50,Ice Cluster,Mor Dhona,North Silvertear
+50,Wind Cluster,Mor Dhona,North Silvertear
+50,Earth Cluster,Mor Dhona,North Silvertear
+50,Lightning Cluster,Mor Dhona,North Silvertear
+50,Water Cluster,Mor Dhona,North Silvertear
+50★,Prickly Pineapple,Eastern La Noscea,Bloodshore
+50★,Spruce Log,Coerthas Central Highlands,Providence Point
+50★,Thavnairian Mistletoe,Coerthas Central Highlands,Whitebrim
+50★,Vampire Plant,Coerthas Central Highlands,Dragonhead
+50★,Prickly Pineapple Seeds,Eastern La Noscea,Bloodshore
+50★,Unaspected Crystal,Mor Dhona,North Silvertear
+50★,Fragrant Log,South Shroud,Camp Tranquil
+50★★,Apricot,Middle La Noscea,Summerford
+50★★,Blood Orange,Upper La Noscea,Bronze Lake
+50★★,Bamboo Stick,Upper La Noscea,Bronze Lake
+50★★,Redolent Log,Central Shroud,Greentear
+50★★,Scarlet Sap,North Shroud,Alder Springs
+50★★,Dark Matter Cluster,Middle La Noscea,Summerford
+50★★★,Cedar Log,Coerthas Western Highlands,Riversmeet
+50★★★,Ebony Log,Middle La Noscea,Zephyr Drift
+50★★★,Cypress Log,Central Shroud,Bentbranch
+50★★★,Cedar Branch,Coerthas Western Highlands,Riversmeet
+51,Porcini,The Churning Mists,Easton Eyes
+54,Dark Chestnut Log,The Dravanian Forelands,The Smoldering Wastes
+54,Dravanian Mistletoe,The Churning Mists,Easton Eyes
+55,Dark Chestnut,The Dravanian Forelands,The Smoldering Wastes
+55,Dark Chestnut Branch,The Dravanian Forelands,The Smoldering Wastes
+56,Heavens Lemon,The Sea of Clouds,Vundu Ok' Bendu
+56,Wind Widow,The Sea of Clouds,Voor Sian Siran
+57,Cloud Banana,The Dravanian Hinterlands,The Ruling Quarter
+58,Birch Log,The Sea of Clouds,Voor Sian Siran
+58,Birch Branch,The Sea of Clouds,Voor Sian Siran
+58,Abalathian Mistletoe,The Sea of Clouds,Vundu Ok' Bendu
+59,Morel,The Dravanian Hinterlands,The Ruling Quarter
+59,Birch Sap,The Sea of Clouds,Voor Sian Siran
+59,Cloud Mushroom,The Sea of Clouds,Voor Sian Siran
+60★,Camphorwood Log,The Churning Mists,Eil Tohm
+60★,Camphorwood Branch,The Churning Mists,Eil Tohm
+60★★,Beech Branch,The Fringes,East End
+61,Loquat,The Fringes,East End
+61,Beech Log,The Fringes,East End
+63,Bamboo Shoot,Yanxia,Kusakari
+63,Larch Log,The Ruby Sea,Onokoro
+64,Pine Resin,Yanxia,The Heron's Flight
+64,Sparkstone,The Ruby Sea,Onokoro
+65,Shiitake Mushroom,The Ruby Sea,Onokoro
+65,Pine Log,Yanxia,The Heron's Flight
+65,Malleable Still Material,Yanxia,The Heron's Flight
+66,Persimmon Leaf,The Fringes,Dimwold
+67,Persimmon,The Fringes,Dimwold
+67,Persimmon Log,The Fringes,Dimwold
+68,Hard Place Furnishing Materials,The Lochs,Abalathia's Skull
+70,Othardian Plum,The Azim Steppe,Onsal Hakair
+70,Zelkova Log,The Lochs,Abalathia's Skull
+70,Sturdy Vat Material,The Fringes,Dimwold
+70,Raven Coal,Kholusia,Stonegazer
+70★,Torreya Branch,The Lochs,Abalathia's Skull
+70★,Kholusian Miscellany,Kholusia,Stonegazer
+70★★,Yanxian Verbana,The Lochs,Abalathia's Skull
+70★★,White Oak Branch,Kholusia,Venmont Yards
+71,Pixie Apple,Il Mheg,The Church at Dammroen Field
+71,Frantoio,Lakeland,The Chiliad
+71,White Oak Log,Kholusia,The Bright Cliff
+72,Miracle Apple Log,Il Mheg,The Church at Dammroen Field
+74,White Ash Log,The Rak'tika Greatwood,Woven Oath
+75,Gianthive Chip,The Rak'tika Greatwood,Woven Oath
+76,Amber Cloves,Amh Araeng,Ladle
+76,Sandteak Log,Amh Araeng,Ladle
+78,Harcot,Lakeland,Hare Among Giants
+80,Lemonette,Kholusia,Sharptongue Drip
+80,Lignum Vitae Log,Lakeland,Hare Among Giants
+60★,Old-growth Camphorwood Log,The Churning Mists,Weston Waters
+60★,Crystalized Sap,The Churning Mists,Eil Tohm
+60★★★,Brown Mushroom,The Churning Mists,Greensward
+60★★★,Teak Log,The Dravanian Hinterlands,The Answering Quarter
+60★,Honeydew Almonds,The Sea of Clouds,The Gauntlet
+60★,Wattle Bark,Azys Lla,Alpha Quadrant
+70★,Torreya Log,The Lochs,Stacks
+70★★,Black Willow Log,The Fringes,Pike Falls
+70★★,Hardened Veteran Tree Sap,The Fringer,Pike Falls
+70★★★,Urunday Log,The Peaks,Sleeping Stones
+80★,Sandalwood Log,The Rak'tika Greatwood,Mjrl's Regret
+80★,Sandalwood Sap,The Rak'tika Greatwood,Mjrl's Regret
+5,Skybuilders' Yew Log,East Shroud,The Honey Yard
+35,Skybuilders' Ash Log,Central Shroud,Sorrel Haven
+60,Skybuilders' Camphorwood Log,The Churning Mists,Gron Rhei
+65,Skybuilders' Urunday Log,The Peaks,Gyrmm & Enid
+80,Skybuilders' White Ash Log,The Rak'tika Greatwood,Bowrest
+80,Skybuilders' Resin,The Rak'tika Greatwood,Bowrest

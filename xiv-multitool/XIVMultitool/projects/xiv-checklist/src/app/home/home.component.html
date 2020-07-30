@@ -1,0 +1,20 @@
+<app-header></app-header>
+<div class="container">
+    <expanded-category [default]="true"></expanded-category>
+    <expanded-category *ngFor="let category of selectedCategories" [category]="category" (goBack)="backtrack($event)">
+    </expanded-category>
+    <div class="home">
+        <img src="../../assets/loading.gif" *ngIf="isLoading" />
+        <category-panel *ngFor="let category of optionCategories" [category]="category" [total]="100" [completed]="76"
+            (onSelect)="handleSelect($event)"></category-panel>
+    </div>
+    <div class="tasks">
+        <cdk-virtual-scroll-viewport *ngIf="optionTasks && optionTasks.length > 0" itemSize="15" class="viewport">
+            <app-task [task]="task" *cdkVirtualFor="let task of optionTasks"></app-task>
+        </cdk-virtual-scroll-viewport>
+    </div>
+</div>
+<!-- <category 
+    *ngFor="let category of categories" 
+    [category]="category"
+></category> -->

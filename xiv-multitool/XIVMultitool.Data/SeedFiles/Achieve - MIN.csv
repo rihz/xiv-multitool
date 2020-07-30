@@ -1,0 +1,33 @@
+Group,Name,Points,Description,Reward
+La Noscea,Mining Your Own Business: La Noscea I,5,Mine 20 times at level 1-10 mineral deposits in La Noscea.,
+La Noscea,Mining Your Own Business: La Noscea II,5,Mine 300 times at level 11-20 mineral deposits in La Noscea.,
+La Noscea,Mining Your Own Business: La Noscea III,5,"Mine 1,000 times at level 21-30 mineral deposits in La Noscea.",
+La Noscea,Mining Your Own Business: La Noscea IV,5,"Mine 2,000 times at level 31-40 mineral deposits in La Noscea.",
+La Noscea,Mining Your Own Business: La Noscea V,5,"Mine 4,000 times at level 41-50 mineral deposits in La Noscea.",
+La Noscea,A Miner's Life for Me: La Noscea,10,"Obtain all five ""Mining Your Own Business: La Noscea"" achievements.",Title: Meadowbreaker
+Black Shroud,Mining Your Own Business: Black Shroud I,5,Mine 20 times at level 1-10 mineral deposits in the Black Shroud.,
+Black Shroud,Mining Your Own Business: Black Shroud II,5,Mine 300 times at level 11-20 mineral deposits in the Black Shroud.,
+Black Shroud,Mining Your Own Business: Black Shroud III,5,"Mine 1,000 times at level 21-30 mineral deposits in the Black Shroud.",
+Black Shroud,Mining Your Own Business: Black Shroud IV,5,"Mine 2,000 times at level 31-40 mineral deposits in the Black Shroud.",
+Black Shroud,Mining Your Own Business: Black Shroud V,5,"Mine 4,000 times at level 41-50 mineral deposits in the Black Shroud.",
+Black Shroud,A Miner's Life for Me: Black Shroud,10,"Obtain all five ""Mining Your Own Business: Black Shroud"" achievements.",Title: Forestbreaker
+Thanalan,Mining Your Own Business: Thanalan I,5,Mine 20 times at level 1-10 mineral deposits in Thanalan.,
+Thanalan,Mining Your Own Business: Thanalan II,5,Mine 300 times at level 11-20 mineral deposits in Thanalan.,
+Thanalan,Mining Your Own Business: Thanalan III,5,"Mine 1,000 times at level 21-30 mineral deposits in Thanalan.",
+Thanalan,Mining Your Own Business: Thanalan IV,5,"Mine 2,000 times at level 31-40 mineral deposits in Thanalan.",
+Thanalan,Mining Your Own Business: Thanalan V,5,"Mine 4,000 times at level 41-50 mineral deposits in Thanalan.",
+Thanalan,A Miner's Life for Me: Thanalan,10,"Obtain all five ""Mining Your Own Business: Thanalan"" achievements.",Title: Desertbreaker
+Eorzea,A Miner's Life for Me: Greater Eorzea,30,"Obtain the ""A Miner's Life for Me"" achievements for La Noscea, the Black Shroud, and Thanalan.",Item: Pick of the Luminary
+Heavensward,Mining Heavensward,10,"Gather 5,000 times at level 51-60 mineral deposits or rocky outcrops.",
+Stormblood,Mining Stormblood,10,"Gather 5,000 times at level 61-70 mineral deposits or rocky outcrops.",
+Shadowbringers,Mining Shadowbringers,10,"Gather 5,000 times at level 71-80 mineral deposits or rocky outcrops.",
+Unique Items,I Found That: Miner I,5,Gather 15 unique items as a miner.,
+Unique Items,I Found That: Miner II,5,Gather 30 unique items as a miner.,
+Unique Items,I Found That: Miner III,10,Gather 50 unique items as a miner.,Item: Master Miner's Ring
+Unique Items,I Found That: Miner IV,10,Gather 100 unique items as a miner.,
+Unique Items,I Found That: Miner V,10,Gather and record discovery of 150 unique items as a miner.,Item: Blessed Minekeep's Pickaxe
+Unique Items,I Found That: Miner VI,10,Gather and record discovery of 180 unique items as a miner.,Item: Blessed Mineking's Pickaxe
+High Quality Items,An Eye for Quality: Miner I,5,Gather 300 high-quality items as a miner.,
+High Quality Items,An Eye for Quality: Miner II,5,"Gather 1,500 high-quality items as a miner.",
+High Quality Items,An Eye for Quality: Miner III,10,"Gather 10,000 high-quality items as a miner.",
+High Quality Items,An Eye for Quality: Miner IV,10,"Gather 20,000 high-quality items as a miner.",Title: Master Miner

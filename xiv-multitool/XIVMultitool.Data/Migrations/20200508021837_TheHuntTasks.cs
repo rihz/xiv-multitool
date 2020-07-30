@@ -1,0 +1,195 @@
+﻿using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
+
+namespace XIVChecklist.Data.Migrations
+{
+    public partial class TheHuntTasks : Migration
+    {
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.CreateTable(
+                name: "TheHuntTasks",
+                columns: table => new
+                {
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                    CategoryId = table.Column<int>(nullable: false),
+                    Name = table.Column<string>(nullable: true),
+                    Rank = table.Column<string>(nullable: true),
+                    Location = table.Column<string>(nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_TheHuntTasks", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_TheHuntTask_Category",
+                        column: x => x.CategoryId,
+                        principalTable: "Category",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.InsertData(
+                table: "TheHuntTasks",
+                columns: new[] { "Id", "CategoryId", "Location", "Name", "Rank" },
+                values: new object[,]
+                {
+                    { 1, 7, "Southern Thanalan", "Albin the Ashen", "B" },
+                    { 93, 7, "The Fringes", "Shadow-dweller Yamini", "B" },
+                    { 94, 7, "Yanxia", "Angada", "A" },
+                    { 95, 7, "The Peaks", "Aqrabuamelu", "A" },
+                    { 96, 7, "The Fringes", "Erle", "A" },
+                    { 97, 7, "The Ruby Sea", "Funa Yurei", "A" },
+                    { 98, 7, "Yanxia", "Gajasura", "A" },
+                    { 92, 7, "The Fringes", "Ouzelum", "B" },
+                    { 99, 7, "The Azim Steppe", "Girimekhala", "A" },
+                    { 101, 7, "The Lochs", "Mahisha", "A" },
+                    { 102, 7, "The Ruby Sea", "Oni Yumemi", "A" },
+                    { 103, 7, "The Fringes", "Orcus", "A" },
+                    { 104, 7, "The Azim Steppe", "Sum", "A" },
+                    { 105, 7, "The Peaks", "Vochstein", "A" },
+                    { 106, 7, "The Peaks", "Bone Crawler", "S" },
+                    { 100, 7, "The Lochs", "Luminare", "A" },
+                    { 107, 7, "Yanxia", "Gamma", "S" },
+                    { 91, 7, "The Lochs", "Manes", "B" },
+                    { 89, 7, "The Lochs", "Kiwa", "B" },
+                    { 75, 7, "The Dravanian Hinterlands", "Stolas", "A" },
+                    { 76, 7, "The Sea of Clouds", "Bird of Paradise", "S" },
+                    { 77, 7, "The Churning Mists", "Gandarewa", "S" },
+                    { 78, 7, "Coerthas Western Highlands", "Kaiser Behemoth", "S" },
+                    { 79, 7, "Azys Lla", "Leucrotta", "S" },
+                    { 80, 7, "The Dravanian Forelands", "Senmurv", "S" },
+                    { 90, 7, "The Azim Steppe", "Kurma", "B" },
+                    { 81, 7, "The Dravanian Hinterlands", "The Pale Rider", "S" },
+                    { 83, 7, "The Peaks", "Buccaboo", "B" },
+                    { 84, 7, "Yanxia", "Deidar", "B" },
+                    { 85, 7, "The Ruby Sea", "Gauki Strongblade", "B" },
+                    { 86, 7, "The Ruby Sea", "Guhuo Niao", "B" },
+                    { 87, 7, "The Peaks", "Gwas-y-neidr", "B" },
+                    { 88, 7, "Yanxia", "Gyorai Quickstrike", "B" },
+                    { 82, 7, "The Azim Steppe", "Aswang", "B" },
+                    { 74, 7, "Azys Lla", "Stench Blossom", "A" },
+                    { 108, 7, "The Ruby Sea", "Okina", "S" },
+                    { 110, 7, "The Lochs", "Salt and Light", "S" },
+                    { 129, 7, "Kholusia", "Huracan", "A" },
+                    { 130, 7, "Amh Araeng", "Maliktender", "A" },
+                    { 131, 7, "Amh Araeng", "Sugaar", "A" },
+                    { 132, 7, "The Rak'tika Greatwood", "Grassman", "A" },
+                    { 133, 7, "The Rak'tika Greatwood", "Supay", "A" },
+                    { 134, 7, "The Tempest", "Baal", "A" },
+                    { 128, 7, "Kholusia", "Li'l Murderer", "A" },
+                    { 135, 7, "The Tempest", "Rusalka", "A" },
+                    { 137, 7, "Il Mheg", "Aglaope", "S" },
+                    { 138, 7, "Kholusia", "Forgiven Pedantry", "S" },
+                    { 139, 7, "Amh Araeng", "Tarchia", "S" },
+                    { 140, 7, "The Rak'tika Greatwood", "Ixtab", "S" },
+                    { 141, 7, "The Tempest", "Gunitt", "S" },
+                    { 142, 7, "Norvrandt", "The Forgiven Rebellion", "SS" },
+                    { 136, 7, "Lakeland", "Tyger", "S" },
+                    { 109, 7, "The Azim Steppe", "Orghana", "S" },
+                    { 127, 7, "Il Mheg", "The Mudman", "A" },
+                    { 125, 7, "Lakeland", "Nuckelavee", "A" },
+                    { 111, 7, "The Fringes", "Udumbara", "S" },
+                    { 112, 7, "Lakeland", "La Velue", "B" },
+                    { 113, 7, "Lakeland", "Itzpapalotl", "B" },
+                    { 114, 7, "Il Mheg", "Domovoi", "B" },
+                    { 115, 7, "Il Mheg", "Vulpangue", "B" },
+                    { 116, 7, "Kholusia", "Coquecigrue", "B" },
+                    { 126, 7, "Il Mheg", "O Poorest Pauldia", "A" },
+                    { 117, 7, "Kholusia", "Indomitable", "B" },
+                    { 119, 7, "Amh Araeng", "Juggler Hecatomb", "B" },
+                    { 120, 7, "The Rak'tika Greatwood", "Mindmaker", "B" },
+                    { 121, 7, "The Rak'tika Greatwood", "Pachamama", "B" },
+                    { 122, 7, "The Tempest", "Deacon", "B" },
+                    { 123, 7, "The Tempest", "Gilshs Aath Swiftclaw", "B" },
+                    { 124, 7, "Lakeland", "Nariphon", "A" },
+                    { 118, 7, "Amh Araeng", "Worm of the Well", "B" },
+                    { 73, 7, "The Dravanian Hinterlands", "Slipkinx Steeljoints", "A" },
+                    { 72, 7, "The Sea of Clouds", "Sisiutl", "A" },
+                    { 71, 7, "The Dravanian Forelands", "Pylraster", "A" },
+                    { 20, 7, "Northern Thanalan", "Dalvag's Final Flame", "A" },
+                    { 21, 7, "Central Shroud", "Forneus", "A" },
+                    { 22, 7, "South Shroud", "Ghede Ti Malice", "A" },
+                    { 23, 7, "North Shroud", "Girtab", "A" },
+                    { 24, 7, "Eastern La Noscea", "Hellsclaw", "A" },
+                    { 25, 7, "Mor Dhona", "Kurrea", "A" },
+                    { 19, 7, "Outer La Noscea", "Cornu", "A" },
+                    { 26, 7, "Eastern Thanalan", "Maahes", "A" },
+                    { 28, 7, "Coerthas Central Highlands", "Marraco", "A" },
+                    { 29, 7, "East Shroud", "Melt", "A" },
+                    { 30, 7, "Western La Noscea", "Nahn", "A" },
+                    { 31, 7, "Central Thanalan", "Sabotender Bailarina", "A" },
+                    { 32, 7, "Lower La Noscea", "Unktehi", "A" },
+                    { 33, 7, "Middle La Noscea", "Vogaal Ja", "A" },
+                    { 27, 7, "Upper La Noscea", "Marberry", "A" },
+                    { 34, 7, "Southern Thanalan", "Zanig'oh", "A" },
+                    { 18, 7, "Western Thanalan", "Alectryon", "A" },
+                    { 16, 7, "Outer La Noscea", "Vuokho", "B" },
+                    { 2, 7, "Lower La Noscea", "Barbastelle", "B" },
+                    { 3, 7, "Eastern La Noscea", "Bloody Mary", "B" },
+                    { 4, 7, "Western La Noscea", "Dark Helmet", "B" },
+                    { 5, 7, "Northern Thanalan", "Flame Sergeant Dalvag", "B" },
+                    { 6, 7, "Eastern Thanalan", "Gatling", "B" },
+                    { 7, 7, "Mor Dhona", "Leech King", "B" },
+                    { 17, 7, "Central Shroud", "White Joker", "B" },
+                    { 8, 7, "South Shroud", "Monarch Ogrefly", "B" },
+                    { 10, 7, "Coerthas Central Highlands", "Naul", "B" },
+                    { 11, 7, "Central Thanalan", "Ovjang", "B" },
+                    { 12, 7, "North Shroud", "Phecda", "B" },
+                    { 13, 7, "Western Thanalan", "Sewer Syrup", "B" },
+                    { 14, 7, "Middle La Noscea", "Skogs Fru", "B" },
+                    { 15, 7, "East Shroud", "Stinging Sophie", "B" },
+                    { 9, 7, "Upper La Noscea", "Myradrosh", "B" },
+                    { 35, 7, "Mor Dhona", "Agrippa the Mighty", "S" },
+                    { 36, 7, "Western La Noscea", "Bonnacon", "S" },
+                    { 37, 7, "Central Thanalan", "Brontes", "S" },
+                    { 57, 7, "Azys Lla", "Omni", "B" },
+                    { 58, 7, "The Dravanian Hinterlands", "Pterygotus", "B" },
+                    { 59, 7, "The Sea of Clouds", "Sanu Vali of Dancing Wings", "B" },
+                    { 60, 7, "The Churning Mists", "Scitalis", "B" },
+                    { 61, 7, "The Sea of Clouds", "Squonk", "B" },
+                    { 62, 7, "The Churning Mists", "The Scarecrow", "B" },
+                    { 56, 7, "Azys Lla", "Lycidas", "B" },
+                    { 63, 7, "The Dravanian Forelands", "Thextera", "B" },
+                    { 65, 7, "The Churning Mists", "Bune", "A" },
+                    { 66, 7, "Azys Lla", "Campacti", "A" },
+                    { 67, 7, "The Sea of Clouds", "Enkelados", "A" },
+                    { 68, 7, "The Dravanian Forelands", "Lord of the Wyverns", "A" },
+                    { 69, 7, "Coerthas Western Highlands", "Lyuba", "A" },
+                    { 70, 7, "Coerthas Western Highlands", "Mirka", "A" },
+                    { 64, 7, "The Churning Mists", "Agathos", "A" },
+                    { 55, 7, "Coerthas Western Highlands", "Kreutzet", "B" },
+                    { 54, 7, "The Dravanian Forelands", "Gnath Cometdrone", "B" },
+                    { 53, 7, "The Dravanian Hinterlands", "False gigantopithecus", "B" },
+                    { 38, 7, "Outer La Noscea", "Chernobog", "S" },
+                    { 39, 7, "Lower La Noscea", "Croakadile", "S" },
+                    { 40, 7, "Middle La Noscea", "Croque-mitaine", "S" },
+                    { 41, 7, "Central Shroud", "Laideronnette", "S" },
+                    { 42, 7, "Eastern Thanalan", "Lampalagua", "S" },
+                    { 43, 7, "South Shroud", "Mindflayer", "S" },
+                    { 44, 7, "Northern Thanalan", "Minhocao", "S" },
+                    { 45, 7, "Upper La Noscea", "Nandi", "S" },
+                    { 46, 7, "Southern Thanalan", "Nunyunuwi", "S" },
+                    { 47, 7, "Coerthas Central Highlands", "Safat", "S" },
+                    { 48, 7, "Eastern La Noscea", "The Garlok", "S" },
+                    { 49, 7, "North Shroud", "Thousand-cast Theda", "S" },
+                    { 50, 7, "East Shroud", "Wulgaru", "S" },
+                    { 51, 7, "Western Thanalan", "Zona Seeker", "S" },
+                    { 52, 7, "Coerthas Western Highlands", "Alteci", "B" },
+                    { 143, 7, "Special", "Formidable", "SS" },
+                    { 144, 7, "Special", "Archaeotania", "SS" }
+                });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_TheHuntTasks_CategoryId",
+                table: "TheHuntTasks",
+                column: "CategoryId");
+        }
+
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropTable(
+                name: "TheHuntTasks");
+        }
+    }
+}

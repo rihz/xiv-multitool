@@ -1,0 +1,173 @@
+Group,Name,Points,Description,Reward
+Guildhests,Serving a Greater Cause I,5,Complete 5 guildhests.
+Guildhests,Serving a Greater Cause II,5,Complete 10 guildhests.
+Guildhests,Serving a Greater Cause III,5,Complete 20 guildhests.
+Guildhests,Serving a Greater Cause IV,5,Complete 30 guildhests.
+Guildhests,Serving a Greater Cause V,5,Complete 50 guildhests.
+Guildhests,Serving a Greater Cause VI,10,Complete 100 guildhests.,Title: The Last Resort
+Guildhests,Enraptured Servitude,20,Complete 200 guildhests.
+Guildhests,Father Knows Hest I,5,Complete 3 unique guildhests.
+Guildhests,Father Knows Hest II,5,Complete 7 unique guildhests.
+Guildhests,Father Knows Hest III,10,Complete 14 unique guildhests.
+Level 30,The Greatest Tales Ever Told,20,Complete all the class quests available at level 30.,Item: Chronicler's Crown
+Level 30,Tales of Magic,10,Complete all the Disciple of Magic quests available at level 30.,Title: Seeker of Truth
+Level 30,Tales of the Land,10,Complete all the Disciple of the Land quests available at level 30.,Title: Seeker of Bounty
+Level 30,Tales of the Hand,10,Complete all the Disciple of the Hand quests available at level 30.,Title: Seeker of Skill
+Level 30,Tales of War,10,Complete all the Disciple of War quests available at level 30.,Title: Seeker of Blood
+Completionist,Career Opportunities,20,"Obtain the following seven achievements: ""Like a Knight in Shining Armor I,"" ""Bulletproof I,"" ""I Am the Warrior I,"" Dragoon Age I,"" ""A Bard's Tale I,"" ""Seeing White I,"" and ""Back in Black I.""",Title: The Professional
+Relic Weapons,Anima Crossing,20,"Complete the quest ""Coming into Its Own.""",Title: The Noumenon
+Relic Weapons,What's Nexus,10,"Complete the quest ""His Dark Materia."""
+Relic Weapons,Walking on Sunshine,10,"Complete the quest ""I Believe I Can Fly.""",Title: Lighter than Air
+Level 30,"This One Time, at Level Thirty...",5,Complete any one of the Disciple of War or Magic class quests available at level 30.
+MSQ,Back from the Wood,5,"Complete the main scenario quest ""Back from the Wood."""
+MSQ,Skeletons,5,"Complete the main scenario quest ""Skeletons in Her Closet."""
+MSQ,Those Who Wait,5,"Complete the main scenario quest ""All Good Things."""
+MSQ,History Repeating,5,"Complete the main scenario quest ""In Pursuit of the Past."""
+Unique Quests,Storyteller I,5,Complete 10 unique quests.
+MSQ,Free Wing Night,10,"Complete the main scenario quest ""Lady of the Vortex."""
+Unique Quests,Storyteller II,10,Complete 30 unique quests.
+Sidequests,The Truth Is Down There,10,"Complete the quest ""Alisaie's Pledge."""
+Sidequests,I Like Big Fish and I Cannot Lie,10,"Complete the quest ""The Beast of Brewer's Beacon.""",Title: The Ambitious Angler
+Sidequests,The Postmoogle Always Rings Twice,10,"Complete the quest ""Of Errant Epistles.""",Title: The Postman/Postwoman
+Sidequests,The Rest of the Story,10,"Complete the quest ""The Greatest Story Never Told."""
+Sidequests,Postal,10,"Complete the quest ""The Little Postmoogle that Could.""",Title: Postmaster
+Sidequests,Awake the Metal,10,"Complete the quest ""Enigma.""",Title: Illuminati Quencher
+Sidequests,The War Still Wageth On,20,"Complete the quests ""Thok Around the Clock"" and ""The Diabolical Bismarck.""",Title: Finder of False Gods
+MSQ,So it Goes,10,"Complete the quest ""As Goes Light, So Goes Darkness.""",Title: House Fortemps Knight
+Sidequests,Paying the Bills,10,"Complete the quest ""To Rule the Skies.""",Title: Sky Pirate
+Sidequests,Back to School I,10,"Complete the quest ""More than Meets Her Eye.""",Title: Special Advisor
+Sidequests,First Gear,10,"Complete the quest ""Causes and Costs.""",Title: The Gear of Change
+Sidequests,The Midas Touch,10,"Complete the quest ""A Gob in the Machine.""",Title: Allthoughts
+Sidequests,I'll Sleep When I'm Dead,10,"Complete the quest ""The Nightmare's End.""",Title: The Chief Mourner
+Sidequests,Floor the Horde,10,"Complete the quest ""Litany of Peace.""",Title: The Dragonsong
+Sidequests,On the Road Again,10,"Complete the quest ""The Burdens We Bear."""
+Sidequests,Back to School II,10,"Complete the quest ""Finding Ulaa."""
+Sidequests,Back in Time,10,"Complete the quest ""Of Endings and Beginnings.""",Title: The Wings of Time
+Sidequests,"No Retreat, No Surrender",10,"Complete the quest ""An Ending to Mark a New Beginning.""",Title: Surrender of Souls
+Sidequests,Dead Tired,10,"Complete the quest ""Dead but Not Gone.""",Title: Corpse Dancer
+Sidequests,School's Out Forever,10,"Complete the quest ""Louisoix's Finest Student.""",Title: The Finest Pupil's Ally
+Sidequests,Five Minutes of Fate,10,"Complete the quest ""The Far Edge of Fate.""",Title: Fatewalker
+Sidequests,Back to School III,10,"Complete the quest ""The Life and Lies of Father Saturnois.""",Title: Of the Holy Body
+Sidequests,That is What You Are,10,"Complete the quest ""If I Could Turn Back Time.""",Title: Gigi's Best Friend
+Sidequests,"Good Night, Sweet Hildy",10,"Complete the quest ""Don't Do the Dewprism.""",Title: Soboro
+Sidequests,Delta Force,10,"Complete the quest ""The Anonaly.""",Title: Deltascape Deleter
+MSQ,Warrior of Light,20,Complete all the main scenario quests.
+Unique Quests,Storyteller III,20,Complete 100 unique quests.
+MSQ,A Realm Awoken,20,"Complete the main scenario quest ""Build on the Stone."""
+MSQ,Through the Maelstrom,20,"Complete the main scenario quest ""Through the Maelstrom."""
+MSQ,You Can Handle the Truth,20,"Complete the quest ""Alisaie's Resolve."""
+MSQ,Eorzea Defended,20,"Complete the quest ""Brave New Companions.""",Title: Defender of Eorzea
+MSQ,Dreams of Ice,20,"Complete the quest ""Let Us Cling Together.""",Title: Icebreaker
+MSQ,Uncoiled,20,"Complete the quest ""Alisaie's Path.""",Title: The Final Witness
+MSQ,Out of the Dark,20,"Complete the quest ""The Light of Hope.""",Title: Of the Silver Lining
+MSQ,I'll Be There for You,20,"Complete the quest ""Her Last Vow.""",Title: Gentleman/Gentlewoman
+MSQ,Home of the Brave,20,"Complete the quest ""The Vital Title."""
+MSQ,My Left Arm,20,"Complete the quest ""Before the Dawn.""",Title: Bearer of the Torch
+MSQ,Lucky Number 7,20,"Complete the quest ""Disclosure.""",Title: Unbeliever
+MSQ,Gaol Break,20,"Complete the quest ""Keeping the Flame Alive.""",Title: The Redeemed
+MSQ,Orthodox Mayhem,20,"Complete the quest ""Unrest in Ishgard.""",Title: Nidhogg Slayer
+MSQ,You Say You Want a Revolution,20,"Complete the quest ""The Sins of Antiquity.""",Title: Of the Silver Fuller
+MSQ,The Faith that Drives Us,20,"Complete the quest ""One Good Turn.""",Title: Imperial Nuisance
+MSQ,Hope Enkindled,20,"Complete the quest ""Hour of Departure.""",Title: Under-archon
+MSQ,Looking Up,20,"Complete the quest ""Heavensward.""",Title: The End of Ascalon
+MSQ,Incidentally Speaking,20,"Complete the quest ""Not Without Incident.""",Title: Survivor of the Song
+MSQ,Destination Unknown,20,"Complete the quest ""Once More, To the Ruby See.""",Title: Ijin Traveller
+MSQ,Unexplained,20,"Complete the quest ""Tide Goes In, Imperials Go Out.""",Title: Confederate
+MSQ,Put Your Wings Up,20,"Complete the quest ""All the Little Angels.""",Title: Adversary
+MSQ,Crimson Footprints,20,"Complete the quest ""In Crimson They Walked.""",Title: Steppe Warrior
+MSQ,Catch Me if You Can,20,"Complete the quest ""A Swift and Secret Departure.""",Title: The Returned
+MSQ,Cheek to Cheek,20,"Complete the quest ""The Lady in Red.""",Title: Lyse's Right Fist
+MSQ,The Measure of His Reach,20,"Complete the quest ""Stormblood.""",Title: The Liberator
+MSQ,More Heroes,20,"Complete the quest ""Return of the Bull.""",Title: Raubahn's Left Arm
+MSQ,Solar Cycle,20,"Complete the quest ""Rise of a New Sun.""",Title: The New Sun
+MSQ,Lunar Cycle,20,"Complete the quest ""Under the Moonlight.""",Title: Under the Moonlight
+MSQ,Imagine Dragon,30,"Complete the quest ""Feast of Famine.""",Title: Of Dragons Deep
+MSQ,A History of Violet,20,"Complete the main quest ""Prelude in Violet""",Title: Preluse in Violet
+MSQ,Swan Song,20,"Complete the quest ""A Requiem for Heroes.""",Title: A Requiem For Heroes
+MSQ,Between Two Worlds,20,"Complete the quest ""Warrior of Darkness.""",Title: Outlander
+MSQ,Realpolitik,20,"Complete the quest ""The Wheel Turns.""",Title: The Fae-touched
+MSQ,Journey to the Past,20,"Complete the quest ""Out of the Wood.""",Title: Seeker of Hidden Truths
+MSQ,Shrouded in Darkness,20,"Complete the quest ""More than a Hunch.""",Title: Of the Sunless Sea
+MSQ,Warden of Light,20,"Complete the quest ""Extinguishing the Last Light.""",Title: Enemy of Innocence
+MSQ,Shadowbringers,20,"Complete the quest ""Shadowbringers.""",Title: Shadowbringer
+MSQ,Black and White,20,"Complete the quest ""Vows of Virtue, Deeds of Cruelty.""",Title: Of Virtuous Deeds
+Paladin,Like a Knight in Shining Armor I,5,"Complete the paladin job quest ""Keeping the Oath."""
+Paladin,Like a Knight in Shining Armor II,5,"Complete the paladin job quest ""This Little Sword of Mine.""",Title: The Oathkeeper
+Paladin,Like a Knight in Shining Armor III,5,"Complete the paladin job quest ""Raising the Sword.""",Title: UI Cup Champion
+Paladin,Like a Knight in Shining Armor IV,5,"Complete the paladin job quest ""Worth Fighting For.""",Title: Bulwark Between Worlds
+Monk,Bulletproof I,5,"Complete the monk job quest ""Five Easy Pieces."""
+Monk,Bulletproof II,5,"Complete the monk job quest ""Appetite for Destruction.""",Title: Of the 14th Chakra
+Monk,Bulletproof III,5,"Complete the monk job quest ""The Power to Protect.""",Title: The Fistful
+Monk,Bulletproof IV,5,"Complete the monk job quest ""A Monk's Legacy.""",Title: The Transcendent
+Warrior,I Am the Warrior I,5,"Complete the warrior job quest ""How to Quit You."""
+Warrior,I Am the Warrior II,5,"Complete the warrior job quest ""And My Axe.""",Title: The Mythril Heart
+Warrior,I Am the Warrior III,5,"Complete the warrior job quest ""The Heart of the Problem.""",Title: Loved by the Axe
+Warrior,I Am the Warrior IV,5,"Complete the warrior job quest ""Once, Twice, Three Times a Warrior.""",Title: Worldcleaver
+Dragoon,Dragoon Age I,5,"Complete the dragoon job quest ""Into the Dragon's Maw."""
+Dragoon,Dragoon Age II,5,"Complete the dragoon job quest ""Dragoon's Fate.""",Title: The Azure Dragoon
+Dragoon,Dragoon Age III,5,"Complete the dragoon job quest ""Dragon Sound.""",Title: The Blood Dragoon
+Dragoon,Dragoon Age IV,5,"Complete the dragoon job quest ""Gone but Not Forgiven.""",Title: Bolt from the Black
+Bard,A Bard's Tale I,5,"Complete the bard job quest ""Requiem for the Fallen."""
+Bard,A Bard's Tale II,5,"Complete the bard job quest ""The Ballad of Oblivion.""",Title: Skysinger
+Bard,A Bard's Tale III,5,"Complete the bard job quest ""Sweet Dreams Are Made of Peace.""",Title: Of the True Autumn
+Bard,A Bard's Tale IV,5,"Complete the bard job quest ""A Harmony from the Heavens.""",Title: The Song upon the Wind
+White Mage,Seeing White I,5,"Complete the white mage job quest ""Heart of the Forest."""
+White Mage,Seeing White II,5,"Complete the white mage job quest ""Hands of Healing.""",Title: Pure White
+White Mage,Seeing White III,5,"Complete the white mage job quest ""What She Always Wanted.""",Title: Padjal Protector
+White Mage,Seeing White IV,5,"Complete the white mage job quest ""Whence the Healing Springs.""",Title: Firstblessed
+Black Mage,Back in Black I,5,"Complete the black mage job quest ""Always Bet on Black."""
+Black Mage,Back in Black II,5,"Complete the black mage job quest ""The Defiant Ones.""",Title: Annihilator
+Black Mage,Back in Black III,5,"Complete the black mage job quest ""One Golem to Rule Them All.""",Title: Gembreaker
+Black Mage,Back in Black IV,5,"Complete the black mage job quest ""A Home for a Tome.""",Title: Of Stranger Shadow
+Summoner,Soul Summoner I,5,"Complete the summoner job quest ""Primal Burdens."""
+Summoner,Soul Summoner II,5,"Complete the summoner job quest ""A Flare for the Dramatic.""",Title: Dreadspawn
+Summoner,Soul Summoner III,5,"Complete the summoner job quest ""An Art for the Living.""",Title: The First Caller
+Summoner,Soul Summoner IV,5,"Complete the summoner job quest ""To Be Second Best.""",Title: Farcaller
+Scholar,Flying Colors I,5,"Complete the scholar job quest ""The Beast Within."""
+Scholar,Flying Colors II,5,"Complete the scholar job quest ""Forward, the Royal Marines.""",Title: Nymian Marine
+Scholar,Flying Colors III,5,"Complete the scholar job quest ""Our Unsung Heroes.""",Title: Keeper of the Lilacs
+Scholar,Flying Colors IV,5,"Complete the scholar job quest ""True Beauty.""",Title: Knower of Twin Worlds
+Ninja,Against the Ninja I,5,"Complete the ninja job quest ""Master and Student."""
+Ninja,Against the Ninja II,5,"Complete the ninja job quest ""In Her Defense.""",Title: The Darkest Shadow
+Ninja,Against the Ninja III,5,"Complete the ninja job quest ""When Clans Collide.""",Title: Eorzean Ninja
+Ninja,Against the Ninja IV,5,"Complete the ninja job quest ""Oboro's Big Idea.""",Title: Shadow of the Other
+Dark Knight,A Dark Day's Knight I,5,"Complete the dark knight job quest ""Our Answer."""
+Dark Knight,A Dark Day's Knight II,5,"Complete the dark knight job quest ""Absolution.""",Title: Blackblood
+Dark Knight,A Dark Day's Knight III,5,"Complete the dark knight job quest ""Our Compromise.""",Title: Of the Swirling Abyss
+Dark Knight,A Dark Day's Knight IV,5,"Complete the dark knight job quest ""Our Closure.""",Title: The Boundless Dark
+Machinist,"I'm a Machinist, Not a Man I",5,"Complete the machinist job quest ""The Power of a Tourney."""
+Machinist,"I'm a Machinist, Not a Man II",5,"Complete the machinist job quest ""Rise of the Machinists.""",Title: Liberator
+Machinist,"I'm a Machinist, Not a Man III",5,"Complete the machinist job quest ""The Mongrel and the Knight.""",Title: The Howling
+Machinist,"I'm a Machinist, Not a Man IV",5,"Complete the machinist job quest ""Machinists for the Morrow.""",Title: The Shot Heard Across Worlds
+Astrologian,The Stars in Our Faults I,5,"Complete the astrologian job quest ""Spearheading Initiatives."""
+Astrologian,The Stars in Our Faults II,5,"Complete the astrologian job quest ""The Hands of Fate.""",Title: Stargazer
+Astrologian,The Stars in Our Faults III,5,"Complete the astrologian job quest ""Foxfire.""",Title: Of the Eastern Skies
+Astrologian,The Stars in Our Faults IV,5,"Complete the astrologian job quest ""Love, Astrologically.""",Title: Distant Stargazer
+Samurai,SAM I Am I,5,"Complete the samurai job quest ""The Face of True Evil."""
+Samurai,SAM I Am II,5,"Complete the samurai job quest ""The Battle on Bekko.""",Title: Muso
+Samurai,SAM I Am III,5,"Complete the samurai job quest ""The Legend of Musosai.""",Title: Samurai in a Strange Land
+Red Mage,Red On Arrival I,5,"Complete the red mage job quest ""Stained in Scarlet."""
+Red Mage,Red On Arrival II,5,"Complete the red mage job quest ""With Heart and Steel.""",Title: The Red
+Red Mage,Red On Arrival III,5,"Complete the red mage job quest ""The Succession of Steel.""",Title: Dualistic Duelist
+Gunbreaker,Gunnhildr's Blade I,5,"Complete the gunbreaker job quest ""Steel against Steel.""",Title: Sworn Protector
+Gunbreaker,Gunnhildr's Blade II,5,"Complete the gunbreaker job quest ""Gunblades of the Patriots.""",Title: Wandering Vanguard
+Dancer,No Friends of Mine I,5,"Complete the dancer job quest ""Save the Lance Dance for Me.""",Title: The Heart's Beat
+Dancer,No Friends of Mine II,5,"Complete the dancer job quest ""Rising to the Occasion.""",Title: Riftdancer
+Role Quests,Speaker for the Righteous,5,"Complete the role quest ""To Have Loved and Lost."""
+Role Quests,Speaker for the Honorable,5,"Complete the role quest ""The Soul of Temperance."""
+Role Quests,Speaker for the Brave,5,"Complete the role quest ""Courage Born of Fear."
+Role Quests,Speaker for the Wise,5,"Complete the role quest ""A Tearful Reunion."""
+Sidequess,A Watched Pot,10,"Complete the quest ""Kettle to the Mettle.""",Title: Carrier of the Kettle
+MSQ,Leaving Limsa Lominsa,5,"Complete the main scenario quest ""The Lominsan Envoy."""
+MSQ,Gone from Gridania,5,"Complete the main scenario quest ""The Gridanian Envoy."""
+MSQ,Out of Ul'dah,5,"Complete the main scenario quest ""The Ul'dahn Envoy."""
+Sidequests,The New King on the Block,10,"Complete the quest ""The New King on the Block.""",Title: Monster Hunter
+Sidequests,Live to Serve,10,"Complete the quest ""In Bad Taste.""",Title: Lord/Lady of the Fetch
+Sidequests,What is it Good For,20,"Complete the quest ""The Face of War."""
+Role Quests,Tales to Be Told,10,"Complete the quest ""Shadow Walk with Me.""",Title: Living Memory
+Crystalline Mean,Precious Metals,5,"Complete the quest ""The Iron Bellows.""",Title: Otherworld Smith
+Crystalline Mean,Thank You for the Music,5,"Complete the quest ""The Notes of Bond Restoring.""",Title: Otherworld Artisan
+Crystalline Mean,Amaro Whisperer,5,"Complete the quest ""Healing Old Wounds.""",Title: Otherworld Apothecary
+Crystalline Mean,The Lost World,5,"Complete the quest ""The Myth Takes Form.""",Title: Otherworld Seeker
+Crystalline Mean,Live Long and Prospero,5,"Complete the quest ""Morsel of the Deep.""",Title: Otherworld Angler
+Crystalline Mean,The Golden Mean,10,"Complete the quest ""For Every Child a Star.""",Title: The Multifaceted

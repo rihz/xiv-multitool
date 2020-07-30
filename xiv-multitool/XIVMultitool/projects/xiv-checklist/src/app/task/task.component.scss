@@ -1,0 +1,28 @@
+.task-container {
+    display: inline-block;
+    padding: 0px 20px;
+    height: 50px;
+}
+
+.inner-task-container {
+    display: flex;
+}
+
+.task {
+    margin: 10px 5px 5px 3px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px !important;
+    border: 3px solid #4769b3;
+    color: #4769b3;
+    width: 550px;
+}
+
+.task-card {
+    display: flex;
+    margin: 0 0 0 auto;
+    position: relative;
+}

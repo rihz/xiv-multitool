@@ -1,0 +1,94 @@
+Group,Name,Points,Description,Reward
+Leveling DoW/DoM,A Life of Adventure I,30,Obtain the achievements Mastering War I and Mastering Magic I.,Item: Paragon's Crown
+Leveling DoW/DoM,A Life of Adventure II,30,Obtain the achievements Mastering War II and Mastering Magic II.,Item: Warlord's Crown
+Leveling DoW/DoM,A Life of Adventure II,30,Obtain the achievements Mastering War III and Mastering Magic III.,Item: Dynasty Crown
+Leveling DoW/DoM,A Life of Adventure IV,30,Obtain the achievements Mastering War IV and Mastering Magic IV.,Mount: Amaro
+Fashion Report,You Look Marvelous I,5,Be awarded a total of 80 points in the Fashion Report.Not Counted:,0
+Fashion Report,You Look Marvelous II,5,Be awarded a total of 90 points in the Fashion Report.,Title: Fashion Leader
+Fashion Report,You Look Marvelous III,10,Be awarded a total of 100 points in the Fashion Report.
+Leveling DoL,Mastering the Land I,20,"Achieve level 50 as a miner, botanist, and fisher.",Title: Provider of the Realm
+Leveling DoL,Mastering the Land II,20,"Achieve level 60 as a miner, botanist, and fisher.",Title: Grandmaster of the Land
+Leveling DoL,Mastering the Land III,20,"Achieve level 70 as a miner, botanist, and fisher.",Title: God/Goddess of the Land
+Leveling DoL,Mastering the Land IV,20,"Achieve level 80 as a miner, botanist, and fisher.",Title: Soul of the Harvest
+Ventures,Can't Someone Else Do It I,5,Complete 5 retainer ventures.
+Ventures,Can't Someone Else Do It II,5,Complete 50 retainer ventures.
+Ventures,Can't Someone Else Do It III,10,Complete 100 retainer ventures.
+Ventures,"Nothing Ventured, Nothing Gained",20,Complete 500 retainer ventures.
+Leveling DoH,Mastering the Hand I,20,"Achieve level 50 as a carpenter, blacksmith, armorer, goldsmith, leatherworker, weaver, alchemist, and culinarian.",Title: Builder of the Realm
+Leveling DoH,Mastering the Hand II,20,"Achieve level 60 as a carpenter, blacksmith, armorer, goldsmith, leatherworker, weaver, alchemist, and culinarian.",Title: Grandmaster of the Hand
+Leveling DoH,Mastering the Hand III,20,"Achieve level 70 as a carpenter, blacksmith, armorer, goldsmith, leatherworker, weaver, alchemist, and culinarian.",Title: God/Goddess of the Hand
+Leveling DoH,Mastering the Hand IV,20,"Achieve level 80 as a carpenter, blacksmith, armorer, goldsmith, leatherworker, weaver, alchemist, and culinarian.",Title: Soul of the Craft
+Leveling DoW,Mastering War I,20,"Achieve level 50 as a gladiator, pugilist, marauder, archer, and lancer.",Title: Warmonger
+Leveling DoW,Mastering War II,20,"Achieve level 60 as a gladiator, pugilist, marauder, lancer, archer, rogue, dark knight, and machinist.",Title: Grandmaster of War
+Leveling DoW,Mastering War III,20,"Achieve level 70 as a gladiator, pugilist, marauder, lancer, archer, rogue, dark knight, machinist, and samurai.",Title: God/Goddess of the War
+Leveling DoW,Mastering War IV,20,"Achieve level 80 as a gladiator, pugilist, marauder, lancer, archer, rogue, dark knight, machinist, samurai, gunbreaker and dancer.",Title: Soul of War
+Leveling DoM,Mastering Magic I,20,"Achieve level 50 as a conjurer, thaumaturge, and arcanist.",Title: Archmage
+Leveling DoM,Mastering Magic II,20,"Achieve level 60 as a conjurer, thaumaturge, arcanist, and astrologian.",Title: Grandmaster of Magic
+Leveling DoM,Mastering Magic III,20,"Achieve level 70 as a conjurer, thaumaturge, arcanist, astrologian, and red mage.",Title: God/Goddess of the Magic
+Leveling DoM,Mastering Magic IV,20,"Achieve level 80 as a conjurer, thaumaturge, arcanist, astrologian, and red mage.",Title: Soul of Magic
+Doman Enclave,Bio-Doma I,5,See the Doman Enclave through the first phase of reconstruction.
+Doman Enclave,Bio-Doma II,10,See the Doman Enclave through the second phase of reconstruction.
+Doman Enclave,Bio-Doma III,10,See the Doman Enclave through the third phase of reconstruction.
+Doman Enclave,Bio-Doma IV,10,See the Doman Enclave through the fourth phase of reconstruction.
+Doman Enclave,Bio-Doma V,20,See the Doman Enclave through the fifth phase of reconstruction.,Title: Philanthropist
+Duty Roulette,I Hope Mentor Will Notice Me I,5,Complete 10 duties via Duty Roulette: Mentor.
+Duty Roulette,I Hope Mentor Will Notice Me II,5,Complete 50 duties via Duty Roulette: Mentor.,Title: Mentor
+Duty Roulette,I Hope Mentor Will Notice Me III,5,Complete 200 duties via Duty Roulette: Mentor.,Item: Expeditioner's Flyers
+Duty Roulette,I Hope Mentor Will Notice Me IV,5,Complete 500 duties via Duty Roulette: Mentor.,Title: Mentor of Mentors
+Duty Roulette,I Hope Mentor Will Notice Me V,10,"Complete 1,000 duties via Duty Roulette: Mentor.",Item: Dragon Monacle
+Duty Roulette,I Hope Mentor Will Notice Me VI,20,"Complete 2,000 duties via Duty Roulette: Mentor.",Mount: Astrope
+Companion,Breaking Bo,5,Train another player's chocobo companion 30 times.,Barding: Plumed Barding
+Aether Currents,Freebird: Coerthas Western Highlands,5,Attune with all the aether currents in the Coerthas western highlands.
+Aether Currents,Freebird: Dravanian Forelands,5,Attune with all the aether currents in the Dravanian forelands.
+Aether Currents,Freebird: Dravanian Hinterlands,5,Attune with all the aether currents in the Dravanian hinterlands.
+Aether Currents,Freebird: Churning Mists,5,Attune with all the aether currents in the Churning Mists.
+Aether Currents,Freebird: Sea of Clouds,5,Attune with all the aether currents in the Sea of Clouds.
+Aether Currents,Freebird: Azys Lla,5,Attune with all the aether currents on Azys Lla.
+Aether Currents,Freebird: The Fringes,5,Attune with all the aether currents on The Fringes.
+Aether Currents,Freebird: The Peaks,5,Attune with all the aether currents on The Peaks.
+Aether Currents,Freebird: The Lochs,5,Attune with all the aether currents on The Lochs.
+Aether Currents,Freebird: Ruby Sea,5,Attune with all the aether currents on the Ruby Sea.
+Aether Currents,Freebird: Yanxia,5,Attune with all the aether currents on Yanxia.
+Aether Currents,Freebird: Azim Steppe,5,Attune with all the aether currents on Azim Steppe.
+Aether Currents,Freebird: Lakeland,5,Attune with all the aether currents on Lakeland.
+Aether Currents,Freebird: Kholusia,5,Attune with all the aether currents on Kholusia.
+Aether Currents,Freebird: Amh Araeng,5,Attune with all the aether currents on Amh Araeg.
+Aether Currents,Freebird: Il Mheg,5,Attune with all the aether currents on Il Mheg.
+Aether Currents,Freebird: The Rak'tika Greatwood,5,Attune with all the aether currents on The Rak'tika Greatwood.
+Aether Currents,Freebird: The Tempest,5,Attune with all the aether currents in the Tempest.
+Aether Currents,Frequent Flyer,10,"Obtain first six ""Freebird"" achievements."
+Aether Currents,Frequent Flyer II,10,"Obtain next six ""Freebird"" achievements."
+Aether Currents,Frequent Flyer III,10,"Obtain ""Freebird"" achievements for Lakeland, Kholusia, Amh Araeng, Il Mheg, the Rak'tika Greatwood, and the Tempest. "
+Trust Level,Bound by Faith,20,"Achieve trust level 80 with the avatars for Alphinaud, Alisaie, Thancred, Urianger, Y'shtola, and Ryne. ",Title: Trusted Friend
+Custom Deliveries,Satisfaction Guaranteed: Zhloe Aliapoh I,5,Achieve a satisfaction level of 1 with Zhloe Aliapoh.
+Custom Deliveries,Satisfaction Guaranteed: Zhloe Aliapoh II,5,Achieve a satisfaction level of 2 with Zhloe Aliapoh.
+Custom Deliveries,Satisfaction Guaranteed: Zhloe Aliapoh III,5,Achieve a satisfaction level of 3 with Zhloe Aliapoh.
+Custom Deliveries,Satisfaction Guaranteed: Zhloe Aliapoh IV,5,Achieve a satisfaction level of 4 with Zhloe Aliapoh.
+Custom Deliveries,Satisfaction Guaranteed: Zhloe Aliapoh V,10,Achieve a satisfaction level of 5 with Zhloe Aliapoh.,Title: Zhloe's Friend
+Custom Deliveries,Satisfaction Guaranteed: M'naago I,5,Achieve a satisfaction level of 1 with M'naago.
+Custom Deliveries,Satisfaction Guaranteed: M'naago II,5,Achieve a satisfaction level of 2 with M'naago.
+Custom Deliveries,Satisfaction Guaranteed: M'naago III,5,Achieve a satisfaction level of 3 with M'naago.
+Custom Deliveries,Satisfaction Guaranteed: M'naago IV,5,Achieve a satisfaction level of 4 with M'naago.
+Custom Deliveries,Satisfaction Guaranteed: M'naago V,10,Achieve a satisfaction level of 5 with M'naago.,Title: Naago's Friend
+Custom Deliveries,Satisfaction Guaranteed: Kurenai I,5,Achieve a satisfaction level of 1 with Kurenai.
+Custom Deliveries,Satisfaction Guaranteed: Kurenai II,5,Achieve a satisfaction level of 2 with Kurenai.
+Custom Deliveries,Satisfaction Guaranteed: Kurenai III,5,Achieve a satisfaction level of 3 with Kurenai.
+Custom Deliveries,Satisfaction Guaranteed: Kurenai IV,5,Achieve a satisfaction level of 4 with Kurenai.
+Custom Deliveries,Satisfaction Guaranteed: Kurenai V,10,Achieve a satisfaction level of 5 with Kurenai.,Title: Kurenai's Best
+Custom Deliveries,Satisfaction Guaranteed: Adkiragh I,5,Achieve a satisfaction level of 1 with Adkiragh.
+Custom Deliveries,Satisfaction Guaranteed: Adkiragh II,5,Achieve a satisfaction level of 2 with Adkiragh.
+Custom Deliveries,Satisfaction Guaranteed: Adkiragh III,5,Achieve a satisfaction level of 3 with Adkiragh.
+Custom Deliveries,Satisfaction Guaranteed: Adkiragh IV,5,Achieve a satisfaction level of 4 with Adkiragh.
+Custom Deliveries,Satisfaction Guaranteed: Adkiragh V,5,Achieve a satisfaction level of 5 with Adkiragh.,Title: Little Piggie
+Custom Deliveries,Satisfaction Guaranteed: Kai-Shirr I,5,Achieve a satisfaction level of 1 with Kai-Shirr.
+Custom Deliveries,Satisfaction Guaranteed: Kai-Shirr II,5,Achieve a satisfaction level of 2 with Kai-Shirr.
+Custom Deliveries,Satisfaction Guaranteed: Kai-Shirr III,5,Achieve a satisfaction level of 3 with Kai-Shirr.
+Custom Deliveries,Satisfaction Guaranteed: Kai-Shirr IV,5,Achieve a satisfaction level of 4 with Kai-Shirr.
+Custom Deliveries,Satisfaction Guaranteed: Kai-Shirr V,10,Achieve a satisfaction level of 5 with Kai-Shirr.,Title: Kai-Shirr's Best Mate
+Wondrous Tails,And Khloe Was Her Name-o I,5,Successfully complete a series of Wondrous Tails.
+Wondrous Tails,And Khloe Was Her Name-o II,5,Successfully complete 5 series of Wondrous Tails.,Title: Khloe's Friend
+Wondrous Tails,And Khloe Was Her Name-o III,5,Successfully complete 10 series of Wondrous Tails.
+Wondrous Tails,And Khloe Was Her Name-o IV,5,Successfully complete 20 series of Wondrous Tails.
+Wondrous Tails,And Khloe Was Her Name-o V,5,Successfully complete 30 series of Wondrous Tails.
+Wondrous Tails,And Khloe Was Her Name-o VI,5,Successfully complete 40 series of Wondrous Tails.
+Wondrous Tails,And Khloe Was Her Name-o VII,10,Successfully complete 50 series of Wondrous Tails.,Title: Khloe's Best Friend

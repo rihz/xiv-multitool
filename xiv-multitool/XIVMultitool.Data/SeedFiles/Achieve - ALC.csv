@@ -1,0 +1,21 @@
+Group,Name,Points,Description,Reward
+Unique Recipes,I Made That: Alchemist I,5,Craft 30 unique alchemist recipes.
+Unique Recipes,I Made That: Alchemist II,5,Craft 60 unique alchemist recipes.
+Unique Recipes,I Made That: Alchemist III,10,Craft 110 unique alchemist recipes.,Item: Master Alchemist's Ring
+Unique Recipes,I Made That: Alchemist IV,10,Craft 170 unique alchemist recipes.
+Unique Recipes,I Made That: Alchemist V,10,Craft and record completion of 270 unique alchemist recipes.,Item: Blessed Cauldronkeep's Alembic
+Unique Recipes,I Made That: Alchemist VI,10,Craft and record completion of 370 unique alchemist recipes.,Item: Blessed Cauldronking's Alembic
+Synthesizing,Mixing It Up: Amateur,5,Successfully synthesize 50 times for level 1-10 alchemy recipes.
+Synthesizing,Mixing It Up: Initiate,5,Successfully synthesize 300 times for level 11-20 alchemy recipes.
+Synthesizing,Mixing It Up: Apprentice,5,Successfully synthesize 750 times for level 21-30 alchemy recipes.
+Synthesizing,Mixing It Up: Journeyman,5,"Successfully synthesize 1,500 times for level 31-40 alchemy recipes."
+Synthesizing,Mixing It Up: Artisan,10,"Successfully synthesize 3,000 times for level 41-50 alchemy recipes.",Title: Of the Golden Lead
+Synthesizing,Mixing It Up: Adept,10,"Successfully synthesize 1,000 times for level 51-60 alchemy recipes."
+Synthesizing,Mixing It Up: Veteran,10,"Successfully synthesize 1,000 times for level 61-70 alchemy recipes."
+Synthesizing,Mixing It Up: Master,10,"Successfully synthesize 1,000 times for level 71-80 alchemy recipes."
+Synthesizing,An Alchemist's Life for Me,30,"Obtain the first five ""Mixing it Up"" achievements.",Item: Alembic of the Luminary
+High Quality Crafts,An Eye for Detail: Alchemist I,5,Craft 100 high-quality items as an alchemist.
+High Quality Crafts,An Eye for Detail: Alchemist II,5,Craft 500 high-quality items as an alchemist.
+High Quality Crafts,An Eye for Detail: Alchemist III,10,"Craft 3,000 high-quality items as an alchemist."
+High Quality Crafts,An Eye for Detail: Alchemist IV,10,"Craft 5,000 high-quality items as an alchemist."
+High Quality Crafts,An Eye for Detail: Alchemist V,10,"Craft 10,000 high-quality items as an alchemist.",Title: Master Alchemist

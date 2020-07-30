@@ -1,0 +1,28 @@
+<div class="task-container">
+  <div class="inner-task-container">
+    <div class="task-card">
+      <mat-card class="task">
+        <achievement-task *ngIf="task.taskTypeId === 1" [task]="task" [position]="position"></achievement-task>
+        <blu-carnivale-task *ngIf="task.taskTypeId === 2" [task]="task" [position]="position"></blu-carnivale-task>
+        <blu-log-task *ngIf="task.taskTypeId === 3" [task]="task" [position]="position"></blu-log-task>
+        <blu-spell-task *ngIf="task.taskTypeId === 4" [task]="task" [position]="position"></blu-spell-task>
+        <collection-task *ngIf="isCollectionTask()" [task]="task"></collection-task>
+        <crafting-log-task *ngIf="task.taskTypeId === taskTypes.craftingLog" [task]="task"></crafting-log-task>
+        <fate-task *ngIf="task.taskTypeId === taskTypes.fate" [task]="task"></fate-task>
+        <fish-guide-task *ngIf="task.taskTypeId === taskTypes.fishGuide" [task]="task"></fish-guide-task>
+        <gathering-log-task *ngIf="task.taskTypeId === taskTypes.gatheringLog" [task]="task"></gathering-log-task>
+        <mat-button-toggle-group class="button-group">
+            <mat-button-toggle value="untrack" class="untrack">
+                <mat-icon>close</mat-icon>
+            </mat-button-toggle>
+            <mat-button-toggle [checked]="true" value="clear" class="clear">
+                <mat-icon>horizontal_rule</mat-icon>
+            </mat-button-toggle>
+            <mat-button-toggle value="check" class="check">
+                <mat-icon>check</mat-icon>
+            </mat-button-toggle>
+        </mat-button-toggle-group>
+      </mat-card>
+    </div>
+  </div>
+</div>
