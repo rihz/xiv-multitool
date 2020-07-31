@@ -12,7 +12,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "xiv",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -133,7 +133,7 @@
       },
       "root": "projects/xiv-checklist",
       "sourceRoot": "projects/xiv-checklist/src",
-      "prefix": "app",
+      "prefix": "chk",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -254,7 +254,7 @@
       },
       "root": "projects/xiv-ledger",
       "sourceRoot": "projects/xiv-ledger/src",
-      "prefix": "app",
+      "prefix": "lgr",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",

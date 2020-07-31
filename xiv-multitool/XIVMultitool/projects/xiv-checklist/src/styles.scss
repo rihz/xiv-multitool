@@ -27,10 +27,6 @@ $XIVChecklist-theme: mat-light-theme($XIVChecklist-primary, $XIVChecklist-accent
 @include angular-material-theme($XIVChecklist-theme);
 
 /* You can add global styles to this file, and also import other style files */
-body {
-    font-family: Arial, Verdana, sans-serif;
-}
-
 .banner.untracked {
     background-color: #d1d1d1;
 }
