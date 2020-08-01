@@ -10,6 +10,9 @@ import { MatIconModule } from '@angular/material/icon';
 import { AppPanelComponent } from './app-panel/app-panel.component';
 import { MatCardModule } from '@angular/material/card';
 import { MatSelectModule } from '@angular/material/select';
+import { MatButtonModule } from '@angular/material/button';
+import { SharedModule } from './shared/shared/shared.module';
+import { UserService } from './shared/services/user.service';
 
 @NgModule({
   declarations: [
@@ -23,9 +26,11 @@ import { MatSelectModule } from '@angular/material/select';
     XIVChecklistModule,
     XIVLedgerModule,
     MatCardModule,
-    MatSelectModule
+    MatSelectModule,
+    MatButtonModule,
+    SharedModule
   ],
-  providers: [],
+  providers: [UserService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

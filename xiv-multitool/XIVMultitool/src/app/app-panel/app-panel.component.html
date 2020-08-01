@@ -1,3 +1,3 @@
-<mat-card>
-    {{ appName }}
+<mat-card [routerLink]="app.path" class="app-card selectable">
+    <img class="logo" [src]="app.logo" />
 </mat-card>

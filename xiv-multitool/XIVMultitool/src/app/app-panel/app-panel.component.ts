@@ -1,4 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
+import { AppPanel } from '../app.models';
 
 @Component({
   selector: 'xiv-app-panel',
@@ -6,8 +7,8 @@ import { Component, OnInit, Input } from '@angular/core';
   styleUrls: ['./app-panel.component.scss']
 })
 export class AppPanelComponent implements OnInit {
-  @Input() appName = '';
-  
+  @Input() app: AppPanel;
+
   constructor() { }
 
   ngOnInit(): void {
