@@ -112,3 +112,12 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
 .button-group .mat-button-toggle-label-content {
     line-height: 40px !important;
 }
+
+.ledger-tabs .mat-tab-header {
+    background-color: #41c55b;
+}
+
+.ledger-tabs .mat-tab-label {
+    color: white !important;
+    opacity: 1 !important;
+}

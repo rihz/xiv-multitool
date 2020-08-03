@@ -27,4 +27,15 @@ export class AppComponent {
 
     this.userService.register(user.email, user.password);
   }
+
+  testLogin() {
+    this.userService.login('jshields310@gmail.com', 'Test123!')
+      .subscribe(result => {
+        if(result) {
+          console.log('success!', result);
+        }
+      }, error => {
+        console.log('ERROR', error);
+      })
+  }
 }

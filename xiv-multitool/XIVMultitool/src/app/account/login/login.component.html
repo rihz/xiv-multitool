@@ -1,0 +1,24 @@
+<div class="login">
+    <h5>Log In</h5>
+    <div class="section">
+        <input label="Email" (change)="creds.email = $event.target.value" autocomplete="off" />
+    </div>
+    <div class="section">
+        <input
+            label="Password"
+            (change)="creds.password = $event.target.value"
+            type="password"
+            autocomplete="off"
+        />
+    </div>
+    <div class="control-section">
+        <button
+            mat-button 
+            class="save-button"
+            (click)="login()"
+            [disabled]="creds.email === '' || creds.password === ''"
+        >
+            Log In
+        </button>
+    </div>
+</div>

@@ -23,6 +23,7 @@ using XIVChecklist.Api.Controllers.Tasks;
 using XIVChecklist.Data;
 using XIVChecklist.Data.Context;
 using XIVChecklist.Entities;
+using XIVMultitool.Api.Controllers.Account;
 
 namespace XIVChecklist.Api
 {
@@ -81,6 +82,9 @@ namespace XIVChecklist.Api
             services.AddSingleton<IJwtFactory, JwtFactory>();
 
             services.AddSingleton(sp => _mapperConfiguration.CreateMapper());
+
+            services.AddScoped<IAccountRepository, AccountRepository>();
+            services.AddScoped<IAccountService, AccountService>();
 
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ICategoryService, CategoryService>();

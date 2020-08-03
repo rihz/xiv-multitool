@@ -1,0 +1,66 @@
+h5 {
+    text-align: center;
+}
+
+.register {
+    width: 400px;
+    margin: 10px auto 0px auto;
+}
+
+input {
+    font-size: 16px;
+    border: 0px;
+    width: 95%;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 5px 0px;
+    background-color: white;
+    text-align: left;
+    box-shadow: 0 0 2pt 2pt #333;
+}
+
+input:focus {
+    box-shadow: 0 0 2pt 2pt #111;
+    outline: none;
+}
+
+.label {
+    color: white;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.label,
+.value {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.display-card {
+    display: inline-flex;
+    padding: 0px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.control {
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.value {
+    margin: auto;
+}
+
+.save-button {
+    background-color: green;
+    color: white;
+    width: 100%;
+}
+
+.save-button:disabled {
+    opacity: 0.5;
+}
+
+.section {
+    padding: 10px 0px;
+}

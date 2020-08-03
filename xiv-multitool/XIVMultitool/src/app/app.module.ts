@@ -13,12 +13,15 @@ import { MatSelectModule } from '@angular/material/select';
 import { MatButtonModule } from '@angular/material/button';
 import { SharedModule } from './shared/shared/shared.module';
 import { UserService } from './shared/services/user.service';
+import { HeaderComponent } from './shared/header/header.component';
+import { MatInputModule } from '@angular/material/input';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
-    AppPanelComponent
+    AppPanelComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
@@ -28,7 +31,8 @@ import { UserService } from './shared/services/user.service';
     MatCardModule,
     MatSelectModule,
     MatButtonModule,
-    SharedModule
+    SharedModule,
+    MatInputModule
   ],
   providers: [UserService],
   bootstrap: [AppComponent]

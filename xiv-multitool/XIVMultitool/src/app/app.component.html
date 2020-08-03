@@ -1,5 +1,5 @@
+<xiv-header></xiv-header>
 <div class="apps" *ngIf="showApps">
     <xiv-app-panel *ngFor="let app of apps" [app]="app"></xiv-app-panel>
 </div>
-<button mat-button (click)="testNewUser()">Test New User</button>
 <router-outlet></router-outlet>

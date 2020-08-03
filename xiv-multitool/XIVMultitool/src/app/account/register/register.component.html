@@ -1,0 +1,26 @@
+<div class="register">
+    <h5>Please enter the information below to create your account.</h5>
+    <div class="section">
+        <input name="xiv-email" autocomplete="off" class="input" placeholder="Email" (change)="model.email = $event.target.value; emailDirty = true;" />
+        <mat-hint *ngIf="!validateEmail(model.email) && emailDirty" style="color: red;">
+            Please enter a valid email address
+        </mat-hint>
+    </div>
+    <div class="section">
+        <input name="xiv-pwd" autocomplete="off" class="input" placeholder="Password" (change)="model.password = $event.target.value; passwordDirty = true;" type="password" />
+        <mat-hint *ngIf="!validatePassword(model.password) && passwordDirty" style="color: red;">
+            Password must have at least 5 characters and contain at least one uppercase, lowercase, and number
+        </mat-hint>
+    </div>
+    <div class="section">
+        <input name="xiv-confirm" autocomplete="off" class="input" placeholder="Confirm Password" (change)="confirm = $event.target.value; confirmDirty = true;" type="password" />
+        <mat-hint *ngIf="!validateConfirm(confirm, model.password) && confirmDirty" style="color: red;">
+            Passwords must match
+        </mat-hint>
+    </div>
+    <div class="controls">
+        <button mat-button class="save-button" (click)="register()" [disabled]="saveDisabled">
+            Register
+        </button>
+    </div>
+</div>

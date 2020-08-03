@@ -1,0 +1,20 @@
+input {
+    border-radius: 5px;
+    border: 1px solid #000;
+    font-size: 16px;
+    padding: 5px;
+}
+
+input:focus {
+    border-radius: 0px !important;
+}
+
+.ledger-banner {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cost-input,
+.sales-input {
+    margin-right: 20px;
+}

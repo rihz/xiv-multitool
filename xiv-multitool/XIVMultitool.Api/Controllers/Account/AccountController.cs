@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using XIVChecklist.Entities;
 
 namespace XIVMultitool.Api.Controllers.Account
@@ -12,25 +13,37 @@ namespace XIVMultitool.Api.Controllers.Account
     public class AccountController : Controller
     {
         UserManager<AppUser> _userManager;
+        IAccountService _accountService;
 
-        public AccountController(UserManager<AppUser> userManager)
+        public AccountController(UserManager<AppUser> userManager, IAccountService accountService)
         {
             _userManager = userManager;
+            _accountService = accountService;
         }
 
         [HttpPost]
         [Route("register")]
         public async Task<IActionResult> Register([FromBody] AccountModel model)
         {
-            var user = new AppUser
-            {
-                UserName = model.Email,
-                Email = model.Email
-            };
-            
-            var result = await _userManager.CreateAsync(user, model.Password);
+            var created = await _accountService.CreateUser(model);
 
-            return Ok(model);
+            var token = await _accountService.GetJSONToken(model);
+
+            return new OkObjectResult(token);
+        }
+
+        [HttpPost]
+        [Route("login")]
+        public async Task<IActionResult> Login([FromBody] AccountModel model)
+        {
+            var user = await _userManager.FindByEmailAsync(model.Email);
+
+            if(await _userManager.CheckPasswordAsync(user, model.Password))
+            {
+                return new OkObjectResult(await _accountService.GetLoginToken(model));
+            }
+
+            return BadRequest("Login Failed");
         }
     }
 }

@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { XIVChecklistModule } from 'projects/xiv-checklist/src/app/app.module';
 import { XIVLedgerModule } from 'projects/xiv-ledger/src/app/app.module';
-
+import { AccountModule } from './account/account.module';
 
 const routes: Routes = [
   {
@@ -12,6 +12,10 @@ const routes: Routes = [
   {
     path: 'xiv-ledger',
     loadChildren: '../../projects/xiv-ledger/src/app/app.module#XIVLedgerModule'
+  },
+  {
+    path: 'account',
+    loadChildren: './account/account.module#AccountModule'
   }
 ];
 

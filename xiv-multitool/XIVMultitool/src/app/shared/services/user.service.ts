@@ -11,25 +11,36 @@ export class UserService extends BaseService {
     _authNavStatusSource = new BehaviorSubject<boolean>(false);
     authNavStatus$ = this._authNavStatusSource.asObservable();
 
-    loggedIn = false;
+    get loggedIn(): boolean {
+        return !!localStorage.getItem('auth_token');
+    }
+
+    get userId(): string {
+        return localStorage.getItem('userId');
+    }
 
     constructor(private http: HttpClient,
         private router: Router) {
             super();
 
-            this.loggedIn = !!localStorage.getItem('auth_token');
             this._authNavStatusSource.next(this.loggedIn);
     }
 
     register(email: string, password: string) {
         const body = JSON.stringify({ email, password });
         const headers = new HttpHeaders({ 'Content-Type': 'application/json' });
-        console.log(body);
+        
         this.http.post(this.baseUrl + '/account/register', body, { headers: headers })
             .subscribe(result => {
                 if(result) {
-                    this.router.navigate(['/login']);
+                    this.router.navigate(['/account/login']);
                 }
-            })
+            });
+    }
+
+    login(email: string, password: string) {
+        const headers = new HttpHeaders({ 'Content-Type': 'application/json' });
+
+        return this.http.post<any>(this.baseUrl + '/account/login', JSON.stringify({ email, password }), { headers });
     }
 }
