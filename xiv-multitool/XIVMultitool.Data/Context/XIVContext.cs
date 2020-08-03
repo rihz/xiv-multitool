@@ -28,6 +28,7 @@ namespace XIVChecklist.Data.Context
             OnModelCreating_Common(builder);
             OnModelCreating_Categories(builder);
             OnModelCreating_Tasks(builder);
+            OnModelCreating_XIVLedger(builder);
         }
     }
 }
