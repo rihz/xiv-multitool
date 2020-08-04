@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using XIVChecklist.Data.Context;
 
 namespace XIVChecklist.Data.Migrations
 {
     [DbContext(typeof(XIVContext))]
-    partial class XIVContextModelSnapshot : ModelSnapshot
+    [Migration("20200804013719_LedgerTransactions")]
+    partial class LedgerTransactions
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

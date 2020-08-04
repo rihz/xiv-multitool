@@ -1,6 +1,10 @@
 import { Observable } from 'rxjs';
+import { HttpHeaders } from '@angular/common/http';
 
 export abstract class BaseService {
+    baseUrl = 'http://localhost:44353/api';
+    headers = new HttpHeaders({ 'Content-Type': 'application/json' });
+
     constructor() {}
 
     protected handleError(error: any) {
@@ -24,5 +28,9 @@ export abstract class BaseService {
         modelStateErrors = modelStateErrors == '' ? null : modelStateErrors;
 
         return Observable.throw(modelStateErrors || 'Server error');
+    }
+
+    protected uri(path: string) {
+        return this.baseUrl + path;
     }
 }

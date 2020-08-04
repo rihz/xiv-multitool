@@ -5,6 +5,8 @@ import { MatTabsModule } from '@angular/material/tabs';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LedgerSheetModule } from './ledger-sheet/ledger-sheet.module';
+import { MatButtonModule } from '@angular/material/button';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
   declarations: [
@@ -14,7 +16,9 @@ import { LedgerSheetModule } from './ledger-sheet/ledger-sheet.module';
     BrowserModule,
     AppRoutingModule,
     MatTabsModule,
-    LedgerSheetModule
+    LedgerSheetModule,
+    MatButtonModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]

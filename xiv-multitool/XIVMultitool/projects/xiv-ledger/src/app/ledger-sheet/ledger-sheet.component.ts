@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { UserService } from 'src/app/shared/services/user.service';
+import { SheetService } from '../services/sheets.service';
+import { SheetModel } from './ledger-sheet.model';
 
 @Component({
   selector: 'lgr-ledger-sheet',
@@ -6,10 +9,17 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./ledger-sheet.component.scss']
 })
 export class LedgerSheetComponent implements OnInit {
+  sheets: SheetModel[] = [];
 
-  constructor() { }
+  constructor(private userService: UserService,
+    private sheetService: SheetService) { }
 
   ngOnInit(): void {
+    if(this.userService.loggedIn) {
+      this.sheetService.getSheets(this.userService.userId).subscribe(s => {
+        this.sheets = s;
+      });
+    }
   }
 
 }

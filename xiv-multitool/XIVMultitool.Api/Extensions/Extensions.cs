@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Builders;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Newtonsoft;
 using Newtonsoft.Json;
 using System;
@@ -69,6 +70,11 @@ namespace XIVChecklist.Api.Extensions
             {
                 return -1;
             }
+        }
+
+        public static IQueryable<Destination> MapEnumerable<Source, Destination>(this IMapper mapper, IQueryable<Source> queryable)
+        {
+            return queryable.Select(x => mapper.Map<Destination>(x));
         }
     }
 }

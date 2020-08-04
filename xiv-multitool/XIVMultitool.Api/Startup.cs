@@ -24,6 +24,7 @@ using XIVChecklist.Data;
 using XIVChecklist.Data.Context;
 using XIVChecklist.Entities;
 using XIVMultitool.Api.Controllers.Account;
+using XIVMultitool.Api.Controllers.XIVLedger.Sheets;
 
 namespace XIVChecklist.Api
 {
@@ -34,7 +35,18 @@ namespace XIVChecklist.Api
 
         public IConfiguration Configuration { get; }
 
-        private MapperConfiguration _mapperConfiguration { get; set; }
+        public MapperConfiguration MapperConfiguration
+        {
+            get
+            {
+                return CreateMapperConfiguration(
+                    new AuthMapProfile(),
+                    new CategoryMapProfile(),
+                    new TaskMapProfile(),
+                    new SheetMapProfile()
+                );
+            }
+        }
 
         public Startup(IHostingEnvironment env)
         {
@@ -46,15 +58,26 @@ namespace XIVChecklist.Api
             Configuration = builder.Build();
         }
 
+        MapperConfiguration CreateMapperConfiguration(params Profile[] profiles)
+        {
+            return new MapperConfiguration(config =>
+            {
+                foreach (var profile in profiles)
+                {
+                    config.AddProfile(profile);
+                }
+            });
+        }
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            _mapperConfiguration = new MapperConfiguration(config =>
-            {
-                config.AddProfile(new AuthMapProfile());
-                config.AddProfile(new CategoryMapProfile());
-                config.AddProfile(new TaskMapProfile());
-            });
+            //_mapperConfiguration = new MapperConfiguration(config =>
+            //{
+            //    config.AddProfile(new AuthMapProfile());
+            //    config.AddProfile(new CategoryMapProfile());
+            //    config.AddProfile(new TaskMapProfile());
+            //});
 
             services.AddCors(options =>
             {
@@ -81,7 +104,7 @@ namespace XIVChecklist.Api
 
             services.AddSingleton<IJwtFactory, JwtFactory>();
 
-            services.AddSingleton(sp => _mapperConfiguration.CreateMapper());
+            services.AddSingleton(sp => MapperConfiguration.CreateMapper());
 
             services.AddScoped<IAccountRepository, AccountRepository>();
             services.AddScoped<IAccountService, AccountService>();
@@ -91,6 +114,9 @@ namespace XIVChecklist.Api
 
             services.AddScoped<ITaskRepository, TaskRepository>();
             services.AddScoped<ITaskService, TaskService>();
+
+            services.AddScoped<ISheetRepository, SheetRepository>();
+            services.AddScoped<ISheetService, SheetService>();
 
             var jwtAppSettingOptions = Configuration.GetSection(nameof(JwtIssuerOptions));
 
