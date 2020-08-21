@@ -1,9 +1,29 @@
-<button mat-button class="new-sheet-button">
+<button (click)="addSheet()" mat-button class="new-sheet-button">
     <mat-icon>add</mat-icon> Sheet
 </button>
 <mat-tab-group class="ledger-tabs">
-    <mat-tab *ngFor="let sheet of sheets" [label]="sheet.name">
-        <lgr-ledger-sheet></lgr-ledger-sheet>
+    <mat-tab *ngFor="let sheet of sheets">
+        <ng-template mat-tab-label>
+            {{ sheet.name }}
+        </ng-template>
+        <div class="tab-controls">
+            <button (click)="deleteSheet(sheet.id)" class="red-button" mat-button>
+                Delete Sheet
+            </button>
+            <button (click)="renameSheet(sheet)" class="basic-button" mat-button>
+                Rename Sheet
+            </button>
+        </div>
+        <lgr-ledger-sheet [sheet]="sheet"></lgr-ledger-sheet>
     </mat-tab>
 </mat-tab-group>
+<div style="text-align: center;" *ngIf="isLoading">
+    <img src="assets/ledger-loading.gif" />
+</div>
+<div class="warning-message" *ngIf="sheets && sheets.length === 0 && !isLoading">
+    <h4>You currently have no sheets in your ledger.</h4>
+    <button (click)="addSheet()" mat-button class="add-sheet-button">
+        <mat-icon>add</mat-icon> Sheet
+    </button>
+</div>
 <router-outlet></router-outlet>

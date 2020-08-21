@@ -24,6 +24,7 @@ using XIVChecklist.Data;
 using XIVChecklist.Data.Context;
 using XIVChecklist.Entities;
 using XIVMultitool.Api.Controllers.Account;
+using XIVMultitool.Api.Controllers.Account.Retainer;
 using XIVMultitool.Api.Controllers.XIVLedger.Sheets;
 
 namespace XIVChecklist.Api
@@ -43,7 +44,9 @@ namespace XIVChecklist.Api
                     new AuthMapProfile(),
                     new CategoryMapProfile(),
                     new TaskMapProfile(),
-                    new SheetMapProfile()
+                    new SheetMapProfile(),
+                    new RetainerMapProfile(),
+                    new LodestoneCharacterMapProfile()
                 );
             }
         }
@@ -117,6 +120,9 @@ namespace XIVChecklist.Api
 
             services.AddScoped<ISheetRepository, SheetRepository>();
             services.AddScoped<ISheetService, SheetService>();
+
+            services.AddScoped<IRetainerRepository, RetainerRepository>();
+            services.AddScoped<IRetainerService, RetainerService>();
 
             var jwtAppSettingOptions = Configuration.GetSection(nameof(JwtIssuerOptions));
 

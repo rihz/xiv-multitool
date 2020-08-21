@@ -1,4 +1,4 @@
-.account-button {
+button {
     color: white;
 }
 
@@ -7,4 +7,9 @@
     border-radius: 0px !important;
     display: flex;
     justify-content: space-between;
+}
+
+.profile-icon {
+    border-radius: 50px;
+    cursor: pointer;
 }

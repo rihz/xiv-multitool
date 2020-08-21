@@ -76,5 +76,10 @@ namespace XIVChecklist.Api.Extensions
         {
             return queryable.Select(x => mapper.Map<Destination>(x));
         }
+
+        public static bool IsDefault<T>(this T obj) where T : class
+        {
+            return obj == default(T);
+        }
     }
 }

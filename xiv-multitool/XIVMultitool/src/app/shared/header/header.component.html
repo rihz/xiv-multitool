@@ -1,5 +1,10 @@
 <mat-card class="header">
     <img src="../../../assets/multitool-logo-2.png" width="250" />
+    <button mat-button [matMenuTriggerFor]="appMenu">Apps</button>
+    <mat-menu [class]="'app-menu'" #appMenu="matMenu">
+        <xiv-app-panel *ngFor="let app of apps" [app]="app"></xiv-app-panel>
+    </mat-menu>
     <button *ngIf="!userService.loggedIn" (click)="goToLogin()" mat-button class="account-button">Log In/Register</button>
-    <button *ngIf="userService.loggedIn" mat-button class="account-button">Profile</button>
+    <button *ngIf="userService.loggedIn && !userService.userIcon" routerLink="/account/profile" mat-button class="account-button">Profile</button>
+    <img height="68" class="profile-icon" *ngIf="userService.loggedIn && userService.userIcon" routerLink="/account/profile" [src]="userService.userIcon" />
 </mat-card>

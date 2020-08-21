@@ -19,14 +19,14 @@ namespace XIVChecklist.Data.Context
             {
                 e.HasKey(x => x.Id);
 
-                CreateOneToMany<LedgerSheet, AppUser>(e, "User", "LedgerSheets", "UserId");
+                CreateOneToMany<LedgerSheet, AppUser>(e, "User", "LedgerSheets", "UserId", deleteBehavior: DeleteBehavior.Cascade);
             });
 
             builder.Entity<MarketTransaction>(e =>
             {
                 e.HasKey(x => x.Id);
 
-                CreateOneToMany<MarketTransaction, LedgerSheet>(e, "Sheet", "MarketTransactions", "SheetId");
+                CreateOneToMany<MarketTransaction, LedgerSheet>(e, "Sheet", "MarketTransactions", "SheetId", deleteBehavior: DeleteBehavior.Cascade);
             });
         }
     }

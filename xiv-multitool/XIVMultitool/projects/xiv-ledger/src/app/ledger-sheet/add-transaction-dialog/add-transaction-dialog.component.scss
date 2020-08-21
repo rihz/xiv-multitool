@@ -1,0 +1,20 @@
+.add-button {
+    border: 2px solid #41c55b;
+    color: #41c55b;
+    background-color: white;
+}
+
+.cancel-button {
+    border: 2px solid red;
+    color: red;
+    background-color: white;
+}
+
+.row {
+    text-align: center;
+}
+
+.flex-row {
+    display: flex;
+    justify-content: space-between;
+}

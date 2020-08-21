@@ -1,16 +1,44 @@
 <div class="ledger-sheet">
     <mat-card class="ledger-banner">
         <div class="banner-input starting">
-            <input class="starting-input number-input"
-                placeholder="Starting Funds" />
+            <mat-form-field appearance="outline">
+                <mat-label>Starting Funds</mat-label>
+                <input class="starting-input number-input" matInput />
+            </mat-form-field>
         </div>
         <div class="banner-input calculations">
-            <input readonly class="sales-input number-input" placeholder="Total Sales" />
-            <input readonly class="cost-input number-input" placeholder="Total Costs" />
-            <input readonly class="profit-input number-input" placeholder="Total Profits" />
+            <mat-form-field appearance="outline">
+                <mat-label>Total Sales</mat-label>
+                <input readonly class="sales-input number-input" matInput />
+            </mat-form-field>
+            <mat-form-field class="middle-control" appearance="outline">
+                <mat-label>Total Costs</mat-label>
+                <input readonly class="cost-input number-input" matInput />
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+                <mat-label>Total Profits</mat-label>
+                <input readonly class="profit-input number-input" matInput />
+            </mat-form-field>
         </div>
         <div class="banner-input final-calc">
-            <input readonly class="projected-input number-input" placeholder="Projected Funds" />
+            <mat-form-field appearance="outline">
+                <mat-label>Projected Funds</mat-label>
+                <input readonly class="projected-input number-input" matInput />
+            </mat-form-field>
         </div>
     </mat-card>
+    <mat-card class="transactions">
+        <mat-card class="transaction-header" *ngIf="sheet.marketTransactions.length > 0">
+            Test
+        </mat-card>
+        <mat-card class="transaction" *ngFor="let transaction of sheet.marketTransactions">
+            {{ transaction.name }}
+        </mat-card>
+    </mat-card>
+    <div class="sheet-controls">
+        <button (click)="addTransaction()" class="add-transaction-button" mat-button>
+            <mat-icon>add</mat-icon>
+            <span class="icon-button-text">Transaction</span>
+        </button>
+    </div>
 </div>

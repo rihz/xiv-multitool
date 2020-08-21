@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using System;
@@ -7,8 +8,10 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using XIVChecklist.Api;
+using XIVChecklist.Api.Extensions;
 using XIVChecklist.Data.Context;
 using XIVChecklist.Entities;
+using XIVMultitool.Entities.Account;
 
 namespace XIVMultitool.Api.Controllers.Account
 {
@@ -17,6 +20,8 @@ namespace XIVMultitool.Api.Controllers.Account
         Task<AccountModel> CreateUser(AccountModel model);
         Task<ClaimsIdentity> GetClaimsIdentity(string email, string password);
         Task<string> GetLoginToken(ClaimsIdentity identity, AccountModel model);
+        LodestoneCharacterModel AddLodestoneCharacter(LodestoneCharacterModel model);
+        IEnumerable<LodestoneCharacterModel> GetCharacters(string userId);
     }
 
     public class AccountRepository : IAccountRepository
@@ -25,18 +30,20 @@ namespace XIVMultitool.Api.Controllers.Account
         UserManager<AppUser> _userManager;
         IJwtFactory _factory;
         JwtIssuerOptions _options;
+        IMapper _mapper;
         JsonSerializerSettings _settings = new JsonSerializerSettings
         {
             Formatting = Formatting.Indented
         };
 
         public AccountRepository(XIVContext context, UserManager<AppUser> userManager, IJwtFactory factory,
-            IOptions<JwtIssuerOptions> options)
+            IOptions<JwtIssuerOptions> options, IMapper mapper)
         {
             _context = context;
             _userManager = userManager;
             _factory = factory;
             _options = options.Value;
+            _mapper = mapper;
         }
 
         public async Task<AccountModel> CreateUser(AccountModel model)
@@ -82,6 +89,23 @@ namespace XIVMultitool.Api.Controllers.Account
             };
 
             return JsonConvert.SerializeObject(response, _settings);
+        }
+
+        public LodestoneCharacterModel AddLodestoneCharacter(LodestoneCharacterModel model)
+        {
+            var entity = _mapper.Map<LodestoneCharacter>(model);
+
+            _context.LodestoneCharacters.Add(entity);
+            _context.SaveChanges();
+
+            return _mapper.Map<LodestoneCharacterModel>(entity);
+        }
+
+        public IEnumerable<LodestoneCharacterModel> GetCharacters(string userId)
+        {
+            var characters = _context.LodestoneCharacters.Where(x => x.UserId == userId);
+
+            return _mapper.MapEnumerable<LodestoneCharacter, LodestoneCharacterModel>(characters);
         }
     }
 }

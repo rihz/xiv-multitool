@@ -1,6 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { Router } from '@angular/router';
 import { UserService } from '../services/user.service';
+import { AppPanel } from 'src/app/app.models';
 
 @Component({
   selector: 'xiv-header',
@@ -8,7 +9,8 @@ import { UserService } from '../services/user.service';
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent implements OnInit {
-
+  @Input() apps: AppPanel[];
+  
   constructor(public router: Router, public userService: UserService) { }
 
   ngOnInit(): void {

@@ -1,20 +1,47 @@
-input {
-    border-radius: 5px;
-    border: 1px solid #000;
-    font-size: 16px;
-    padding: 5px;
-}
-
-input:focus {
-    border-radius: 0px !important;
+.add-transaction-button {
+    color: #41c55b;
+    border: 2px solid #41c55b;
+    background-color: white;
 }
 
 .ledger-banner {
     display: flex;
     justify-content: space-evenly;
+    margin: 0 auto;
+    box-shadow: none;
 }
 
-.cost-input,
-.sales-input {
-    margin-right: 20px;
+.middle-control {
+    margin: 0px 10px;
+}
+
+.sheet-controls {
+    text-align: center;
+    padding: 0px 10px 10px 10px;
+    background-color: white;
+}
+
+.transactions {
+    box-shadow: none;
+}
+
+.transaction,
+.transaction-header {
+    width: 85%;
+    margin: 0 auto;
+    max-width: 1100px;
+    border-radius: 0px;
+}
+
+.transaction-header {
+    background-color: #333;
+    color: white;
+}
+
+.transaction:nth-of-type(odd) {
+    background-color: #d8f3dd;
+}
+
+.transaction:nth-of-type(even) {
+    background-color: #ebf9ee;
 }

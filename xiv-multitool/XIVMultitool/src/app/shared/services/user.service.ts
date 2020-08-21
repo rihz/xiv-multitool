@@ -1,8 +1,9 @@
 import { Injectable } from "@angular/core";
-import { BehaviorSubject } from 'rxjs';
+import { BehaviorSubject, Observable } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Router } from '@angular/router';
 import { BaseService } from './base.service';
+import { Character } from 'src/app/app.models';
 
 @Injectable()
 export class UserService extends BaseService {
@@ -11,8 +12,16 @@ export class UserService extends BaseService {
     _authNavStatusSource = new BehaviorSubject<boolean>(false);
     authNavStatus$ = this._authNavStatusSource.asObservable();
 
+    get email(): string {
+        return localStorage.getItem('email');
+    }
+
     get loggedIn(): boolean {
         return !!localStorage.getItem('auth_token');
+    }
+
+    get userIcon(): string {
+        return localStorage.getItem('userIcon');
     }
 
     get userId(): string {
@@ -42,5 +51,13 @@ export class UserService extends BaseService {
         const headers = new HttpHeaders({ 'Content-Type': 'application/json' });
 
         return this.http.post<any>(this.baseUrl + '/account/login', JSON.stringify({ email, password }), { headers });
+    }
+
+    getCharacters(): Observable<Character[]> {
+        return this.http.get<Character[]>(this.uri('/account/' + this.userId + '/lodestone/'), { headers: this.headers });
+    }
+
+    verifyLodestone(characterId: string, code: string): Observable<Character> {
+        return this.http.post<Character>(this.uri(`/account/${this.userId}/lodestone/${characterId}/${code}`), { headers: this.headers });
     }
 }

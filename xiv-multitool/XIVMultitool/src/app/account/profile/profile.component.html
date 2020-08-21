@@ -1,0 +1,51 @@
+<div class="profile">
+    <div class="row">
+        <mat-form-field appearance="outline">
+            <mat-label>Email Address</mat-label>
+            <input matInput readonly [value]="email" />
+        </mat-form-field>
+        <div class="lodestone-section">
+            <h2 class="section-title">Character</h2>
+            <mat-card class="empty-card">
+                <strong>Link your Lodestone account to view character details.</strong>
+                <button (click)="linkLodestone()" mat-button class="add-retainer-button">
+                    Link
+                </button>
+            </mat-card>
+        </div>
+        <div class="retainer-section">
+            <h2 class="section-title">Retainers</h2>
+            <mat-card *ngIf="retainers && retainers.length === 0" class="empty-card">
+                <strong>You have no Retainers currently set.</strong>
+                <button (click)="addRetainer()" mat-button class="add-retainer-button">
+                    <mat-icon>add</mat-icon> Retainer
+                </button>
+            </mat-card>
+            <div class="retainer-cards">
+                <mat-card *ngFor="let retainer of retainers" class="retainer-card">
+                    <div class="retainer-name">
+                        <h4>{{ retainer.name }}</h4>
+                    </div>
+                    <div class="retainer-labels">
+                        <mat-chip-list #retainerLabels>
+                            <mat-chip *ngFor="let label of retainer.labels">
+                                {{ label.name }}
+                                <mat-icon (click)="deleteLabel(retainer, label.id)" matChipRemove>cancel</mat-icon>
+                            </mat-chip>
+                        </mat-chip-list>
+                        <mat-form-field appearance="outline">
+                            <mat-label>Add Label</mat-label>
+                            <input matInput [matChipInputFor]="retainerLabels"
+                                [matChipInputSeparatorKeyCodes]="separators"
+                                [matChipInputAddOnBlur]="addOnBlur"
+                                (matChipInputTokenEnd)="addLabel(retainer, $event)" />
+                        </mat-form-field>
+                    </div>
+                </mat-card>
+                <button (click)="addRetainer()" mat-icon-button *ngIf="retainers && retainers.length > 0" class="add-icon-button">
+                    <mat-icon>add_box</mat-icon>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

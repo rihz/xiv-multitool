@@ -19,4 +19,17 @@
     <ProjectReference Include="..\XIVMultitool.Data\XIVMultitool.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\XIVLedger\Sheets\Transactions\MarketTransactions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>bin\Debug\netcoreapp2.2\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="LodestoneParser">
+      <HintPath>bin\Debug\netcoreapp2.2\LodestoneParser.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

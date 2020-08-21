@@ -13,6 +13,9 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
         {
             CreateMap<LedgerSheet, SheetModel>()
                 .ReverseMap();
+
+            CreateMap<MarketTransaction, MarketTransactionModel>()
+                .ReverseMap();
         }
     }
 }

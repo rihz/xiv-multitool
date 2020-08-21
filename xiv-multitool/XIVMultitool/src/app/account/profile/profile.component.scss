@@ -1,0 +1,42 @@
+.add-retainer-button {
+    color: #41c55b;
+    border: 2px solid #41c55b;
+    background-color: white;
+    margin-top: 15px;
+}
+
+.empty-card {
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.lodestone-section {
+    padding-bottom: 20px;
+}
+
+.retainer-card {
+    text-align: center;
+    min-width: 330px;
+    max-width: 330px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.retainer-cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row {
+    padding: 20px;
+}
+
+.section-title {
+    text-align: center;
+    color: white;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 0px;
+}

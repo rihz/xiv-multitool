@@ -45,5 +45,24 @@ namespace XIVMultitool.Api.Controllers.Account
 
             return BadRequest("Login Failed");
         }
+
+        [HttpPost("{userId}/lodestone/{characterId}/{code}")]
+        public async Task<IActionResult> VerifyLodestone(string userId, string characterId, string code)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+
+            if(user != null)
+            {
+                return Ok(_accountService.VerifyLodestone(userId, characterId, code));
+            }
+
+            return BadRequest("User Not Found");
+        }
+
+        [HttpGet("{userId}/lodestone")]
+        public IActionResult GetCharacters(string userId)
+        {
+            return Ok(_accountService.GetCharacters(userId));
+        }
     }
 }

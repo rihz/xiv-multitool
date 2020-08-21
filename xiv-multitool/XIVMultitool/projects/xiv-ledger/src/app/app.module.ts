@@ -7,6 +7,8 @@ import { AppComponent } from './app.component';
 import { LedgerSheetModule } from './ledger-sheet/ledger-sheet.module';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
+import { MatDialogModule } from '@angular/material/dialog';
+import { MatCardModule } from '@angular/material/card';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { MatIconModule } from '@angular/material/icon';
     MatTabsModule,
     LedgerSheetModule,
     MatButtonModule,
-    MatIconModule
+    MatIconModule,
+    MatDialogModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]

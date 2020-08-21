@@ -1,0 +1,8 @@
+<div class="add-sheet">
+    <mat-form-field appearance="outline">
+        <mat-label>Sheet Name</mat-label>
+        <input (input)="name = $event.target.value" [value]="name" matInput type="text" />
+    </mat-form-field>
+    <button *ngIf="sheet.id === 0" [disabled]="!name" (click)="add()" mat-button class="add-button">Add</button>
+    <button *ngIf="sheet.id > 0" [disabled]="!name" (click)="update()" mat-button class="add-button">Save</button>
+</div>

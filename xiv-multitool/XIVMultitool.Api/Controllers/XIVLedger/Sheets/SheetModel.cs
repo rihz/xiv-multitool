@@ -11,6 +11,7 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
         public string Name { get; set; }
         public string UserId { get; set; }
         public int StartingFunds { get; set; }
+        public IEnumerable<MarketTransactionModel> MarketTransactions { get; set; }
     }
 
     public class MarketTransactionModel

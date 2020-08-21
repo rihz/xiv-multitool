@@ -15,16 +15,21 @@ import { SharedModule } from './shared/shared/shared.module';
 import { UserService } from './shared/services/user.service';
 import { HeaderComponent } from './shared/header/header.component';
 import { MatInputModule } from '@angular/material/input';
+import { RetainerService } from './shared/services/retainer.service';
+import { MatMenuModule } from '@angular/material/menu';
+import { CopyClipboardDirective } from './shared/clipboard.directive';
+import { CommonModule } from '@angular/common';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
     AppPanelComponent,
-    HeaderComponent
+    HeaderComponent,
   ],
   imports: [
     BrowserModule,
+    CommonModule,
     AppRoutingModule,
     XIVChecklistModule,
     XIVLedgerModule,
@@ -32,9 +37,10 @@ import { MatInputModule } from '@angular/material/input';
     MatSelectModule,
     MatButtonModule,
     SharedModule,
-    MatInputModule
+    MatInputModule,
+    MatMenuModule
   ],
-  providers: [UserService],
+  providers: [UserService, RetainerService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

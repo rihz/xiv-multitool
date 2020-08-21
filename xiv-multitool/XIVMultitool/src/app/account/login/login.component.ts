@@ -15,10 +15,6 @@ export class LoginComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
-  login2() {
-    console.log(this.creds);
-  }
   
   login() {
     this.userService.login(this.creds.email, this.creds.password)
@@ -28,6 +24,12 @@ export class LoginComponent implements OnInit {
           localStorage.setItem('username', result.username);
           localStorage.setItem('userId', result.id);
           localStorage.setItem('email', result.email);
+
+          this.userService.getCharacters().subscribe(characters => {
+            if(characters && characters.length > 0) {
+              localStorage.setItem('userIcon', characters[0].icon);
+            }
+          });
 
           this.router.navigate(['/']);
         }

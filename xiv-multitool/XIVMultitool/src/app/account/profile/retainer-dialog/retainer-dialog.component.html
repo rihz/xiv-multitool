@@ -1,0 +1,13 @@
+<div class="retainer-dialog">
+    <div class="row">
+        <mat-form-field appearance="outline">
+            <mat-label>Retainer Name</mat-label>
+            <input matInput [value]="name" (input)="name = $event.target.value" (keyup.enter)="save()" />
+        </mat-form-field>
+    </div>
+    <div class="row">
+        <button (click)="add()" mat-button class="add-retainer-button">
+            Add
+        </button>
+    </div>
+</div>

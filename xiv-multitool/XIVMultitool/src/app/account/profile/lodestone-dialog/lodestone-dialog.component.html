@@ -1,0 +1,33 @@
+<div class="lodestone-dialog">
+    <div class="row">
+        <span>
+            <h2>Step 1.</h2>
+            <h4>Please enter your Lodestone Character ID in the box below:</h4>
+            <img src="../../../../assets/lodestone-character-id-location.PNG" width="350px" />
+        </span>
+    </div>
+    <div class="row">
+        <mat-form-field appearance="outline">
+            <mat-label>Character ID</mat-label>
+            <input matInput [(ngModel)]="characterId" />
+        </mat-form-field>
+    </div>
+    <div class="row">
+        <h2>Step 2.</h2>
+        <h4>Please add the code below to your Lodestone "Character Profile" and click "Verify"</h4>
+    </div>
+    <div class="row">
+        <mat-form-field appearance="outline">
+            <mat-label>Code</mat-label>
+            <input matInput [value]="code" readonly />
+        </mat-form-field>
+        <button [copy-clipboard]="code" mat-icon-button>
+            <mat-icon>content_copy</mat-icon>
+        </button>
+    </div>
+    <div class="row">
+        <button [disabled]="characterId === ''" (click)="verify()" mat-button class="positive-button">
+            Verify
+        </button>
+    </div>
+</div>

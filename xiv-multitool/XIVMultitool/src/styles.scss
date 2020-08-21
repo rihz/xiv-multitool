@@ -115,9 +115,55 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
 
 .ledger-tabs .mat-tab-header {
     background-color: #41c55b;
+    height: 48px;
 }
 
 .ledger-tabs .mat-tab-label {
     color: white !important;
     opacity: 1 !important;
+}
+
+.add-transaction .select-field .mat-form-field-flex {
+    height: 40px;
+}
+
+.add-transaction .select-field-none  .mat-form-field-infix {
+    border: 0;
+    padding: 1em 0 0 0;
+}
+
+.add-transaction .select-field-selected .mat-form-field-infix {
+    padding-top: 4px;
+}
+
+.add-transaction .select-field .mat-form-field-appearance-outline {
+    transform: none !important;
+}
+
+.add-icon-button {
+    width: 93px !important;
+    height: 93px !important;
+    color: #333;
+
+    .mat-icon {
+        line-height: 93px !important;
+        font-size: 93px !important;
+        height: 93px !important;
+        width: 93px !important;
+    }
+}
+
+.app-menu {
+    min-width: 350px !important;
+    max-width: 350px !important;
+}
+
+.app-menu .app-card {
+    margin: 15px auto !important;
+}
+
+.positive-button {
+    color: #41c55b;
+    border: 2px solid #41c55b !important;
+    background-color: white;
 }

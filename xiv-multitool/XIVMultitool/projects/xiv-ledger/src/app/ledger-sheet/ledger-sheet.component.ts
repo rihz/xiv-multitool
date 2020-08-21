@@ -1,7 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { UserService } from 'src/app/shared/services/user.service';
 import { SheetService } from '../services/sheets.service';
 import { SheetModel } from './ledger-sheet.model';
+import { MatDialog } from '@angular/material/dialog';
+import { AddTransactionDialogComponent } from './add-transaction-dialog/add-transaction-dialog.component';
 
 @Component({
   selector: 'lgr-ledger-sheet',
@@ -9,17 +11,29 @@ import { SheetModel } from './ledger-sheet.model';
   styleUrls: ['./ledger-sheet.component.scss']
 })
 export class LedgerSheetComponent implements OnInit {
-  sheets: SheetModel[] = [];
+  @Input() sheet: SheetModel;
 
   constructor(private userService: UserService,
-    private sheetService: SheetService) { }
+    private sheetService: SheetService,
+    private dialog: MatDialog) { }
 
   ngOnInit(): void {
-    if(this.userService.loggedIn) {
-      this.sheetService.getSheets(this.userService.userId).subscribe(s => {
-        this.sheets = s;
-      });
-    }
+    
+  }
+
+  addTransaction() {
+    const ref = this.dialog.open(AddTransactionDialogComponent, {
+      width: '500px',
+      data: {
+        sheetId: this.sheet.id
+      }
+    });
+
+    ref.afterClosed().subscribe(result => {
+      if(result) {
+        this.sheet.marketTransactions.push(result);
+      }
+    });
   }
 
 }

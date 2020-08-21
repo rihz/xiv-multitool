@@ -100394,6 +100394,29 @@ namespace XIVChecklist.Data.Migrations
                     b.ToTable("UserTasks");
                 });
 
+            modelBuilder.Entity("XIVMultitool.Entities.Account.LodestoneCharacter", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("CharacterId");
+
+                    b.Property<string>("Icon");
+
+                    b.Property<string>("Name");
+
+                    b.Property<string>("Server");
+
+                    b.Property<string>("UserId");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("LodestoneCharacters");
+                });
+
             modelBuilder.Entity("XIVMultitool.Entities.XIVLedger.LedgerSheet", b =>
                 {
                     b.Property<int>("Id")
@@ -100436,6 +100459,42 @@ namespace XIVChecklist.Data.Migrations
                     b.HasIndex("SheetId");
 
                     b.ToTable("MarketTransaction");
+                });
+
+            modelBuilder.Entity("XIVMultitool.Entities.XIVMultitool.Retainer", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Name");
+
+                    b.Property<string>("UserId");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Retainers");
+                });
+
+            modelBuilder.Entity("XIVMultitool.Entities.XIVMultitool.RetainerLabel", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("ColorHex");
+
+                    b.Property<string>("Name");
+
+                    b.Property<int>("RetainerId");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RetainerId");
+
+                    b.ToTable("RetainerLabels");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -100883,13 +100942,22 @@ namespace XIVChecklist.Data.Migrations
                         .OnDelete(DeleteBehavior.Restrict);
                 });
 
+            modelBuilder.Entity("XIVMultitool.Entities.Account.LodestoneCharacter", b =>
+                {
+                    b.HasOne("XIVChecklist.Entities.AppUser", "User")
+                        .WithMany("LodestoneCharacters")
+                        .HasForeignKey("UserId")
+                        .HasConstraintName("FK_User_LodestoneCharacters")
+                        .OnDelete(DeleteBehavior.Restrict);
+                });
+
             modelBuilder.Entity("XIVMultitool.Entities.XIVLedger.LedgerSheet", b =>
                 {
                     b.HasOne("XIVChecklist.Entities.AppUser", "User")
                         .WithMany("LedgerSheets")
                         .HasForeignKey("UserId")
                         .HasConstraintName("FK_User_LedgerSheets")
-                        .OnDelete(DeleteBehavior.Restrict);
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 
             modelBuilder.Entity("XIVMultitool.Entities.XIVLedger.MarketTransaction", b =>
@@ -100898,6 +100966,24 @@ namespace XIVChecklist.Data.Migrations
                         .WithMany("MarketTransactions")
                         .HasForeignKey("SheetId")
                         .HasConstraintName("FK_Sheet_MarketTransactions")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("XIVMultitool.Entities.XIVMultitool.Retainer", b =>
+                {
+                    b.HasOne("XIVChecklist.Entities.AppUser", "User")
+                        .WithMany("Retainers")
+                        .HasForeignKey("UserId")
+                        .HasConstraintName("FK_User_Retainers")
+                        .OnDelete(DeleteBehavior.Restrict);
+                });
+
+            modelBuilder.Entity("XIVMultitool.Entities.XIVMultitool.RetainerLabel", b =>
+                {
+                    b.HasOne("XIVMultitool.Entities.XIVMultitool.Retainer", "Retainer")
+                        .WithMany("Labels")
+                        .HasForeignKey("RetainerId")
+                        .HasConstraintName("FK_Retainer_Labels")
                         .OnDelete(DeleteBehavior.Restrict);
                 });
 #pragma warning restore 612, 618
