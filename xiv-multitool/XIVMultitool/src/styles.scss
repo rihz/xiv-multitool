@@ -153,6 +153,18 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
     }
 }
 
+.account-button {
+    width: 68px !important;
+    height: 68px !important;
+
+    .mat-icon {
+        line-height: 68px !important;
+        font-size: 68px !important;
+        height: 68px !important;
+        width: 68px !important;
+    }
+}
+
 .app-menu {
     min-width: 350px !important;
     max-width: 350px !important;
@@ -171,4 +183,29 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
     color: #41c55b;
     border: 2px solid #41c55b !important;
     background-color: white;
+}
+
+.positive-button:disabled {
+    border-color: rgba(0, 0, 0, 0.26) !important;
+}
+
+.titled-card {
+    padding: 0px !important;
+}
+
+.titled-card .titled-card-header {
+    background-color: #333;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    justify-content: center;
+    color: white !important;
+}
+
+.titled-card .titled-card-header .card-title {
+    padding: 10px 0px;
+    margin-bottom: 0px;
+}
+
+.titled-card-content {
+    padding: 16px;
 }

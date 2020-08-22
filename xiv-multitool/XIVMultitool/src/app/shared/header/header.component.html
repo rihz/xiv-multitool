@@ -7,10 +7,12 @@
         </mat-menu>
     </div>
     <div class="profile">
-        <button *ngIf="!userService.loggedIn" (click)="goToLogin()" mat-button class="account-button">Log
+        <button *ngIf="!userService.loggedIn" routerLink="/account/login" mat-button class="acct-button">Log
             In/Register</button>
-        <button *ngIf="userService.loggedIn && !userService.userIcon" routerLink="/account/profile" mat-button
-            class="account-button">Profile</button>
+        <button mat-icon-button *ngIf="userService.loggedIn && !userService.userIcon" routerLink="/account/profile" mat-button
+            class="account-button" [matMenuTriggerFor]="menu">
+            <mat-icon>account_circle</mat-icon>
+        </button>
         <img height="68" class="profile-icon" *ngIf="userService.loggedIn && userService.userIcon"
             [src]="userService.userIcon" [matMenuTriggerFor]="menu" />
         <mat-menu [class]="'profile-menu'" #menu="matMenu">

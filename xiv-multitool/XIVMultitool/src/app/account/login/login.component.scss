@@ -3,25 +3,9 @@ h3 {
 }
 
 .login{
-    width: 400px;
-    margin: 10px auto 0px auto;
-}
-
-input {
-    font-size: 16px;
-    border: 0px;
-    width: 95%;
-    border-radius: 10px;
-    padding: 10px 15px;
-    margin: 5px 0px;
-    background-color: white;
-    text-align: left;
-    box-shadow: 0 0 2pt 2pt #333;
-}
-
-input:focus {
-    box-shadow: 0 0 2pt 2pt #111;
-    outline: none;
+    display: flex;
+    width: 100%;
+    height: calc(100% - 101px);
 }
 
 .label {
@@ -52,16 +36,18 @@ input:focus {
 }
 
 .save-button {
-    background-color: green;
-    color: white;
     width: 100%;
-}
-
-.save-button:disabled {
-    color: white !important;
-    opacity: 0.5;
 }
 
 .section {
     padding: 10px 0px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+.titled-card {
+    margin: auto auto;
+    width: 400px;
 }

@@ -18,10 +18,6 @@ export class HeaderComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  goToLogin() {
-    this.router.navigate(['/account/register']);
-  }
-
   logout() {
     this.storageService.removeAppItems();
 

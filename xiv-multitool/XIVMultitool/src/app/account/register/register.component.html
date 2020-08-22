@@ -1,26 +1,54 @@
 <div class="register">
-    <h5>Please enter the information below to create your account.</h5>
-    <div class="section">
-        <input name="xiv-email" autocomplete="off" class="input" placeholder="Email" (change)="model.email = $event.target.value; emailDirty = true;" />
-        <mat-hint *ngIf="!validateEmail(model.email) && emailDirty" style="color: red;">
-            Please enter a valid email address
-        </mat-hint>
-    </div>
-    <div class="section">
-        <input name="xiv-pwd" autocomplete="off" class="input" placeholder="Password" (change)="model.password = $event.target.value; passwordDirty = true;" type="password" />
-        <mat-hint *ngIf="!validatePassword(model.password) && passwordDirty" style="color: red;">
-            Password must have at least 5 characters and contain at least one uppercase, lowercase, and number
-        </mat-hint>
-    </div>
-    <div class="section">
-        <input name="xiv-confirm" autocomplete="off" class="input" placeholder="Confirm Password" (change)="confirm = $event.target.value; confirmDirty = true;" type="password" />
-        <mat-hint *ngIf="!validateConfirm(confirm, model.password) && confirmDirty" style="color: red;">
-            Passwords must match
-        </mat-hint>
-    </div>
-    <div class="controls">
-        <button mat-button class="save-button" (click)="register()" [disabled]="saveDisabled">
-            Register
-        </button>
-    </div>
+    <!-- <h5>Please enter the information below to create your account.</h5> -->
+    <mat-card class="titled-card">
+        <mat-card-header class="titled-card-header">
+            <mat-card-title class="card-title">
+                Register
+            </mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="titled-card-content">
+            <div class="section">
+                <mat-form-field appearance="outline">
+                    <mat-label>Email Address</mat-label>
+                    <input matInput autocomplete="off"
+                        (input)="model.email = $event.target.value; emailDirty = true;" />
+                    <mat-hint *ngIf="!validateEmail(model.email) && emailDirty" style="color: red;">
+                        Please enter a valid email address
+                    </mat-hint>
+                </mat-form-field>
+            </div>
+            <div class="section">
+                <mat-form-field appearance="outline">
+                    <mat-label>Password</mat-label>
+                    <input matInput autocomplete="off"
+                        (input)="model.password = $event.target.value; passwordDirty = true;" type="password" />
+                    <mat-hint *ngIf="!validatePassword(model.password) && passwordDirty" style="color: red;">
+                        Password must have at least 5 characters and contain at least one uppercase, lowercase, and
+                        number
+                    </mat-hint>
+                </mat-form-field>
+            </div>
+            <div class="section">
+                <mat-form-field appearance="outline">
+                    <mat-label>Confirm Password</mat-label>
+                    <input matInput autocomplete="off"
+                        (input)="confirm = $event.target.value; confirmDirty = true;" type="password" />
+                    <mat-hint *ngIf="!validateConfirm(confirm, model.password) && confirmDirty" style="color: red;">
+                        Passwords must match
+                    </mat-hint>
+                </mat-form-field>
+            </div>
+            <div class="controls">
+                <button mat-button class="register-button positive-button" (click)="register()" [disabled]="saveDisabled">
+                    Register
+                </button>
+                <div style="display: flex; padding-top: 15px; align-items: center; justify-content: center;">
+                    Already have an account?
+                    <button style="margin-left: 20px;" mat-button class="positive-button" routerLink="/account/login">
+                        Log In
+                    </button>
+                </div>
+            </div>
+        </mat-card-content>
+    </mat-card>
 </div>

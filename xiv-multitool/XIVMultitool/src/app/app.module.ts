@@ -39,7 +39,8 @@ import { LocalStorageService } from './shared/services/local-storage.service';
     MatButtonModule,
     SharedModule,
     MatInputModule,
-    MatMenuModule
+    MatMenuModule,
+    MatIconModule
   ],
   providers: [UserService, RetainerService, LocalStorageService],
   bootstrap: [AppComponent]
