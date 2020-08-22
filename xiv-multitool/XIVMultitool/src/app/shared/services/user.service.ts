@@ -4,6 +4,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Router } from '@angular/router';
 import { BaseService } from './base.service';
 import { Character } from 'src/app/app.models';
+import { LocalStorageService } from './local-storage.service';
 
 @Injectable()
 export class UserService extends BaseService {
@@ -12,27 +13,28 @@ export class UserService extends BaseService {
     _authNavStatusSource = new BehaviorSubject<boolean>(false);
     authNavStatus$ = this._authNavStatusSource.asObservable();
 
+    constructor(private http: HttpClient,
+        private router: Router,
+        private storageService: LocalStorageService) {
+            super();
+
+            this._authNavStatusSource.next(!!this.storageService.model.auth_token);
+    }
+
     get email(): string {
-        return localStorage.getItem('email');
+        return this.storageService.model.email;
     }
 
     get loggedIn(): boolean {
-        return !!localStorage.getItem('auth_token');
+        return !!this.storageService.model.auth_token;
     }
 
     get userIcon(): string {
-        return localStorage.getItem('userIcon');
+        return this.storageService.model.userIcon;
     }
 
     get userId(): string {
-        return localStorage.getItem('userId');
-    }
-
-    constructor(private http: HttpClient,
-        private router: Router) {
-            super();
-
-            this._authNavStatusSource.next(this.loggedIn);
+        return this.storageService.model.userId;
     }
 
     register(email: string, password: string) {
@@ -51,6 +53,10 @@ export class UserService extends BaseService {
         const headers = new HttpHeaders({ 'Content-Type': 'application/json' });
 
         return this.http.post<any>(this.baseUrl + '/account/login', JSON.stringify({ email, password }), { headers });
+    }
+
+    logout() {
+        this.storageService.removeAppItems();
     }
 
     getCharacters(): Observable<Character[]> {

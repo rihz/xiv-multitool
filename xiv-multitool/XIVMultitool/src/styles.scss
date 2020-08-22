@@ -156,6 +156,11 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
 .app-menu {
     min-width: 350px !important;
     max-width: 350px !important;
+    background-color: #333 !important;
+}
+
+.profile-menu {
+    background-color: #333 !important;
 }
 
 .app-menu .app-card {

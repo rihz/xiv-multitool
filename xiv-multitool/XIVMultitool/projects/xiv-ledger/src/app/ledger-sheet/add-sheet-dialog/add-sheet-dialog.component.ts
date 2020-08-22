@@ -3,6 +3,7 @@ import { MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
 import { UserService } from 'src/app/shared/services/user.service';
 import { SheetService } from '../../services/sheets.service';
 import { SheetModel } from '../ledger-sheet.model';
+import { LocalStorageService } from 'src/app/shared/services/local-storage.service';
 
 @Component({
   selector: 'lgr-add-sheet-dialog',
@@ -16,6 +17,7 @@ export class AddSheetDialogComponent implements OnInit {
   constructor(private ref: MatDialogRef<AddSheetDialogComponent>,
     private userService: UserService,
     private sheetService: SheetService,
+    private storageService: LocalStorageService,
     @Optional() @Inject(MAT_DIALOG_DATA) public data: any) { }
 
   ngOnInit(): void {
@@ -25,7 +27,7 @@ export class AddSheetDialogComponent implements OnInit {
 
   add() {
     this.sheet.name = this.name;
-    this.sheet.userId = this.userService.userId;
+    this.sheet.userId = this.storageService.model.userId;
 
     this.sheetService.addSheet(this.sheet).subscribe(result => {
       this.ref.close(result);

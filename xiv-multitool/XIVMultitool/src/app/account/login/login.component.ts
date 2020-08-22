@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { UserService } from 'src/app/shared/services/user.service';
 import { Router, ActivatedRoute } from '@angular/router';
 import { AccountSubmitModel } from '../account.models';
+import { LocalStorageService } from 'src/app/shared/services/local-storage.service';
 
 @Component({
   selector: 'xiv-login',
@@ -11,7 +12,9 @@ import { AccountSubmitModel } from '../account.models';
 export class LoginComponent implements OnInit {
   creds = new AccountSubmitModel();
 
-  constructor(private userService: UserService, private router: Router, private activatedRoute: ActivatedRoute) { }
+  constructor(private userService: UserService, 
+    private router: Router, private activatedRoute: ActivatedRoute,
+    private storageService: LocalStorageService) { }
 
   ngOnInit(): void {
   }
@@ -20,14 +23,11 @@ export class LoginComponent implements OnInit {
     this.userService.login(this.creds.email, this.creds.password)
       .subscribe(result => {
         if (result) {
-          localStorage.setItem('auth_token', result.auth_token);
-          localStorage.setItem('username', result.username);
-          localStorage.setItem('userId', result.id);
-          localStorage.setItem('email', result.email);
+          this.storageService.addLoginItems(result);
 
           this.userService.getCharacters().subscribe(characters => {
             if(characters && characters.length > 0) {
-              localStorage.setItem('userIcon', characters[0].icon);
+              this.storageService.addCharacterItems(characters);
             }
           });
 

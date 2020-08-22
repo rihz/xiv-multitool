@@ -19,6 +19,7 @@ import { RetainerService } from './shared/services/retainer.service';
 import { MatMenuModule } from '@angular/material/menu';
 import { CopyClipboardDirective } from './shared/clipboard.directive';
 import { CommonModule } from '@angular/common';
+import { LocalStorageService } from './shared/services/local-storage.service';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,7 @@ import { CommonModule } from '@angular/common';
     MatInputModule,
     MatMenuModule
   ],
-  providers: [UserService, RetainerService],
+  providers: [UserService, RetainerService, LocalStorageService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
