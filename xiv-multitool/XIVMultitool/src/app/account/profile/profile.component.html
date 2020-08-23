@@ -1,9 +1,14 @@
 <div class="profile">
     <div class="row">
-        <mat-form-field appearance="outline">
-            <mat-label>Email Address</mat-label>
-            <input matInput readonly [value]="email" />
-        </mat-form-field>
+        <div class="account-section">
+            <h2 class="section-title">Account</h2>
+            <mat-card>
+                <mat-form-field class="no-wrapper-padding" appearance="outline">
+                    <mat-label>Email Address</mat-label>
+                    <input matInput readonly [value]="email" />
+                </mat-form-field>
+            </mat-card>
+        </div>
         <div class="lodestone-section">
             <h2 class="section-title">Character</h2>
             <mat-card class="empty-card">

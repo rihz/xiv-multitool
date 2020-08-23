@@ -209,3 +209,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
 .titled-card-content {
     padding: 16px;
 }
+
+.no-wrapper-padding .mat-form-field-wrapper {
+    padding-bottom: 0px !important;
+}
