@@ -2,7 +2,7 @@
 An all-in-one companion application for Final Fantasy XIV
 
 # Tools
-The following tools can be accessed from XIV MULTITOOL:
+The following tools will be accessible from XIV MULTITOOL:
 
 # XIV CHECKLIST
 Completionist's checklist for all things doable in Final Fantasy XIV
