@@ -24,8 +24,16 @@ export class SheetService extends BaseService {
         return this.http.post<MarketTransaction>(this.uri('/sheet/' + transaction.sheetId + '/marketTransaction'), JSON.stringify(transaction), { headers: this.headers });
     }
 
+    updateMarketTransaction(transaction: MarketTransaction): Observable<MarketTransaction> {
+        return this.http.put<MarketTransaction>(this.uri('/sheet/' + transaction.sheetId + '/marketTransaction'), JSON.stringify(transaction), { headers: this.headers });
+    }
+
     updateSheet(sheet: SheetModel): Observable<SheetModel> {
         return this.http.put<SheetModel>(this.uri('/sheet'), JSON.stringify(sheet), { headers: this.headers });
+    }
+
+    deleteMarketTransaction(sheetId: number, transactionId: number): Observable<any> {
+        return this.http.delete(this.uri(`/sheet/${sheetId}/marketTransaction/${transactionId}`), { headers: this.headers });
     }
 
     deleteSheet(id: number): Observable<any> {

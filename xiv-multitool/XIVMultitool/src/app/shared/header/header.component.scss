@@ -10,7 +10,24 @@ button {
     align-items: center;
 }
 
+h2 {
+    font-size: 32pt;
+    margin: 0;
+    color: white;
+    padding-right: 15px;
+    font-family: 'Monda';
+}
+
+.logo-app {
+    display: flex;
+}
+
 .profile-icon {
     border-radius: 50px;
     cursor: pointer;
+}
+
+.vl {
+    border-left: 3px solid white;
+    height: auto;
 }

@@ -40,12 +40,28 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
             return Ok(transaction);
         }
 
+        [HttpPut("{sheetId}/marketTransaction")]
+        public IActionResult UpdateMarketTransaction([FromBody] MarketTransactionModel model)
+        {
+            var transaction = _service.UpdateMarketTransaction(model);
+
+            return Ok(transaction);
+        }
+
         [HttpPut("")]
         public IActionResult UpdateSheet([FromBody] SheetModel model)
         {
             var sheet = _service.UpdateSheet(model);
 
             return Ok(sheet);
+        }
+
+        [HttpDelete("{sheetId}/marketTransaction/{transactionId}")]
+        public IActionResult DeleteMarketTransaction(int sheetId, int transactionId)
+        {
+            _service.DeleteMarketTransaction(transactionId);
+
+            return Ok();
         }
 
         [HttpDelete("{id}")]

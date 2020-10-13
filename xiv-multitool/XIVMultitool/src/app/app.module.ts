@@ -20,6 +20,9 @@ import { MatMenuModule } from '@angular/material/menu';
 import { CopyClipboardDirective } from './shared/clipboard.directive';
 import { CommonModule } from '@angular/common';
 import { LocalStorageService } from './shared/services/local-storage.service';
+import { AppSelectorComponent } from './shared/app-selector/app-selector.component';
+import { ConfirmDeleteLogComponent } from './shared/confirm-delete-log/confirm-delete-log.component';
+import { RetainerSelectorComponent } from './shared/retainer-selector/retainer-selector.component';
 
 @NgModule({
   declarations: [
@@ -27,6 +30,7 @@ import { LocalStorageService } from './shared/services/local-storage.service';
     NavComponent,
     AppPanelComponent,
     HeaderComponent,
+    AppSelectorComponent,
   ],
   imports: [
     BrowserModule,

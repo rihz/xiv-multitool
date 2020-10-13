@@ -3,37 +3,80 @@
         <div class="banner-input starting">
             <mat-form-field appearance="outline">
                 <mat-label>Starting Funds</mat-label>
-                <input class="starting-input number-input" matInput />
+                <input class="starting-input number-input" [value]="sheet.startingFunds" (input)="setStartingFunds($event)" type="number" matInput />
             </mat-form-field>
         </div>
         <div class="banner-input calculations">
             <mat-form-field appearance="outline">
                 <mat-label>Total Sales</mat-label>
-                <input readonly class="sales-input number-input" matInput />
+                <input readonly class="sales-input number-input positive" [value]="totalSales" type="number" matInput />
             </mat-form-field>
             <mat-form-field class="middle-control" appearance="outline">
                 <mat-label>Total Costs</mat-label>
-                <input readonly class="cost-input number-input" matInput />
+                <input readonly class="cost-input number-input negative" [value]="sheet.settingCostAsNegative ? totalCosts * -1 : totalCosts" type="number" matInput />
             </mat-form-field>
             <mat-form-field appearance="outline">
                 <mat-label>Total Profits</mat-label>
-                <input readonly class="profit-input number-input" matInput />
+                <input readonly class="profit-input number-input" type="number" [ngClass]="{'positive': totalProfits && totalProfits > 0, 'negative': totalProfits && totalProfits < 0}" [value]="totalProfits" matInput />
             </mat-form-field>
         </div>
         <div class="banner-input final-calc">
             <mat-form-field appearance="outline">
                 <mat-label>Projected Funds</mat-label>
-                <input readonly class="projected-input number-input" matInput />
+                <input readonly class="projected-input number-input" type="number" [value]="projectedFunds" matInput />
             </mat-form-field>
         </div>
     </mat-card>
-    <mat-card class="transactions">
-        <mat-card class="transaction-header" *ngIf="sheet.marketTransactions.length > 0">
-            Test
-        </mat-card>
-        <mat-card class="transaction" *ngFor="let transaction of sheet.marketTransactions">
-            {{ transaction.name }}
-        </mat-card>
+    <mat-card class="transactions" *ngIf="sheet.marketTransactions.length > 0">
+        <div class="header-row">
+            <mat-card class="transaction-header" *ngFor="let header of headers">
+                {{ header }}
+            </mat-card>
+        </div>
+        <div class="transaction-row" *ngFor="let t of sheet.marketTransactions">
+            <mat-card class="transaction-body">
+                {{ t.name }}
+            </mat-card>
+            <mat-card class="transaction-body">
+                {{ sheet.settingCostAsNegative ? t.cost * -1 : t.cost }}
+            </mat-card>
+            <mat-card class="transaction-body">
+                {{ t.soldFor }}
+            </mat-card>
+            <div style="display: contents;" *ngIf="t.cost">
+                <mat-card class="transaction-body" *ngIf="!t.soldFor">
+                    TBD
+                </mat-card>
+                <mat-card class="transaction-body"
+                    [ngClass]="{'positive': t.soldFor - t.cost > 0, 'negative': t.soldFor - t.cost < 0}"
+                    *ngIf="t.soldFor"
+                >
+                    {{ t.soldFor - t.cost }}
+                </mat-card>
+            </div>
+            <mat-card class="transaction-body">
+                {{ t.dateListed | date: 'shortDate' }}
+            </mat-card>
+            <mat-card class="transaction-body">
+                {{ t.dateSold | date: 'shortDate' }}
+            </mat-card>
+            <mat-card class="transaction-body">
+                <button class="basic-option" mat-mini-fab [matMenuTriggerFor]="menu">
+                    <mat-icon>menu</mat-icon>
+                </button>
+                <mat-menu class="control-menu" #menu="matMenu">
+                    <button class="basic-button button-gap" mat-button (click)="editTransaction(t)">
+                        <mat-icon>edit</mat-icon> Edit Transaction
+                    </button>
+                    <button class="basic-button button-gap" mat-button (click)="assignRetainer(t)">
+                        <mat-icon>person_add</mat-icon> Assign Retainer
+                    </button>
+                    <button class="red-button" mat-button (click)="deleteTransaction(t)">
+                        <mat-icon>delete</mat-icon> Delete Transaction
+                    </button>
+                </mat-menu>
+            </mat-card>
+        </div>
     </mat-card>
     <div class="sheet-controls">
         <button (click)="addTransaction()" class="add-transaction-button" mat-button>

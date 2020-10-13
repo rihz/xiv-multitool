@@ -1,0 +1,31 @@
+<div class="retainer-selector">
+    <div class="retainers-section" *ngIf="retainers.length > 0">
+        <div class="app-header">
+            <h3>Select Retainer</h3>
+        </div>
+        <div class="app-body">
+            <mat-form-field appearance="outline">
+                <mat-label>Retainer</mat-label>
+                <mat-select>
+                    <mat-option *ngFor="let retainer of retainers" [value]="retainer.id">
+                        <mat-card>
+                            <mat-card-title>
+                                {{ retainer.name }}
+                            </mat-card-title>
+                            <mat-card-content>
+                                <mat-chip-list #retainerLabels>
+                                    <mat-chip *ngFor="let label of retainer.labels">
+                                        {{ label.name }}
+                                    </mat-chip>
+                                </mat-chip-list>
+                            </mat-card-content>
+                        </mat-card>
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+        </div>
+    </div>
+    <div class="retainers-section" *ngIf="retainers.length === 0">
+        You have no retainers associated to your profile or you are not logged in.
+    </div>
+</div>

@@ -10,8 +10,9 @@ import { UserService } from './shared/services/user.service';
 })
 export class AppComponent {
   apps: AppPanel[] = [
-    { path: 'xiv-checklist', logo: '../assets/final-logo.png' },
-    { path: 'xiv-ledger', logo: '../assets/ledger-logo.png' }
+    { path: '/', name: 'Multitool', className: 'multitool'},
+    { path: 'xiv-checklist', name: 'Checklist', className: 'checklist' },
+    { path: 'xiv-ledger', name: 'Ledger', className: 'ledger' }
   ];
   title = 'xiv-multitool';
 

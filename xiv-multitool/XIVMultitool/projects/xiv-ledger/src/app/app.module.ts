@@ -9,6 +9,9 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatDialogModule } from '@angular/material/dialog';
 import { MatCardModule } from '@angular/material/card';
+import { MatMenuModule } from '@angular/material/menu';
+import { MatSlideToggleModule } from '@angular/material';
+import { SharedModule } from 'src/app/shared/shared/shared.module';
 
 @NgModule({
   declarations: [
@@ -22,7 +25,10 @@ import { MatCardModule } from '@angular/material/card';
     MatButtonModule,
     MatIconModule,
     MatDialogModule,
-    MatCardModule
+    MatCardModule,
+    MatMenuModule,
+    MatSlideToggleModule,
+    SharedModule
   ],
   providers: [],
   bootstrap: [AppComponent]

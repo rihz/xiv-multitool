@@ -16,7 +16,9 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
         IEnumerable<SheetModel> GetSheets(string userId);
         SheetModel AddSheet(SheetModel model);
         MarketTransactionModel AddMarketTransaction(MarketTransactionModel model);
+        MarketTransactionModel UpdateMarketTransaction(MarketTransactionModel model);
         SheetModel UpdateSheet(SheetModel model);
+        void DeleteMarketTransaction(int id);
         void DeleteSheet(int id);
     }
 
@@ -61,6 +63,17 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
             return _mapper.Map<MarketTransactionModel>(entity);
         }
 
+        public MarketTransactionModel UpdateMarketTransaction(MarketTransactionModel model)
+        {
+            var entity = _mapper.Map<MarketTransaction>(model);
+
+            _context.MarketTransaction.Update(entity);
+
+            _context.SaveChanges();
+
+            return _mapper.Map<MarketTransactionModel>(entity);
+        }
+
         public SheetModel UpdateSheet(SheetModel model)
         {
             var entity = _mapper.Map<LedgerSheet>(model);
@@ -70,6 +83,18 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
             _context.SaveChanges();
 
             return _mapper.Map<SheetModel>(entity);
+        }
+
+        public void DeleteMarketTransaction(int id)
+        {
+            var entity = _context.MarketTransaction.FirstOrDefault(x => x.Id == id);
+
+            if(entity != default(MarketTransaction))
+            {
+                _context.MarketTransaction.Remove(entity);
+
+                _context.SaveChanges();
+            }
         }
 
         public void DeleteSheet(int id)

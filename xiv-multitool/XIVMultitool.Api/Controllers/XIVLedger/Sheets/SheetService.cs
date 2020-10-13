@@ -10,7 +10,9 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
         IEnumerable<SheetModel> GetSheets(string userId);
         SheetModel AddSheet(SheetModel model);
         MarketTransactionModel AddMarketTransaction(MarketTransactionModel model);
+        MarketTransactionModel UpdateMarketTransaction(MarketTransactionModel model);
         SheetModel UpdateSheet(SheetModel model);
+        void DeleteMarketTransaction(int id);
         void DeleteSheet(int id);
     }
 
@@ -38,9 +40,19 @@ namespace XIVMultitool.Api.Controllers.XIVLedger.Sheets
             return _repo.AddMarketTransaction(model);
         }
 
+        public MarketTransactionModel UpdateMarketTransaction(MarketTransactionModel model)
+        {
+            return _repo.UpdateMarketTransaction(model);
+        }
+
         public SheetModel UpdateSheet(SheetModel model)
         {
             return _repo.UpdateSheet(model);
+        }
+
+        public void DeleteMarketTransaction(int id)
+        {
+            _repo.DeleteMarketTransaction(id);
         }
 
         public void DeleteSheet(int id)

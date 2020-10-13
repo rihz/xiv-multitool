@@ -2,7 +2,7 @@
     <div class="row">
         <mat-form-field class="select-field" [ngClass]="{'select-field-none': transactionType === 0, 'select-field-selected': transactionType > 0}" appearance="outline">
             <mat-label>Transaction Type</mat-label>
-            <mat-select (selectionChange)="transactionType = $event.value">
+            <mat-select [value]="transactionType" (selectionChange)="transactionType = $event.value">
                 <mat-option value="1">Market Transaction</mat-option>
             </mat-select>
         </mat-form-field>
@@ -10,32 +10,32 @@
     <div class="row">
         <mat-form-field class="input-field" appearance="outline">
             <mat-label>Transaction Name</mat-label>
-            <input matInput (input)="name = $event.target.value" />
+            <input [value]="name" matInput (input)="name = $event.target.value" />
         </mat-form-field>
     </div>
     <div class="flex-row row" *ngIf="transactionType == 1">
         <mat-form-field class="cost-field" appearance="outline">
             <mat-label>Cost</mat-label>
-            <input matInput type="number" (input)="cost = $event.target.value" />
+            <input [value]="cost" matInput type="number" (input)="cost = $event.target.value" />
         </mat-form-field>        
         <mat-form-field class="cost-field" appearance="outline">
             <mat-label>Sold For</mat-label>
-            <input matInput type="number" (input)="sold = $event.target.value" />
+            <input [value]="sold" matInput type="number" (input)="sold = $event.target.value" />
         </mat-form-field>
     </div>
     <div class="flex-row row">
         <mat-form-field class="cost-field" appearance="outline">
             <mat-label>Date Listed</mat-label>
-            <input matInput type="date" />
+            <input [value]="dateListed" matInput type="date" />
         </mat-form-field>        
         <mat-form-field class="cost-field" appearance="outline">
             <mat-label>Date Sold</mat-label>
-            <input matInput type="date" />
+            <input [value]="dateSold" matInput type="date" />
         </mat-form-field>
     </div>
     <div class="flex-row row">
-        <button class="add-button" (click)="addTransaction()" mat-button>
-            Add Transaction
+        <button class="add-button" (click)="submit()" mat-button>
+            Submit
         </button>
         <button class="cancel-button" mat-button>
             Cancel

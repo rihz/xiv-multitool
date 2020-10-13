@@ -1,6 +1,7 @@
 export class AppPanel {
     path = '';
-    logo = '';
+    name = '';
+    className = '';
 }
 
 export class Character {

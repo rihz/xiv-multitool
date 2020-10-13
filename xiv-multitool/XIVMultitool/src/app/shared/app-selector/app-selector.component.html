@@ -1,0 +1,12 @@
+<div class="app-selector">
+    <button mat-button [ngClass]="selectedApp.className"
+        [matMenuTriggerFor]="appMenu">
+        {{ selectedApp.name }}
+    </button>
+    <mat-menu [class]="'app-menu'" #appMenu="matMenu">
+        <button mat-button *ngFor="let app of availableApps"
+            [ngClass]="app.className" (click)="chooseApp(app)">
+            {{ app.name }}
+        </button>
+    </mat-menu>
+</div>

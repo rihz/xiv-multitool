@@ -1,0 +1,14 @@
+<div class="confirm-delete">
+    <h3 class="header">{{ data.heading }}</h3>
+    <h6>{{ data.message }}</h6>
+    <div class="controls">
+        <button mat-button class="green-button" (click)="close(true)">
+            <mat-icon>done</mat-icon>
+            {{ data.confirm }}
+        </button>
+        <button mat-button class="red-button" (click)="close(false)">
+            <mat-icon>close</mat-icon>
+            {{ data.cancel }}
+        </button>
+    </div>
+</div>

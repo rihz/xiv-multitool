@@ -213,3 +213,27 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
 .no-wrapper-padding .mat-form-field-wrapper {
     padding-bottom: 0px !important;
 }
+
+.green-button {
+    background-color: white;
+    border: 2px solid #41c55b !important;
+    color: #41c55b;
+}
+
+.red-button {
+    background-color: white;
+    border: 2px solid red !important;
+    color: red;
+}
+
+.basic-button {
+    background-color: white;
+    border: 2px solid black !important;
+    color: black;
+}
+
+.control-menu .mat-menu-content {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}

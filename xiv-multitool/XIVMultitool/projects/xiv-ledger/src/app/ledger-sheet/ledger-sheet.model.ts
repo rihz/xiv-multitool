@@ -4,6 +4,7 @@ export class SheetModel {
     userId = '';
     startingFunds = 0;
     marketTransactions: MarketTransaction[] = [];
+    settingCostAsNegative = false;
 }
 
 export class MarketTransaction {

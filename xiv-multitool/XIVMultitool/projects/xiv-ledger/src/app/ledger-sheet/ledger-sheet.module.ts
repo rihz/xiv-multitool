@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { CommonModule, DatePipe } from '@angular/common';
 import { LedgerSheetComponent } from './ledger-sheet.component';
 import { MatCardModule } from '@angular/material/card';
 import { MatInputModule } from '@angular/material/input';
@@ -9,6 +9,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { AddTransactionDialogComponent } from './add-transaction-dialog/add-transaction-dialog.component';
 import { MatSelectModule } from '@angular/material/select';
+import { SharedModule } from 'src/app/shared/shared/shared.module';
+import { MatMenuModule } from '@angular/material';
 
 
 
@@ -20,13 +22,16 @@ import { MatSelectModule } from '@angular/material/select';
     MatInputModule,
     MatButtonModule,
     MatIconModule,
-    MatSelectModule
+    MatSelectModule,
+    SharedModule,
+    MatMenuModule
   ],
   exports: [
     LedgerSheetComponent
   ],
   providers: [
-    SheetService
+    SheetService,
+    DatePipe
   ],
   entryComponents: [
     AddSheetDialogComponent

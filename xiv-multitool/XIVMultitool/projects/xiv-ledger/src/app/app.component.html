@@ -8,11 +8,22 @@
         </ng-template>
         <div class="tab-controls">
             <button (click)="deleteSheet(sheet.id)" class="red-button" mat-button>
+                <mat-icon>delete</mat-icon>
                 Delete Sheet
             </button>
             <button (click)="renameSheet(sheet)" class="basic-button" mat-button>
+                <mat-icon>edit</mat-icon>
                 Rename Sheet
             </button>
+            <button class="basic-button" mat-button [matMenuTriggerFor]="menu">
+                <mat-icon>settings</mat-icon>
+                Sheet Options
+            </button>
+            <mat-menu [class]="'options-menu'" #menu="matMenu">
+                <button mat-menu-item (click)="$event.stopPropagation();">
+                    <mat-slide-toggle (change)="sheet.settingCostAsNegative = $event.checked" labelPosition="before">Display costs as negative</mat-slide-toggle>
+                </button>
+            </mat-menu>
         </div>
         <lgr-ledger-sheet [sheet]="sheet"></lgr-ledger-sheet>
     </mat-tab>
